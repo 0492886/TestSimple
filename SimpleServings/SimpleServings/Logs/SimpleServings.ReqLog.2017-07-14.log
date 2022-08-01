@@ -1,0 +1,34 @@
+2017-07-14 11:28:44,082 [  7] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: o1sxbv45sr1zkh55fdypgnnf
+2017-07-14 11:39:32,868 [  5] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: o1sxbv45sr1zkh55fdypgnnf
+2017-07-14 11:39:34,518 [  8] INFO  AppManager [(null)] (landingPage.aspx) - Request from http://localhost:1949/SimpleServings/ui/page/ 
+Request Type: LogInOut 
+SessionId: o1sxbv45sr1zkh55fdypgnnf
+2017-07-14 11:39:34,519 [  8] INFO  AppManager [(null)] (landingPage.aspx) - Redirecting to Login.aspx 
+Request Type: LogInOut 
+SessionId: o1sxbv45sr1zkh55fdypgnnf
+2017-07-14 11:39:34,530 [  9] INFO  AppManager [(null)] (login.aspx) - Request from http://localhost:1949/SimpleServings/ui/page/ 
+SessionId: yc5szaz2sltavm45rom3ty20
+2017-07-14 16:08:28,997 [  7] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: kbkpfhedm5iq05ikczet3fvz
+2017-07-14 16:08:30,682 [  7] INFO  AppManager [(null)] (landingPage.aspx) - Request from http://localhost:1949/SimpleServings/ui/page/ 
+Request Type: LogInOut 
+SessionId: ofh20h55a2godqjocp5y35rx
+2017-07-14 16:08:30,683 [  7] INFO  AppManager [(null)] (landingPage.aspx) - Redirecting to Login.aspx 
+Request Type: LogInOut 
+SessionId: ofh20h55a2godqjocp5y35rx
+2017-07-14 16:08:30,687 [  8] INFO  AppManager [(null)] (login.aspx) - Request from http://localhost:1949/SimpleServings/ui/page/ 
+SessionId: ll2c2vaezknazw45xca2gpit
+2017-07-14 16:08:39,071 [  5] INFO  AppManager [(null)] (landingPage.aspx) - Clearing Session 
+Request Type:  
+SessionId: qxkncqjwkqtzrh2yfurc5u45
+2017-07-14 16:08:39,104 [  8] INFO  AppManager [(null)] (login.aspx) - (tperson) - Login successful 
+SessionId: mztb2hr1sj5shf30hwvpoi45
+2017-07-14 16:08:39,145 [  9] INFO  AppManager [(null)] (landingPage.aspx) - New Session 
+Request Type:  
+SessionId: fqerwm45iaxf5ubk35r1dfyn
+2017-07-14 16:08:39,181 [  7] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: 01gkpdbuc00okl45eatk4t45
+2017-07-14 16:08:46,630 [  7] INFO  AppManager [(null)] (Recipe.aspx) - Request from http://localhost:1949/SimpleServings/UI/Page/Home.aspx 
+SessionId: 01gkpdbuc00okl45eatk4t45

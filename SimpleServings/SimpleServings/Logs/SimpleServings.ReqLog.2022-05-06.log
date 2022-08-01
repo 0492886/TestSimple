@@ -1,0 +1,91 @@
+2022-05-06 10:53:18,466 [  1] INFO  AppManager [(null)] SimpleServings started.
+2022-05-06 10:57:09,102 [ 39] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: w1dwh2ra10pvu5wlknkrcsw4
+2022-05-06 11:10:49,019 [  1] INFO  AppManager [(null)] SimpleServings started.
+2022-05-06 11:14:29,606 [ 14] ERROR AppManager [(null)] btnLogin_Click failed: A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: SQL Network Interfaces, error: 26 - Error Locating Server/Instance Specified)
+System.Data.SqlClient.SqlException (0x80131904): A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: SQL Network Interfaces, error: 26 - Error Locating Server/Instance Specified)
+   at System.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, UInt32 waitForMultipleObjectsTimeout, Boolean allowCreate, Boolean onlyOneCheckConnection, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   at System.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   at System.Data.ProviderBase.DbConnectionFactory.TryGetConnection(DbConnection owningConnection, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal oldConnection, DbConnectionInternal& connection)
+   at System.Data.ProviderBase.DbConnectionInternal.TryOpenConnectionInternal(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   at System.Data.ProviderBase.DbConnectionClosed.TryOpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   at System.Data.SqlClient.SqlConnection.TryOpenInner(TaskCompletionSource`1 retry)
+   at System.Data.SqlClient.SqlConnection.TryOpen(TaskCompletionSource`1 retry)
+   at System.Data.SqlClient.SqlConnection.Open()
+   at Microsoft.Practices.EnterpriseLibrary.Data.Database.OpenConnection()
+   at Microsoft.Practices.EnterpriseLibrary.Data.Database.ExecuteReader(DbCommand command)
+   at SimpleServingsLibrary.Shared.StaffDB.GetStaffByEmail(String email) in E:\DFTA coding\SimpleServings\SimpleServings_networkVersion_I_do\SimpleServing_Latest\NewSimple\SimpleServingsLibrary\SimpleServings.Shared\DAL\StaffDB.cs:line 86
+   at SimpleServingsLibrary.Shared.Staff.GetUserNameByEmail(String email) in E:\DFTA coding\SimpleServings\SimpleServings_networkVersion_I_do\SimpleServing_Latest\NewSimple\SimpleServingsLibrary\SimpleServings.Shared\BLL\Staff.cs:line 522
+   at SimpleServings.UI.Page.login.btnLogin_Click(Object sender, EventArgs e) in E:\DFTA coding\SimpleServings\SimpleServings_networkVersion_I_do\SimpleServing_Latest\NewSimple\SimpleServings\SimpleServings\UI\Page\login.aspx.cs:line 154
+ClientConnectionId:00000000-0000-0000-0000-000000000000
+Error Number:-1,State:0,Class:20
+2022-05-06 14:44:56,959 [ 82] INFO  AppManager [(null)] (landingPage.aspx) - Clearing Session 
+Request Type:  
+SessionId: 1kw1guxkqg3zt1asv01btjiq
+2022-05-06 14:44:56,971 [ 70] INFO  AppManager [(null)] (landingPage.aspx) - New Session 
+Request Type:  
+SessionId: ojnposv3riyz0zpesmo0a4t2
+2022-05-06 14:44:57,871 [ 95] INFO  AppManager [(null)] (login.aspx) - (Mli) - Login successful 
+SessionId: hr22s3ygjwmb3sozpgdv2uxz
+2022-05-06 14:44:57,920 [ 70] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: ojnposv3riyz0zpesmo0a4t2
+2022-05-06 15:04:34,433 [ 53] INFO  AppManager [(null)] (landingPage.aspx) - Clearing Session 
+Request Type:  
+SessionId: odgdrhlweb1zzvfsayayorkt
+2022-05-06 15:04:34,445 [124] INFO  AppManager [(null)] (landingPage.aspx) - New Session 
+Request Type:  
+SessionId: nugvw5e2swerhdlm1dycoxup
+2022-05-06 15:04:34,746 [122] INFO  AppManager [(null)] (login.aspx) - (Mli) - Login successful 
+SessionId: ofv1hzkndlotq3bb5kjmpugo
+2022-05-06 15:04:34,753 [124] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: nugvw5e2swerhdlm1dycoxup
+2022-05-06 15:05:18,183 [  1] INFO  AppManager [(null)] SimpleServings started.
+2022-05-06 15:05:34,631 [ 13] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: 4khm44lvuwtwfvjivq1b4ayf
+2022-05-06 16:41:11,909 [ 38] INFO  AppManager [(null)] SimpleServings started.
+2022-05-06 16:41:33,532 [ 51] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: kdufgri2z2o4bjzdv2qnttaj
+2022-05-06 16:42:43,512 [ 35] INFO  AppManager [(null)] SimpleServings started.
+2022-05-06 16:43:27,417 [ 65] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: bd2ekik44asybw5wsnfxg1ig
+2022-05-06 16:56:14,028 [174] INFO  AppManager [(null)] (landingPage.aspx) - Clearing Session 
+Request Type:  
+SessionId: fdfl1i5aulruvzv4sqirq1ga
+2022-05-06 16:56:14,041 [ 63] INFO  AppManager [(null)] (landingPage.aspx) - New Session 
+Request Type:  
+SessionId: 02vhwhhv40lp3bkcjxauc4eh
+2022-05-06 16:56:14,362 [172] INFO  AppManager [(null)] (login.aspx) - (Mli) - Login successful 
+SessionId: xllg1bvlfsprqh511ttnbyk0
+2022-05-06 16:56:14,369 [ 63] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: 02vhwhhv40lp3bkcjxauc4eh
+2022-05-06 17:03:23,340 [ 38] INFO  AppManager [(null)] SimpleServings started.
+2022-05-06 17:03:44,133 [ 48] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: ebfinx5omkbpiyeheeifh1sn
+2022-05-06 17:03:59,824 [ 31] ERROR AppManager [(null)] SimpleServings application error: Exception of type 'System.Web.HttpUnhandledException' was thrown.
+location: http://localhost:1945/SimpleServings/UI/Page/SimpleServings/Menu/ViewMenu.aspx?MenuID=18936
+
+System.Web.HttpUnhandledException (0x80004005): Exception of type 'System.Web.HttpUnhandledException' was thrown. ---> System.NullReferenceException: Object reference not set to an instance of an object.
+   at SimpleServings.UI.UDC.SimpleServings.Menu.MenuItemGridByWeek.PopGrid(Int32 menuID) in E:\DFTA coding\SimpleServings\SimpleServings_networkVersion_I_do\SimpleServing_Latest\NewSimple\SimpleServings\SimpleServings\UI\UDC\SimpleServings\Menu\MenuItemGridByWeek.ascx.cs:line 166
+   at SimpleServings.UI.UDC.SimpleServings.Menu.MenuItemGridByWeek.Page_Load(Object sender, EventArgs e) in E:\DFTA coding\SimpleServings\SimpleServings_networkVersion_I_do\SimpleServing_Latest\NewSimple\SimpleServings\SimpleServings\UI\UDC\SimpleServings\Menu\MenuItemGridByWeek.ascx.cs:line 78
+   at System.Web.Util.CalliEventHandlerDelegateProxy.Callback(Object sender, EventArgs e)
+   at System.Web.UI.Control.OnLoad(EventArgs e)
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   at System.Web.UI.Page.HandleError(Exception e)
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   at System.Web.UI.Page.ProcessRequest(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   at System.Web.UI.Page.ProcessRequest()
+   at System.Web.UI.Page.ProcessRequestWithNoAssert(HttpContext context)
+   at System.Web.UI.Page.ProcessRequest(HttpContext context)
+   at ASP.ui_page_simpleservings_menu_viewmenu_aspx.ProcessRequest(HttpContext context) in c:\Users\mali\AppData\Local\Temp\Temporary ASP.NET Files\simpleservings\44eca0d1\fb0616b5\App_Web_nym5bqg2.6.cs:line 0
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStepImpl(IExecutionStep step)
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)

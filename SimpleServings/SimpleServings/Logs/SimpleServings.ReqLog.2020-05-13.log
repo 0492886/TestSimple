@@ -1,0 +1,56 @@
+2020-05-13 13:53:39,540 [  1] INFO  AppManager [(null)] SimpleServings started.
+2020-05-13 13:56:18,858 [ 12] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: 4j4f12tu403lccpntk5ogyfk
+2020-05-13 13:57:10,467 [ 10] INFO  AppManager [(null)] (landingPage.aspx) - Clearing Session 
+Request Type:  
+SessionId: 2nodlqycez0ysj1bgmo24pmz
+2020-05-13 13:57:10,474 [ 13] INFO  AppManager [(null)] (landingPage.aspx) - New Session 
+Request Type:  
+SessionId: matfjhguv4xigvxzv5pwpxm1
+2020-05-13 13:57:10,554 [ 11] INFO  AppManager [(null)] (login.aspx) - (JAlberg) - Login successful 
+SessionId: k4lkojbonl4pcixgqlgw4kv5
+2020-05-13 13:57:10,559 [ 12] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: matfjhguv4xigvxzv5pwpxm1
+2020-05-13 14:27:44,327 [ 16] INFO  AppManager [(null)] (landingPage.aspx) - Clearing Session 
+Request Type:  
+SessionId: d5nqiwdr5w2imanyvbbhepna
+2020-05-13 14:27:44,336 [ 49] INFO  AppManager [(null)] (landingPage.aspx) - New Session 
+Request Type:  
+SessionId: xx5sahdxliktmfk2r3ase0t0
+2020-05-13 14:27:44,520 [ 35] INFO  AppManager [(null)] (login.aspx) - (JAlberg) - Login successful 
+SessionId: nr1tqtnr5wxzxt1euiej4osd
+2020-05-13 14:27:44,527 [ 46] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: xx5sahdxliktmfk2r3ase0t0
+2020-05-13 14:36:22,213 [ 46] INFO  AppManager [(null)] (landingPage.aspx) - Clearing Session 
+Request Type:  
+SessionId: ui0sxxkqrfdvnjvurx22qajs
+2020-05-13 14:36:22,218 [ 27] INFO  AppManager [(null)] (landingPage.aspx) - New Session 
+Request Type:  
+SessionId: ln0kj2yzoq1ro2s5te4g3kea
+2020-05-13 14:36:22,291 [ 56] INFO  AppManager [(null)] (login.aspx) - (JAlberg) - Login successful 
+SessionId: qevmhe031xuyffmh5qmgtu0h
+2020-05-13 14:36:22,297 [ 33] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: ln0kj2yzoq1ro2s5te4g3kea
+2020-05-13 14:40:10,477 [ 46] INFO  AppManager [(null)] (landingPage.aspx) - Clearing Session 
+Request Type:  
+SessionId: cywh5y4rqpghiqwn2mnspjdg
+2020-05-13 14:40:10,483 [ 50] INFO  AppManager [(null)] (landingPage.aspx) - New Session 
+Request Type:  
+SessionId: oqa43qv4seevhnkds453auza
+2020-05-13 14:40:10,555 [ 56] INFO  AppManager [(null)] (login.aspx) - (JAlberg) - Login successful 
+SessionId: epib12ey4ditjp1zto1bbsng
+2020-05-13 14:40:10,568 [ 33] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: oqa43qv4seevhnkds453auza
+2020-05-13 14:48:49,859 [ 42] INFO  AppManager [(null)] SimpleServings started.
+2020-05-13 14:49:07,548 [ 33] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: bmvcyqbowsune12hozv5vdwv
+2020-05-13 14:52:26,347 [ 46] INFO  AppManager [(null)] (landingPage.aspx) - Clearing Session 
+Request Type:  
+SessionId: bbqo3v2cwdjhtibf1cjg52d1
+2020-05-13 14:52:26,354 [ 90] INFO  AppManager [(null)] (landingPage.aspx) - New Session 
+Request Type:  
+SessionId: rtjs3l212sduwn1u5hmsbkbw
+2020-05-13 14:52:26,448 [100] INFO  AppManager [(null)] (login.aspx) - (JAlberg) - Login successful 
+SessionId: fb3svyquhmhn0pu02zdhht2n
+2020-05-13 14:52:26,454 [ 93] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: rtjs3l212sduwn1u5hmsbkbw

@@ -1,0 +1,319 @@
+2017-04-24 11:49:50,654 [  7] INFO  AppManager [(null)] (landingPage.aspx) - Redirecting to Login.aspx 
+Request Type: LogInOut 
+SessionId: 
+2017-04-24 11:49:54,181 [ 10] INFO  AppManager [(null)] (login.aspx) - (cvais7773) - Login successful 
+SessionId: xe5t2gazi1vpar45nrr13rmd
+2017-04-24 11:49:54,194 [  6] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: ekhp21udt4yj2055zr5adhf3
+2017-04-24 11:56:16,499 [  7] INFO  AppManager [(null)] (Recipe.aspx) - Request from http://localhost:1949/SimpleServings/UI/Page/SimpleServings/Recipe/RecipeList.aspx 
+SessionId: ekhp21udt4yj2055zr5adhf3
+2017-04-24 13:43:41,087 [  6] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: ekhp21udt4yj2055zr5adhf3
+2017-04-24 13:43:51,400 [  5] INFO  AppManager [(null)] (RecipeList.aspx) - Redirecting to Login.aspx 
+SessionId: ekhp21udt4yj2055zr5adhf3
+2017-04-24 13:43:51,414 [  6] INFO  AppManager [(null)] (landingPage.aspx) - Request from http://localhost:1949/SimpleServings/UI/Page/Home.aspx 
+Request Type: LogInOut 
+SessionId: ekhp21udt4yj2055zr5adhf3
+2017-04-24 13:43:51,415 [  6] INFO  AppManager [(null)] (landingPage.aspx) - Redirecting to Login.aspx 
+Request Type: LogInOut 
+SessionId: ekhp21udt4yj2055zr5adhf3
+2017-04-24 13:43:51,425 [  7] INFO  AppManager [(null)] (login.aspx) - Request from http://localhost:1949/SimpleServings/UI/Page/Home.aspx 
+SessionId: st3uec55b5y4b1mqdgsnbieh
+2017-04-24 13:43:53,877 [  7] INFO  AppManager [(null)] (landingPage.aspx) - Clearing Session 
+Request Type:  
+SessionId: rtzi2455b3vw4f45xzcjpxj0
+2017-04-24 13:43:53,906 [ 10] INFO  AppManager [(null)] (landingPage.aspx) - New Session 
+Request Type:  
+SessionId: ujxtogb52zc1e0elmc04fzam
+2017-04-24 13:43:53,943 [  6] INFO  AppManager [(null)] (login.aspx) - (cvais7773) - Login successful 
+SessionId: w513rvvtrtrlhiq4jl3r2v45
+2017-04-24 13:43:53,950 [  6] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: ujxtogb52zc1e0elmc04fzam
+2017-04-24 13:44:07,170 [  6] INFO  AppManager [(null)] (Recipe.aspx) - Request from http://localhost:1949/SimpleServings/UI/Page/Home.aspx 
+SessionId: ujxtogb52zc1e0elmc04fzam
+2017-04-24 14:11:24,317 [ 10] INFO  AppManager [(null)] (Recipe.aspx) - Request from http://localhost:1949/SimpleServings/UI/Page/Home.aspx 
+SessionId: ujxtogb52zc1e0elmc04fzam
+2017-04-24 14:27:28,250 [  6] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: ujxtogb52zc1e0elmc04fzam
+2017-04-24 14:27:29,663 [  7] INFO  AppManager [(null)] (Recipe.aspx) - Request from http://localhost:1949/SimpleServings/UI/Page/ 
+SessionId: ujxtogb52zc1e0elmc04fzam
+2017-04-24 14:27:31,484 [  5] INFO  AppManager [(null)] (landingPage.aspx) - Request from http://localhost:1949/SimpleServings/UI/Page/SimpleServings/Recipe/Recipe.aspx 
+Request Type: LogInOut 
+SessionId: ujxtogb52zc1e0elmc04fzam
+2017-04-24 14:27:31,485 [  5] INFO  AppManager [(null)] (landingPage.aspx) - Redirecting to Login.aspx 
+Request Type: LogInOut 
+SessionId: ujxtogb52zc1e0elmc04fzam
+2017-04-24 14:27:31,496 [  7] INFO  AppManager [(null)] (login.aspx) - Request from http://localhost:1949/SimpleServings/UI/Page/SimpleServings/Recipe/Recipe.aspx 
+SessionId: l2bajh45vlaxxk5504rjclvy
+2017-04-24 14:27:34,467 [  7] INFO  AppManager [(null)] (landingPage.aspx) - Clearing Session 
+Request Type:  
+SessionId: aadpv3a0lroajvferwkox555
+2017-04-24 14:27:34,484 [  7] INFO  AppManager [(null)] (landingPage.aspx) - New Session 
+Request Type:  
+SessionId: b2eddsfbkvrvk5zi02stmdf3
+2017-04-24 14:27:34,543 [  5] INFO  AppManager [(null)] (login.aspx) - (cvais7773) - Login successful 
+SessionId: 0g3nkebogoe0uqz5detj5kbh
+2017-04-24 14:27:34,549 [  6] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: b2eddsfbkvrvk5zi02stmdf3
+2017-04-24 14:40:31,625 [ 10] INFO  AppManager [(null)] (Recipe.aspx) - Request from http://localhost:1949/SimpleServings/UI/Page/SimpleServings/Recipe/RecipeList.aspx 
+SessionId: b2eddsfbkvrvk5zi02stmdf3
+2017-04-24 16:19:16,634 [ 13] INFO  AppManager [(null)] SimpleServings started.
+2017-04-24 16:19:27,667 [  5] INFO  AppManager [(null)] (landingPage.aspx) - Request from http://localhost:1949/SimpleServings/UI/Page/myzone.aspx?Control=Setting 
+Request Type: LogInOut 
+SessionId: b2eddsfbkvrvk5zi02stmdf3
+2017-04-24 16:19:27,669 [  5] INFO  AppManager [(null)] (landingPage.aspx) - Redirecting to Login.aspx 
+Request Type: LogInOut 
+SessionId: b2eddsfbkvrvk5zi02stmdf3
+2017-04-24 16:19:30,341 [  6] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: e5euufnbvz33yt45xedzif55
+2017-04-24 16:19:32,913 [ 10] INFO  AppManager [(null)] (Recipe.aspx) - Request from http://localhost:1949/SimpleServings/UI/Page/Home.aspx 
+SessionId: e5euufnbvz33yt45xedzif55
+2017-04-24 16:19:41,853 [  7] ERROR AppManager [(null)] SimpleServings application error: Exception of type 'System.Web.HttpUnhandledException' was thrown.
+location: http://localhost:1949/SimpleServings/UI/Page/SimpleServings/Recipe/Recipe.aspx
+
+System.Web.HttpUnhandledException: Exception of type 'System.Web.HttpUnhandledException' was thrown. ---> System.InvalidOperationException: The control with ID 'rtRecipe_RatingExtender' requires a ScriptManager on the page. The ScriptManager must appear before any controls that need it.
+   at System.Web.UI.ExtenderControl.get_ScriptManager()
+   at System.Web.UI.ExtenderControl.RegisterWithScriptManager()
+   at System.Web.UI.ExtenderControl.OnPreRender(EventArgs e)
+   at AjaxControlToolkit.ExtenderControlBase.OnPreRender(EventArgs e)
+   at System.Web.UI.Control.PreRenderRecursiveInternal()
+   at System.Web.UI.Control.PreRenderRecursiveInternal()
+   at System.Web.UI.Control.PreRenderRecursiveInternal()
+   at System.Web.UI.Control.PreRenderRecursiveInternal()
+   at System.Web.UI.Control.PreRenderRecursiveInternal()
+   at System.Web.UI.Control.PreRenderRecursiveInternal()
+   at System.Web.UI.Control.PreRenderRecursiveInternal()
+   at System.Web.UI.Control.PreRenderRecursiveInternal()
+   at System.Web.UI.Control.PreRenderRecursiveInternal()
+   at System.Web.UI.Control.PreRenderRecursiveInternal()
+   at System.Web.UI.Control.PreRenderRecursiveInternal()
+   at System.Web.UI.Control.PreRenderRecursiveInternal()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   --- End of inner exception stack trace ---
+   at System.Web.UI.Page.HandleError(Exception e)
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   at System.Web.UI.Page.ProcessRequest(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   at System.Web.UI.Page.ProcessRequest()
+   at System.Web.UI.Page.ProcessRequestWithNoAssert(HttpContext context)
+   at System.Web.UI.Page.ProcessRequest(HttpContext context)
+   at ASP.ui_page_simpleservings_recipe_recipe_aspx.ProcessRequest(HttpContext context) in c:\Windows\Microsoft.NET\Framework\v2.0.50727\Temporary ASP.NET Files\simpleservings\50605a42\75e306da\App_Web_tvarmmi2.3.cs:line 0
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+2017-04-24 16:20:49,115 [ 10] INFO  AppManager [(null)] (Recipe.aspx) - Request from http://localhost:1949/SimpleServings/UI/Page/SimpleServings/Recipe/RecipeList.aspx 
+SessionId: e5euufnbvz33yt45xedzif55
+2017-04-24 16:20:54,038 [  5] ERROR AppManager [(null)] SimpleServings application error: Exception of type 'System.Web.HttpUnhandledException' was thrown.
+location: http://localhost:1949/SimpleServings/UI/Page/SimpleServings/Recipe/Recipe.aspx
+
+System.Web.HttpUnhandledException: Exception of type 'System.Web.HttpUnhandledException' was thrown. ---> System.InvalidOperationException: The control with ID 'rtRecipe_RatingExtender' requires a ScriptManager on the page. The ScriptManager must appear before any controls that need it.
+   at System.Web.UI.ExtenderControl.get_ScriptManager()
+   at System.Web.UI.ExtenderControl.RegisterWithScriptManager()
+   at System.Web.UI.ExtenderControl.OnPreRender(EventArgs e)
+   at AjaxControlToolkit.ExtenderControlBase.OnPreRender(EventArgs e)
+   at System.Web.UI.Control.PreRenderRecursiveInternal()
+   at System.Web.UI.Control.PreRenderRecursiveInternal()
+   at System.Web.UI.Control.PreRenderRecursiveInternal()
+   at System.Web.UI.Control.PreRenderRecursiveInternal()
+   at System.Web.UI.Control.PreRenderRecursiveInternal()
+   at System.Web.UI.Control.PreRenderRecursiveInternal()
+   at System.Web.UI.Control.PreRenderRecursiveInternal()
+   at System.Web.UI.Control.PreRenderRecursiveInternal()
+   at System.Web.UI.Control.PreRenderRecursiveInternal()
+   at System.Web.UI.Control.PreRenderRecursiveInternal()
+   at System.Web.UI.Control.PreRenderRecursiveInternal()
+   at System.Web.UI.Control.PreRenderRecursiveInternal()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   --- End of inner exception stack trace ---
+   at System.Web.UI.Page.HandleError(Exception e)
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   at System.Web.UI.Page.ProcessRequest(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   at System.Web.UI.Page.ProcessRequest()
+   at System.Web.UI.Page.ProcessRequestWithNoAssert(HttpContext context)
+   at System.Web.UI.Page.ProcessRequest(HttpContext context)
+   at ASP.ui_page_simpleservings_recipe_recipe_aspx.ProcessRequest(HttpContext context) in c:\Windows\Microsoft.NET\Framework\v2.0.50727\Temporary ASP.NET Files\simpleservings\50605a42\75e306da\App_Web_tvarmmi2.3.cs:line 0
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+2017-04-24 16:22:29,118 [ 11] INFO  AppManager [(null)] SimpleServings started.
+2017-04-24 16:22:38,957 [  5] ERROR AppManager [(null)] SimpleServings application error: Exception of type 'System.Web.HttpUnhandledException' was thrown.
+location: http://localhost:1949/SimpleServings/UI/Page/SimpleServings/Recipe/Recipe.aspx
+
+System.Web.HttpUnhandledException: Exception of type 'System.Web.HttpUnhandledException' was thrown. ---> System.Web.HttpException: Control 'ctl00_containerhome_ScriptManager1' of type 'ScriptManager' must be placed inside a form tag with runat=server.
+   at System.Web.UI.Page.VerifyRenderingInServerForm(Control control)
+   at System.Web.UI.PageWrapper.System.Web.UI.IPage.VerifyRenderingInServerForm(Control control)
+   at System.Web.UI.PageRequestManager.Render(HtmlTextWriter writer)
+   at System.Web.UI.ScriptManager.Render(HtmlTextWriter writer)
+   at System.Web.UI.Control.RenderControlInternal(HtmlTextWriter writer, ControlAdapter adapter)
+   at System.Web.UI.Control.RenderControl(HtmlTextWriter writer, ControlAdapter adapter)
+   at System.Web.UI.Control.RenderControl(HtmlTextWriter writer)
+   at System.Web.UI.Control.RenderChildrenInternal(HtmlTextWriter writer, ICollection children)
+   at System.Web.UI.Control.RenderChildren(HtmlTextWriter writer)
+   at System.Web.UI.Control.Render(HtmlTextWriter writer)
+   at System.Web.UI.Control.RenderControlInternal(HtmlTextWriter writer, ControlAdapter adapter)
+   at System.Web.UI.Control.RenderControl(HtmlTextWriter writer, ControlAdapter adapter)
+   at System.Web.UI.Control.RenderControl(HtmlTextWriter writer)
+   at System.Web.UI.Control.RenderChildrenInternal(HtmlTextWriter writer, ICollection children)
+   at System.Web.UI.Control.RenderChildren(HtmlTextWriter writer)
+   at System.Web.UI.Control.Render(HtmlTextWriter writer)
+   at System.Web.UI.Control.RenderControlInternal(HtmlTextWriter writer, ControlAdapter adapter)
+   at System.Web.UI.Control.RenderControl(HtmlTextWriter writer, ControlAdapter adapter)
+   at System.Web.UI.Control.RenderControl(HtmlTextWriter writer)
+   at System.Web.UI.Control.RenderChildrenInternal(HtmlTextWriter writer, ICollection children)
+   at System.Web.UI.Control.RenderChildren(HtmlTextWriter writer)
+   at System.Web.UI.Page.Render(HtmlTextWriter writer)
+   at System.Web.UI.Control.RenderControlInternal(HtmlTextWriter writer, ControlAdapter adapter)
+   at System.Web.UI.Control.RenderControl(HtmlTextWriter writer, ControlAdapter adapter)
+   at System.Web.UI.Control.RenderControl(HtmlTextWriter writer)
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   --- End of inner exception stack trace ---
+   at System.Web.UI.Page.HandleError(Exception e)
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   at System.Web.UI.Page.ProcessRequest(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   at System.Web.UI.Page.ProcessRequest()
+   at System.Web.UI.Page.ProcessRequestWithNoAssert(HttpContext context)
+   at System.Web.UI.Page.ProcessRequest(HttpContext context)
+   at ASP.ui_page_simpleservings_recipe_recipe_aspx.ProcessRequest(HttpContext context) in c:\Windows\Microsoft.NET\Framework\v2.0.50727\Temporary ASP.NET Files\simpleservings\50605a42\75e306da\App_Web_hukvayu8.5.cs:line 0
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+2017-04-24 16:23:13,816 [ 10] INFO  AppManager [(null)] (landingPage.aspx) - Request from http://localhost:1949/SimpleServings/UI/Page/SimpleServings/Recipe/Recipe.aspx 
+Request Type: LogInOut 
+SessionId: e5euufnbvz33yt45xedzif55
+2017-04-24 16:23:13,817 [ 10] INFO  AppManager [(null)] (landingPage.aspx) - Redirecting to Login.aspx 
+Request Type: LogInOut 
+SessionId: e5euufnbvz33yt45xedzif55
+2017-04-24 16:23:17,110 [ 10] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: sebhey55j2xmpk55eabh5j55
+2017-04-24 16:23:18,344 [  6] INFO  AppManager [(null)] (Recipe.aspx) - Request from http://localhost:1949/SimpleServings/UI/Page/Home.aspx 
+SessionId: sebhey55j2xmpk55eabh5j55
+2017-04-24 16:24:26,904 [  7] INFO  AppManager [(null)] (Recipe.aspx) - Request from http://localhost:1949/SimpleServings/UI/Page/SimpleServings/Recipe/Recipe.aspx 
+SessionId: sebhey55j2xmpk55eabh5j55
+2017-04-24 16:25:13,288 [ 10] INFO  AppManager [(null)] (landingPage.aspx) - Request from http://localhost:1949/SimpleServings/UI/Page/SimpleServings/Recipe/Recipe.aspx 
+Request Type: LogInOut 
+SessionId: sebhey55j2xmpk55eabh5j55
+2017-04-24 16:25:13,289 [ 10] INFO  AppManager [(null)] (landingPage.aspx) - Redirecting to Login.aspx 
+Request Type: LogInOut 
+SessionId: sebhey55j2xmpk55eabh5j55
+2017-04-24 16:25:13,299 [ 10] INFO  AppManager [(null)] (login.aspx) - Request from http://localhost:1949/SimpleServings/UI/Page/SimpleServings/Recipe/Recipe.aspx 
+SessionId: jmjgiz55xmvr53jeu4pjwu55
+2017-04-24 16:25:15,792 [  5] INFO  AppManager [(null)] (landingPage.aspx) - Request from http://localhost:1949/SimpleServings/UI/Page/SimpleServings/Recipe/RecipeList.aspx 
+Request Type: LogInOut 
+SessionId: rtadw3jse0l0kx45bf3znnf4
+2017-04-24 16:25:15,793 [  5] INFO  AppManager [(null)] (landingPage.aspx) - Redirecting to Login.aspx 
+Request Type: LogInOut 
+SessionId: rtadw3jse0l0kx45bf3znnf4
+2017-04-24 16:25:15,804 [  5] INFO  AppManager [(null)] (login.aspx) - Request from http://localhost:1949/SimpleServings/UI/Page/SimpleServings/Recipe/RecipeList.aspx 
+SessionId: wjco1b3pb1d4tci3aflva445
+2017-04-24 16:58:13,540 [ 10] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: e3hc1k55rncbxifok5gmr145
+2017-04-24 17:00:06,136 [  7] INFO  AppManager [(null)] (Recipe.aspx) - Request from http://localhost:1949/SimpleServings/UI/Page/ 
+SessionId: 5jnhlq45hogqjsrdvg1rlp45
+2017-04-24 17:00:21,876 [  7] ERROR AppManager [(null)] SimpleServings application error: Exception of type 'System.Web.HttpUnhandledException' was thrown.
+location: http://localhost:1949/SimpleServings/UI/Page/SimpleServings/Recipe/Recipe.aspx
+
+System.Web.HttpUnhandledException: Exception of type 'System.Web.HttpUnhandledException' was thrown. ---> System.Exception: Get All Recipes did not return a record!
+   at SimpleServingsLibrary.Recipe.RecipeDB.GetRecipesforTagsSearch(List`1 TagIDs) in c:\TFS\DFTA\SimpleServingsLibrary\SimpleServings.Recipe\DAL\RecipeDB.cs:line 133
+   at SimpleServingsLibrary.Recipe.Recipe.GetRecipesforTagsSearch(List`1 TagIDs) in c:\TFS\DFTA\SimpleServingsLibrary\SimpleServings.Recipe\BLL\Recipe.cs:line 291
+   at SimpleServings.UI.Page.Recipe.btnSearch_Click(Object sender, EventArgs e) in c:\TFS\DFTA\SimpleServings\SimpleServings\SimpleServings\UI\Page\SimpleServings\Recipe\Recipe.aspx.cs:line 160
+   at System.Web.UI.WebControls.Button.OnClick(EventArgs e)
+   at System.Web.UI.WebControls.Button.RaisePostBackEvent(String eventArgument)
+   at System.Web.UI.WebControls.Button.System.Web.UI.IPostBackEventHandler.RaisePostBackEvent(String eventArgument)
+   at System.Web.UI.Page.RaisePostBackEvent(IPostBackEventHandler sourceControl, String eventArgument)
+   at System.Web.UI.Page.RaisePostBackEvent(NameValueCollection postData)
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   --- End of inner exception stack trace ---
+   at System.Web.UI.Page.HandleError(Exception e)
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   at System.Web.UI.Page.ProcessRequest(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   at System.Web.UI.Page.ProcessRequest()
+   at System.Web.UI.Page.ProcessRequestWithNoAssert(HttpContext context)
+   at System.Web.UI.Page.ProcessRequest(HttpContext context)
+   at ASP.ui_page_simpleservings_recipe_recipe_aspx.ProcessRequest(HttpContext context) in c:\Windows\Microsoft.NET\Framework\v2.0.50727\Temporary ASP.NET Files\simpleservings\50605a42\75e306da\App_Web_2a78julw.0.cs:line 0
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+2017-04-24 17:00:38,086 [  5] INFO  AppManager [(null)] (landingPage.aspx) - Request from http://localhost:1949/SimpleServings/UI/Page/SimpleServings/Recipe/Recipe.aspx 
+Request Type: LogInOut 
+SessionId: q21yym55aoyhr1zmrio54d45
+2017-04-24 17:00:38,087 [  5] INFO  AppManager [(null)] (landingPage.aspx) - Redirecting to Login.aspx 
+Request Type: LogInOut 
+SessionId: q21yym55aoyhr1zmrio54d45
+2017-04-24 17:00:38,097 [ 10] INFO  AppManager [(null)] (login.aspx) - Request from http://localhost:1949/SimpleServings/UI/Page/SimpleServings/Recipe/Recipe.aspx 
+SessionId: x1ejfd55hnffdh451c1eaf45
+2017-04-24 17:00:41,338 [  5] INFO  AppManager [(null)] (landingPage.aspx) - Clearing Session 
+Request Type:  
+SessionId: i3mi4xmnbnpbbammroszix55
+2017-04-24 17:00:41,357 [ 10] INFO  AppManager [(null)] (landingPage.aspx) - New Session 
+Request Type:  
+SessionId: gu5grj45wvjjyc55m4i14cqw
+2017-04-24 17:00:41,450 [  7] INFO  AppManager [(null)] (login.aspx) - (cvais7773) - Login successful 
+SessionId: j2shgkmifdzaid55kasmtuex
+2017-04-24 17:00:41,457 [  7] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: gu5grj45wvjjyc55m4i14cqw
+2017-04-24 17:00:45,584 [  7] INFO  AppManager [(null)] (Recipe.aspx) - Request from http://localhost:1949/SimpleServings/UI/Page/Home.aspx 
+SessionId: gu5grj45wvjjyc55m4i14cqw
+2017-04-24 17:02:57,811 [  5] INFO  AppManager [(null)] (Recipe.aspx) - Request from http://localhost:1949/SimpleServings/UI/Page/SimpleServings/Recipe/RecipeList.aspx 
+SessionId: gu5grj45wvjjyc55m4i14cqw
+2017-04-24 17:46:52,840 [ 15] INFO  AppManager [(null)] SimpleServings started.
+2017-04-24 17:47:01,818 [  7] INFO  AppManager [(null)] (landingPage.aspx) - Request from http://localhost:1949/SimpleServings/UI/Page/SimpleServings/Recipe/Recipe.aspx 
+Request Type: LogInOut 
+SessionId: gu5grj45wvjjyc55m4i14cqw
+2017-04-24 17:47:01,820 [  7] INFO  AppManager [(null)] (landingPage.aspx) - Redirecting to Login.aspx 
+Request Type: LogInOut 
+SessionId: gu5grj45wvjjyc55m4i14cqw
+2017-04-24 17:47:10,478 [  6] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: 31klql45gbsfwd45s2q3em45
+2017-04-24 17:47:16,763 [  6] INFO  AppManager [(null)] (Recipe.aspx) - Request from http://localhost:1949/SimpleServings/UI/Page/Home.aspx 
+SessionId: 31klql45gbsfwd45s2q3em45
+2017-04-24 17:48:34,752 [ 15] INFO  AppManager [(null)] SimpleServings started.
+2017-04-24 17:48:42,821 [  6] INFO  AppManager [(null)] (landingPage.aspx) - Request from http://localhost:1949/SimpleServings/UI/Page/SimpleServings/Recipe/Recipe.aspx 
+Request Type: LogInOut 
+SessionId: 31klql45gbsfwd45s2q3em45
+2017-04-24 17:48:42,823 [  6] INFO  AppManager [(null)] (landingPage.aspx) - Redirecting to Login.aspx 
+Request Type: LogInOut 
+SessionId: 31klql45gbsfwd45s2q3em45
+2017-04-24 17:48:45,551 [  5] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: wjreoj45z4c1yg45aon1gw55
+2017-04-24 17:48:47,833 [  6] INFO  AppManager [(null)] (Recipe.aspx) - Request from http://localhost:1949/SimpleServings/UI/Page/Home.aspx 
+SessionId: wjreoj45z4c1yg45aon1gw55
+2017-04-24 17:50:08,766 [  5] INFO  AppManager [(null)] (Recipe.aspx) - Request from http://localhost:1949/SimpleServings/UI/Page/SimpleServings/Recipe/RecipeList.aspx 
+SessionId: wjreoj45z4c1yg45aon1gw55
+2017-04-24 17:53:34,045 [  7] ERROR AppManager [(null)] SimpleServings application error: Exception of type 'System.Web.HttpUnhandledException' was thrown.
+location: http://localhost:1949/SimpleServings/UI/Page/SimpleServings/Recipe/Recipe.aspx
+
+System.Web.HttpUnhandledException: Exception of type 'System.Web.HttpUnhandledException' was thrown. ---> System.Exception: Get All Recipes did not return a record!
+   at SimpleServingsLibrary.Recipe.RecipeDB.GetRecipesforTagsSearch(List`1 TagIDs) in c:\TFS\DFTA\SimpleServingsLibrary\SimpleServings.Recipe\DAL\RecipeDB.cs:line 133
+   at SimpleServingsLibrary.Recipe.Recipe.GetRecipesforTagsSearch(List`1 TagIDs) in c:\TFS\DFTA\SimpleServingsLibrary\SimpleServings.Recipe\BLL\Recipe.cs:line 291
+   at SimpleServings.UI.Page.Recipe.btnSearch_Click(Object sender, EventArgs e) in c:\TFS\DFTA\SimpleServings\SimpleServings\SimpleServings\UI\Page\SimpleServings\Recipe\Recipe.aspx.cs:line 160
+   at System.Web.UI.WebControls.Button.OnClick(EventArgs e)
+   at System.Web.UI.WebControls.Button.RaisePostBackEvent(String eventArgument)
+   at System.Web.UI.WebControls.Button.System.Web.UI.IPostBackEventHandler.RaisePostBackEvent(String eventArgument)
+   at System.Web.UI.Page.RaisePostBackEvent(IPostBackEventHandler sourceControl, String eventArgument)
+   at System.Web.UI.Page.RaisePostBackEvent(NameValueCollection postData)
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   --- End of inner exception stack trace ---
+   at System.Web.UI.Page.HandleError(Exception e)
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   at System.Web.UI.Page.ProcessRequest(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   at System.Web.UI.Page.ProcessRequest()
+   at System.Web.UI.Page.ProcessRequestWithNoAssert(HttpContext context)
+   at System.Web.UI.Page.ProcessRequest(HttpContext context)
+   at ASP.ui_page_simpleservings_recipe_recipe_aspx.ProcessRequest(HttpContext context) in c:\Windows\Microsoft.NET\Framework\v2.0.50727\Temporary ASP.NET Files\simpleservings\50605a42\75e306da\App_Web_z5wuqnmq.4.cs:line 0
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+2017-04-24 17:55:55,252 [  6] INFO  AppManager [(null)] (Recipe.aspx) - Request from http://localhost:1949/SimpleServings/UI/Page/SimpleServings/Menu/ViewMenu.aspx?MenuID=7472 
+SessionId: wjreoj45z4c1yg45aon1gw55
+2017-04-24 18:07:26,310 [ 10] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: wjreoj45z4c1yg45aon1gw55
+2017-04-24 18:07:26,919 [  5] INFO  AppManager [(null)] (landingPage.aspx) - Request from http://localhost:1949/SimpleServings/UI/Page/Home.aspx 
+Request Type: LogInOut 
+SessionId: wjreoj45z4c1yg45aon1gw55
+2017-04-24 18:07:26,920 [  5] INFO  AppManager [(null)] (landingPage.aspx) - Redirecting to Login.aspx 
+Request Type: LogInOut 
+SessionId: wjreoj45z4c1yg45aon1gw55
+2017-04-24 18:07:26,930 [ 10] INFO  AppManager [(null)] (login.aspx) - Request from http://localhost:1949/SimpleServings/UI/Page/Home.aspx 
+SessionId: oga1msbtb0d2g2ap0w0tqjf4
+2017-04-24 18:07:28,581 [  5] INFO  AppManager [(null)] (landingPage.aspx) - Request from http://localhost:1949/SimpleServings/UI/Page/SimpleServings/Menu/ViewMenu.aspx?MenuID=7472 
+Request Type: LogInOut 
+SessionId: 4sxyzz55cmk4bwqo5usxxlyy
+2017-04-24 18:07:28,582 [  5] INFO  AppManager [(null)] (landingPage.aspx) - Redirecting to Login.aspx 
+Request Type: LogInOut 
+SessionId: 4sxyzz55cmk4bwqo5usxxlyy
+2017-04-24 18:07:28,593 [  7] INFO  AppManager [(null)] (login.aspx) - Request from http://localhost:1949/SimpleServings/UI/Page/SimpleServings/Menu/ViewMenu.aspx?MenuID=7472 
+SessionId: p1jux5i5hza3egb54mwgnd55

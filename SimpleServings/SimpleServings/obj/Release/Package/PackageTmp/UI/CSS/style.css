@@ -1,0 +1,1945 @@
+/* meyer reset v2.0 | 20110126 */
+html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, a, abbr, acronym, address, big, cite, code,
+del, dfn, em, img, ins, kbd, q, s, samp, small, strike, strong, sub, sup, tt, var, b, u, i, center, dl, dt, dd, ol, ul, li, fieldset, form, label, legend, table, caption, tbody, tfoot, thead, tr, th, td, article, aside, canvas, details, embed, figure, figcaption, footer, header, hgroup, menu, nav, output, ruby, section, summary, time, mark, audio, video {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-size: 100%;
+    font: inherit;
+    vertical-align: baseline;
+}
+/* HTML5 display-role reset for older browsers */
+article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, section {
+    display: block;
+}
+
+body {
+    line-height: 1;
+    overflow-y: scroll;
+}
+
+ol, ul {
+    list-style: none;
+}
+
+blockquote, q {
+    quotes: none;
+}
+
+    blockquote:before, blockquote:after, q:before, q:after {
+        content: '';
+        content: none;
+    }
+
+table {
+    border-collapse: collapse;
+    border-spacing: 0;
+}
+
+.floatL {
+    float: left;
+}
+
+.floatR {
+    float: right;
+}
+
+.clearfix {
+    clear: both;
+    overflow: auto;
+    zoom: 1;    
+}
+
+.mr20 {
+    margin-right: 20px;
+}
+
+.mr30 {
+    margin-right: 30px;
+}
+
+.w100 {
+    float: left;
+    width: 103px;
+}
+
+.w150 {
+    float: left;
+    width: 150px;
+}
+
+.w200 {
+    float: left;
+    width: 200px;
+}
+
+.w300 {
+    float: left;
+    width: 300px;
+}
+
+.w400 {
+    float: left;
+    width: 400px;
+}
+
+.w440 {
+    float: left;
+    width: 440px;
+}
+
+.w500 {
+    float: left;
+    width: 500px;
+}
+
+.w760 {
+    float: left;
+    width: 760px;
+}
+
+.br5 {
+    border-radius: 5px;
+}
+/***** STYLE STARTS HERE *****/
+html {
+    background: #f5f5f5;
+}
+
+body {
+    width: 100%;
+    height: 100%;
+    position: absolute;
+}
+
+.container {
+    width: 960px;
+    margin: 0 auto 10px;
+    background: #fff;
+    height: auto;
+    min-height: 200px;
+    border: 1px solid #ccc;
+    border-top: 0 none;
+    box-shadow: 0 0 3px rgba(0,0,0,.3);
+    border-radius: 0 0 3px 3px;
+    overflow: hidden;
+}
+
+
+
+.containerBox
+{
+    background: #fff;
+    border: 1px solid #CCCCCC;
+    border-radius: 5px;
+    box-shadow: 0 0 5px 1px rgba(0, 0, 0, 0.1);
+    margin: 5px auto 10px;
+    padding:0px;
+    overflow: hidden;
+    float:left;
+
+}
+
+
+.header {
+    height: 50px;
+    border-bottom: 2px solid #ddd;
+    z-index: 999;
+}
+
+.logo {
+    float: left;
+    height: 46px;
+    width: 150px;
+    margin-left: 60px;
+    background: url('../assets/img/logo.png') no-repeat center center;
+}
+
+.greenGrad {
+    background: #cdeb8e;
+    background: -moz-linear-gradient(top, #cdeb8e 0%, #a5c956 100%);
+    background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#cdeb8e), color-stop(100%,#a5c956));
+    background: -webkit-linear-gradient(top, #cdeb8e 0%,#a5c956 100%);
+    background: -o-linear-gradient(top, #cdeb8e 0%,#a5c956 100%);
+    background: -ms-linear-gradient(top, #cdeb8e 0%,#a5c956 100%);
+    background: linear-gradient(to bottom, #cdeb8e 0%,#a5c956 100%);
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#cdeb8e', endColorstr='#a5c956',GradientType=0 );
+}
+
+.orangeGrad {
+    background: #FF6634;
+    background: -moz-linear-gradient(top, #EF8D31 0%, #FF6634 100%);
+    background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#EF8D31), color-stop(100%,#FF6634));
+    background: -webkit-linear-gradient(top, #EF8D31 0%,#FF6634 100%);
+    background: -o-linear-gradient(top, #EF8D31 0%,#FF6634 100%);
+    background: -ms-linear-gradient(top, #EF8D31 0%,#FF6634 100%);
+    background: linear-gradient(to bottom, #EF8D31 0%,#FF6634 100%);
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#EF8D31', endColorstr='#FF6634',GradientType=0 );
+}
+
+
+/*---- CROSS BROWSER DROPDOWN MENU ----
+.drop { 
+    position: relative; 
+    z-index: 9999;
+    float:right; 
+    margin-right:60px !important;
+    height:48px;
+    line-height:48px;
+    }
+
+.drop li{
+    list-style:none;
+    margin:0;
+    padding:0;
+    border:1px solid transparent;
+}
+.drop li{ 
+    float:left;
+    vertical-align:middle; 
+    zoom:1;
+}
+.drop li.hover,.drop li:hover{
+    position: relative;
+    border:1px solid #aaaaaa;
+    background: #f5f5f5;
+    background: -moz-linear-gradient(top,  #ffffff 0%, #cccccc 100%);
+    background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#ffffff), color-stop(100%,#cccccc));
+    background: -webkit-linear-gradient(top,  #ffffff 0%,#cccccc 100%);
+    background: -o-linear-gradient(top,  #ffffff 0%,#cccccc 100%);
+    background: -ms-linear-gradient(top,  #ffffff 0%,#cccccc 100%);
+    background: linear-gradient(to bottom,  #ffffff 0%,#cccccc 100%);
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ffffff', endColorstr='#cccccc',GradientType=0 );
+    color: #333333;
+    text-shadow:1px 1px #ffffff;
+}
+.drop li a {
+    display:block; 
+    padding: 0 13px; 
+    text-decoration: none; 
+    font-size:14px; 
+    letter-spacing:1px;
+    color: #ffffff; 
+    text-shadow:0 0 1px #ffffff;
+    }
+.drop li a:hover{
+    color: #777777;
+    text-shadow:1px 1px #ffffff;
+}
+.drop li.dropDown:hover{border-bottom:1px solid #ccc;}
+.drop .subnav { 
+    visibility: hidden; 
+    position: absolute;
+    margin-left: -1px;
+    top:49px;
+    border:1px solid #aaa;
+    border-radius:0 0 5px 5px;
+    box-shadow: 0 5px 5px rgba(0, 0, 0, 0.15);
+    background: #f5f5f5;
+    background: -moz-linear-gradient(top,  #cccccc 0%, #ffffff 100%);
+    background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#cccccc), color-stop(100%,#ffffff));
+    background: -webkit-linear-gradient(top,  #cccccc 0%,#ffffff 100%);
+    background: -o-linear-gradient(top,  #cccccc 0%,#ffffff 100%);
+    background: -ms-linear-gradient(top,  #cccccc 0%,#ffffff 100%);
+    background: linear-gradient(to bottom,  #cccccc 0%,#ffffff 100%);
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#cccccc', endColorstr='#ffffff',GradientType=0 );
+    overflow:hidden;
+}
+.drop .subnav li{
+    width:180px;
+    color: #777777;
+    text-shadow:1px 1px #ffffff;
+    border-top:1px solid #fff;
+    border-bottom:1px solid #aaa;
+    border-left:0 none;
+    border-right:0 none;
+}
+.drop .subnav li:hover{
+    background: #fff;
+    border-top:1px solid #fff;
+    border-bottom:1px solid #aaa;
+    border-left:0 none;
+    border-right:0 none;
+}
+.drop .subnav li a{
+    color: #777777;
+    text-shadow:1px 1px #ffffff;
+    line-height:20px;
+    padding:5px 10px 5px 25px;
+    background: url('../assets/icons/arrow-right-16.png') no-repeat 5px center;
+}
+.drop .subnav li a:hover{
+    background: url('../assets/icons/arrow-right-16.png') no-repeat 10px center;
+}
+.drop li:hover > ul {
+    visibility: visible
+}
+---- CROSS BROWSER DROPDOWN MENU end----*/
+
+/*-- drop down menu start --*/
+#menu {
+    float: right;
+    margin-right: 60px;
+    height: 48px;
+    line-height: 48px;
+    border-top: 1px solid #FF6634;
+    border-right: 1px solid #FF6634;
+    border-left: 1px solid #EF8D31;
+    border-bottom: 1px solid #EF8D31;
+    letter-spacing: 1px;
+    display: inline-block;
+    z-index: 900;
+}
+
+    #menu ul {
+        position: relative;
+        float: right;
+        right: 50%;
+        list-style: none;
+        margin: 0;
+        padding: 0;
+    }
+
+        #menu ul li {
+            position: relative;
+            float: left;
+            left: 50%;
+            margin: 0;
+            padding: 0;
+        }
+
+            #menu ul li a {
+                border-left: 1px solid #FF6634;
+                border-right: 1px solid #EF8D31;
+                color: #fff;
+                display: block;
+                font: 12px/1.5em "Verdana", sans-serif;
+                margin: 0;
+                padding: 15px;
+                text-decoration: none;
+                text-shadow: 1px 0 0 rgba(0,0,0,.3);
+            }
+
+            #menu ul li.active a {
+                background: #000;
+            }
+
+    #menu > ul > li:hover > a {
+        background: #353535;
+        -webkit-border-radius: 5px 5px 0 0;
+        border-radius: 5px 5px 0 0;
+    }
+
+    #menu ul li:hover > ul {
+        display: block;
+    }
+
+    #menu ul ul {
+        display: none;
+        position: absolute;
+        right: auto;
+        width: 190px;
+        margin-left: 1px;
+        -webkit-box-shadow: 0 5px 10px -5px rgba(0,0,0,.5);
+        box-shadow: 0 5px 10px -5px rgba(0,0,0,.5);
+    }
+
+        #menu ul ul li {
+            border: 0 !important;
+            left: 0;
+            width: 100%;
+            z-index: 1000;
+        }
+
+            #menu ul ul li a {
+                margin: 0;
+                padding: 5px 20px;
+                background: #353535 url('../assets/icons/orange_arrow.png') no-repeat 4px center;
+                border: 1px solid #252525;
+                border-bottom: 1px solid #454545;
+            }
+
+                #menu ul ul li a:hover {
+                    background: #555 url('../assets/icons/orange_arrow.png') no-repeat 6px center;
+                }
+
+            #menu ul ul li:first-child a {
+                -webkit-border-radius: 0 5px 0 0;
+                border-radius: 0 5px 0 0;
+                border-top: 1px solid #454545;
+            }
+
+            #menu ul ul li:last-child a {
+                -webkit-border-radius: 0 0 5px 5px;
+                border-radius: 0 0 5px 5px;
+            }
+
+            #menu ul ul li:hover > ul {
+                display: block;
+            }
+
+        #menu ul ul ul {
+            display: none;
+            position: absolute;
+            left: 190px;
+            top: 0;
+        }
+
+    #menu > ul > li:hover > a.nodrop:hover {
+        -webkit-border-radius: 5px;
+        border-radius: 5px;
+    }
+/*-- drop down menu end --*/
+
+
+.footer {
+    background: #f1f1f1;
+    padding: 10px 20px;
+    text-align: right;
+    border: 1px solid #fff;
+    box-shadow: 0 0 2px rgba(0,0,0,.3);
+    font-size: 11px;
+    color: #777;
+}
+
+.contentBox {
+    margin: 30px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    background: #f9f9f9;
+    overflow: hidden;
+    box-shadow: 0 0 5px 1px rgba(0,0,0,.1);
+}
+
+
+
+input[type="text"],
+.dataInput select {
+    width: 100%;
+    height: 24px;
+    line-height: 24px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    color: #555;
+    padding-left: 2px;
+}
+
+    input[type="text"]:focus,
+    .dataInput select:focus {
+        border: 1px solid SandyBrown;
+        box-shadow: 0 0 2px rgba(0,0,0,.15);
+    }
+
+.dataLabel {
+    color: #3B9093;
+}
+
+.dataInput {
+    color: #555;
+}
+
+.tags tbody tr td input, .tags tbody tr td label {
+    cursor: pointer;
+}
+
+.tags td {
+    padding: 0 5px 5px 0;
+}
+
+.dataList {
+    width: 98%;
+    float: left;
+    background: #fff;
+    border-top: 1px solid #e5e5e5;
+    border-bottom: 1px solid #e5e5e5;
+    padding: 10px 1%;
+    margin-bottom: 10px;
+}
+
+
+.rcpdataList {
+    width: 600px;
+    text-align:center;
+    background: #fff;
+    border: 1px solid #ddd4d4;
+    /*border-top: 1px solid #e5e5e5;
+    border-bottom: 1px solid #e5e5e5;*/
+    padding: 2px 1%;
+    margin: 5px;
+    border-radius: 10px;
+}
+
+
+.dataLeft {
+    width: 500px;
+    float: left;
+    padding-right: 30px;
+}
+
+.dataRow {
+    padding: 5px 0;
+}
+
+.contentBox .dataList .dataLabel {
+    padding: 5px 0;
+}
+
+.smlInputs {
+    float: left;
+    width: 110px;
+}
+
+/**---- Grid Style Starts here ----
+.DatagridStyle tbody tr th{
+    border:1px solid #ccc;
+    font-weight:bold;
+    text-align:left;
+    padding:3px 0;
+    color: #777777;
+    text-shadow:0 1px #ffffff;
+    background: #f5f5f5;
+    background: -moz-linear-gradient(top,  #ffffff 0%, #cccccc 100%);
+    background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#ffffff), color-stop(100%,#cccccc));
+    background: -webkit-linear-gradient(top,  #ffffff 0%,#cccccc 100%);
+    background: -o-linear-gradient(top,  #ffffff 0%,#cccccc 100%);
+    background: -ms-linear-gradient(top,  #ffffff 0%,#cccccc 100%);
+    background: linear-gradient(to bottom,  #ffffff 0%,#cccccc 100%);
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ffffff', endColorstr='#cccccc',GradientType=0 );
+}
+
+.DatagridStyle tbody tr{
+    color:#444;
+}
+.DatagridStyle tbody tr td{
+    padding:5px 2px;
+    border:1px dotted #e5e5e5;
+    vertical-align:middle;
+}
+.DatagridStyle tbody tr:nth-child(odd){
+    background:#ffffff;
+}
+.DatagridStyle tbody tr:nth-child(even){
+    background:#f9f9f9;
+}
+.DatagridStyle tbody tr:hover{
+    background:FloralWhite;
+    border-top:1px solid #cccccc;
+    border-bottom:1px solid #cccccc;
+}
+.DatagridStyle, .tableStyle{
+    width:840px;
+    border:1px solid #cccccc;
+    border-top:2px solid #cccccc;
+    margin-top:15px;
+    padding-top:5px;
+}
+.DatagridStyle tbody tr th a{
+    color:#555;
+    text-decoration:none;   
+}
+
+.tableStyle tbody tr{
+    border-bottom:1px dotted #e5e5e5;
+    background:#FCFCFC;
+}
+.tableStyle tbody tr:hover{
+    background:#f5f5f5;
+    border:1px solid #bbbbbbb;
+}
+.tableStyle tbody tr:first-child {
+    border-bottom:0 none;
+}
+.tableStyle tbody tr td{
+    color:#555555;
+    padding:5px;
+}
+.hideRow th {
+    display:none;
+}
+.bgTd{
+    border-left:1px solid #d5d5d5;
+    border-bottom:1px solid #d5d5d5;
+    background:#f5f5f5;
+    width:94px;
+    text-align:right;
+} */
+/***** Reorder Grid Style Starts here *****/
+.tableStyle {
+    width: 100%;
+    text-align: left;
+}
+
+    .tableStyle .hideRow {
+        display: none;
+    }
+
+    .tableStyle tbody tr {
+        background: #FFFFFF url('../assets/icons/icon-drag.gif') no-repeat 4px center;
+    }
+    
+        .tableStyle tbody tr:hover {
+            background: #FFFAF0 url('../assets/icons/icon-drag.gif') no-repeat 4px center;
+            border-top: 1px solid #cccccc;
+            border-bottom: 1px solid #cccccc;
+        }
+
+        .tableStyle tbody tr td {
+            border-bottom: 1px dotted #E5E5E5;
+            color: #555555;
+            font-size: 11px;
+            vertical-align: middle;
+        }
+
+            .tableStyle tbody tr td span {
+                float: right;
+                width: 96%;
+                padding: 6px .5%;
+                border-left: 1px solid #d5d5d5;
+                cursor: default;
+            }
+
+.bgTd {
+    background: #F9F9F9;
+    border-left: 1px solid #d5d5d5;
+    border-top: 1px solid #d5d5d5;
+    text-align: center;
+    width: 40px;
+}
+
+.tDnD_whileDrag {
+    background: #FF7F50!important;
+}
+/***** Reorder Grid Style Ends here *****/
+
+.findOptions {
+    margin-bottom: 15px;
+}
+/***** Datagrid Style Starts here *****/
+.dgContainer {
+    border-radius: 5px;
+    border: 1px solid #ccc;
+    overflow: hidden;
+    margin-top: 6px;
+}
+
+.DatagridStyle {
+    width: 100%;
+    text-align: left;
+}
+
+    .DatagridStyle tbody tr th {
+        font-size: 13px;
+        color: #777;
+        text-shadow: 1px 1px #ffffff;
+        padding: 6px 0 6px 2px;
+        text-align: left;
+        background: #f5f5f5;
+        background: -moz-linear-gradient(top, #ffffff 0%, #dddddd 100%);
+        background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#ffffff), color-stop(100%,#dddddd));
+        background: -webkit-linear-gradient(top, #ffffff 0%,#dddddd 100%);
+        background: -o-linear-gradient(top, #ffffff 0%,#dddddd 100%);
+        background: -ms-linear-gradient(top, #ffffff 0%,#dddddd 100%);
+        background: linear-gradient(to bottom, #ffffff 0%,#dddddd 100%);
+        filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ffffff', endColorstr='#dddddd',GradientType=0 );
+    }
+
+    .DatagridStyle tbody tr:first-child, .DatagridStyle tbody tr:first-child:hover {
+        overflow: hidden;
+        border-radius: 5px 5px 0 0;
+        border: 1px solid #fff;
+        border-bottom: 1px solid #aaa;
+    }
+
+
+    .DatagridStyle tbody tr th a {
+        text-shadow: 1px 1px #ffffff;
+        cursor: default;
+        font-size: 13px;
+        padding: 6px 0 6px 2px;
+        cursor: pointer;
+        color: #FF7F50;
+    }
+
+    .DatagridStyle tbody tr td {
+        padding: 5px 3px;
+        border-top: 1px dotted #e5e5e5;
+        border-left: 1px dotted #e5e5e5;
+        vertical-align: middle;
+        color: #555;
+        font-size: 11px;
+    }
+
+        .DatagridStyle tbody tr td:first-child {
+            border-left: 1px solid transparent;
+        }
+
+.DatagridStyleAltRow {
+    background: #f9f9f9;
+}
+
+.DatagridStyle tbody tr:hover {
+    background: FloralWhite;
+    border-top: 1px solid #cccccc;
+    border-bottom: 1px solid #cccccc;
+}
+
+/***** Datagrid Style Ends here *****/
+
+.nutritionList {
+    margin-top: 20px;
+    margin-left: -10px;
+}
+
+.nutritionItem {
+    width: 170px;
+    border: 1px solid #eee;
+    margin: 10px;
+    padding: 10px;
+    background: #f9f9f9;
+    border-radius: 10px;
+}
+
+    .nutritionItem p {
+        width: 170px;
+        margin-bottom: 5px;
+        color: #555;
+    }
+
+.nutrientValue {
+    float: left;
+}
+
+.nutritionItem input {
+    width: 56px;
+}
+
+.nutrientUnit {
+    color: #9FD846;
+    padding: 5px;
+}
+
+.nutrientPercent {
+    float: right;
+}
+
+.btn_save {
+    margin: 10px 40px 20px;
+    float: right;
+}
+
+.noteBox {
+    max-width: 830px;
+    border-radius: 5px;
+    border: 1px solid #CCCCCC;
+}
+
+.title2 li {
+    float: left;
+    margin: 0 10px 10px 0;
+}
+
+.gridList {
+    padding: 20px 0;
+}
+
+.gridListBox {
+    float: left;
+    width: 268px;
+    margin: 0 15px 15px 0;
+    border: 1px solid #ccc;
+    border-radius: 10px;
+    background: #f9f9f9;
+    box-shadow: 0 0 3px rgba(0,0,0,.15);
+}
+
+.gridList img {
+    width: 100%;
+    height: auto;
+}
+
+.gridList ul li h2 {
+    height: 20px;
+    line-height: 20px;
+    padding: 5px;
+    font-weight: bold;
+    color: #555;
+}
+
+.gridViewImg {
+    width: 100%;
+    height: 114px;
+    overflow: hidden;
+    border-top: 1px solid #000;
+    border-bottom: 1px solid #000;
+}
+
+.gridListBox h3 {
+    padding: 5px;
+    background: #f9f9f9;
+}
+
+.gridList2 {
+    padding: 20px 0;
+}
+
+.gridListBox2 {
+    float: left;
+    width: 69px;
+    margin: 0 1px 1px 0;
+    border: 1px solid #828282;
+    background: #f9f9f9;
+}
+
+.gridList2 img {
+    width: 69px;
+    height: 69px;
+}
+
+.gridList2 ul li h2 {
+    height: 12px;
+    line-height: 12px;
+    padding: 2px;
+    font-weight: bold;
+    color: #555;
+}
+
+.gridViewImg2 {
+    width: 100%;
+    height: 69px;
+    overflow: hidden;
+}
+
+.gridListBox2 h3 {
+    padding: 5px;
+    background: #f9f9f9;
+}
+
+div.lasteventimg {
+    width: 834px;
+    overflow-x: scroll;
+    overflow-y: hidden;
+}
+
+.lasteventimg ul {
+    width: 2454px;
+    white-space: nowrap;
+}
+
+.lasteventimg li {
+    display: block;
+    float: left;
+}
+
+div.lasteventimg img {
+    width: 69px;
+    float: left;
+}
+
+.nutritionCal li {
+    float: left;
+    width: 260px;
+    border-bottom: 1px dotted #ccc;
+    padding: 4px;
+    background: #fff;
+}
+
+    .nutritionCal li:first-child {
+        border-top: 1px dotted #ccc;
+    }
+
+.gridviewTags {
+    height: 60px;
+}
+
+.nutritionTag li a {
+    float: left;
+    padding: 0 5px;
+    font-style: italic;
+    text-decoration: none;
+    color: Teal;
+}
+
+    .nutritionTag li a:hover {
+        color: #EB5E4C;
+        text-decoration: underline;
+    }
+
+.gridviewBtn {
+    line-height: 30px;
+    height: 30px;
+    padding: 0 20px;
+    background: #fff;
+    border-radius: 0 0 10px 10px;
+    border-top: 1px solid #ddd;
+}
+
+.recipeViewL {
+    width: 625px;
+    float: left;
+}
+
+.recipeViewR {
+    width: 240px;
+    float: right;
+    margin: 30px;
+    margin-left: 0px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    background: #f9f9f9;
+    overflow: hidden;
+    box-shadow: 0 0 5px 1px rgba(0,0,0,.1);
+}
+
+.mb0 {
+    margin-bottom: 0px;
+}
+
+.recipeViewL .dataList {
+    width: 565px;
+    float: left;
+    background: #fff;
+    border-top: 1px solid #e5e5e5;
+    border-bottom: 1px solid #e5e5e5;
+    padding: 10px 30px;
+    margin-bottom: 10px;
+}
+
+.recipeViewR .dataList {
+    width: 240px;
+    float: left;
+    background: #fff;
+    border-top: 1px solid #e5e5e5;
+    border-bottom: 1px solid #e5e5e5;
+    padding: 10px 0px;
+    margin-bottom: 10px;
+}
+
+.recipeViewL .dataList .dataRow .dataLabel, .view .dataList .dataRow .dataLabel {
+    float: left;
+    width: 140px;
+    padding: 0;
+}
+
+.recipeViewL .dataList .dataRow .dataInput, .view .dataList .dataRow .dataInput {
+    color: #666;
+}
+
+
+.recipeSearchBox{
+    width: 600px;
+    height:30px;
+    float:left;
+    margin: 20px;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    border-radius: 5px;    
+    font-size:inherit;
+    padding: 12px 20px 12px 40px;
+    margin:5px;
+    background: url(../images/rcpSearch.png) no-repeat;
+    background-position: 10px 10px !important; 
+    text-indent: 50px;
+    font-family:Verdana, sans-serif;
+    font-size: medium; 
+}
+
+.expandCategories {
+
+background: url(../images/expander.png) no-repeat;
+background-position: 10px 10px;
+border-color:greenyellow;
+height:20px;
+float:left;
+font-weight:bold;
+font-size:large;
+color:orange;
+
+}
+
+
+
+
+
+html body#top div.container form#aspnetForm div.contentBox div.dataList div.dataRow div.dataLabel
+/***********************************************************************************************/
+/*JASON ADDITIONS*/
+.contactbox {
+    border: 1px solid #e8e8e8;
+    padding: 25px;
+    box-shadow: 0 0 5px #EAEAEA;
+    -moz-border-radius: 3px;
+    -webkit-border-radius: 3px;
+    border-radius: 3px;
+    -khtml-border-radius: 3px;
+}
+
+.contactbox:hover {
+    border: 1px solid #ccc;
+}
+
+.contactbox a {
+    color: #ff6633;
+    -webkit-transition: 0.2s;
+    -moz-transition: 0.2s;
+    transition: 0.2s;
+}
+
+    .contactbox a:hover {
+        color: #333;
+    }
+
+/***********************
+	-	BASICS 	-
+***********************/
+ol, ul {
+    list-style: none;
+}
+
+a {
+    text-decoration: none;
+    color: #333;
+}
+
+/***********************
+  -	 GENERAL STYLES	 -
+***********************/
+
+.hide {
+    display: none!important;
+}
+
+.show {
+    display: block;
+}
+
+.loginBox {
+    display: none;
+}
+
+
+.tagscontainer {
+    margin-bottom: 30px;
+}
+
+.tags li {
+    float: left;
+    background: #f8f8f8;
+    border: 1px solid #eaeaea;
+    padding: 5px 10px 5px 10px;
+    margin: 0px 10px 10px 0px;
+    -webkit-transition: 0.2s;
+    -moz-transition: 0.2s;
+    transition: 0.2s;
+}
+
+    .tags li a {
+        color: #333;
+    }
+
+    .tags li:hover {
+        background: #fff;
+        border: 1px solid #ccc;
+        padding: 5px 10px 5px 10px;
+        margin: 0px 10px 10px 0px;
+    }
+
+        .tags li:hover a {
+            color: #000;
+        }
+
+/***********************
+  -	 TYPOGRAPHY	 -
+***********************/
+.titanictitle {
+    background: #f5f5f5;
+    color: Coral;
+    text-shadow: 1px 1px #fff;
+    padding: 10px 60px;
+    border-bottom: 1px solid #eee;
+    text-transform: capitalize;
+}
+
+.title2 {
+    padding: 10px 25px;
+    color: #ED5822;
+}
+
+.title3 {
+    padding: 10px 3px;
+    color: #F10000;
+}
+
+body, h1, h2, h3, h4, h5, h6, a, .h7, .h8, .h9, .quote {
+    font-family: Verdana, sans-serif;
+}
+
+h1, h2, h5, h6, .quote, .h9 {
+    font-weight: 400;
+}
+
+h4, .h7, .h8 {
+    font-weight: 700;
+}
+
+h3, h4, .h7, .h8, .h9 {
+    line-height: 22px;
+}
+
+body {
+    margin: 0px;
+    font-size: 12px;
+}
+
+h1, h2, .quote, .h7 {
+    color: #333333;
+}
+
+h1 {
+    font-size: 18px;
+}
+
+h2 {
+    font-size: 16px;
+}
+
+h3 {
+    font-size: 14px;
+    font-weight: 300;
+}
+
+h4 {
+    font-size: 12px;
+}
+
+h5 {
+    font-size: 10px;
+}
+
+h6 {
+    font-size: 8px !important;
+}
+
+.quote {
+    font-size: 24px;
+    line-height: 29px !important;
+}
+
+.h7 {
+    font-size: 14px;
+}
+
+.h8 {
+    font-size: 16px;
+}
+
+.h9 {
+    font-size: 28px;
+}
+
+/**** Links ****/
+a, .add, .minuss {
+    font-size: 11px;
+    padding: 2px 5px;
+    text-decoration: none;
+    color: #4F9053;
+    cursor: pointer;
+}
+
+.add, .minuss {
+    background: transparent;
+    border: 0 none;
+}
+
+    a:hover, .add:hover, .minuss:hover {
+        color: orangeRed;
+        text-decoration: underline;
+    }
+
+.btn, .btn a {
+    padding: 2px 6px;
+    border-radius: 3px;
+    text-decoration: none;
+    color: #fff;
+    border: 1px solid #bbb;
+    background: #cdeb8e;
+    background: -moz-linear-gradient(top, #cdeb8e 0%, #a5c956 100%);
+    background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#cdeb8e), color-stop(100%,#a5c956));
+    background: -webkit-linear-gradient(top, #cdeb8e 0%,#a5c956 100%);
+    background: -o-linear-gradient(top, #cdeb8e 0%,#a5c956 100%);
+    background: -ms-linear-gradient(top, #cdeb8e 0%,#a5c956 100%);
+    background: linear-gradient(to bottom, #cdeb8e 0%,#a5c956 100%);
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#cdeb8e', endColorstr='#a5c956',GradientType=0 );
+    cursor: pointer;
+}
+
+    .btn:hover, .btn a:hover {
+        background: #B8D971;
+        border: 1px solid #aaa;
+        color: #777;
+    }
+
+.btn_black {
+    padding: 2px 6px;
+    border-radius: 0 5px 5px 0;
+    text-decoration: none;
+    color: #fff;
+    border: 1px solid #000000;
+    background: #555555;
+    background: -moz-linear-gradient(top, #555555 0%, #222222 100%);
+    background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#555555), color-stop(100%,#222222));
+    background: -webkit-linear-gradient(top, #555555 0%,#222222 100%);
+    background: -o-linear-gradient(top, #555555 0%,#222222 100%);
+    background: -ms-linear-gradient(top, #555555 0%,#222222 100%);
+    background: linear-gradient(to bottom, #555555 0%,#222222 100%);
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#555555', endColorstr='#222222',GradientType=0 );
+    cursor: pointer;
+}
+
+    .btn_black:hover {
+        background: #111;
+        border: 1px solid #000000;
+        color: #777777;
+    }
+
+.toggleGrid, .toggleList {
+    color: #999;
+    cursor: pointer;
+    padding-left: 20px;
+}
+
+    .toggleGrid:hover, .toggleList:hover {
+        color: #EB5E4C;
+        text-decoration: underline;
+        cursor: pointer;
+    }
+
+.toggleGrid {
+    background: url('../assets/img/grid_icon.png') no-repeat left center;
+}
+
+.toggleList {
+    background: url('../assets/img/list_icon.png') no-repeat left center;
+}
+
+.add {
+    background: url('../assets/icons/plus-16.png') no-repeat left center;
+}
+
+.current {
+    background: url('../assets/icons/asset-green-16.png') no-repeat left center;
+}
+
+.old {
+    background: url('../assets/icons/asset-red-16.png') no-repeat left center;
+}
+
+.check {
+    background: url('../assets/icons/check-16.png') no-repeat left center;
+}
+
+.viewMore {
+    background: url('../assets/icons/badge-circle-direction-down-16.png') no-repeat left center;
+}
+
+.viewLess {
+    background: url('../assets/icons/badge-circle-direction-up-16.png') no-repeat left center;
+}
+
+.bullet {
+    background: url('../assets/icons/circle-tan-16.png') no-repeat left center;
+}
+
+.back {
+    background: url('../assets/icons/arrow-left-16.png') no-repeat left center;
+}
+
+.print {
+    background: url('../assets/icons/printIcon.png') no-repeat left center;
+}
+
+.nutValue {
+    background: url('../assets/icons/nutIcon.png') no-repeat left center;
+}
+
+.edit {
+    background: url('../assets/icons/pencil-16.png') no-repeat left center;
+}
+
+.favoriteIcon {
+    background: url('../images/favIcon.png') no-repeat left center;
+}
+
+.searchIcon {
+    background: url('../images/searchIcon.png') no-repeat left center;
+}
+
+.deleteIcon {
+    background: url('../images/deleteIcon.png') no-repeat left center;
+}
+
+/* 07-28-2016 */
+.minuss {
+    background: url('../assets/icons/minus-16.png') no-repeat left center;
+}
+
+.add, .check, .viewMore, .viewLess, .bullet, .back, .edit, .deleteIcon, .favoriteIcon, .print, .nutValue, .searchIcon, .current, .old, .minuss {
+    padding-left: 18px;
+    line-height: 15px;
+}
+
+.actionBtns, .viewBtns {
+    margin: 10px;
+}
+
+.tagz {
+    font-style: italic;
+    color: Teal;
+    text-decoration: underline;
+    padding-left: 3px;
+}
+
+.errorMsg {
+    color: red;
+    font-weight:bold;
+}
+
+
+.ingred {
+    width: 100%;
+}
+
+    .ingred tr {
+        border-bottom: 1px dotted #ccc;
+    }
+
+        .ingred tr:first-child {
+            border-bottom: 0 none;
+        }
+
+        .ingred tr td {
+            padding: 10px 10px 10px 18px;
+        }
+
+.dblArrow {
+    color: Teal;
+    font-size: 16px;
+    margin-right: 5px;
+}
+
+.search {
+    width: 200px;
+}
+
+#listView input.searchInput, #gridView input.searchInput, .manageStaff input.searchInput {
+    height: 20px;
+    float: right;
+    border-radius: 5px 0 0 5px;
+    width: 200px;
+}
+
+/***********************************************************************************************/
+
+.nutrView {
+    float: left;
+    width: 230px;
+    padding: 10px 5px;
+    margin: 30px 0;
+    border: 1px solid black;
+    background: #fff;
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.3);
+}
+
+table.nutrition {
+    border-collapse: collapse;
+    table-layout: auto;
+    width: 230px;
+    font-size: 11px;
+}
+
+    table.nutrition tbody tr {
+        line-height: 18px;
+    }
+
+.nutrTitle {
+    font-size: 24px;
+    font-weight: bold;
+    letter-spacing: 1px;
+}
+
+.servSize {
+    border-bottom: 7px solid black; /*6px*/
+    line-height: 24px;
+}
+
+.servAmount {
+    font-weight: bold;
+    border-bottom: 1px solid black;
+
+    /*font-size: 20px; */
+}
+
+.servCal {
+    border-bottom: 3px solid black;
+}
+
+.calsFrom {
+    font-size: 10px;
+    font-weight: lighter;
+    float: right;
+}
+
+.dailyValue {
+    text-align: right;
+    font-weight: bold;
+    border-bottom: 1px solid black;
+}
+
+.labelBold {
+    font-weight: bold;
+}
+
+.nutrList {
+    border-bottom: 1px solid black;
+}
+
+.nutrListBig {
+    border-bottom: 4px solid black;
+}
+
+.nutrFacts {
+    border-bottom: 6px solid black;
+}
+
+.sub {
+    padding-left: 15px;
+    font-weight: normal;
+}
+
+.nutrMin {
+    width: 105px;
+    float: left;
+}
+
+.nutrMinRow div:first-child {
+    padding-right: 20px;
+}
+
+
+/******************** Menu ********************/
+.menuContainer {
+    width: 100%;
+    min-width: 960px;
+    margin: 0 auto 10px;
+    background: #fff;
+    height: auto;
+    min-height: 200px;
+    border-bottom: 1px solid #ccc;
+    box-shadow: 0 0 3px rgba(0,0,0,.3);
+    border-radius: 0 0 3px 3px;
+    overflow: hidden;
+}
+
+.menuContentBox {
+    margin: 0px 0;
+    border-top: 1px solid #ccc;
+    border-bottom: 1px solid #ccc;
+    background: #f9f9f9;
+    overflow: hidden;
+    box-shadow: 0 0 5px 1px rgba(0,0,0,.1);
+}
+
+.menuDataList {
+    float: left;
+    background: #fff;
+    border-top: 1px solid #e5e5e5;
+    border-bottom: 1px solid #e5e5e5;
+    margin-bottom: 10px;
+    width: 100%;
+    height: 100%;
+    position: relative;
+}
+
+.menuContentBox .dataRow {
+    /*padding:10px 15px;*/
+    padding: 5px 10px;
+    border-right: 1px dotted #ccc;
+}
+
+.menuListLeft {
+    width: 23%;
+    height: 100%;
+    min-height: 100%;
+    position: absolute;
+    padding: 0 1%;
+    /*background:#F5F5F5;
+    border-right:1px solid #eee;*/
+}
+
+    .menuListLeft > div {
+        position: fixed;
+        width: 23%;
+        min-width: 220px;
+    }
+
+.menuListRight {
+    width: 73%;
+    padding: 0 1%;
+}
+
+.menuContentBox .searchBox, .menuContentBox .dropdownBox {
+    width: 100%;
+    float: left;
+    margin: 5px 0;
+}
+
+.menuListLeft .searchInput {
+    height: 20px;
+    float: left;
+    border-radius: 5px 0 0 5px;
+    width: 65%;
+}
+
+.menuListLeft .dropdownBox select {
+    width: 90%;
+}
+
+.mCustomScrollBox {
+    border: 1px solid #bbbbbb;
+    border-radius: 5px;
+    padding: 10px 0 10px 10px;
+    margin-left: 0px;
+    background: #F9F9F9;
+    box-shadow: inset 0 0 5px rgba(0,0,0,.3);
+}
+
+/******************** Menu End ********************/
+.menuTableContainer {
+    border-radius: 5px;
+    width: 100%;
+    margin: 10px 0;
+    padding-bottom: 5px;
+    border: 1px solid #FF7F50;
+    background: #FF7F50;
+    overflow: hidden;
+}
+
+    .menuTableContainer table {
+        width: 100.5%;
+        border-right: 1px dotted #F4A460;
+        margin: 0 0 0 -.25%;
+        border-collapse: collapse;
+    }
+
+        .menuTableContainer table tbody tr th {
+            background: #FF7F50;
+            color: #ffffff;
+            line-height: 30px;
+            border-bottom: 1px soild #F4A460;
+            border-left: 1px solid #F4A460;
+        }
+
+        .menuTableContainer table tbody tr td {
+            background: #f9f9f9;
+            color: #555555;
+            border-bottom: 1px dotted #F4A460;
+            border-left: 1px dotted #F4A460;
+            vertical-align: top;
+        }
+
+        .menuTableContainer table tbody tr th, .menuTableContainer table tbody tr td {
+            width: 12.5%;
+            padding: 5px;
+            text-align: left;
+        }
+
+        .menuTableContainer table tbody tr.odd td {
+            background: #f7fbff;
+        }
+
+        .menuTableContainer table tbody tr.odd .column1 {
+            background: #f4f9fe;
+        }
+
+    .menuTableContainer .column1 {
+        background: #f9fcfe;
+    }
+
+    .draggable, .menuTableContainer .menuGridStyle tbody tr td div div {
+        border: 1px solid #ccc;
+        border-bottom: 1px solid #aaa;
+        border-radius: 3px;
+        padding: 5px;
+        margin-bottom: 3px;
+        color: #232020;
+        line-height: 16px;
+        box-shadow: 0 0 0px rgba(0,0,0,.2);
+        background: #ffffff;
+        background: -moz-linear-gradient(top, #ffffff 0%, #FFFCFC 100%);
+        background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#ffffff), color-stop(100%,#FFFCFC));
+        background: -webkit-linear-gradient(top, #ffffff 0%,#FFFCFC 100%);
+        background: -o-linear-gradient(top, #ffffff 0%,#FFFCFC 100%);
+        background: -ms-linear-gradient(top, #ffffff 0%,#FFFCFC 100%);
+        background: linear-gradient(to bottom, #ffffff 0%,#FFFCFC 100%);
+        filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ffffff', endColorstr='#FFFCFC',GradientType=0 );
+        /*text-shadow:1px 1px #ffffff;*/
+        cursor: url(openhand.cur), move;      
+        
+    }
+
+.menuItem {
+    cursor: url(openhand.cur), move;
+}
+
+.modalPopupBackGround
+{
+    background-color: gray;
+    filter: alpha(opacity=50);
+    opacity: 0.7;
+}
+
+.modalPopupPanel
+{
+    height:500px;
+    width:800px;
+    max-height:500px;
+    position:fixed;
+    background-color:#ffffff;
+    border-bottom-color:black;
+    border: 0px solid black;
+    border-radius: 12px;
+    padding:4px;
+    /*box-shadow:2px 2px 5px 5px #FF6634;*/
+    box-shadow: 0 0 5px 1px rgba(0,0,0,.1);
+}
+
+/*
+.draggable, .menuTableContainer .menuGridStyle tbody tr td div div{
+    border:1px solid #ccc;
+    border-bottom:1px solid #aaa;
+    border-radius:3px;
+    padding:5px;
+    margin:5px 0;
+    color:#666666;
+    line-height:16px;
+    box-shadow: 0 0 3px rgba(0,0,0,.2);
+    background: #f5f5f5;
+    background: -moz-linear-gradient(top,  #ffffff 0%, #dddddd 100%);
+    background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#ffffff), color-stop(100%,#dddddd));
+    background: -webkit-linear-gradient(top,  #ffffff 0%,#dddddd 100%);
+    background: -o-linear-gradient(top,  #ffffff 0%,#dddddd 100%);
+    background: -ms-linear-gradient(top,  #ffffff 0%,#dddddd 100%);
+    background: linear-gradient(to bottom,  #ffffff 0%,#dddddd 100%);
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ffffff', endColorstr='#dddddd',GradientType=0 );
+    text-shadow:1px 1px #ffffff;
+    cursor: url(openhand.cur), default !important;
+}
+*/
+.draggable:hover {
+    cursor: url(openhand.cur), move;
+}
+
+.ui-droppable {
+    height: 80px;
+}
+
+.menuList {
+    width: 100%;
+    height: 400px!important;
+    overflow-y: scroll;
+}
+
+
+
+.editTableContainer {
+    border-radius: 5px;
+    width: 100%;
+    margin: 10px 0;
+    border: 1px solid #ccc;
+    overflow: hidden;
+}
+
+    .editTableContainer table {
+        width: 100%;
+        border-collapse: collapse;
+    }
+
+        .editTableContainer table tbody tr th {
+        }
+
+        .editTableContainer table tbody tr td {
+            border-bottom: 1px dotted #cccccc;
+            border-left: 1px dotted #cccccc;
+            vertical-align: top;
+        }
+
+        .editTableContainer table tbody tr th, .menuTableContainer table tbody tr td {
+            text-align: left;
+            line-height: 16px;
+        }
+
+.menuTableContainer div .menuGridStyle tbody tr td {
+    height: 110px;
+}
+
+.alternate {
+    filter: progid:DXImageTransform.Microsoft.gradient(enabled=false);
+    background: #D6F9FC;
+    color: Black;
+}
+
+.sampleMenuItem {
+    /*color: black;
+    font-weight: bold;
+    background: lightpink !important;*/
+
+    color: black;
+    font-weight:normal;
+    background: #EF938A !important;
+}
+
+.listWidth {
+    width: 230px;
+}
+
+    .listWidth option {
+        width: auto;
+        position: relative;
+    }
+
+.spaceL {
+    margin-left: 10px;
+}
+
+.reportNames {
+    display: inline-block;
+}
+
+.wReportLink {
+    width: 250px;
+}
+
+.wReportDescription {
+    width: 500px;
+}
+
+.searchoverlay {
+    position: fixed;
+    z-index: 98;
+    top: 0px;
+    left: 0px;
+    right: 0px;
+    bottom: 0px;
+    background-color: #aaa;
+    filter: alpha(opacity=80);
+    opacity: 0.8;
+}
+
+.searchoverlayContent {
+    z-index: 99;
+    width: 80px;
+    height: 80px;
+}
+
+    .searchoverlayContent h2 {
+        font-size: 18px;
+        font-weight: bold;
+        color: #000;
+        width: 100%;
+        position: absolute;
+        margin: -50px 0 0 -50px;
+        left: 50%;
+        top: 50%;
+    }
+
+    .searchoverlayContent img {
+        width: 100px;
+        height: 100px;
+        position: absolute;
+        margin: -50px 0 0 -50px;
+        left: 50%;
+        top: 50%;
+    }
+
+
+
+.datalisthr {
+    height: 1px;
+    border: 0;
+    background: #FF6634;
+}
+
+
+.datalista {
+    /*font-family: "Open Sans",sans-serif;*/
+    font-size: 12px;
+    color: #e84634;
+    font-weight: 500;
+}
+
+
+/* ****************** RatingStar ****************** */
+.ratingStar
+{
+      white-space:nowrap;
+      margin:1em;
+      height:14px;
+}
+.ratingStar .ratingItem {
+    font-size: 0pt;
+    width: 13px;
+    height: 12px;
+    margin: 0px;
+    padding: 0px;
+    display: block;
+    background-repeat: no-repeat;
+      cursor:pointer;
+}
+
+.ratingStar .Empty {
+    background-image: url('../images/ratingStarEmpty.png');
+}
+.ratingStar .EmptyIE {
+    background-image: url('../images/ratingStarEmptyIE.png');
+}
+.ratingStar .Filled {
+    background-image: url('../images/ratingStarFilled.png');
+}
+.ratingStar .FilledIE {
+    background-image: url('../images/ratingStarFilledIE.png');
+}
+.ratingStar .Saved {
+    background-image: url('../images/ratingStarSaved.png');
+}
+.ratingStar .SavedIE {
+    background-image: url('../images/ratingStarSavedIE.png');
+}
+
+
+
+
+
+/*Style settings for recipe page*/
+
+
+.cbtags input[type=checkbox]{
+  width: 25px;
+  height: 25px;
+  position: relative;
+  margin: 20px auto;
+  -moz-border-radius: 5px;
+  -webkit-border-radius: 5px;
+  background: #d3f578;
+  background: linear-gradient(top, #fcfff4 0%, #dfe5d7 40%, #b3bead 100%);
+  background: -moz-linear-gradient(top, #fcfff4 0%,#dfe5d7 40%, #b3bead 100%);
+  /*-moz-transform: scale(1.5);*/
+  -moz-appearance: none;
+  -webkit-appearance: checkbox;
+  -moz-border-radius: 5px;
+  -webkit-border-radius: 5px;
+  box-sizing: border-box;
+  /*box-shadow: inset 0px 1px 1px white, 0px 1px 3px rgba(0,0,0,0.5);*/
+  /*border: 1px solid red;
+  border-radius: 5px;*/
+
+}
+
+
+
+.cbtags input[type=checkbox] + label { 
+    vertical-align:super;
+    line-height: 1em;
+    font-size: 12px;
+    font-family:  Verdana, sans-serif;
+    font-weight:bold;
+    margin:10px;
+    display:block;  
+    margin-top:-15px;
+    -moz-appearance: checkbox-label;
+    /*-webkit-appearance: checkbox;*/
+    /*border: 1px solid red;
+    border-radius: 5px;*/
+
+}
+
+
+
+
+/*.tags input[type=checkbox]:checked  + label::after
+{
+      content: '';
+      width: 15px;
+      height: 5px;
+      position:  inherit;
+      background: rgba(0, 0, 0, 0);
+      opacity: 1;
+      transform: rotate(-45deg);
+}*/
+
+
+
+.Expandcontainer {
+    text-align:center; 
+    width: 750px;    
+    /*height: 100%;*/
+    /*margin-left:20px;
+    margin-top:10px;*/
+    margin: 20px;
+    /*background: #fff;*/
+    min-height: 50px;
+    /*border: 1px solid #ccc;
+    border-top: 0 none;
+    box-shadow: 0 0 3px rgba(0,0,0,.3);
+    border-radius: 0 0 3px 3px;
+    overflow: hidden;
+    background-color:white;*/
+
+}
+
+
+
+
+.Expandcontainer .cbtags{
+    display: none;
+   
+}
+
+.Expandheader {
+    text-align:left;
+    border-bottom: 2px solid #ddd;
+    background:url('../images/recipeIcons/expand.png') no-repeat ; 
+    background-position: 2px 8px !important;
+    background-size: 30px 30px;
+    margin:5px;
+    padding: 12px 20px 12px 40px;
+    font-size:20px;
+    font-weight:normal;
+    color: #f35f14;
+    /*text-shadow:1px 1px 5px #000000;*/
+    font-family: Verdana, sans-serif;
+    font-size:medium;
+    -webkit-font-smoothing: antialiased;
+    background-color: antiquewhite;
+
+}
+
+.Expandheader:hover {
+    cursor:pointer;
+    font-weight:bold;
+    }
+
+
+
+.pnlCategorySearch {
+    width:100%; 
+    /*height:auto;*/ 
+    float:none; 
+    text-align:center; 
+    border-color:lightgray; 
+    box-shadow:inset; 
+    border-radius:5px; 
+    border-style:solid; 
+    background-color:antiquewhite; 
+    /*margin-left:20px;*/ 
+    font-weight:bold; 
+    font-family: Verdana, sans-serif;        
+    }

@@ -1,0 +1,11 @@
+2021-03-15 16:13:27,689 [  1] INFO  AppManager [(null)] SimpleServings started.
+2021-03-15 16:13:51,335 [ 18] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: fobqzp0ry2unsvimf2att3lh
+2021-03-15 16:15:00,798 [ 21] INFO  AppManager [(null)] (Recipe.aspx) - Request from http://localhost:1949/SimpleServings/UI/Page/SimpleServings/Menu/MenuList.aspx?MenuType=MyMenus 
+SessionId: fobqzp0ry2unsvimf2att3lh
+2021-03-15 17:05:35,895 [  1] INFO  AppManager [(null)] SimpleServings started.
+2021-03-15 17:06:00,653 [ 10] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: xqo5cxfdtbmjtrn3qs3mt2nx
+2021-03-15 17:20:36,186 [  1] INFO  AppManager [(null)] SimpleServings started.
+2021-03-15 17:21:00,970 [ 18] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: 01n1rq3muv1elqr2kpxlpebt

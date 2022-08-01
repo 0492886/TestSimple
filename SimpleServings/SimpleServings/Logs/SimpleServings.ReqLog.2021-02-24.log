@@ -1,0 +1,115 @@
+2021-02-24 09:46:58,141 [ 61] INFO  AppManager [(null)] SimpleServings started.
+2021-02-24 09:47:48,810 [ 77] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: w4gvmkqgaptbyxpftn5hesjz
+2021-02-24 10:04:09,228 [113] INFO  AppManager [(null)] (landingPage.aspx) - Clearing Session 
+Request Type:  
+SessionId: a4w0dhyryp2gcy425efhykrx
+2021-02-24 10:04:09,242 [ 91] INFO  AppManager [(null)] (landingPage.aspx) - New Session 
+Request Type:  
+SessionId: cku1eoxhsk43hisevk0bily0
+2021-02-24 10:04:09,573 [ 38] INFO  AppManager [(null)] (login.aspx) - (Mli) - Login successful 
+SessionId: q5qudj34mc1nidjgfnbikdjb
+2021-02-24 10:04:09,614 [ 94] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: cku1eoxhsk43hisevk0bily0
+2021-02-24 11:45:24,955 [ 75] INFO  AppManager [(null)] (landingPage.aspx) - Clearing Session 
+Request Type:  
+SessionId: 1gcqi0tojsvwx2nclq12bwov
+2021-02-24 11:45:24,979 [ 11] INFO  AppManager [(null)] (landingPage.aspx) - New Session 
+Request Type:  
+SessionId: hkrcogprd0oeoqwe1azz352f
+2021-02-24 11:45:25,878 [ 22] INFO  AppManager [(null)] (login.aspx) - (Mli) - Login successful 
+SessionId: xuzek5jbd4momtppjmmnjog1
+2021-02-24 11:45:25,912 [ 42] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: hkrcogprd0oeoqwe1azz352f
+2021-02-24 11:47:21,687 [108] INFO  AppManager [(null)] (landingPage.aspx) - Clearing Session 
+Request Type:  
+SessionId: uqr5pfmv03hapoigzgtesaec
+2021-02-24 11:47:21,788 [ 62] INFO  AppManager [(null)] (landingPage.aspx) - New Session 
+Request Type:  
+SessionId: ous1swajo1ax5rehz1fbmqes
+2021-02-24 11:47:22,008 [ 29] INFO  AppManager [(null)] (login.aspx) - (Mli) - Login successful 
+SessionId: 1kruukoxarelysbapuhmi2bq
+2021-02-24 11:47:22,014 [ 11] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: ous1swajo1ax5rehz1fbmqes
+2021-02-24 12:17:53,376 [ 72] INFO  AppManager [(null)] (landingPage.aspx) - Clearing Session 
+Request Type:  
+SessionId: dthd4mtdlzmkhwa4ucc14up4
+2021-02-24 12:17:53,390 [ 71] INFO  AppManager [(null)] (landingPage.aspx) - New Session 
+Request Type:  
+SessionId: anx2jobc2psylzcomwqf5bmv
+2021-02-24 12:17:54,587 [ 72] INFO  AppManager [(null)] (login.aspx) - (Mli) - Login successful 
+SessionId: 5zlwgmuhqvdetzs0yqrbxvaa
+2021-02-24 12:17:54,629 [ 67] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: anx2jobc2psylzcomwqf5bmv
+2021-02-24 12:19:09,746 [ 24] INFO  AppManager [(null)] (landingPage.aspx) - Clearing Session 
+Request Type:  
+SessionId: hs42injqct2albei1cvjjzo1
+2021-02-24 12:19:09,803 [ 14] INFO  AppManager [(null)] (landingPage.aspx) - New Session 
+Request Type:  
+SessionId: 3wwffldcyzmf4nmblpfvfnmb
+2021-02-24 12:19:10,107 [ 80] INFO  AppManager [(null)] (login.aspx) - (Mli) - Login successful 
+SessionId: zddzmvvcm23tfwvxnvyag3zq
+2021-02-24 12:19:10,113 [ 70] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: 3wwffldcyzmf4nmblpfvfnmb
+2021-02-24 13:10:01,019 [ 95] INFO  AppManager [(null)] SimpleServings started.
+2021-02-24 13:10:46,758 [ 71] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: aatgzxj0x5vomfgkgnsknslv
+2021-02-24 13:52:03,846 [  1] INFO  AppManager [(null)] SimpleServings started.
+2021-02-24 13:53:08,107 [ 18] ERROR AppManager [(null)] btnLogin_Click failed: Incorrect username and/or password.
+2021-02-24 13:54:13,968 [ 13] INFO  AppManager [(null)] (landingPage.aspx) - Clearing Session 
+Request Type:  
+SessionId: zk0txnk5rmdvtwmp2vazopvm
+2021-02-24 13:54:13,980 [  5] INFO  AppManager [(null)] (landingPage.aspx) - New Session 
+Request Type:  
+SessionId: nrcajcixqgwh2a1b5l5qonqu
+2021-02-24 13:54:14,366 [  9] INFO  AppManager [(null)] (login.aspx) - (Mli) - Login successful 
+SessionId: egsknt0nj2adhn5z3huleohl
+2021-02-24 13:54:14,531 [ 15] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: nrcajcixqgwh2a1b5l5qonqu
+2021-02-24 13:56:36,296 [ 17] ERROR AppManager [(null)] SimpleServings application error: The file '/SimpleServings/UI/Page/SimpleServings/Setting/myzone.aspx' does not exist.
+location: http://localhost:1948/SimpleServings/UI/Page/SimpleServings/Setting/myzone.aspx
+
+System.Web.HttpException (0x80004005): The file '/SimpleServings/UI/Page/SimpleServings/Setting/myzone.aspx' does not exist.
+   at System.Web.UI.Util.CheckVirtualFileExists(VirtualPath virtualPath)
+   at System.Web.Compilation.BuildManager.GetVPathBuildResultInternal(VirtualPath virtualPath, Boolean noBuild, Boolean allowCrossApp, Boolean allowBuildInPrecompile, Boolean throwIfNotFound, Boolean ensureIsUpToDate)
+   at System.Web.Compilation.BuildManager.GetVPathBuildResultWithNoAssert(HttpContext context, VirtualPath virtualPath, Boolean noBuild, Boolean allowCrossApp, Boolean allowBuildInPrecompile, Boolean throwIfNotFound, Boolean ensureIsUpToDate)
+   at System.Web.Compilation.BuildManager.GetVirtualPathObjectFactory(VirtualPath virtualPath, HttpContext context, Boolean allowCrossApp, Boolean throwIfNotFound)
+   at System.Web.Compilation.BuildManager.CreateInstanceFromVirtualPath(VirtualPath virtualPath, Type requiredBaseType, HttpContext context, Boolean allowCrossApp)
+   at System.Web.UI.PageHandlerFactory.GetHandlerHelper(HttpContext context, String requestType, VirtualPath virtualPath, String physicalPath)
+   at System.Web.UI.PageHandlerFactory.GetHandler(HttpContext context, String requestType, String virtualPath, String path)
+   at System.Web.HttpApplication.MaterializeHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStepImpl(IExecutionStep step)
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+2021-02-24 14:05:02,829 [ 15] INFO  AppManager [(null)] (landingPage.aspx) - Clearing Session 
+Request Type:  
+SessionId: wpll5nsvpiqmel0scfidts22
+2021-02-24 14:05:02,914 [ 27] INFO  AppManager [(null)] (landingPage.aspx) - New Session 
+Request Type:  
+SessionId: siw3jzbym512yl2c52axmcqn
+2021-02-24 14:05:03,201 [ 30] INFO  AppManager [(null)] (login.aspx) - (Mli) - Login successful 
+SessionId: 4mc00tdqutvsswwh4tuxbjmh
+2021-02-24 14:05:03,206 [  9] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: siw3jzbym512yl2c52axmcqn
+2021-02-24 17:16:11,205 [  1] INFO  AppManager [(null)] SimpleServings started.
+2021-02-24 17:17:09,590 [ 11] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: fdgz3a45bing0gbi2jgazavb
+2021-02-24 17:18:31,309 [ 12] INFO  AppManager [(null)] (landingPage.aspx) - Clearing Session 
+Request Type:  
+SessionId: 5tkabj0cneyzuei3n5khhkz3
+2021-02-24 17:18:31,326 [ 15] INFO  AppManager [(null)] (landingPage.aspx) - New Session 
+Request Type:  
+SessionId: 0ekfajz23kpztltxxqoae4it
+2021-02-24 17:19:49,507 [ 14] INFO  AppManager [(null)] (login.aspx) - (Mli) - Login successful 
+SessionId: ywpnf3c0q5r4syyc4uyxmazy
+2021-02-24 17:19:49,528 [ 11] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: 0ekfajz23kpztltxxqoae4it
+2021-02-24 18:07:10,014 [ 59] INFO  AppManager [(null)] (landingPage.aspx) - Clearing Session 
+Request Type:  
+SessionId: ejunm0zpw53pzai1dycdlx3r
+2021-02-24 18:07:10,023 [ 60] INFO  AppManager [(null)] (landingPage.aspx) - New Session 
+Request Type:  
+SessionId: kq2wt10ij0z4whlrozptc33y
+2021-02-24 18:07:10,450 [ 35] INFO  AppManager [(null)] (login.aspx) - (Mli) - Login successful 
+SessionId: 1anqmxaimv405zexjwry2lio
+2021-02-24 18:07:11,554 [ 62] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: kq2wt10ij0z4whlrozptc33y

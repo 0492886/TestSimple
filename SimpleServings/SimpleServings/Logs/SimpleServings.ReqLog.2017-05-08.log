@@ -1,0 +1,123 @@
+2017-05-08 10:41:47,711 [  6] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: zjynrebjv4e3x4yu3pdthcjq
+2017-05-08 10:41:55,462 [  8] INFO  AppManager [(null)] (landingPage.aspx) - Request from http://localhost:1949/SimpleServings/UI/Page/ 
+Request Type: LogInOut 
+SessionId: zjynrebjv4e3x4yu3pdthcjq
+2017-05-08 10:41:55,463 [  8] INFO  AppManager [(null)] (landingPage.aspx) - Redirecting to Login.aspx 
+Request Type: LogInOut 
+SessionId: zjynrebjv4e3x4yu3pdthcjq
+2017-05-08 10:41:55,473 [  8] INFO  AppManager [(null)] (login.aspx) - Request from http://localhost:1949/SimpleServings/UI/Page/ 
+SessionId: ieerya30sz3tvsuqiz5xtqm1
+2017-05-08 10:41:58,429 [  8] INFO  AppManager [(null)] (landingPage.aspx) - Clearing Session 
+Request Type:  
+SessionId: a0lu2qmcrkvgqm45yjv3c155
+2017-05-08 10:41:58,442 [  6] INFO  AppManager [(null)] (landingPage.aspx) - New Session 
+Request Type:  
+SessionId: eezvc055llyv4ivwixir0lz2
+2017-05-08 10:41:58,800 [  7] INFO  AppManager [(null)] (login.aspx) - (cvais7773) - Login successful 
+SessionId: 2lwpas55r1dlgt55ze0gu3ya
+2017-05-08 10:41:58,810 [  7] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: eezvc055llyv4ivwixir0lz2
+2017-05-08 11:01:40,258 [ 12] INFO  AppManager [(null)] SimpleServings started.
+2017-05-08 11:05:17,774 [  7] ERROR AppManager [(null)] SimpleServings application error: c:\TFS\DFTA\SimpleServings\SimpleServings\SimpleServings\UI\UDC\SimpleServings\Reports\ViewReport.ascx(20): error CS1061: 'ASP.ui_udc_simpleservings_reports_viewreport_ascx' does not contain a definition for 'btnSearch_Click' and no extension method 'btnSearch_Click' accepting a first argument of type 'ASP.ui_udc_simpleservings_reports_viewreport_ascx' could be found (are you missing a using directive or an assembly reference?)
+location: http://localhost:1949/SimpleServings/UI/Page/SimpleServings/Reports/ViewReport.aspx
+
+System.Web.HttpParseException: c:\TFS\DFTA\SimpleServings\SimpleServings\SimpleServings\UI\UDC\SimpleServings\Reports\ViewReport.ascx(20): error CS1061: 'ASP.ui_udc_simpleservings_reports_viewreport_ascx' does not contain a definition for 'btnSearch_Click' and no extension method 'btnSearch_Click' accepting a first argument of type 'ASP.ui_udc_simpleservings_reports_viewreport_ascx' could be found (are you missing a using directive or an assembly reference?) ---> System.Web.HttpCompileException: c:\TFS\DFTA\SimpleServings\SimpleServings\SimpleServings\UI\UDC\SimpleServings\Reports\ViewReport.ascx(20): error CS1061: 'ASP.ui_udc_simpleservings_reports_viewreport_ascx' does not contain a definition for 'btnSearch_Click' and no extension method 'btnSearch_Click' accepting a first argument of type 'ASP.ui_udc_simpleservings_reports_viewreport_ascx' could be found (are you missing a using directive or an assembly reference?)
+   at System.Web.Compilation.BuildManager.PostProcessFoundBuildResult(BuildResult result, Boolean keyFromVPP, VirtualPath virtualPath)
+   at System.Web.Compilation.BuildManager.GetBuildResultFromCacheInternal(String cacheKey, Boolean keyFromVPP, VirtualPath virtualPath, Int64 hashCode)
+   at System.Web.Compilation.BuildManager.GetVPathBuildResultFromCacheInternal(VirtualPath virtualPath)
+   at System.Web.Compilation.BuildManager.GetVPathBuildResultInternal(VirtualPath virtualPath, Boolean noBuild, Boolean allowCrossApp, Boolean allowBuildInPrecompile)
+   at System.Web.Compilation.BuildManager.GetVPathBuildResultWithNoAssert(HttpContext context, VirtualPath virtualPath, Boolean noBuild, Boolean allowCrossApp, Boolean allowBuildInPrecompile)
+   at System.Web.Compilation.BuildManager.GetVPathBuildResult(HttpContext context, VirtualPath virtualPath, Boolean noBuild, Boolean allowCrossApp, Boolean allowBuildInPrecompile)
+   at System.Web.UI.BaseTemplateParser.GetReferencedType(VirtualPath virtualPath, Boolean allowNoCompile)
+   at System.Web.UI.BaseTemplateParser.GetUserControlType(VirtualPath virtualPath)
+   at System.Web.UI.MainTagNameToTypeMapper.ProcessUserControlRegistration(UserControlRegisterEntry ucRegisterEntry)
+   at System.Web.UI.BaseTemplateParser.ProcessDirective(String directiveName, IDictionary directive)
+   at System.Web.UI.TemplateControlParser.ProcessDirective(String directiveName, IDictionary directive)
+   at System.Web.UI.PageParser.ProcessDirective(String directiveName, IDictionary directive)
+   at System.Web.UI.TemplateParser.ParseStringInternal(String text, Encoding fileEncoding)
+   --- End of inner exception stack trace ---
+   at System.Web.UI.TemplateParser.ProcessException(Exception ex)
+   at System.Web.UI.TemplateParser.ParseStringInternal(String text, Encoding fileEncoding)
+   at System.Web.UI.TemplateParser.ParseString(String text, VirtualPath virtualPath, Encoding fileEncoding)
+   at System.Web.UI.TemplateParser.ParseReader(StreamReader reader, VirtualPath virtualPath)
+   at System.Web.UI.TemplateParser.ParseFile(String physicalPath, VirtualPath virtualPath)
+   at System.Web.UI.TemplateParser.ParseInternal()
+   at System.Web.UI.TemplateParser.Parse()
+   at System.Web.UI.TemplateParser.Parse(ICollection referencedAssemblies, VirtualPath virtualPath)
+   at System.Web.Compilation.BaseTemplateBuildProvider.get_CodeCompilerType()
+   at System.Web.Compilation.BuildProvider.GetCompilerTypeFromBuildProvider(BuildProvider buildProvider)
+   at System.Web.Compilation.BuildProvidersCompiler.ProcessBuildProviders()
+   at System.Web.Compilation.BuildProvidersCompiler.PerformBuild()
+   at System.Web.Compilation.BuildManager.CompileWebFile(VirtualPath virtualPath)
+   at System.Web.Compilation.BuildManager.GetVPathBuildResultInternal(VirtualPath virtualPath, Boolean noBuild, Boolean allowCrossApp, Boolean allowBuildInPrecompile)
+   at System.Web.Compilation.BuildManager.GetVPathBuildResultWithNoAssert(HttpContext context, VirtualPath virtualPath, Boolean noBuild, Boolean allowCrossApp, Boolean allowBuildInPrecompile)
+   at System.Web.Compilation.BuildManager.GetVirtualPathObjectFactory(VirtualPath virtualPath, HttpContext context, Boolean allowCrossApp, Boolean noAssert)
+   at System.Web.Compilation.BuildManager.CreateInstanceFromVirtualPath(VirtualPath virtualPath, Type requiredBaseType, HttpContext context, Boolean allowCrossApp, Boolean noAssert)
+   at System.Web.UI.PageHandlerFactory.GetHandlerHelper(HttpContext context, String requestType, VirtualPath virtualPath, String physicalPath)
+   at System.Web.UI.PageHandlerFactory.GetHandler(HttpContext context, String requestType, String virtualPath, String path)
+   at System.Web.HttpApplication.MaterializeHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+2017-05-08 11:05:48,495 [ 12] INFO  AppManager [(null)] SimpleServings started.
+2017-05-08 11:09:34,230 [  8] INFO  AppManager [(null)] (Recipe.aspx) - Request from http://localhost:1949/SimpleServings/UI/Page/SimpleServings/Reports/ViewReport.aspx 
+SessionId: eezvc055llyv4ivwixir0lz2
+2017-05-08 11:09:44,697 [  8] INFO  AppManager [(null)] (RecipeList.aspx) - Redirecting to Login.aspx 
+SessionId: eezvc055llyv4ivwixir0lz2
+2017-05-08 11:09:44,725 [  5] INFO  AppManager [(null)] (landingPage.aspx) - Request from http://localhost:1949/SimpleServings/UI/Page/SimpleServings/Recipe/Recipe.aspx 
+Request Type: LogInOut 
+SessionId: eezvc055llyv4ivwixir0lz2
+2017-05-08 11:09:44,726 [  5] INFO  AppManager [(null)] (landingPage.aspx) - Redirecting to Login.aspx 
+Request Type: LogInOut 
+SessionId: eezvc055llyv4ivwixir0lz2
+2017-05-08 11:09:44,750 [  8] INFO  AppManager [(null)] (login.aspx) - Request from http://localhost:1949/SimpleServings/UI/Page/SimpleServings/Recipe/Recipe.aspx 
+SessionId: q32agr334vbhv2ugbz3drwfh
+2017-05-08 11:09:48,022 [  8] INFO  AppManager [(null)] (landingPage.aspx) - Clearing Session 
+Request Type:  
+SessionId: kj4maxbs0newru45wpawgqjp
+2017-05-08 11:09:48,045 [  7] INFO  AppManager [(null)] (landingPage.aspx) - New Session 
+Request Type:  
+SessionId: gw1gv4554bbpzi55by4e31ai
+2017-05-08 11:09:48,095 [  8] INFO  AppManager [(null)] (login.aspx) - (cvais7773) - Login successful 
+SessionId: gbjh0w45rh04c5nmuq0ecb55
+2017-05-08 11:09:48,122 [  5] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: gw1gv4554bbpzi55by4e31ai
+2017-05-08 11:17:05,674 [ 11] INFO  AppManager [(null)] SimpleServings started.
+2017-05-08 11:21:20,432 [ 11] INFO  AppManager [(null)] SimpleServings started.
+2017-05-08 11:21:32,560 [  8] INFO  AppManager [(null)] (landingPage.aspx) - Request from http://localhost:1949/SimpleServings/UI/Page/SimpleServings/Reports/reports.aspx 
+Request Type: LogInOut 
+SessionId: gw1gv4554bbpzi55by4e31ai
+2017-05-08 11:21:32,561 [  8] INFO  AppManager [(null)] (landingPage.aspx) - Redirecting to Login.aspx 
+Request Type: LogInOut 
+SessionId: gw1gv4554bbpzi55by4e31ai
+2017-05-08 11:21:32,602 [  7] INFO  AppManager [(null)] (login.aspx) - Request from http://localhost:1949/SimpleServings/UI/Page/SimpleServings/Reports/reports.aspx 
+SessionId: yhlvv145x1y0mn55aw4uf355
+2017-05-08 11:21:35,784 [  5] INFO  AppManager [(null)] (landingPage.aspx) - Clearing Session 
+Request Type:  
+SessionId: iyr3y3zzdz53no552foya0mj
+2017-05-08 11:21:35,807 [  7] INFO  AppManager [(null)] (landingPage.aspx) - New Session 
+Request Type:  
+SessionId: 3kb2ci45v0w0fta35hwp4zim
+2017-05-08 11:21:35,916 [  6] INFO  AppManager [(null)] (login.aspx) - (cvais7773) - Login successful 
+SessionId: njskd4euuwfmrx55jzpivxqa
+2017-05-08 11:21:35,947 [  8] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: 3kb2ci45v0w0fta35hwp4zim
+2017-05-08 14:18:08,011 [  7] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: 3kb2ci45v0w0fta35hwp4zim
+2017-05-08 14:19:15,458 [  7] INFO  AppManager [(null)] (landingPage.aspx) - Request from http://localhost:1949/SimpleServings/UI/Page/ 
+Request Type: LogInOut 
+SessionId: 3kb2ci45v0w0fta35hwp4zim
+2017-05-08 14:19:15,458 [  7] INFO  AppManager [(null)] (landingPage.aspx) - Redirecting to Login.aspx 
+Request Type: LogInOut 
+SessionId: 3kb2ci45v0w0fta35hwp4zim
+2017-05-08 14:19:15,465 [  6] INFO  AppManager [(null)] (login.aspx) - Request from http://localhost:1949/SimpleServings/UI/Page/ 
+SessionId: 0jxmoj5540uvpwiosu3okcqo
+2017-05-08 14:20:02,693 [  7] INFO  AppManager [(null)] (landingPage.aspx) - Clearing Session 
+Request Type:  
+SessionId: imq3305530lk1d45auy33wj3
+2017-05-08 14:20:02,717 [  7] INFO  AppManager [(null)] (landingPage.aspx) - New Session 
+Request Type:  
+SessionId: ddwntp55a04zjiemdlqcozrx
+2017-05-08 14:20:02,791 [  5] INFO  AppManager [(null)] (login.aspx) - (cvais7773) - Login successful 
+SessionId: otudfhy2z55c3455ibhy0jyd
+2017-05-08 14:20:02,797 [  5] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: ddwntp55a04zjiemdlqcozrx

@@ -1,0 +1,366 @@
+/*sdmenu style*/
+
+div.sdmenu {
+	width:164px;
+	font-size:1em;font-size:.9em;
+	padding-bottom:2px;
+	/*background:#4e91a7 url(bottom.gif) no-repeat  right bottom;*/
+	color: #fff;
+	text-align:center;
+	float:right;
+}
+
+
+
+div.sdmenu div {
+	overflow: hidden;
+}
+
+div.sdmenu div.collapsed {
+	height: 20px;
+}
+
+div.sdmenu div h2 {
+	display: block;
+	padding: 4px 17px;
+	font-weight: bold;
+	font-size:1.2em;
+	text-indent:14px;
+	color: #fff;
+	background:#333333 url(../Imgs/SidebarTitlesBack.gif) repeat-x;
+	cursor: pointer;
+}
+
+
+
+
+div.sdmenu div.collapsed h2 {
+	background: url(../Imgs/SidebarTitlesBack.gif) repeat-x;
+}
+
+div.sdmenu div a {
+	padding: 5px 10px;
+	background: #eee;
+	display: block;
+	text-decoration:none;
+	border-bottom: 1px solid #ddd;
+	color: #335e70;
+}
+
+div.sdmenu div a.current {
+	background : #71a3b0;
+	color:#fff;
+}
+div.sdmenu div a:hover {
+	background : #4e91a7 url(linkarrow.gif) no-repeat right center;
+	color: #fff;
+	text-decoration: none;}
+	
+/* test myzone*/
+
+#myzone div.sdmenu {
+	width:164px;
+	font-size:1em;font-size:1em;
+	padding-bottom:2px;
+	color: #fff;
+	text-align:center;
+	float:right;
+	background:transparent;
+}
+
+
+#myzone div.sdmenu div {
+	overflow: hidden;
+}
+
+#myzone div.sdmenu div.collapsed {
+	height: 33px;
+}
+
+#myzone div.sdmenu div h2 {
+	display: block;
+	padding: 7px 12px;
+	font-weight: bold;
+	font-size:1.1em;
+	text-indent:14px;
+	color: #fff;
+	background:url(../Imgs/mz_sidetitle_hover2.gif) no-repeat;
+	cursor: pointer;
+}
+
+#myzone div.sdmenu div.collapsed h2:hover 
+{
+	background:url(../Imgs/mz_sidetitle_hover2.gif) no-repeat;}
+	
+#myzone div.sdmenu div.collapsed h2 {
+	background: url(../Imgs/mz_sidetitle2.gif) no-repeat;
+}
+
+#myzone div.sdmenu div a {
+	padding: 5px 10px;
+	display: block;
+	text-decoration:none;
+	border-bottom: 1px solid #ddd;
+	color: #555;
+	background:transparent;
+}
+
+#myzone div.sdmenu div a.current {
+	background : #71a3b0;
+	color:#fff;
+}
+#myzone #help div.sdmenu div a:hover {
+	background : #4e91a7 url(linkarrow.gif) no-repeat right center;
+	color: #fff;
+	text-decoration: none;}	
+
+
+
+
+
+/*  FOR HOMEPAGE  */
+#homepage div.sdmenuContainer
+{
+	margin:15px 7px;}
+
+#homepage div.sdmenu {
+    width: 531px;
+    font-size:.9em;
+	padding:0px;
+	background:transparent;
+	color: #fff;
+	text-align:left;
+	float:left;
+}
+
+#homepage div.sdmenu img 
+{
+	width:53px;float:left; margin:0px 10px 10px 0px;
+	border:solid 3px #424242;
+	clear:both;
+	display:none;
+	}
+	
+#homepage div.sdmenu div
+{
+	background:url(../Images/v2/homepage/accordionBack.gif) bottom;
+	color:#555555;
+	height:220px;
+	clear:both;}
+	
+#homepage div.sdmenu span.menuSection 
+{
+	display:block;
+	font-family:arial,helvetica,sans-serif;
+	font-size:1.25em;
+	line-height:1.6em;
+	margin:0px;
+	text-align:justify;
+	padding:0px 20px 0px 20px;}
+	
+#homepage div.sdmenu span.menuSection .lnkMoreInfo
+{
+	display:block;
+	background:url(../Images/v2/homepage/btnMore.gif) no-repeat;
+	height:23px;
+	width:50px;
+	margin:20px;
+	padding:2px 0px 0px 25px;
+	color:#fff; }
+	
+#homepage div.sdmenu span.menuSection .lnkMoreInfo:hover
+{
+	background:url(../Images/v2/homepage/btnMoreHover.gif) no-repeat;}
+	
+	
+#homepage div.sdmenu div.collapsed {
+	height: 40px;
+	clear:both;
+}
+
+#homepage div.sdmenu div div
+{
+	background:none;}
+	
+#homepage div.sdmenu div h2
+{	
+	background:transparent url(../Images/v2/homepage/accor_green.gif) no-repeat scroll 0 3px;
+	height:27px;
+	font-size:1.4em;
+	color:#fff;
+	margin:0px 0px 0px 0px;
+	/*text-transform:uppercase;*/
+	padding:8px 0px;
+	clear:both;
+	position:relative;top:-3px;}
+
+#homepage div.sdmenu div.collapsed h2
+{
+	background:transparent url(../Images/v2/homepage/accor_black.gif) no-repeat scroll 0 3px;}
+	
+#homepage div.sdmenu div h2:hover
+{
+	background:transparent url(../Images/v2/homepage/accor_green.gif) no-repeat scroll 0 3px;}
+		
+#homepage div.sdmenu div a, #homepage div.sdmenu div a.current {
+	padding: 5px 10px;
+	display: inline;
+	text-decoration:none;
+	border:none;
+	color: #335e70;
+	background:none;
+}
+
+#homepage div.sdmenu div ul.latestNews,
+#homepage div.sdmenu div ul.latestNews *
+{
+	font-size:1em;
+	font-weight:100;
+	line-height:2em;margin-bottom:10px;}
+	
+#homepage div.sdmenu div ul.latestNews *:hover
+{
+	color:#3C8EA3;}
+	
+	/*For test*/
+ #testaccord div.sdmenu {
+	width:164px;
+	font-size:1em;font-size:.9em;
+	padding-bottom:2px;
+	color: #fff;
+	text-align:left;
+	float:right;
+	height:220px;
+}
+
+	
+
+ #testaccord div.sdmenu div h3 {
+	display: block;
+	padding: 4px 17px;
+	font-weight: bold;
+	/*height:220px;*/
+	font-size:14px;
+	text-indent:14px;
+	text-align:left;
+	color: #fff;
+	background:transparent url(../Images/v2/homepage/accor_black.gif) no-repeat scroll 0 3px;
+	cursor: pointer;
+	height: 30px;
+}
+
+
+  #testaccord div.sdmenu div h2
+ {
+	background:transparent url(../Images/v2/homepage/accor_green.gif) no-repeat scroll 0 3px;
+	height: 30px;
+	text-align:left;
+	font-size:14px;
+}
+
+  #testaccord div.sdmenu span.menuSection .lnkMoreInfo
+{
+	display:block;
+	background:url(../Images/v2/homepage/btnMore.gif) no-repeat;
+	height:23px;
+	width:50px;
+	margin:20px;
+	padding:2px 0px 0px 25px;
+	color:#fff; }
+	
+  #testaccord div.sdmenu div
+{
+	background:url(../Images/v2/homepage/accordionBack.gif) bottom;
+	color:#555555;
+	/*height:220px;*/
+	clear:both;}	
+	
+	#testaccord div.sdmenu img 
+{
+	width:53px;float:left; margin:0px 10px 10px 0px;
+	border:solid 3px #424242;
+	clear:both;
+	display:none;
+	}
+	
+
+#testaccord div.sdmenu span.menuSection 
+{
+	display:block;
+	font-family:arial,helvetica,sans-serif;
+	font-size:1.25em;
+	line-height:1.6em;
+	margin:0px;
+	padding:0px 20px 0px 20px;}	
+	
+/*End for test*/
+
+
+/* HELP SECTION*/
+
+#helpsection 
+{
+	padding-top:35px;}
+
+#helpsection div.sdmenu {
+	width:181px;
+	font-size:1em;font-size:.9em;
+	padding-bottom:2px;
+	color: #fff;
+	text-align:center;
+	float:left;
+	min-height:220px; height:auto !important; height:220px;
+	padding-left:10px;
+	padding-top:10px;
+	padding-right:15px;
+}	
+
+#helpsection div.sdmenu div {
+	overflow: hidden;
+}
+
+#helpsection div.sdmenu div.collapsed {
+	height: 33px;
+}
+
+
+#helpsection div.sdmenu div h2 {
+	display: block;
+	padding: 7px 12px;
+	font-weight: bold;
+	font-size:1.1em;
+	text-indent:2px;
+	color: #3399cc;
+	background:url(../Imgs/help_sidetitle_hover2.gif) no-repeat;
+	cursor: pointer;
+}
+
+#helpsection div.sdmenu div.collapsed h2:hover 
+{
+	background:url(../Imgs/help_sidetitle_hover2.gif) no-repeat;
+	color: #3399cc;}
+	
+#helpsection div.sdmenu div.collapsed h2 {
+	background: url(../Imgs/help_sidetitle2.gif) no-repeat;
+	color:#fff;}
+
+#helpsection div.sdmenu div a {
+	padding: 5px 10px;
+	display: block;
+	text-decoration:none;
+	border-bottom: 1px solid #ddd;
+	color: #555;
+	background:transparent;
+}
+
+#helpsection div.sdmenu div a.current {
+	background : #71a3b0;
+	color:#fff;
+}
+#helpsection div.sdmenu div a:hover 
+{
+		color: #3399CC;
+	}	
+
+
+

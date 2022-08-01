@@ -1,0 +1,20 @@
+2022-07-25 12:52:50,413 [  1] INFO  AppManager [(null)] SimpleServings started.
+2022-07-25 13:05:36,827 [ 51] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: 1a5tyef3mnpz2uil4hb3ldpx
+2022-07-25 13:06:32,553 [ 63] INFO  AppManager [(null)] (landingPage.aspx) - Clearing Session 
+Request Type:  
+SessionId: vt3og0xasthnwjradjb0cysj
+2022-07-25 13:06:32,575 [ 47] INFO  AppManager [(null)] (landingPage.aspx) - New Session 
+Request Type:  
+SessionId: tahi1dpuxnilh03rgeatol4g
+2022-07-25 13:06:32,837 [ 46] ERROR AppManager [(null)] btnLogin_Click failed: Incorrect username and/or password.
+2022-07-25 13:06:44,175 [ 46] INFO  AppManager [(null)] (landingPage.aspx) - Clearing Session 
+Request Type:  
+SessionId: tahi1dpuxnilh03rgeatol4g
+2022-07-25 13:06:44,184 [ 61] INFO  AppManager [(null)] (landingPage.aspx) - New Session 
+Request Type:  
+SessionId: qac2khqs35wbywmxfedt5wqa
+2022-07-25 13:06:44,973 [ 47] INFO  AppManager [(null)] (login.aspx) - (scott.deas) - Login successful 
+SessionId: tahi1dpuxnilh03rgeatol4g
+2022-07-25 13:06:44,997 [ 61] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: qac2khqs35wbywmxfedt5wqa

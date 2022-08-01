@@ -1,0 +1,20 @@
+2021-02-17 09:33:46,225 [ 31] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: rohszqsgtm0w13tvcjmb0a0z
+2021-02-17 14:25:04,119 [ 63] INFO  AppManager [(null)] (landingPage.aspx) - Request from http://localhost:1949/SimpleServings/UI/Page/SimpleServings/Menu/AddMenu.aspx?MenuType=AddMenuUsingSample 
+Request Type: LogInOut 
+SessionId: rohszqsgtm0w13tvcjmb0a0z
+2021-02-17 14:25:04,397 [ 63] INFO  AppManager [(null)] (landingPage.aspx) - Redirecting to Login.aspx 
+Request Type: LogInOut 
+SessionId: rohszqsgtm0w13tvcjmb0a0z
+2021-02-17 14:25:06,271 [ 56] INFO  AppManager [(null)] (login.aspx) - Request from http://localhost:1949/SimpleServings/UI/Page/SimpleServings/Menu/AddMenu.aspx?MenuType=AddMenuUsingSample 
+SessionId: gb2awjlrpfvnshamkhfmd04x
+2021-02-17 14:25:24,821 [ 60] INFO  AppManager [(null)] (landingPage.aspx) - Clearing Session 
+Request Type:  
+SessionId: qi1bnhhl5vyufewgfihrvlv4
+2021-02-17 14:25:25,534 [ 52] INFO  AppManager [(null)] (landingPage.aspx) - New Session 
+Request Type:  
+SessionId: u5m4dutz5fzfinxlxdlsixvb
+2021-02-17 14:25:28,433 [ 46] INFO  AppManager [(null)] (login.aspx) - (Mli) - Login successful 
+SessionId: aw0n5db2kotbqf1wlwsyx0va
+2021-02-17 14:25:28,511 [ 47] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: u5m4dutz5fzfinxlxdlsixvb

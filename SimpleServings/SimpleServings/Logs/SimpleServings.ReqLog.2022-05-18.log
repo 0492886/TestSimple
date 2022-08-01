@@ -1,0 +1,161 @@
+2022-05-18 10:53:18,725 [  1] INFO  AppManager [(null)] SimpleServings started.
+2022-05-18 10:54:52,844 [ 25] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: 2x3tlzci4dijtrn0wziqljgp
+2022-05-18 12:00:18,472 [104] INFO  AppManager [(null)] (landingPage.aspx) - Clearing Session 
+Request Type:  
+SessionId: hhsaxz2zuqa1ltgmq4rgh010
+2022-05-18 12:00:18,481 [112] INFO  AppManager [(null)] (landingPage.aspx) - New Session 
+Request Type:  
+SessionId: ea5sa5nhwh4ey5ajqzc5em1j
+2022-05-18 12:00:18,894 [109] INFO  AppManager [(null)] (login.aspx) - (Mli) - Login successful 
+SessionId: cyfx1rkwyxlxqpxk52sl2emv
+2022-05-18 12:00:18,900 [103] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: ea5sa5nhwh4ey5ajqzc5em1j
+2022-05-18 12:22:09,469 [  1] INFO  AppManager [(null)] SimpleServings started.
+2022-05-18 12:22:55,923 [ 15] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: c3ywephyt03qmbneh3vlmgq3
+2022-05-18 12:28:26,034 [ 12] INFO  AppManager [(null)] (landingPage.aspx) - Clearing Session 
+Request Type:  
+SessionId: xwn4cuggqnozz2rxxb0ivbd3
+2022-05-18 12:28:26,053 [ 15] INFO  AppManager [(null)] (landingPage.aspx) - New Session 
+Request Type:  
+SessionId: xojq45d0apglhcsuzaofzvpv
+2022-05-18 12:28:26,703 [ 13] INFO  AppManager [(null)] (login.aspx) - (Mli) - Login successful 
+SessionId: egkq2ogbfn5onxnily5nccxl
+2022-05-18 12:28:26,710 [ 31] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: xojq45d0apglhcsuzaofzvpv
+2022-05-18 12:32:14,863 [ 46] INFO  AppManager [(null)] SimpleServings started.
+2022-05-18 12:32:52,498 [ 30] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: 42p1oa4qsukufu2azpq3jz0q
+2022-05-18 12:36:06,903 [ 34] INFO  AppManager [(null)] (landingPage.aspx) - Clearing Session 
+Request Type:  
+SessionId: gwyklmqrbxsonljp0c2ztdsg
+2022-05-18 12:36:06,911 [ 33] INFO  AppManager [(null)] (landingPage.aspx) - New Session 
+Request Type:  
+SessionId: pjoskzus140lxphgibpaqjlj
+2022-05-18 12:36:07,144 [ 69] INFO  AppManager [(null)] (login.aspx) - (Mli) - Login successful 
+SessionId: uyoobsgjnakbgn4ak52teain
+2022-05-18 12:36:07,149 [ 51] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: pjoskzus140lxphgibpaqjlj
+2022-05-18 12:58:14,322 [ 84] INFO  AppManager [(null)] (login.aspx) - (Mli) - Login successful 
+SessionId: fp5a0bzmz23wyhk1m0vxuyef
+2022-05-18 12:58:16,230 [ 98] INFO  AppManager [(null)] (landingPage.aspx) - Clearing Session 
+Request Type:  
+SessionId: h12szy5rb5qeksl30l552j53
+2022-05-18 12:58:16,231 [ 99] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: ee5njsdotre2dspccumn4uao
+2022-05-18 12:58:16,238 [ 94] INFO  AppManager [(null)] (landingPage.aspx) - New Session 
+Request Type:  
+SessionId: kkabplffvn3p1g3bzxrxc1sa
+2022-05-18 13:01:01,610 [ 95] INFO  AppManager [(null)] (landingPage.aspx) - Clearing Session 
+Request Type:  
+SessionId: hbka4cjt3gvh1iurzorhyl1a
+2022-05-18 13:01:01,620 [ 82] INFO  AppManager [(null)] (landingPage.aspx) - New Session 
+Request Type:  
+SessionId: 24awe4parkyxo4mmc5scaqbv
+2022-05-18 13:01:01,839 [ 93] INFO  AppManager [(null)] (login.aspx) - (Mli) - Login successful 
+SessionId: sqaejiph1u30winhbrkyrcga
+2022-05-18 13:01:01,844 [106] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: 24awe4parkyxo4mmc5scaqbv
+2022-05-18 13:02:01,931 [111] INFO  AppManager [(null)] (landingPage.aspx) - Clearing Session 
+Request Type:  
+SessionId: t2pqv3vqj24swa5r2zmwsdw4
+2022-05-18 13:02:01,940 [ 91] INFO  AppManager [(null)] (landingPage.aspx) - New Session 
+Request Type:  
+SessionId: mpcl2132ak5hed5fnwk0gcv2
+2022-05-18 13:02:02,180 [ 97] INFO  AppManager [(null)] (login.aspx) - (Mli) - Login successful 
+SessionId: pqjo3o4uhyz0yki2skiix1ad
+2022-05-18 13:02:02,184 [102] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: mpcl2132ak5hed5fnwk0gcv2
+2022-05-18 13:14:04,835 [ 73] INFO  AppManager [(null)] (landingPage.aspx) - Clearing Session 
+Request Type:  
+SessionId: tsgfqw3uswgatc1mhfi0yfze
+2022-05-18 13:14:04,845 [111] INFO  AppManager [(null)] (landingPage.aspx) - New Session 
+Request Type:  
+SessionId: 1l1jfgdeunmycohq0osnplj2
+2022-05-18 13:14:05,107 [109] INFO  AppManager [(null)] (login.aspx) - (Mli) - Login successful 
+SessionId: 2nhqkoawb1roajcnwho31tam
+2022-05-18 13:14:05,112 [ 89] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: 1l1jfgdeunmycohq0osnplj2
+2022-05-18 13:28:38,031 [ 69] INFO  AppManager [(null)] SimpleServings started.
+2022-05-18 13:29:30,809 [ 93] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: gzst2uavdinxhcrinoxgwkxd
+2022-05-18 13:32:50,206 [  4] INFO  AppManager [(null)] (landingPage.aspx) - Clearing Session 
+Request Type:  
+SessionId: kafw3mwje5yk5zaojv2rahmj
+2022-05-18 13:32:50,216 [101] INFO  AppManager [(null)] (landingPage.aspx) - New Session 
+Request Type:  
+SessionId: zm0elvtpw2h2hhd0otzqtkhe
+2022-05-18 13:32:50,561 [ 90] INFO  AppManager [(null)] (login.aspx) - (Mli) - Login successful 
+SessionId: ydowjfgvnyeqdb3cfd1hcvjs
+2022-05-18 13:32:50,569 [102] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: zm0elvtpw2h2hhd0otzqtkhe
+2022-05-18 13:33:51,089 [ 77] INFO  AppManager [(null)] (landingPage.aspx) - Clearing Session 
+Request Type:  
+SessionId: drlf3hnpohhghi10cf2ixdys
+2022-05-18 13:33:51,103 [ 50] INFO  AppManager [(null)] (landingPage.aspx) - New Session 
+Request Type:  
+SessionId: zyusxdrahowsqv2zh3ttzzjh
+2022-05-18 13:33:51,362 [ 90] INFO  AppManager [(null)] (login.aspx) - (Mli) - Login successful 
+SessionId: oxdddu4mfr3jaikbguaou4mg
+2022-05-18 13:33:51,369 [ 91] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: zyusxdrahowsqv2zh3ttzzjh
+2022-05-18 15:14:24,034 [ 68] INFO  AppManager [(null)] (landingPage.aspx) - Clearing Session 
+Request Type:  
+SessionId: z33occ42p5131e1jeyks1rao
+2022-05-18 15:14:24,050 [  7] INFO  AppManager [(null)] (landingPage.aspx) - New Session 
+Request Type:  
+SessionId: 20lumrsszqzzmlomlvcboie5
+2022-05-18 15:14:24,415 [ 27] INFO  AppManager [(null)] (login.aspx) - (Mli) - Login successful 
+SessionId: pqzc2ok3ttsmhugoeebcr4gp
+2022-05-18 15:14:24,423 [  7] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: 20lumrsszqzzmlomlvcboie5
+2022-05-18 15:20:22,028 [115] INFO  AppManager [(null)] (landingPage.aspx) - Clearing Session 
+Request Type:  
+SessionId: kp2mflqemhldhy1o0yhyb3o1
+2022-05-18 15:20:22,038 [104] INFO  AppManager [(null)] (landingPage.aspx) - New Session 
+Request Type:  
+SessionId: n2ojzcjuwevb4rb4nyx4fsax
+2022-05-18 15:20:22,285 [ 89] INFO  AppManager [(null)] (login.aspx) - (Mli) - Login successful 
+SessionId: fyt4j0ki05lmmrsujrhpwlte
+2022-05-18 15:20:22,291 [115] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: n2ojzcjuwevb4rb4nyx4fsax
+2022-05-18 15:22:37,460 [ 56] INFO  AppManager [(null)] SimpleServings started.
+2022-05-18 15:23:17,933 [ 26] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: sgj3gzxrywynbsra0tizem5y
+2022-05-18 15:24:49,446 [ 37] INFO  AppManager [(null)] (landingPage.aspx) - Clearing Session 
+Request Type:  
+SessionId: yilzrvize3wid35obvdtjiar
+2022-05-18 15:24:49,456 [ 94] INFO  AppManager [(null)] (landingPage.aspx) - New Session 
+Request Type:  
+SessionId: 3wrz4lbedtwjnbpnep3pl0bg
+2022-05-18 15:24:49,733 [ 37] INFO  AppManager [(null)] (login.aspx) - (Mli) - Login successful 
+SessionId: gpajvkzh0ugeg5b1llxmlrvz
+2022-05-18 15:24:49,740 [ 21] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: 3wrz4lbedtwjnbpnep3pl0bg
+2022-05-18 15:26:17,692 [ 37] INFO  AppManager [(null)] (landingPage.aspx) - Clearing Session 
+Request Type:  
+SessionId: jcopjvri503ttzk3izljo3ae
+2022-05-18 15:26:17,703 [ 84] INFO  AppManager [(null)] (landingPage.aspx) - New Session 
+Request Type:  
+SessionId: 23xbbglng3olh3w0snuexi3u
+2022-05-18 15:26:17,918 [ 28] INFO  AppManager [(null)] (login.aspx) - (Mli) - Login successful 
+SessionId: d3h5vmdsgrycsoykececthui
+2022-05-18 15:26:17,924 [111] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: 23xbbglng3olh3w0snuexi3u
+2022-05-18 15:36:48,563 [124] INFO  AppManager [(null)] SimpleServings started.
+2022-05-18 15:37:25,721 [120] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: pcjsthfcuz5jva5dxgzdabjb
+2022-05-18 15:39:33,529 [ 64] INFO  AppManager [(null)] (landingPage.aspx) - Clearing Session 
+Request Type:  
+SessionId: fipbc5ndkkuvwgmchnxpgsfp
+2022-05-18 15:39:33,537 [ 79] INFO  AppManager [(null)] (landingPage.aspx) - New Session 
+Request Type:  
+SessionId: jlzzd4lkfvo54qpsoxefevli
+2022-05-18 15:39:33,799 [119] INFO  AppManager [(null)] (login.aspx) - (Mli) - Login successful 
+SessionId: t31ndx4c0mcdhgo10dfnhueu
+2022-05-18 15:39:33,806 [ 98] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: jlzzd4lkfvo54qpsoxefevli
+2022-05-18 15:40:45,409 [124] INFO  AppManager [(null)] SimpleServings started.
+2022-05-18 15:41:24,035 [ 34] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: mdve0lz0lx1pm1qskhmhmrsa

@@ -1,0 +1,607 @@
+2021-10-23 00:02:18,299 [220] INFO  AppManager [(null)] (landingPage.aspx) - Clearing Session 
+Request Type:  
+SessionId: jaizqlgazfxlw2chmexjcbkt
+2021-10-23 00:02:18,314 [183] INFO  AppManager [(null)] (landingPage.aspx) - New Session 
+Request Type:  
+SessionId: t3rit01j1f4fz4w0cqhzmvxi
+2021-10-23 00:02:18,527 [205] INFO  AppManager [(null)] (login.aspx) - (Mli) - Login successful 
+SessionId: awwqznir0rezfws35pi5h5ov
+2021-10-23 00:02:18,532 [171] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: t3rit01j1f4fz4w0cqhzmvxi
+2021-10-23 00:02:24,261 [211] INFO  AppManager [(null)] (Recipe.aspx) - Request from http://localhost:1945/SimpleServings/UI/Page/Home.aspx 
+SessionId: t3rit01j1f4fz4w0cqhzmvxi
+2021-10-23 00:04:11,649 [208] INFO  AppManager [(null)] (landingPage.aspx) - Clearing Session 
+Request Type:  
+SessionId: v30yftgkfql0vst2zolrnjdd
+2021-10-23 00:04:11,663 [241] INFO  AppManager [(null)] (landingPage.aspx) - New Session 
+Request Type:  
+SessionId: av5xsr0hz0tersvucvo35occ
+2021-10-23 00:04:11,892 [220] INFO  AppManager [(null)] (login.aspx) - (Mli) - Login successful 
+SessionId: mrmizdcf42xl4g2rz55i0otb
+2021-10-23 00:04:11,897 [171] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: av5xsr0hz0tersvucvo35occ
+2021-10-23 00:04:35,578 [168] ERROR AppManager [(null)] SimpleServings application error: Exception of type 'System.Web.HttpUnhandledException' was thrown.
+location: http://localhost:1945/SimpleServings/UI/Page/SimpleServings/Menu/ViewMenu.aspx?MenuID=17787
+
+System.Web.HttpUnhandledException (0x80004005): Exception of type 'System.Web.HttpUnhandledException' was thrown. ---> System.InvalidCastException: Object cannot be cast from DBNull to other types.
+   at System.DBNull.System.IConvertible.ToInt32(IFormatProvider provider)
+   at System.Convert.ToInt32(Object value)
+   at SimpleServingsLibrary.Menu.Menu.PopMenu(SqlDataReader dr) in E:\DFTA coding\SimpleServings\SimpleServings_networkVersion_I_do\SimpleServing_Latest\Ansu_4_20\NewSimple\SimpleServingsLibrary\SimpleServings.Menu\BLL\Menu.cs:line 107
+   at SimpleServingsLibrary.Menu.Menu.GetMenuByMenuID(Int32 menuID) in E:\DFTA coding\SimpleServings\SimpleServings_networkVersion_I_do\SimpleServing_Latest\Ansu_4_20\NewSimple\SimpleServingsLibrary\SimpleServings.Menu\BLL\Menu.cs:line 443
+   at SimpleServings.UI.UDC.SimpleServings.Menu.MenuItemGrid.PopGrid(Int32 menuID) in E:\DFTA coding\SimpleServings\SimpleServings_networkVersion_I_do\SimpleServing_Latest\Ansu_4_20\NewSimple\SimpleServings\SimpleServings\UI\UDC\SimpleServings\Menu\MenuItemGrid.ascx.cs:line 98
+   at SimpleServings.UI.UDC.SimpleServings.Menu.MenuItemGrid.Page_Load(Object sender, EventArgs e) in E:\DFTA coding\SimpleServings\SimpleServings_networkVersion_I_do\SimpleServing_Latest\Ansu_4_20\NewSimple\SimpleServings\SimpleServings\UI\UDC\SimpleServings\Menu\MenuItemGrid.ascx.cs:line 69
+   at System.Web.Util.CalliEventHandlerDelegateProxy.Callback(Object sender, EventArgs e)
+   at System.Web.UI.Control.OnLoad(EventArgs e)
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   at System.Web.UI.Page.HandleError(Exception e)
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   at System.Web.UI.Page.ProcessRequest(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   at System.Web.UI.Page.ProcessRequest()
+   at System.Web.UI.Page.ProcessRequestWithNoAssert(HttpContext context)
+   at System.Web.UI.Page.ProcessRequest(HttpContext context)
+   at ASP.ui_page_simpleservings_menu_viewmenu_aspx.ProcessRequest(HttpContext context) in c:\Users\mali\AppData\Local\Temp\Temporary ASP.NET Files\simpleservings\7dcfb244\fadae239\App_Web_x0vwnxfu.0.cs:line 0
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStepImpl(IExecutionStep step)
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+2021-10-23 11:47:58,128 [201] INFO  AppManager [(null)] (landingPage.aspx) - Clearing Session 
+Request Type:  
+SessionId: kfnqyspqvhlcmvfnbavht21i
+2021-10-23 11:47:58,153 [ 35] INFO  AppManager [(null)] (landingPage.aspx) - New Session 
+Request Type:  
+SessionId: 2whuzggml54imipfhtkodq53
+2021-10-23 11:48:00,072 [199] ERROR AppManager [(null)] btnLogin_Click failed: Database 'CLIENTDB' is already open and can only have one user at a time.
+System.Data.SqlClient.SqlException (0x80131904): Database 'CLIENTDB' is already open and can only have one user at a time.
+   at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at System.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   at System.Data.SqlClient.SqlDataReader.get_MetaData()
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   at System.Data.Common.DbCommand.ExecuteReader(CommandBehavior behavior)
+   at Microsoft.Practices.EnterpriseLibrary.Data.Database.DoExecuteReader(DbCommand command, CommandBehavior cmdBehavior)
+   at Microsoft.Practices.EnterpriseLibrary.Data.Database.ExecuteReader(DbCommand command)
+   at SimpleServingsLibrary.Shared.StaffDB.GetStaffByEmail(String email) in E:\DFTA coding\SimpleServings\SimpleServings_networkVersion_I_do\SimpleServing_Latest\Ansu_4_20\NewSimple\SimpleServingsLibrary\SimpleServings.Shared\DAL\StaffDB.cs:line 86
+   at SimpleServingsLibrary.Shared.Staff.GetUserNameByEmail(String email) in E:\DFTA coding\SimpleServings\SimpleServings_networkVersion_I_do\SimpleServing_Latest\Ansu_4_20\NewSimple\SimpleServingsLibrary\SimpleServings.Shared\BLL\Staff.cs:line 522
+   at SimpleServings.UI.Page.login.btnLogin_Click(Object sender, EventArgs e) in E:\DFTA coding\SimpleServings\SimpleServings_networkVersion_I_do\SimpleServing_Latest\Ansu_4_20\NewSimple\SimpleServings\SimpleServings\UI\Page\login.aspx.cs:line 154
+ClientConnectionId:5164b86b-ef07-4179-9e63-c60220de3ecc
+Error Number:924,State:1,Class:14
+2021-10-23 11:48:13,989 [201] INFO  AppManager [(null)] (landingPage.aspx) - Clearing Session 
+Request Type:  
+SessionId: 2whuzggml54imipfhtkodq53
+2021-10-23 11:48:14,001 [185] INFO  AppManager [(null)] (landingPage.aspx) - New Session 
+Request Type:  
+SessionId: w2ein4qcy3nc3j5xfrr2znph
+2021-10-23 11:48:16,007 [221] ERROR AppManager [(null)] btnLogin_Click failed: Database 'CLIENTDB' is already open and can only have one user at a time.
+System.Data.SqlClient.SqlException (0x80131904): Database 'CLIENTDB' is already open and can only have one user at a time.
+   at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at System.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   at System.Data.SqlClient.SqlDataReader.get_MetaData()
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   at System.Data.Common.DbCommand.ExecuteReader(CommandBehavior behavior)
+   at Microsoft.Practices.EnterpriseLibrary.Data.Database.DoExecuteReader(DbCommand command, CommandBehavior cmdBehavior)
+   at Microsoft.Practices.EnterpriseLibrary.Data.Database.ExecuteReader(DbCommand command)
+   at SimpleServingsLibrary.Shared.StaffDB.GetStaffByEmail(String email) in E:\DFTA coding\SimpleServings\SimpleServings_networkVersion_I_do\SimpleServing_Latest\Ansu_4_20\NewSimple\SimpleServingsLibrary\SimpleServings.Shared\DAL\StaffDB.cs:line 86
+   at SimpleServingsLibrary.Shared.Staff.GetUserNameByEmail(String email) in E:\DFTA coding\SimpleServings\SimpleServings_networkVersion_I_do\SimpleServing_Latest\Ansu_4_20\NewSimple\SimpleServingsLibrary\SimpleServings.Shared\BLL\Staff.cs:line 522
+   at SimpleServings.UI.Page.login.btnLogin_Click(Object sender, EventArgs e) in E:\DFTA coding\SimpleServings\SimpleServings_networkVersion_I_do\SimpleServing_Latest\Ansu_4_20\NewSimple\SimpleServings\SimpleServings\UI\Page\login.aspx.cs:line 154
+ClientConnectionId:5164b86b-ef07-4179-9e63-c60220de3ecc
+Error Number:924,State:1,Class:14
+2021-10-23 11:49:15,542 [234] INFO  AppManager [(null)] (landingPage.aspx) - Clearing Session 
+Request Type:  
+SessionId: w2ein4qcy3nc3j5xfrr2znph
+2021-10-23 11:49:15,559 [207] INFO  AppManager [(null)] (landingPage.aspx) - New Session 
+Request Type:  
+SessionId: j0stfmjmwunqo4x2qdftdxcz
+2021-10-23 11:49:17,562 [234] ERROR AppManager [(null)] btnLogin_Click failed: Database 'CLIENTDB' is already open and can only have one user at a time.
+System.Data.SqlClient.SqlException (0x80131904): Database 'CLIENTDB' is already open and can only have one user at a time.
+   at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at System.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   at System.Data.SqlClient.SqlDataReader.get_MetaData()
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   at System.Data.Common.DbCommand.ExecuteReader(CommandBehavior behavior)
+   at Microsoft.Practices.EnterpriseLibrary.Data.Database.DoExecuteReader(DbCommand command, CommandBehavior cmdBehavior)
+   at Microsoft.Practices.EnterpriseLibrary.Data.Database.ExecuteReader(DbCommand command)
+   at SimpleServingsLibrary.Shared.StaffDB.GetStaffByEmail(String email) in E:\DFTA coding\SimpleServings\SimpleServings_networkVersion_I_do\SimpleServing_Latest\Ansu_4_20\NewSimple\SimpleServingsLibrary\SimpleServings.Shared\DAL\StaffDB.cs:line 86
+   at SimpleServingsLibrary.Shared.Staff.GetUserNameByEmail(String email) in E:\DFTA coding\SimpleServings\SimpleServings_networkVersion_I_do\SimpleServing_Latest\Ansu_4_20\NewSimple\SimpleServingsLibrary\SimpleServings.Shared\BLL\Staff.cs:line 522
+   at SimpleServings.UI.Page.login.btnLogin_Click(Object sender, EventArgs e) in E:\DFTA coding\SimpleServings\SimpleServings_networkVersion_I_do\SimpleServing_Latest\Ansu_4_20\NewSimple\SimpleServings\SimpleServings\UI\Page\login.aspx.cs:line 154
+ClientConnectionId:5164b86b-ef07-4179-9e63-c60220de3ecc
+Error Number:924,State:1,Class:14
+2021-10-23 11:53:51,339 [184] INFO  AppManager [(null)] SimpleServings started.
+2021-10-23 11:54:40,915 [243] ERROR AppManager [(null)] btnLogin_Click failed: Database 'CLIENTDB' is already open and can only have one user at a time.
+System.Data.SqlClient.SqlException (0x80131904): Database 'CLIENTDB' is already open and can only have one user at a time.
+   at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at System.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   at System.Data.SqlClient.SqlDataReader.get_MetaData()
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   at System.Data.Common.DbCommand.ExecuteReader(CommandBehavior behavior)
+   at Microsoft.Practices.EnterpriseLibrary.Data.Database.DoExecuteReader(DbCommand command, CommandBehavior cmdBehavior)
+   at Microsoft.Practices.EnterpriseLibrary.Data.Database.ExecuteReader(DbCommand command)
+   at SimpleServingsLibrary.Shared.StaffDB.GetStaffByEmail(String email) in E:\DFTA coding\SimpleServings\SimpleServings_networkVersion_I_do\SimpleServing_Latest\Ansu_4_20\NewSimple\SimpleServingsLibrary\SimpleServings.Shared\DAL\StaffDB.cs:line 86
+   at SimpleServingsLibrary.Shared.Staff.GetUserNameByEmail(String email) in E:\DFTA coding\SimpleServings\SimpleServings_networkVersion_I_do\SimpleServing_Latest\Ansu_4_20\NewSimple\SimpleServingsLibrary\SimpleServings.Shared\BLL\Staff.cs:line 522
+   at SimpleServings.UI.Page.login.btnLogin_Click(Object sender, EventArgs e) in E:\DFTA coding\SimpleServings\SimpleServings_networkVersion_I_do\SimpleServing_Latest\Ansu_4_20\NewSimple\SimpleServings\SimpleServings\UI\Page\login.aspx.cs:line 154
+ClientConnectionId:309394df-d6e8-4770-8cfe-93bf7687796d
+Error Number:924,State:1,Class:14
+2021-10-23 11:56:13,122 [ 11] INFO  AppManager [(null)] SimpleServings started.
+2021-10-23 11:56:47,607 [170] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: ut3xkc0xr3n4whsyvtc1fwyd
+2021-10-23 11:57:24,109 [ 11] INFO  AppManager [(null)] SimpleServings started.
+2021-10-23 11:57:49,346 [ 35] ERROR AppManager [(null)] btnLogin_Click failed: Database 'CLIENTDB' is already open and can only have one user at a time.
+System.Data.SqlClient.SqlException (0x80131904): Database 'CLIENTDB' is already open and can only have one user at a time.
+   at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at System.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   at System.Data.SqlClient.SqlDataReader.get_MetaData()
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   at System.Data.Common.DbCommand.ExecuteReader(CommandBehavior behavior)
+   at Microsoft.Practices.EnterpriseLibrary.Data.Database.DoExecuteReader(DbCommand command, CommandBehavior cmdBehavior)
+   at Microsoft.Practices.EnterpriseLibrary.Data.Database.ExecuteReader(DbCommand command)
+   at SimpleServingsLibrary.Shared.StaffDB.GetStaffByEmail(String email) in E:\DFTA coding\SimpleServings\SimpleServings_networkVersion_I_do\SimpleServing_Latest\Ansu_4_20\NewSimple\SimpleServingsLibrary\SimpleServings.Shared\DAL\StaffDB.cs:line 86
+   at SimpleServingsLibrary.Shared.Staff.GetUserNameByEmail(String email) in E:\DFTA coding\SimpleServings\SimpleServings_networkVersion_I_do\SimpleServing_Latest\Ansu_4_20\NewSimple\SimpleServingsLibrary\SimpleServings.Shared\BLL\Staff.cs:line 522
+   at SimpleServings.UI.Page.login.btnLogin_Click(Object sender, EventArgs e) in E:\DFTA coding\SimpleServings\SimpleServings_networkVersion_I_do\SimpleServing_Latest\Ansu_4_20\NewSimple\SimpleServings\SimpleServings\UI\Page\login.aspx.cs:line 154
+ClientConnectionId:1a156242-3afb-4fa4-80cb-3d2470a00033
+Error Number:924,State:1,Class:14
+2021-10-23 12:03:37,594 [ 10] INFO  AppManager [(null)] SimpleServings started.
+2021-10-23 12:04:03,930 [178] ERROR AppManager [(null)] btnLogin_Click failed: Database 'CLIENTDB' is already open and can only have one user at a time.
+System.Data.SqlClient.SqlException (0x80131904): Database 'CLIENTDB' is already open and can only have one user at a time.
+   at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at System.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   at System.Data.SqlClient.SqlDataReader.get_MetaData()
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   at System.Data.Common.DbCommand.ExecuteReader(CommandBehavior behavior)
+   at Microsoft.Practices.EnterpriseLibrary.Data.Database.DoExecuteReader(DbCommand command, CommandBehavior cmdBehavior)
+   at Microsoft.Practices.EnterpriseLibrary.Data.Database.ExecuteReader(DbCommand command)
+   at SimpleServingsLibrary.Shared.StaffDB.GetStaffByEmail(String email) in E:\DFTA coding\SimpleServings\SimpleServings_networkVersion_I_do\SimpleServing_Latest\Ansu_4_20\NewSimple\SimpleServingsLibrary\SimpleServings.Shared\DAL\StaffDB.cs:line 86
+   at SimpleServingsLibrary.Shared.Staff.GetUserNameByEmail(String email) in E:\DFTA coding\SimpleServings\SimpleServings_networkVersion_I_do\SimpleServing_Latest\Ansu_4_20\NewSimple\SimpleServingsLibrary\SimpleServings.Shared\BLL\Staff.cs:line 522
+   at SimpleServings.UI.Page.login.btnLogin_Click(Object sender, EventArgs e) in E:\DFTA coding\SimpleServings\SimpleServings_networkVersion_I_do\SimpleServing_Latest\Ansu_4_20\NewSimple\SimpleServings\SimpleServings\UI\Page\login.aspx.cs:line 154
+ClientConnectionId:53e5aab9-dbc4-41bf-bda5-e8bd69be9d6f
+Error Number:924,State:1,Class:14
+2021-10-23 12:12:22,325 [  1] INFO  AppManager [(null)] SimpleServings started.
+2021-10-23 12:13:42,075 [ 28] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: smqb5uc2jkbnnfzs2yir0gfl
+2021-10-23 14:08:42,002 [ 65] INFO  AppManager [(null)] SimpleServings started.
+2021-10-23 14:09:01,102 [ 67] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: rtmrc4q00qxzrr0eyfqkss0u
+2021-10-23 14:10:00,525 [ 64] INFO  AppManager [(null)] (landingPage.aspx) - Clearing Session 
+Request Type:  
+SessionId: t2qkyehndkmius21ni0pe51g
+2021-10-23 14:10:00,563 [ 67] INFO  AppManager [(null)] (landingPage.aspx) - New Session 
+Request Type:  
+SessionId: j2bq4wooia1l0pj5cbnmnbnt
+2021-10-23 14:10:00,828 [ 64] INFO  AppManager [(null)] (login.aspx) - (Mli) - Login successful 
+SessionId: itjlpvbrpuhcl5ppjt0rxpa2
+2021-10-23 14:10:00,836 [ 73] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: j2bq4wooia1l0pj5cbnmnbnt
+2021-10-23 14:12:43,172 [ 59] INFO  AppManager [(null)] (landingPage.aspx) - Clearing Session 
+Request Type:  
+SessionId: kzikzgwk2r4ay43twsv0oy5i
+2021-10-23 14:12:43,184 [ 58] INFO  AppManager [(null)] (landingPage.aspx) - New Session 
+Request Type:  
+SessionId: s2apbalyto3tvflbppsf03bb
+2021-10-23 14:12:43,451 [ 51] INFO  AppManager [(null)] (login.aspx) - (Mli) - Login successful 
+SessionId: 5kzrwmpoqrllykwlmyokth5k
+2021-10-23 14:12:43,457 [ 64] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: s2apbalyto3tvflbppsf03bb
+2021-10-23 14:31:44,128 [ 85] INFO  AppManager [(null)] SimpleServings started.
+2021-10-23 14:32:06,652 [ 12] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: umo0xgpjs3lakyhqno35icis
+2021-10-23 14:36:41,528 [ 85] INFO  AppManager [(null)] SimpleServings started.
+2021-10-23 14:37:13,487 [ 35] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: cbihcppetdfriejnryypifyk
+2021-10-23 14:40:30,336 [  6] INFO  AppManager [(null)] (landingPage.aspx) - Clearing Session 
+Request Type:  
+SessionId: yjdfv2i1im03usnqatfqqbcf
+2021-10-23 14:40:30,349 [ 59] INFO  AppManager [(null)] (landingPage.aspx) - New Session 
+Request Type:  
+SessionId: 5tb0mcxhs55bretb5wunmmfs
+2021-10-23 14:40:30,573 [ 12] INFO  AppManager [(null)] (login.aspx) - (Mli) - Login successful 
+SessionId: 3xxke23ysqbposedrg42pp3u
+2021-10-23 14:40:30,578 [ 24] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: 5tb0mcxhs55bretb5wunmmfs
+2021-10-23 15:03:52,928 [ 13] INFO  AppManager [(null)] SimpleServings started.
+2021-10-23 15:04:15,716 [104] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: flbasstdbff55s3lqglc121c
+2021-10-23 15:10:32,956 [ 79] INFO  AppManager [(null)] (landingPage.aspx) - Clearing Session 
+Request Type:  
+SessionId: le0xoudply53qn2cgom3db3y
+2021-10-23 15:10:32,967 [ 76] INFO  AppManager [(null)] (landingPage.aspx) - New Session 
+Request Type:  
+SessionId: s3lj02zyvknmnspoaz2h5k3r
+2021-10-23 15:10:33,264 [ 58] INFO  AppManager [(null)] (login.aspx) - (Mli) - Login successful 
+SessionId: lpfaoybgwqtcjfz1oox4yigy
+2021-10-23 15:10:33,271 [100] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: s3lj02zyvknmnspoaz2h5k3r
+2021-10-23 15:28:56,920 [ 31] INFO  AppManager [(null)] (landingPage.aspx) - Clearing Session 
+Request Type:  
+SessionId: izmezmz0g4vztsz2h3reddvj
+2021-10-23 15:28:56,934 [ 33] INFO  AppManager [(null)] (landingPage.aspx) - New Session 
+Request Type:  
+SessionId: pdapq3d3ykkoln3hphcflafi
+2021-10-23 15:28:57,175 [ 23] INFO  AppManager [(null)] (login.aspx) - (Mli) - Login successful 
+SessionId: i3os5a55nn22lhutyfxbxui2
+2021-10-23 15:28:57,180 [ 37] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: pdapq3d3ykkoln3hphcflafi
+2021-10-23 15:30:25,109 [ 13] INFO  AppManager [(null)] SimpleServings started.
+2021-10-23 15:30:48,939 [ 23] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: rvukawtx44eoy0e2rhfasenw
+2021-10-23 15:34:49,499 [  1] INFO  AppManager [(null)] SimpleServings started.
+2021-10-23 15:35:11,389 [ 26] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: quoyln51p05khgicit4q2lw3
+2021-10-23 15:45:26,288 [ 33] INFO  AppManager [(null)] (landingPage.aspx) - Clearing Session 
+Request Type:  
+SessionId: jetkoadq1rqu1tvlskq30ztp
+2021-10-23 15:45:26,304 [ 37] INFO  AppManager [(null)] (landingPage.aspx) - New Session 
+Request Type:  
+SessionId: hf3pycwlbeh3buu1uqn0nma1
+2021-10-23 15:45:26,567 [ 23] INFO  AppManager [(null)] (login.aspx) - (Mli) - Login successful 
+SessionId: zqipsufjhfgmzmv0vjj3efqu
+2021-10-23 15:45:26,573 [ 34] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: hf3pycwlbeh3buu1uqn0nma1
+2021-10-23 15:56:51,640 [ 74] INFO  AppManager [(null)] (landingPage.aspx) - Clearing Session 
+Request Type:  
+SessionId: bghwi12obnnn4ic0jdkgdnd3
+2021-10-23 15:56:51,654 [ 26] INFO  AppManager [(null)] (landingPage.aspx) - New Session 
+Request Type:  
+SessionId: wa24yxy0ho0c2gm1fn0eaon4
+2021-10-23 15:56:51,970 [ 74] INFO  AppManager [(null)] (login.aspx) - (Mli) - Login successful 
+SessionId: t0mqcnfhe0rgmeum2ffvw30g
+2021-10-23 15:56:51,976 [ 62] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: wa24yxy0ho0c2gm1fn0eaon4
+2021-10-23 15:58:22,170 [ 85] INFO  AppManager [(null)] SimpleServings started.
+2021-10-23 15:58:43,178 [ 62] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: 2nhij4ihui4k5owun1yn0iur
+2021-10-23 16:06:59,051 [ 99] ERROR AppManager [(null)] SimpleServings application error: Exception of type 'System.Web.HttpUnhandledException' was thrown.
+location: http://localhost:1945/SimpleServings/UI/Page/SimpleServings/Menu/AddMenu.aspx?MenuType=AddMenuUsingSample
+
+System.Web.HttpUnhandledException (0x80004005): Exception of type 'System.Web.HttpUnhandledException' was thrown. ---> System.InvalidCastException: Object cannot be cast from DBNull to other types.
+   at System.DBNull.System.IConvertible.ToInt32(IFormatProvider provider)
+   at System.Convert.ToInt32(Object value)
+   at SimpleServingsLibrary.Menu.Menu.PopMenu(SqlDataReader dr) in E:\DFTA coding\SimpleServings\SimpleServings_networkVersion_I_do\SimpleServing_Latest\Ansu_4_20\NewSimple\SimpleServingsLibrary\SimpleServings.Menu\BLL\Menu.cs:line 107
+   at SimpleServingsLibrary.Menu.Menu.GetMenuByMenuID(Int32 menuID) in E:\DFTA coding\SimpleServings\SimpleServings_networkVersion_I_do\SimpleServing_Latest\Ansu_4_20\NewSimple\SimpleServingsLibrary\SimpleServings.Menu\BLL\Menu.cs:line 443
+   at SimpleServings.UI.UDC.SimpleServings.Menu.AddMenu.btnSelectSampleMenu_Click(Object sender, EventArgs e) in E:\DFTA coding\SimpleServings\SimpleServings_networkVersion_I_do\SimpleServing_Latest\Ansu_4_20\NewSimple\SimpleServings\SimpleServings\UI\UDC\SimpleServings\Menu\AddMenu.ascx.cs:line 809
+   at System.Web.UI.WebControls.Button.OnClick(EventArgs e)
+   at System.Web.UI.WebControls.Button.RaisePostBackEvent(String eventArgument)
+   at System.Web.UI.WebControls.Button.System.Web.UI.IPostBackEventHandler.RaisePostBackEvent(String eventArgument)
+   at System.Web.UI.Page.RaisePostBackEvent(IPostBackEventHandler sourceControl, String eventArgument)
+   at System.Web.UI.Page.RaisePostBackEvent(NameValueCollection postData)
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   at System.Web.UI.Page.HandleError(Exception e)
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   at System.Web.UI.Page.ProcessRequest(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   at System.Web.UI.Page.ProcessRequest()
+   at System.Web.UI.Page.ProcessRequestWithNoAssert(HttpContext context)
+   at System.Web.UI.Page.ProcessRequest(HttpContext context)
+   at ASP.ui_page_simpleservings_menu_addmenu_aspx.ProcessRequest(HttpContext context) in c:\Users\mali\AppData\Local\Temp\Temporary ASP.NET Files\simpleservings\7dcfb244\fadae239\App_Web_dyecxqsl.7.cs:line 0
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStepImpl(IExecutionStep step)
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+2021-10-23 16:27:01,451 [ 62] INFO  AppManager [(null)] (landingPage.aspx) - Clearing Session 
+Request Type:  
+SessionId: g0neadumqjcwsf5ugg5hmwwc
+2021-10-23 16:27:01,465 [ 28] INFO  AppManager [(null)] (landingPage.aspx) - New Session 
+Request Type:  
+SessionId: ljv4zroyakef001vhdpw4rtw
+2021-10-23 16:27:01,732 [ 62] INFO  AppManager [(null)] (login.aspx) - (Mli) - Login successful 
+SessionId: yfg011udeil1xyiipgq4lfuf
+2021-10-23 16:27:01,737 [ 25] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: ljv4zroyakef001vhdpw4rtw
+2021-10-23 16:29:42,657 [  7] ERROR AppManager [(null)] SimpleServings application error: Exception of type 'System.Web.HttpUnhandledException' was thrown.
+location: http://localhost:1945/SimpleServings/UI/Page/SimpleServings/Menu/AddMenu.aspx?MenuType=AddMenuUsingSample
+
+System.Web.HttpUnhandledException (0x80004005): Exception of type 'System.Web.HttpUnhandledException' was thrown. ---> System.Exception: Invalid object name 'dbo.tblMenuCuisine'.
+   at SimpleServings.UI.UDC.SimpleServings.Menu.AddMenu.AddMenuCusine(Int32 menuID) in E:\DFTA coding\SimpleServings\SimpleServings_networkVersion_I_do\SimpleServing_Latest\Ansu_4_20\NewSimple\SimpleServings\SimpleServings\UI\UDC\SimpleServings\Menu\AddMenu.ascx.cs:line 537
+   at SimpleServings.UI.UDC.SimpleServings.Menu.AddMenu.SaveMenuUsingSampleMenu() in E:\DFTA coding\SimpleServings\SimpleServings_networkVersion_I_do\SimpleServing_Latest\Ansu_4_20\NewSimple\SimpleServings\SimpleServings\UI\UDC\SimpleServings\Menu\AddMenu.ascx.cs:line 413
+   at SimpleServings.UI.UDC.SimpleServings.Menu.AddMenu.btnAddMenu_Click(Object sender, EventArgs e) in E:\DFTA coding\SimpleServings\SimpleServings_networkVersion_I_do\SimpleServing_Latest\Ansu_4_20\NewSimple\SimpleServings\SimpleServings\UI\UDC\SimpleServings\Menu\AddMenu.ascx.cs:line 627
+   at System.Web.UI.WebControls.Button.OnClick(EventArgs e)
+   at System.Web.UI.WebControls.Button.RaisePostBackEvent(String eventArgument)
+   at System.Web.UI.WebControls.Button.System.Web.UI.IPostBackEventHandler.RaisePostBackEvent(String eventArgument)
+   at System.Web.UI.Page.RaisePostBackEvent(IPostBackEventHandler sourceControl, String eventArgument)
+   at System.Web.UI.Page.RaisePostBackEvent(NameValueCollection postData)
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   at System.Web.UI.Page.HandleError(Exception e)
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   at System.Web.UI.Page.ProcessRequest(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   at System.Web.UI.Page.ProcessRequest()
+   at System.Web.UI.Page.ProcessRequestWithNoAssert(HttpContext context)
+   at System.Web.UI.Page.ProcessRequest(HttpContext context)
+   at ASP.ui_page_simpleservings_menu_addmenu_aspx.ProcessRequest(HttpContext context) in c:\Users\mali\AppData\Local\Temp\Temporary ASP.NET Files\simpleservings\7dcfb244\fadae239\App_Web_dyecxqsl.7.cs:line 0
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStepImpl(IExecutionStep step)
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+2021-10-23 16:33:47,109 [ 85] INFO  AppManager [(null)] SimpleServings started.
+2021-10-23 16:34:09,809 [ 32] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: q0paafhharlrdnvajtjhcvxd
+2021-10-23 16:41:46,871 [ 25] INFO  AppManager [(null)] (landingPage.aspx) - Clearing Session 
+Request Type:  
+SessionId: 4qqcr21jdsqobda0mx424ng4
+2021-10-23 16:41:46,888 [ 94] INFO  AppManager [(null)] (landingPage.aspx) - New Session 
+Request Type:  
+SessionId: mzqxcwrg1x4mrawnvcsf2ziw
+2021-10-23 16:41:47,115 [ 19] INFO  AppManager [(null)] (login.aspx) - (Mli) - Login successful 
+SessionId: g2dtd1ia1ccmw2ta1ilwnh2j
+2021-10-23 16:41:47,120 [ 10] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: mzqxcwrg1x4mrawnvcsf2ziw
+2021-10-23 16:43:33,999 [ 12] INFO  AppManager [(null)] SimpleServings started.
+2021-10-23 16:43:54,614 [ 32] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: hlrjdncfkyhkmofzpnrbyulr
+2021-10-23 16:45:54,551 [ 66] INFO  AppManager [(null)] SimpleServings started.
+2021-10-23 16:46:14,574 [ 32] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: mijlydvm44ia14kq3tzty415
+2021-10-23 16:51:14,368 [ 19] INFO  AppManager [(null)] (landingPage.aspx) - Clearing Session 
+Request Type:  
+SessionId: aplcuamfuimc0gmb4qvkr2nl
+2021-10-23 16:51:14,384 [ 19] INFO  AppManager [(null)] (landingPage.aspx) - New Session 
+Request Type:  
+SessionId: zppwtoqyrdagqs3i2cr4rf3s
+2021-10-23 16:51:14,598 [ 62] INFO  AppManager [(null)] (login.aspx) - (Mli) - Login successful 
+SessionId: sldifpcvhnkqdubt5bcfqokk
+2021-10-23 16:51:14,604 [ 94] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: zppwtoqyrdagqs3i2cr4rf3s
+2021-10-23 16:53:11,869 [ 62] INFO  AppManager [(null)] (landingPage.aspx) - Clearing Session 
+Request Type:  
+SessionId: ekuifywkq3p1fc0jgpyl0ptx
+2021-10-23 16:53:11,885 [ 67] INFO  AppManager [(null)] (landingPage.aspx) - New Session 
+Request Type:  
+SessionId: plz3onhtmpet5swx1n55k0i4
+2021-10-23 16:53:12,073 [  4] INFO  AppManager [(null)] (login.aspx) - (Mli) - Login successful 
+SessionId: 203ehnni1pks00sg3xopxlpn
+2021-10-23 16:53:12,082 [ 18] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: plz3onhtmpet5swx1n55k0i4
+2021-10-23 16:54:01,232 [ 62] INFO  AppManager [(null)] (landingPage.aspx) - Clearing Session 
+Request Type:  
+SessionId: q1xk1psjmvq5ltbkfm3ymggu
+2021-10-23 16:54:01,250 [ 69] INFO  AppManager [(null)] (landingPage.aspx) - New Session 
+Request Type:  
+SessionId: z01dgpn21wlisfgda3kieh4k
+2021-10-23 16:54:01,450 [ 94] INFO  AppManager [(null)] (login.aspx) - (Mli) - Login successful 
+SessionId: 1tdp3o2b4zp35ffa5gsadlrn
+2021-10-23 16:54:01,455 [ 76] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: z01dgpn21wlisfgda3kieh4k
+2021-10-23 17:06:23,795 [ 15] INFO  AppManager [(null)] (landingPage.aspx) - Clearing Session 
+Request Type:  
+SessionId: 0qw4jde353ep3cdzaciva4le
+2021-10-23 17:06:23,807 [ 11] INFO  AppManager [(null)] (landingPage.aspx) - New Session 
+Request Type:  
+SessionId: woun035tmmljrjtqeavl00bp
+2021-10-23 17:06:24,045 [ 15] INFO  AppManager [(null)] (login.aspx) - (Mli) - Login successful 
+SessionId: qzyes3vfmkjce1552fj3juyz
+2021-10-23 17:06:24,050 [ 69] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: woun035tmmljrjtqeavl00bp
+2021-10-23 17:06:50,555 [ 63] ERROR AppManager [(null)] SimpleServings application error: Exception of type 'System.Web.HttpUnhandledException' was thrown.
+location: http://localhost:1945/SimpleServings/UI/Page/SimpleServings/Menu/AddMenu.aspx?MenuType=AddMenuUsingSample
+
+System.Web.HttpUnhandledException (0x80004005): Exception of type 'System.Web.HttpUnhandledException' was thrown. ---> System.Exception: Recipe Tags are required!<br/>
+   at SimpleServings.UI.UDC.SimpleServings.Menu.AddMenu.ValidateCuisine() in E:\DFTA coding\SimpleServings\SimpleServings_networkVersion_I_do\SimpleServing_Latest\Ansu_4_20\NewSimple\SimpleServings\SimpleServings\UI\UDC\SimpleServings\Menu\AddMenu.ascx.cs:line 336
+   at SimpleServings.UI.UDC.SimpleServings.Menu.AddMenu.SaveMenuUsingSampleMenu() in E:\DFTA coding\SimpleServings\SimpleServings_networkVersion_I_do\SimpleServing_Latest\Ansu_4_20\NewSimple\SimpleServings\SimpleServings\UI\UDC\SimpleServings\Menu\AddMenu.ascx.cs:line 395
+   at SimpleServings.UI.UDC.SimpleServings.Menu.AddMenu.btnAddMenu_Click(Object sender, EventArgs e) in E:\DFTA coding\SimpleServings\SimpleServings_networkVersion_I_do\SimpleServing_Latest\Ansu_4_20\NewSimple\SimpleServings\SimpleServings\UI\UDC\SimpleServings\Menu\AddMenu.ascx.cs:line 627
+   at System.Web.UI.WebControls.Button.OnClick(EventArgs e)
+   at System.Web.UI.WebControls.Button.RaisePostBackEvent(String eventArgument)
+   at System.Web.UI.WebControls.Button.System.Web.UI.IPostBackEventHandler.RaisePostBackEvent(String eventArgument)
+   at System.Web.UI.Page.RaisePostBackEvent(IPostBackEventHandler sourceControl, String eventArgument)
+   at System.Web.UI.Page.RaisePostBackEvent(NameValueCollection postData)
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   at System.Web.UI.Page.HandleError(Exception e)
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   at System.Web.UI.Page.ProcessRequest(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   at System.Web.UI.Page.ProcessRequest()
+   at System.Web.UI.Page.ProcessRequestWithNoAssert(HttpContext context)
+   at System.Web.UI.Page.ProcessRequest(HttpContext context)
+   at ASP.ui_page_simpleservings_menu_addmenu_aspx.ProcessRequest(HttpContext context) in c:\Users\mali\AppData\Local\Temp\Temporary ASP.NET Files\simpleservings\7dcfb244\fadae239\App_Web_xrsukby3.1.cs:line 0
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStepImpl(IExecutionStep step)
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+2021-10-23 17:09:16,764 [ 65] INFO  AppManager [(null)] SimpleServings started.
+2021-10-23 17:09:41,934 [ 69] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: yeglhcrjc2xzi43r5nnjbzpn
+2021-10-23 17:12:30,321 [ 62] ERROR AppManager [(null)] SimpleServings application error: Exception of type 'System.Web.HttpUnhandledException' was thrown.
+location: http://localhost:1945/SimpleServings/UI/Page/SimpleServings/Menu/AddMenu.aspx?MenuType=AddMenuUsingSample
+
+System.Web.HttpUnhandledException (0x80004005): Exception of type 'System.Web.HttpUnhandledException' was thrown. ---> System.Exception: Invalid object name 'dbo.tblMenuCuisine'.
+   at SimpleServings.UI.UDC.SimpleServings.Menu.AddMenu.AddMenuCusine(Int32 menuID) in E:\DFTA coding\SimpleServings\SimpleServings_networkVersion_I_do\SimpleServing_Latest\Ansu_4_20\NewSimple\SimpleServings\SimpleServings\UI\UDC\SimpleServings\Menu\AddMenu.ascx.cs:line 537
+   at SimpleServings.UI.UDC.SimpleServings.Menu.AddMenu.SaveMenuUsingSampleMenu() in E:\DFTA coding\SimpleServings\SimpleServings_networkVersion_I_do\SimpleServing_Latest\Ansu_4_20\NewSimple\SimpleServings\SimpleServings\UI\UDC\SimpleServings\Menu\AddMenu.ascx.cs:line 413
+   at SimpleServings.UI.UDC.SimpleServings.Menu.AddMenu.btnAddMenu_Click(Object sender, EventArgs e) in E:\DFTA coding\SimpleServings\SimpleServings_networkVersion_I_do\SimpleServing_Latest\Ansu_4_20\NewSimple\SimpleServings\SimpleServings\UI\UDC\SimpleServings\Menu\AddMenu.ascx.cs:line 627
+   at System.Web.UI.WebControls.Button.OnClick(EventArgs e)
+   at System.Web.UI.WebControls.Button.RaisePostBackEvent(String eventArgument)
+   at System.Web.UI.WebControls.Button.System.Web.UI.IPostBackEventHandler.RaisePostBackEvent(String eventArgument)
+   at System.Web.UI.Page.RaisePostBackEvent(IPostBackEventHandler sourceControl, String eventArgument)
+   at System.Web.UI.Page.RaisePostBackEvent(NameValueCollection postData)
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   at System.Web.UI.Page.HandleError(Exception e)
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   at System.Web.UI.Page.ProcessRequest(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   at System.Web.UI.Page.ProcessRequest()
+   at System.Web.UI.Page.ProcessRequestWithNoAssert(HttpContext context)
+   at System.Web.UI.Page.ProcessRequest(HttpContext context)
+   at ASP.ui_page_simpleservings_menu_addmenu_aspx.ProcessRequest(HttpContext context) in c:\Users\mali\AppData\Local\Temp\Temporary ASP.NET Files\simpleservings\7dcfb244\fadae239\App_Web_2ooz10mi.4.cs:line 0
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStepImpl(IExecutionStep step)
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+2021-10-23 17:13:40,691 [ 38] INFO  AppManager [(null)] (landingPage.aspx) - Clearing Session 
+Request Type:  
+SessionId: qo1rtx4v4ju5mhl40ei01aa3
+2021-10-23 17:13:40,709 [ 72] INFO  AppManager [(null)] (landingPage.aspx) - New Session 
+Request Type:  
+SessionId: m4h05xh4p0511jvghs23salw
+2021-10-23 17:13:40,902 [  8] INFO  AppManager [(null)] (login.aspx) - (Mli) - Login successful 
+SessionId: dl0y2ptnx00pgj3wyv1xthbj
+2021-10-23 17:13:40,908 [ 11] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: m4h05xh4p0511jvghs23salw
+2021-10-23 17:15:09,192 [ 62] ERROR AppManager [(null)] SimpleServings application error: Exception of type 'System.Web.HttpUnhandledException' was thrown.
+location: http://localhost:1945/SimpleServings/UI/Page/SimpleServings/Menu/AddMenu.aspx?MenuType=AddMenuUsingSample
+
+System.Web.HttpUnhandledException (0x80004005): Exception of type 'System.Web.HttpUnhandledException' was thrown. ---> System.Exception: Invalid object name 'dbo.tblMenuCuisine'.
+   at SimpleServings.UI.UDC.SimpleServings.Menu.AddMenu.AddMenuCusine(Int32 menuID) in E:\DFTA coding\SimpleServings\SimpleServings_networkVersion_I_do\SimpleServing_Latest\Ansu_4_20\NewSimple\SimpleServings\SimpleServings\UI\UDC\SimpleServings\Menu\AddMenu.ascx.cs:line 537
+   at SimpleServings.UI.UDC.SimpleServings.Menu.AddMenu.SaveMenuUsingSampleMenu() in E:\DFTA coding\SimpleServings\SimpleServings_networkVersion_I_do\SimpleServing_Latest\Ansu_4_20\NewSimple\SimpleServings\SimpleServings\UI\UDC\SimpleServings\Menu\AddMenu.ascx.cs:line 413
+   at SimpleServings.UI.UDC.SimpleServings.Menu.AddMenu.btnAddMenu_Click(Object sender, EventArgs e) in E:\DFTA coding\SimpleServings\SimpleServings_networkVersion_I_do\SimpleServing_Latest\Ansu_4_20\NewSimple\SimpleServings\SimpleServings\UI\UDC\SimpleServings\Menu\AddMenu.ascx.cs:line 627
+   at System.Web.UI.WebControls.Button.OnClick(EventArgs e)
+   at System.Web.UI.WebControls.Button.RaisePostBackEvent(String eventArgument)
+   at System.Web.UI.WebControls.Button.System.Web.UI.IPostBackEventHandler.RaisePostBackEvent(String eventArgument)
+   at System.Web.UI.Page.RaisePostBackEvent(IPostBackEventHandler sourceControl, String eventArgument)
+   at System.Web.UI.Page.RaisePostBackEvent(NameValueCollection postData)
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   at System.Web.UI.Page.HandleError(Exception e)
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   at System.Web.UI.Page.ProcessRequest(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   at System.Web.UI.Page.ProcessRequest()
+   at System.Web.UI.Page.ProcessRequestWithNoAssert(HttpContext context)
+   at System.Web.UI.Page.ProcessRequest(HttpContext context)
+   at ASP.ui_page_simpleservings_menu_addmenu_aspx.ProcessRequest(HttpContext context) in c:\Users\mali\AppData\Local\Temp\Temporary ASP.NET Files\simpleservings\7dcfb244\fadae239\App_Web_2ooz10mi.4.cs:line 0
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStepImpl(IExecutionStep step)
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+2021-10-23 17:16:01,079 [ 62] INFO  AppManager [(null)] (landingPage.aspx) - Clearing Session 
+Request Type:  
+SessionId: zowj5zgch43fs2onfuzfhjot
+2021-10-23 17:16:01,096 [ 19] INFO  AppManager [(null)] (landingPage.aspx) - New Session 
+Request Type:  
+SessionId: z4hm4bkq1osh4mpgsfziy4g5
+2021-10-23 17:16:01,455 [  8] INFO  AppManager [(null)] (login.aspx) - (Mli) - Login successful 
+SessionId: jwepp13auoqsy1aujjxu2gnn
+2021-10-23 17:16:01,461 [ 34] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: z4hm4bkq1osh4mpgsfziy4g5
+2021-10-23 17:17:46,722 [ 62] ERROR AppManager [(null)] SimpleServings application error: Exception of type 'System.Web.HttpUnhandledException' was thrown.
+location: http://localhost:1945/SimpleServings/UI/Page/SimpleServings/Menu/AddMenu.aspx?MenuType=AddMenuUsingSample
+
+System.Web.HttpUnhandledException (0x80004005): Exception of type 'System.Web.HttpUnhandledException' was thrown. ---> System.Exception: Invalid object name 'dbo.tblMenuCuisine'.
+   at SimpleServings.UI.UDC.SimpleServings.Menu.AddMenu.AddMenuCusine(Int32 menuID) in E:\DFTA coding\SimpleServings\SimpleServings_networkVersion_I_do\SimpleServing_Latest\Ansu_4_20\NewSimple\SimpleServings\SimpleServings\UI\UDC\SimpleServings\Menu\AddMenu.ascx.cs:line 537
+   at SimpleServings.UI.UDC.SimpleServings.Menu.AddMenu.SaveMenuUsingSampleMenu() in E:\DFTA coding\SimpleServings\SimpleServings_networkVersion_I_do\SimpleServing_Latest\Ansu_4_20\NewSimple\SimpleServings\SimpleServings\UI\UDC\SimpleServings\Menu\AddMenu.ascx.cs:line 413
+   at SimpleServings.UI.UDC.SimpleServings.Menu.AddMenu.btnAddMenu_Click(Object sender, EventArgs e) in E:\DFTA coding\SimpleServings\SimpleServings_networkVersion_I_do\SimpleServing_Latest\Ansu_4_20\NewSimple\SimpleServings\SimpleServings\UI\UDC\SimpleServings\Menu\AddMenu.ascx.cs:line 627
+   at System.Web.UI.WebControls.Button.OnClick(EventArgs e)
+   at System.Web.UI.WebControls.Button.RaisePostBackEvent(String eventArgument)
+   at System.Web.UI.WebControls.Button.System.Web.UI.IPostBackEventHandler.RaisePostBackEvent(String eventArgument)
+   at System.Web.UI.Page.RaisePostBackEvent(IPostBackEventHandler sourceControl, String eventArgument)
+   at System.Web.UI.Page.RaisePostBackEvent(NameValueCollection postData)
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   at System.Web.UI.Page.HandleError(Exception e)
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   at System.Web.UI.Page.ProcessRequest(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   at System.Web.UI.Page.ProcessRequest()
+   at System.Web.UI.Page.ProcessRequestWithNoAssert(HttpContext context)
+   at System.Web.UI.Page.ProcessRequest(HttpContext context)
+   at ASP.ui_page_simpleservings_menu_addmenu_aspx.ProcessRequest(HttpContext context) in c:\Users\mali\AppData\Local\Temp\Temporary ASP.NET Files\simpleservings\7dcfb244\fadae239\App_Web_2ooz10mi.4.cs:line 0
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStepImpl(IExecutionStep step)
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+2021-10-23 17:18:42,848 [  1] INFO  AppManager [(null)] SimpleServings started.
+2021-10-23 17:18:53,665 [ 12] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: daqlvmb3zf4yi4dnry4zqbnz
+2021-10-23 17:40:11,883 [  9] ERROR AppManager [(null)] SimpleServings application error: Exception of type 'System.Web.HttpUnhandledException' was thrown.
+location: http://localhost:1945/SimpleServings/UI/Page/SimpleServings/Menu/AddMenu.aspx?MenuType=AddMenuUsingSample
+
+System.Web.HttpUnhandledException (0x80004005): Exception of type 'System.Web.HttpUnhandledException' was thrown. ---> System.Exception: Invalid object name 'dbo.tblMenuCuisine'.
+   at SimpleServings.UI.UDC.SimpleServings.Menu.AddMenu.AddMenuCusine(Int32 menuID) in E:\DFTA coding\SimpleServings\SimpleServings_networkVersion_I_do\SimpleServing_Latest\Ansu_4_20\NewSimple\SimpleServings\SimpleServings\UI\UDC\SimpleServings\Menu\AddMenu.ascx.cs:line 537
+   at SimpleServings.UI.UDC.SimpleServings.Menu.AddMenu.SaveMenuUsingSampleMenu() in E:\DFTA coding\SimpleServings\SimpleServings_networkVersion_I_do\SimpleServing_Latest\Ansu_4_20\NewSimple\SimpleServings\SimpleServings\UI\UDC\SimpleServings\Menu\AddMenu.ascx.cs:line 413
+   at SimpleServings.UI.UDC.SimpleServings.Menu.AddMenu.btnAddMenu_Click(Object sender, EventArgs e) in E:\DFTA coding\SimpleServings\SimpleServings_networkVersion_I_do\SimpleServing_Latest\Ansu_4_20\NewSimple\SimpleServings\SimpleServings\UI\UDC\SimpleServings\Menu\AddMenu.ascx.cs:line 627
+   at System.Web.UI.WebControls.Button.OnClick(EventArgs e)
+   at System.Web.UI.WebControls.Button.RaisePostBackEvent(String eventArgument)
+   at System.Web.UI.WebControls.Button.System.Web.UI.IPostBackEventHandler.RaisePostBackEvent(String eventArgument)
+   at System.Web.UI.Page.RaisePostBackEvent(IPostBackEventHandler sourceControl, String eventArgument)
+   at System.Web.UI.Page.RaisePostBackEvent(NameValueCollection postData)
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   at System.Web.UI.Page.HandleError(Exception e)
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   at System.Web.UI.Page.ProcessRequest(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   at System.Web.UI.Page.ProcessRequest()
+   at System.Web.UI.Page.ProcessRequestWithNoAssert(HttpContext context)
+   at System.Web.UI.Page.ProcessRequest(HttpContext context)
+   at ASP.ui_page_simpleservings_menu_addmenu_aspx.ProcessRequest(HttpContext context) in c:\Users\mali\AppData\Local\Temp\Temporary ASP.NET Files\simpleservings\7dcfb244\fadae239\App_Web_2ooz10mi.4.cs:line 0
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStepImpl(IExecutionStep step)
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+2021-10-23 17:40:25,490 [101] INFO  AppManager [(null)] SimpleServings started.
+2021-10-23 17:41:46,394 [101] INFO  AppManager [(null)] SimpleServings started.
+2021-10-23 17:42:08,169 [ 21] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: zhopr5kq02ie2zkv3intqn03
+2021-10-23 17:42:48,410 [ 69] ERROR AppManager [(null)] SimpleServings application error: Exception of type 'System.Web.HttpUnhandledException' was thrown.
+location: http://localhost:1945/SimpleServings/UI/Page/SimpleServings/Menu/AddMenu.aspx?MenuType=AddMenuUsingSample
+
+System.Web.HttpUnhandledException (0x80004005): Exception of type 'System.Web.HttpUnhandledException' was thrown. ---> System.Exception: Meal Served Format is Required
+   at SimpleServings.UI.UDC.SimpleServings.Menu.AddMenu.ValidateMealServedFormat() in E:\DFTA coding\SimpleServings\SimpleServings_networkVersion_I_do\SimpleServing_Latest\Ansu_4_20\NewSimple\SimpleServings\SimpleServings\UI\UDC\SimpleServings\Menu\AddMenu.ascx.cs:line 464
+   at SimpleServings.UI.UDC.SimpleServings.Menu.AddMenu.SaveMenuUsingSampleMenu() in E:\DFTA coding\SimpleServings\SimpleServings_networkVersion_I_do\SimpleServing_Latest\Ansu_4_20\NewSimple\SimpleServings\SimpleServings\UI\UDC\SimpleServings\Menu\AddMenu.ascx.cs:line 393
+   at SimpleServings.UI.UDC.SimpleServings.Menu.AddMenu.btnAddMenu_Click(Object sender, EventArgs e) in E:\DFTA coding\SimpleServings\SimpleServings_networkVersion_I_do\SimpleServing_Latest\Ansu_4_20\NewSimple\SimpleServings\SimpleServings\UI\UDC\SimpleServings\Menu\AddMenu.ascx.cs:line 627
+   at System.Web.UI.WebControls.Button.OnClick(EventArgs e)
+   at System.Web.UI.WebControls.Button.RaisePostBackEvent(String eventArgument)
+   at System.Web.UI.WebControls.Button.System.Web.UI.IPostBackEventHandler.RaisePostBackEvent(String eventArgument)
+   at System.Web.UI.Page.RaisePostBackEvent(IPostBackEventHandler sourceControl, String eventArgument)
+   at System.Web.UI.Page.RaisePostBackEvent(NameValueCollection postData)
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   at System.Web.UI.Page.HandleError(Exception e)
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   at System.Web.UI.Page.ProcessRequest(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   at System.Web.UI.Page.ProcessRequest()
+   at System.Web.UI.Page.ProcessRequestWithNoAssert(HttpContext context)
+   at System.Web.UI.Page.ProcessRequest(HttpContext context)
+   at ASP.ui_page_simpleservings_menu_addmenu_aspx.ProcessRequest(HttpContext context) in c:\Users\mali\AppData\Local\Temp\Temporary ASP.NET Files\simpleservings\7dcfb244\fadae239\App_Web_saamp03r.1.cs:line 0
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStepImpl(IExecutionStep step)
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+2021-10-23 17:45:02,282 [ 71] INFO  AppManager [(null)] (landingPage.aspx) - Clearing Session 
+Request Type:  
+SessionId: mtbkx5qshwaz52skuin0navb
+2021-10-23 17:45:02,298 [ 23] INFO  AppManager [(null)] (landingPage.aspx) - New Session 
+Request Type:  
+SessionId: hkfxfjbyozd0qwjj4h54duly
+2021-10-23 17:45:02,580 [ 98] INFO  AppManager [(null)] (login.aspx) - (Mli) - Login successful 
+SessionId: xcy22fklgiyqqou3zpa25qma
+2021-10-23 17:45:02,587 [100] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: hkfxfjbyozd0qwjj4h54duly
+2021-10-23 17:45:54,927 [ 12] INFO  AppManager [(null)] (landingPage.aspx) - Clearing Session 
+Request Type:  
+SessionId: uxfr0p4yhtg4i04zghf2bwf0
+2021-10-23 17:45:54,941 [ 71] INFO  AppManager [(null)] (landingPage.aspx) - New Session 
+Request Type:  
+SessionId: m5vv0wu04koie5evhffrvxd5
+2021-10-23 17:45:55,181 [ 94] INFO  AppManager [(null)] (login.aspx) - (Mli) - Login successful 
+SessionId: 45tfkbftccbltwfo25ddxpn1
+2021-10-23 17:45:55,185 [  9] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: m5vv0wu04koie5evhffrvxd5

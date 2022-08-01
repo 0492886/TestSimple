@@ -1,0 +1,20 @@
+2017-10-23 20:27:03,628 [  1] INFO  AppManager [(null)] SimpleServings started.
+2017-10-23 20:29:41,479 [  6] ERROR AppManager [(null)] btnLogin_Click failed: Incorrect username and/or password.
+2017-10-23 20:29:50,325 [  8] INFO  AppManager [(null)] (landingPage.aspx) - Clearing Session 
+Request Type:  
+SessionId: eu3kadujhw10wx45itfme5v0
+2017-10-23 20:29:50,371 [  7] INFO  AppManager [(null)] (landingPage.aspx) - New Session 
+Request Type:  
+SessionId: coclb1r2qirwiajrqut35taz
+2017-10-23 20:29:50,429 [  9] INFO  AppManager [(null)] (login.aspx) - (kpatel1) - Login successful 
+SessionId: eu3kadujhw10wx45itfme5v0
+2017-10-23 20:29:50,494 [  8] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: coclb1r2qirwiajrqut35taz
+2017-10-23 20:30:25,644 [  8] INFO  AppManager [(null)] (AddEditAccountInfo.ascx) - Request from http://localhost:1949/SimpleServings/UI/Page/MyZone.aspx?Control=EditStaff&StaffID=545&EditPart=EditAccountInfo 
+SessionId: coclb1r2qirwiajrqut35taz
+2017-10-23 20:30:25,645 [  8] INFO  AppManager [(null)] (AddEditAccountInfo.ascx) - Request from http://localhost:1949/SimpleServings/UI/Page/MyZone.aspx?Control=EditStaff&StaffID=545&EditPart=EditAccountInfo 
+SessionId: coclb1r2qirwiajrqut35taz
+2017-10-23 20:31:17,783 [  6] INFO  AppManager [(null)] (AddEditAccountInfo.ascx) - Request from http://localhost:1949/SimpleServings/UI/Page/MyZone.aspx?Control=EditStaff&StaffID=545&EditPart=EditAccountInfo 
+SessionId: coclb1r2qirwiajrqut35taz
+2017-10-23 20:31:17,783 [  6] INFO  AppManager [(null)] (AddEditAccountInfo.ascx) - Request from http://localhost:1949/SimpleServings/UI/Page/MyZone.aspx?Control=EditStaff&StaffID=545&EditPart=EditAccountInfo 
+SessionId: coclb1r2qirwiajrqut35taz

@@ -1,0 +1,77 @@
+2022-04-21 11:11:49,502 [  1] INFO  AppManager [(null)] SimpleServings started.
+2022-04-21 11:12:53,223 [ 18] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: yjvugkkgkg0flcnm0awid0la
+2022-04-21 11:15:20,944 [ 17] INFO  AppManager [(null)] (landingPage.aspx) - Clearing Session 
+Request Type:  
+SessionId: htqrbtpkqfpqtteinfzfjv3b
+2022-04-21 11:15:20,953 [ 12] INFO  AppManager [(null)] (landingPage.aspx) - New Session 
+Request Type:  
+SessionId: q22ln4vmp3l3xr45ieldhnos
+2022-04-21 11:15:21,202 [ 23] INFO  AppManager [(null)] (login.aspx) - (Mli) - Login successful 
+SessionId: m53n3jds1tpp5xumq0xzlvoc
+2022-04-21 11:15:21,218 [ 14] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: q22ln4vmp3l3xr45ieldhnos
+2022-04-21 11:23:43,279 [ 40] ERROR AppManager [(null)] SimpleServings application error: Exception of type 'System.Web.HttpUnhandledException' was thrown.
+location: http://localhost:1945/SimpleServings/UI/Page/SimpleServings/Supplier/Contract.aspx?Action=Edit&ContractID=266
+
+System.Web.HttpUnhandledException (0x80004005): Exception of type 'System.Web.HttpUnhandledException' was thrown. ---> System.NullReferenceException: Object reference not set to an instance of an object.
+   at SimpleServings.UI.UDC.SimpleServings.Supplier.AddEditContract.PopContractType(Int32 contractType) in E:\DFTA coding\SimpleServings\SimpleServings_networkVersion_I_do\SimpleServing_Latest\NewSimple\SimpleServings\SimpleServings\UI\UDC\SimpleServings\Supplier\AddEditContract.ascx.cs:line 208
+   at SimpleServings.UI.UDC.SimpleServings.Supplier.AddEditContract.PopContract(Contract c) in E:\DFTA coding\SimpleServings\SimpleServings_networkVersion_I_do\SimpleServing_Latest\NewSimple\SimpleServings\SimpleServings\UI\UDC\SimpleServings\Supplier\AddEditContract.ascx.cs:line 180
+   at SimpleServings.UI.UDC.SimpleServings.Supplier.AddEditContract.PopContract(Int32 contractID) in E:\DFTA coding\SimpleServings\SimpleServings_networkVersion_I_do\SimpleServing_Latest\NewSimple\SimpleServings\SimpleServings\UI\UDC\SimpleServings\Supplier\AddEditContract.ascx.cs:line 78
+   at SimpleServings.UI.UDC.SimpleServings.Supplier.AddEditContract.Page_Load(Object sender, EventArgs e) in E:\DFTA coding\SimpleServings\SimpleServings_networkVersion_I_do\SimpleServing_Latest\NewSimple\SimpleServings\SimpleServings\UI\UDC\SimpleServings\Supplier\AddEditContract.ascx.cs:line 27
+   at System.Web.Util.CalliEventHandlerDelegateProxy.Callback(Object sender, EventArgs e)
+   at System.Web.UI.Control.OnLoad(EventArgs e)
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   at System.Web.UI.Page.HandleError(Exception e)
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   at System.Web.UI.Page.ProcessRequest(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   at System.Web.UI.Page.ProcessRequest()
+   at System.Web.UI.Page.ProcessRequestWithNoAssert(HttpContext context)
+   at System.Web.UI.Page.ProcessRequest(HttpContext context)
+   at ASP.ui_page_simpleservings_supplier_contract_aspx.ProcessRequest(HttpContext context) in c:\Users\mali\AppData\Local\Temp\Temporary ASP.NET Files\simpleservings\44eca0d1\fb0616b5\App_Web_giai0n5d.1.cs:line 0
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStepImpl(IExecutionStep step)
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+2022-04-21 11:24:13,394 [ 50] ERROR AppManager [(null)] SimpleServings application error: Exception of type 'System.Web.HttpUnhandledException' was thrown.
+location: http://localhost:1945/SimpleServings/UI/Page/SimpleServings/Supplier/Contract.aspx?Action=Edit&ContractID=266
+
+System.Web.HttpUnhandledException (0x80004005): Exception of type 'System.Web.HttpUnhandledException' was thrown. ---> System.NullReferenceException: Object reference not set to an instance of an object.
+   at SimpleServings.UI.UDC.SimpleServings.Supplier.AddEditContract.PopContractType(Int32 contractType) in E:\DFTA coding\SimpleServings\SimpleServings_networkVersion_I_do\SimpleServing_Latest\NewSimple\SimpleServings\SimpleServings\UI\UDC\SimpleServings\Supplier\AddEditContract.ascx.cs:line 208
+   at SimpleServings.UI.UDC.SimpleServings.Supplier.AddEditContract.PopContract(Contract c) in E:\DFTA coding\SimpleServings\SimpleServings_networkVersion_I_do\SimpleServing_Latest\NewSimple\SimpleServings\SimpleServings\UI\UDC\SimpleServings\Supplier\AddEditContract.ascx.cs:line 180
+   at SimpleServings.UI.UDC.SimpleServings.Supplier.AddEditContract.PopContract(Int32 contractID) in E:\DFTA coding\SimpleServings\SimpleServings_networkVersion_I_do\SimpleServing_Latest\NewSimple\SimpleServings\SimpleServings\UI\UDC\SimpleServings\Supplier\AddEditContract.ascx.cs:line 78
+   at SimpleServings.UI.UDC.SimpleServings.Supplier.AddEditContract.Page_Load(Object sender, EventArgs e) in E:\DFTA coding\SimpleServings\SimpleServings_networkVersion_I_do\SimpleServing_Latest\NewSimple\SimpleServings\SimpleServings\UI\UDC\SimpleServings\Supplier\AddEditContract.ascx.cs:line 27
+   at System.Web.Util.CalliEventHandlerDelegateProxy.Callback(Object sender, EventArgs e)
+   at System.Web.UI.Control.OnLoad(EventArgs e)
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   at System.Web.UI.Page.HandleError(Exception e)
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   at System.Web.UI.Page.ProcessRequest(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   at System.Web.UI.Page.ProcessRequest()
+   at System.Web.UI.Page.ProcessRequestWithNoAssert(HttpContext context)
+   at System.Web.UI.Page.ProcessRequest(HttpContext context)
+   at ASP.ui_page_simpleservings_supplier_contract_aspx.ProcessRequest(HttpContext context) in c:\Users\mali\AppData\Local\Temp\Temporary ASP.NET Files\simpleservings\44eca0d1\fb0616b5\App_Web_giai0n5d.1.cs:line 0
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStepImpl(IExecutionStep step)
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+2022-04-21 11:31:58,071 [ 77] INFO  AppManager [(null)] (landingPage.aspx) - Clearing Session 
+Request Type:  
+SessionId: w3oee4fh2nhdsxuvz0vnhfrn
+2022-04-21 11:31:58,079 [ 40] INFO  AppManager [(null)] (landingPage.aspx) - New Session 
+Request Type:  
+SessionId: gei3r2jgs2jezjmoqasjdd51
+2022-04-21 11:31:58,321 [ 79] INFO  AppManager [(null)] (login.aspx) - (Mli) - Login successful 
+SessionId: suq3vqvz1dxybjkd5gq4h3ve
+2022-04-21 11:31:58,327 [ 72] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: gei3r2jgs2jezjmoqasjdd51

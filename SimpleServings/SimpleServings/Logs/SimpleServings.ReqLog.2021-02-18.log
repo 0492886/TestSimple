@@ -1,0 +1,525 @@
+2021-02-18 09:18:02,908 [  1] INFO  AppManager [(null)] SimpleServings started.
+2021-02-18 09:18:45,779 [ 11] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: h33ua4fu2le1r413gzuvyu5n
+2021-02-18 09:40:15,463 [100] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: h33ua4fu2le1r413gzuvyu5n
+2021-02-18 09:40:15,964 [108] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: h33ua4fu2le1r413gzuvyu5n
+2021-02-18 09:40:46,072 [ 11] INFO  AppManager [(null)] (landingPage.aspx) - Clearing Session 
+Request Type:  
+SessionId: uv5jdyy412yvpybcxujrufp0
+2021-02-18 09:40:46,081 [104] INFO  AppManager [(null)] (landingPage.aspx) - New Session 
+Request Type:  
+SessionId: 1bnj1udw0rxh1yb3dji3cjjt
+2021-02-18 09:40:46,315 [ 33] INFO  AppManager [(null)] (login.aspx) - (Mli) - Login successful 
+SessionId: o3hkhdbpjmzbnpio5cc3vjgd
+2021-02-18 09:40:46,320 [ 97] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: 1bnj1udw0rxh1yb3dji3cjjt
+2021-02-18 10:11:39,827 [ 26] INFO  AppManager [(null)] SimpleServings started.
+2021-02-18 10:12:19,906 [ 39] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: 0lppd4rpkfefex1trtbrhnur
+2021-02-18 11:26:43,708 [  1] INFO  AppManager [(null)] SimpleServings started.
+2021-02-18 11:27:10,666 [  8] ERROR AppManager [(null)] btnLogin_Click failed: Incorrect username and/or password.
+2021-02-18 11:27:20,889 [  8] INFO  AppManager [(null)] (landingPage.aspx) - Clearing Session 
+Request Type:  
+SessionId: v5tt3bxicenc045qwnv0yfyb
+2021-02-18 11:27:20,906 [ 10] INFO  AppManager [(null)] (landingPage.aspx) - New Session 
+Request Type:  
+SessionId: cwybop1vnf11l24zsk4fkrx1
+2021-02-18 11:27:21,094 [  9] INFO  AppManager [(null)] (login.aspx) - (Mli) - Login successful 
+SessionId: vfey0ix0exayvzf3gzdp3kux
+2021-02-18 11:27:21,124 [ 12] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: cwybop1vnf11l24zsk4fkrx1
+2021-02-18 11:45:55,071 [ 99] INFO  AppManager [(null)] SimpleServings started.
+2021-02-18 11:46:24,316 [100] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: wov5tdy5jofajgdihq3bzgwh
+2021-02-18 11:47:58,187 [  8] INFO  AppManager [(null)] (landingPage.aspx) - Clearing Session 
+Request Type:  
+SessionId: mrpczdtonhspgtbe2awpagbu
+2021-02-18 11:47:58,207 [ 10] INFO  AppManager [(null)] (landingPage.aspx) - New Session 
+Request Type:  
+SessionId: j341kji14jrh150bjqmospx0
+2021-02-18 11:47:58,418 [  9] INFO  AppManager [(null)] (login.aspx) - (Mli) - Login successful 
+SessionId: ab3whxpvukvhqahr45xdczim
+2021-02-18 11:47:58,425 [105] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: j341kji14jrh150bjqmospx0
+2021-02-18 12:37:42,745 [123] INFO  AppManager [(null)] (landingPage.aspx) - Clearing Session 
+Request Type:  
+SessionId: uotu3m5ysrolkjnxlrkqlwmm
+2021-02-18 12:37:42,801 [157] INFO  AppManager [(null)] (landingPage.aspx) - New Session 
+Request Type:  
+SessionId: mx0oxxlorqsmmz0oj3g0eizv
+2021-02-18 12:37:42,999 [127] INFO  AppManager [(null)] (login.aspx) - (Mli) - Login successful 
+SessionId: e0pbvwa3wrtt5wuthoxrmdvn
+2021-02-18 12:37:43,007 [115] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: mx0oxxlorqsmmz0oj3g0eizv
+2021-02-18 12:39:33,959 [117] INFO  AppManager [(null)] (landingPage.aspx) - Clearing Session 
+Request Type:  
+SessionId: 4vywfpjt4pjkyf55cq3gdfzq
+2021-02-18 12:39:33,974 [ 85] INFO  AppManager [(null)] (landingPage.aspx) - New Session 
+Request Type:  
+SessionId: 335xjrgzpzf5ufjzabav52mq
+2021-02-18 12:39:34,138 [101] INFO  AppManager [(null)] (login.aspx) - (Mli) - Login successful 
+SessionId: 1mrvqtn2lybl4hpdj22mspba
+2021-02-18 12:39:34,144 [108] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: 335xjrgzpzf5ufjzabav52mq
+2021-02-18 12:42:47,888 [115] INFO  AppManager [(null)] (landingPage.aspx) - Clearing Session 
+Request Type:  
+SessionId: hj0tajkvfw3ucg54ondlxoz4
+2021-02-18 12:42:47,906 [ 70] INFO  AppManager [(null)] (landingPage.aspx) - New Session 
+Request Type:  
+SessionId: oj4ohhcdgkphlv3s4vbkotvn
+2021-02-18 12:42:48,221 [ 57] INFO  AppManager [(null)] (login.aspx) - (Mli) - Login successful 
+SessionId: dodnsurvtdufjd5quosa205t
+2021-02-18 12:42:48,231 [157] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: oj4ohhcdgkphlv3s4vbkotvn
+2021-02-18 12:43:29,702 [123] INFO  AppManager [(null)] (landingPage.aspx) - Clearing Session 
+Request Type:  
+SessionId: dcf53jafwisosxucbnluq3xq
+2021-02-18 12:43:29,720 [115] INFO  AppManager [(null)] (landingPage.aspx) - New Session 
+Request Type:  
+SessionId: 3xp4hcur0watm5r13zhdojyk
+2021-02-18 12:43:29,888 [ 85] INFO  AppManager [(null)] (login.aspx) - (Mli) - Login successful 
+SessionId: 15et2ji0w41hszlzkuhp2yg3
+2021-02-18 12:43:29,893 [127] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: 3xp4hcur0watm5r13zhdojyk
+2021-02-18 12:55:18,661 [ 43] INFO  AppManager [(null)] SimpleServings started.
+2021-02-18 12:55:41,047 [146] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: 4plieywq3ejcyihdcrdgs3tw
+2021-02-18 13:12:21,885 [ 68] INFO  AppManager [(null)] SimpleServings started.
+2021-02-18 13:12:47,151 [110] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: u421fkjy44ph3vdgcgy3yiau
+2021-02-18 13:12:58,997 [114] ERROR AppManager [(null)] SimpleServings application error: Exception of type 'System.Web.HttpUnhandledException' was thrown.
+location: http://localhost:1949/SimpleServings/UI/Page/SimpleServings/Menu/ViewMenu.aspx?MenuID=16134
+
+System.Web.HttpUnhandledException (0x80004005): Exception of type 'System.Web.HttpUnhandledException' was thrown. ---> System.Web.HttpException (0x80004005): Cannot have multiple items selected in a DropDownList.
+   at System.Web.UI.WebControls.DropDownList.VerifyMultiSelect()
+   at System.Web.UI.WebControls.ListControl.RenderContents(HtmlTextWriter writer)
+   at System.Web.UI.WebControls.WebControl.Render(HtmlTextWriter writer)
+   at System.Web.UI.Control.RenderControlInternal(HtmlTextWriter writer, ControlAdapter adapter)
+   at System.Web.UI.Control.RenderControl(HtmlTextWriter writer, ControlAdapter adapter)
+   at System.Web.UI.Control.RenderControl(HtmlTextWriter writer)
+   at System.Web.UI.Control.RenderChildrenInternal(HtmlTextWriter writer, ICollection children)
+   at System.Web.UI.Control.RenderChildren(HtmlTextWriter writer)
+   at System.Web.UI.WebControls.WebControl.RenderContents(HtmlTextWriter writer)
+   at System.Web.UI.WebControls.WebControl.Render(HtmlTextWriter writer)
+   at System.Web.UI.Control.RenderControlInternal(HtmlTextWriter writer, ControlAdapter adapter)
+   at System.Web.UI.Control.RenderControl(HtmlTextWriter writer, ControlAdapter adapter)
+   at System.Web.UI.Control.RenderControl(HtmlTextWriter writer)
+   at ASP.ui_udc_simpleservings_menu_menuitemgrid_ascx.__Render__control1(HtmlTextWriter __w, Control parameterContainer) in c:\Users\mali\AppData\Local\Temp\Temporary ASP.NET Files\simpleservings\f45f45fb\c4c03705\App_Web_4ufuu51h.9.cs:line 0
+   at System.Web.UI.Control.RenderChildrenInternal(HtmlTextWriter writer, ICollection children)
+   at System.Web.UI.Control.RenderChildren(HtmlTextWriter writer)
+   at System.Web.UI.Control.Render(HtmlTextWriter writer)
+   at System.Web.UI.Control.RenderControlInternal(HtmlTextWriter writer, ControlAdapter adapter)
+   at System.Web.UI.Control.RenderControl(HtmlTextWriter writer, ControlAdapter adapter)
+   at System.Web.UI.Control.RenderControl(HtmlTextWriter writer)
+   at System.Web.UI.Control.RenderChildrenInternal(HtmlTextWriter writer, ICollection children)
+   at System.Web.UI.Control.RenderChildren(HtmlTextWriter writer)
+   at System.Web.UI.WebControls.WebControl.RenderContents(HtmlTextWriter writer)
+   at System.Web.UI.WebControls.WebControl.Render(HtmlTextWriter writer)
+   at System.Web.UI.Control.RenderControlInternal(HtmlTextWriter writer, ControlAdapter adapter)
+   at System.Web.UI.Control.RenderControl(HtmlTextWriter writer, ControlAdapter adapter)
+   at System.Web.UI.Control.RenderControl(HtmlTextWriter writer)
+   at System.Web.UI.Control.RenderChildrenInternal(HtmlTextWriter writer, ICollection children)
+   at System.Web.UI.Control.RenderChildren(HtmlTextWriter writer)
+   at System.Web.UI.Control.Render(HtmlTextWriter writer)
+   at System.Web.UI.Control.RenderControlInternal(HtmlTextWriter writer, ControlAdapter adapter)
+   at System.Web.UI.Control.RenderControl(HtmlTextWriter writer, ControlAdapter adapter)
+   at System.Web.UI.Control.RenderControl(HtmlTextWriter writer)
+   at System.Web.UI.Control.RenderChildrenInternal(HtmlTextWriter writer, ICollection children)
+   at System.Web.UI.HtmlControls.HtmlForm.RenderChildren(HtmlTextWriter writer)
+   at System.Web.UI.HtmlControls.HtmlContainerControl.Render(HtmlTextWriter writer)
+   at System.Web.UI.HtmlControls.HtmlForm.Render(HtmlTextWriter output)
+   at System.Web.UI.Control.RenderControlInternal(HtmlTextWriter writer, ControlAdapter adapter)
+   at System.Web.UI.Control.RenderControl(HtmlTextWriter writer, ControlAdapter adapter)
+   at System.Web.UI.HtmlControls.HtmlForm.RenderControl(HtmlTextWriter writer)
+   at System.Web.UI.Control.RenderChildrenInternal(HtmlTextWriter writer, ICollection children)
+   at System.Web.UI.Control.RenderChildren(HtmlTextWriter writer)
+   at System.Web.UI.Control.Render(HtmlTextWriter writer)
+   at System.Web.UI.Control.RenderControlInternal(HtmlTextWriter writer, ControlAdapter adapter)
+   at System.Web.UI.Control.RenderControl(HtmlTextWriter writer, ControlAdapter adapter)
+   at System.Web.UI.Control.RenderControl(HtmlTextWriter writer)
+   at System.Web.UI.Control.RenderChildrenInternal(HtmlTextWriter writer, ICollection children)
+   at System.Web.UI.Control.RenderChildren(HtmlTextWriter writer)
+   at System.Web.UI.Control.Render(HtmlTextWriter writer)
+   at System.Web.UI.Control.RenderControlInternal(HtmlTextWriter writer, ControlAdapter adapter)
+   at System.Web.UI.Control.RenderControl(HtmlTextWriter writer, ControlAdapter adapter)
+   at System.Web.UI.Control.RenderControl(HtmlTextWriter writer)
+   at System.Web.UI.Control.RenderChildrenInternal(HtmlTextWriter writer, ICollection children)
+   at System.Web.UI.Control.RenderChildren(HtmlTextWriter writer)
+   at System.Web.UI.Page.Render(HtmlTextWriter writer)
+   at System.Web.UI.Control.RenderControlInternal(HtmlTextWriter writer, ControlAdapter adapter)
+   at System.Web.UI.Control.RenderControl(HtmlTextWriter writer, ControlAdapter adapter)
+   at System.Web.UI.Control.RenderControl(HtmlTextWriter writer)
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   at System.Web.UI.Page.HandleError(Exception e)
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   at System.Web.UI.Page.ProcessRequest(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   at System.Web.UI.Page.ProcessRequest()
+   at System.Web.UI.Page.ProcessRequestWithNoAssert(HttpContext context)
+   at System.Web.UI.Page.ProcessRequest(HttpContext context)
+   at ASP.ui_page_simpleservings_menu_viewmenu_aspx.ProcessRequest(HttpContext context) in c:\Users\mali\AppData\Local\Temp\Temporary ASP.NET Files\simpleservings\f45f45fb\c4c03705\App_Web_mruys1ss.3.cs:line 0
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStepImpl(IExecutionStep step)
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+2021-02-18 13:14:52,943 [  6] INFO  AppManager [(null)] SimpleServings started.
+2021-02-18 13:15:17,893 [108] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: zrugtrdzqieg3ewb2unll04o
+2021-02-18 13:19:26,265 [140] INFO  AppManager [(null)] SimpleServings started.
+2021-02-18 13:19:49,662 [108] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: hnhp44hdllhi24ius53xn15b
+2021-02-18 13:22:09,712 [140] INFO  AppManager [(null)] SimpleServings started.
+2021-02-18 13:24:16,285 [142] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: fkq0siulozuypsrbniio1tw2
+2021-02-18 13:24:28,369 [ 77] ERROR AppManager [(null)] SimpleServings application error: Exception of type 'System.Web.HttpUnhandledException' was thrown.
+location: http://localhost:1949/SimpleServings/UI/Page/SimpleServings/Menu/ViewMenu.aspx?MenuID=16134
+
+System.Web.HttpUnhandledException (0x80004005): Exception of type 'System.Web.HttpUnhandledException' was thrown. ---> System.Web.HttpException (0x80004005): Cannot have multiple items selected in a DropDownList.
+   at System.Web.UI.WebControls.DropDownList.VerifyMultiSelect()
+   at System.Web.UI.WebControls.ListControl.RenderContents(HtmlTextWriter writer)
+   at System.Web.UI.WebControls.WebControl.Render(HtmlTextWriter writer)
+   at System.Web.UI.Control.RenderControlInternal(HtmlTextWriter writer, ControlAdapter adapter)
+   at System.Web.UI.Control.RenderControl(HtmlTextWriter writer, ControlAdapter adapter)
+   at System.Web.UI.Control.RenderControl(HtmlTextWriter writer)
+   at System.Web.UI.Control.RenderChildrenInternal(HtmlTextWriter writer, ICollection children)
+   at System.Web.UI.Control.RenderChildren(HtmlTextWriter writer)
+   at System.Web.UI.WebControls.WebControl.RenderContents(HtmlTextWriter writer)
+   at System.Web.UI.WebControls.WebControl.Render(HtmlTextWriter writer)
+   at System.Web.UI.Control.RenderControlInternal(HtmlTextWriter writer, ControlAdapter adapter)
+   at System.Web.UI.Control.RenderControl(HtmlTextWriter writer, ControlAdapter adapter)
+   at System.Web.UI.Control.RenderControl(HtmlTextWriter writer)
+   at ASP.ui_udc_simpleservings_menu_menuitemgrid_ascx.__Render__control1(HtmlTextWriter __w, Control parameterContainer) in c:\Users\mali\AppData\Local\Temp\Temporary ASP.NET Files\simpleservings\f45f45fb\c4c03705\App_Web_52j0eiah.8.cs:line 0
+   at System.Web.UI.Control.RenderChildrenInternal(HtmlTextWriter writer, ICollection children)
+   at System.Web.UI.Control.RenderChildren(HtmlTextWriter writer)
+   at System.Web.UI.Control.Render(HtmlTextWriter writer)
+   at System.Web.UI.Control.RenderControlInternal(HtmlTextWriter writer, ControlAdapter adapter)
+   at System.Web.UI.Control.RenderControl(HtmlTextWriter writer, ControlAdapter adapter)
+   at System.Web.UI.Control.RenderControl(HtmlTextWriter writer)
+   at System.Web.UI.Control.RenderChildrenInternal(HtmlTextWriter writer, ICollection children)
+   at System.Web.UI.Control.RenderChildren(HtmlTextWriter writer)
+   at System.Web.UI.WebControls.WebControl.RenderContents(HtmlTextWriter writer)
+   at System.Web.UI.WebControls.WebControl.Render(HtmlTextWriter writer)
+   at System.Web.UI.Control.RenderControlInternal(HtmlTextWriter writer, ControlAdapter adapter)
+   at System.Web.UI.Control.RenderControl(HtmlTextWriter writer, ControlAdapter adapter)
+   at System.Web.UI.Control.RenderControl(HtmlTextWriter writer)
+   at System.Web.UI.Control.RenderChildrenInternal(HtmlTextWriter writer, ICollection children)
+   at System.Web.UI.Control.RenderChildren(HtmlTextWriter writer)
+   at System.Web.UI.Control.Render(HtmlTextWriter writer)
+   at System.Web.UI.Control.RenderControlInternal(HtmlTextWriter writer, ControlAdapter adapter)
+   at System.Web.UI.Control.RenderControl(HtmlTextWriter writer, ControlAdapter adapter)
+   at System.Web.UI.Control.RenderControl(HtmlTextWriter writer)
+   at System.Web.UI.Control.RenderChildrenInternal(HtmlTextWriter writer, ICollection children)
+   at System.Web.UI.HtmlControls.HtmlForm.RenderChildren(HtmlTextWriter writer)
+   at System.Web.UI.HtmlControls.HtmlContainerControl.Render(HtmlTextWriter writer)
+   at System.Web.UI.HtmlControls.HtmlForm.Render(HtmlTextWriter output)
+   at System.Web.UI.Control.RenderControlInternal(HtmlTextWriter writer, ControlAdapter adapter)
+   at System.Web.UI.Control.RenderControl(HtmlTextWriter writer, ControlAdapter adapter)
+   at System.Web.UI.HtmlControls.HtmlForm.RenderControl(HtmlTextWriter writer)
+   at System.Web.UI.Control.RenderChildrenInternal(HtmlTextWriter writer, ICollection children)
+   at System.Web.UI.Control.RenderChildren(HtmlTextWriter writer)
+   at System.Web.UI.Control.Render(HtmlTextWriter writer)
+   at System.Web.UI.Control.RenderControlInternal(HtmlTextWriter writer, ControlAdapter adapter)
+   at System.Web.UI.Control.RenderControl(HtmlTextWriter writer, ControlAdapter adapter)
+   at System.Web.UI.Control.RenderControl(HtmlTextWriter writer)
+   at System.Web.UI.Control.RenderChildrenInternal(HtmlTextWriter writer, ICollection children)
+   at System.Web.UI.Control.RenderChildren(HtmlTextWriter writer)
+   at System.Web.UI.Control.Render(HtmlTextWriter writer)
+   at System.Web.UI.Control.RenderControlInternal(HtmlTextWriter writer, ControlAdapter adapter)
+   at System.Web.UI.Control.RenderControl(HtmlTextWriter writer, ControlAdapter adapter)
+   at System.Web.UI.Control.RenderControl(HtmlTextWriter writer)
+   at System.Web.UI.Control.RenderChildrenInternal(HtmlTextWriter writer, ICollection children)
+   at System.Web.UI.Control.RenderChildren(HtmlTextWriter writer)
+   at System.Web.UI.Page.Render(HtmlTextWriter writer)
+   at System.Web.UI.Control.RenderControlInternal(HtmlTextWriter writer, ControlAdapter adapter)
+   at System.Web.UI.Control.RenderControl(HtmlTextWriter writer, ControlAdapter adapter)
+   at System.Web.UI.Control.RenderControl(HtmlTextWriter writer)
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   at System.Web.UI.Page.HandleError(Exception e)
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   at System.Web.UI.Page.ProcessRequest(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   at System.Web.UI.Page.ProcessRequest()
+   at System.Web.UI.Page.ProcessRequestWithNoAssert(HttpContext context)
+   at System.Web.UI.Page.ProcessRequest(HttpContext context)
+   at ASP.ui_page_simpleservings_menu_viewmenu_aspx.ProcessRequest(HttpContext context) in c:\Users\mali\AppData\Local\Temp\Temporary ASP.NET Files\simpleservings\f45f45fb\c4c03705\App_Web_54rn22rv.9.cs:line 0
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStepImpl(IExecutionStep step)
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+2021-02-18 14:22:57,089 [ 88] INFO  AppManager [(null)] (landingPage.aspx) - Clearing Session 
+Request Type:  
+SessionId: ochonzc30jaa2adqyqfizs1u
+2021-02-18 14:22:57,107 [146] INFO  AppManager [(null)] (landingPage.aspx) - New Session 
+Request Type:  
+SessionId: pua2izczxihe4zcvprmae5vf
+2021-02-18 14:22:57,286 [ 73] INFO  AppManager [(null)] (login.aspx) - (Mli) - Login successful 
+SessionId: x1rox2u5bir1uz34melpvp5j
+2021-02-18 14:22:57,292 [113] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: pua2izczxihe4zcvprmae5vf
+2021-02-18 14:23:10,330 [128] ERROR AppManager [(null)] SimpleServings application error: Exception of type 'System.Web.HttpUnhandledException' was thrown.
+location: http://localhost:1949/SimpleServings/UI/Page/SimpleServings/Menu/ViewMenu.aspx?MenuID=16134
+
+System.Web.HttpUnhandledException (0x80004005): Exception of type 'System.Web.HttpUnhandledException' was thrown. ---> System.Web.HttpException (0x80004005): Cannot have multiple items selected in a DropDownList.
+   at System.Web.UI.WebControls.DropDownList.VerifyMultiSelect()
+   at System.Web.UI.WebControls.ListControl.RenderContents(HtmlTextWriter writer)
+   at System.Web.UI.WebControls.WebControl.Render(HtmlTextWriter writer)
+   at System.Web.UI.Control.RenderControlInternal(HtmlTextWriter writer, ControlAdapter adapter)
+   at System.Web.UI.Control.RenderControl(HtmlTextWriter writer, ControlAdapter adapter)
+   at System.Web.UI.Control.RenderControl(HtmlTextWriter writer)
+   at System.Web.UI.Control.RenderChildrenInternal(HtmlTextWriter writer, ICollection children)
+   at System.Web.UI.Control.RenderChildren(HtmlTextWriter writer)
+   at System.Web.UI.WebControls.WebControl.RenderContents(HtmlTextWriter writer)
+   at System.Web.UI.WebControls.WebControl.Render(HtmlTextWriter writer)
+   at System.Web.UI.Control.RenderControlInternal(HtmlTextWriter writer, ControlAdapter adapter)
+   at System.Web.UI.Control.RenderControl(HtmlTextWriter writer, ControlAdapter adapter)
+   at System.Web.UI.Control.RenderControl(HtmlTextWriter writer)
+   at ASP.ui_udc_simpleservings_menu_menuitemgrid_ascx.__Render__control1(HtmlTextWriter __w, Control parameterContainer) in c:\Users\mali\AppData\Local\Temp\Temporary ASP.NET Files\simpleservings\f45f45fb\c4c03705\App_Web_iwg4opql.3.cs:line 0
+   at System.Web.UI.Control.RenderChildrenInternal(HtmlTextWriter writer, ICollection children)
+   at System.Web.UI.Control.RenderChildren(HtmlTextWriter writer)
+   at System.Web.UI.Control.Render(HtmlTextWriter writer)
+   at System.Web.UI.Control.RenderControlInternal(HtmlTextWriter writer, ControlAdapter adapter)
+   at System.Web.UI.Control.RenderControl(HtmlTextWriter writer, ControlAdapter adapter)
+   at System.Web.UI.Control.RenderControl(HtmlTextWriter writer)
+   at System.Web.UI.Control.RenderChildrenInternal(HtmlTextWriter writer, ICollection children)
+   at System.Web.UI.Control.RenderChildren(HtmlTextWriter writer)
+   at System.Web.UI.WebControls.WebControl.RenderContents(HtmlTextWriter writer)
+   at System.Web.UI.WebControls.WebControl.Render(HtmlTextWriter writer)
+   at System.Web.UI.Control.RenderControlInternal(HtmlTextWriter writer, ControlAdapter adapter)
+   at System.Web.UI.Control.RenderControl(HtmlTextWriter writer, ControlAdapter adapter)
+   at System.Web.UI.Control.RenderControl(HtmlTextWriter writer)
+   at System.Web.UI.Control.RenderChildrenInternal(HtmlTextWriter writer, ICollection children)
+   at System.Web.UI.Control.RenderChildren(HtmlTextWriter writer)
+   at System.Web.UI.Control.Render(HtmlTextWriter writer)
+   at System.Web.UI.Control.RenderControlInternal(HtmlTextWriter writer, ControlAdapter adapter)
+   at System.Web.UI.Control.RenderControl(HtmlTextWriter writer, ControlAdapter adapter)
+   at System.Web.UI.Control.RenderControl(HtmlTextWriter writer)
+   at System.Web.UI.Control.RenderChildrenInternal(HtmlTextWriter writer, ICollection children)
+   at System.Web.UI.HtmlControls.HtmlForm.RenderChildren(HtmlTextWriter writer)
+   at System.Web.UI.HtmlControls.HtmlContainerControl.Render(HtmlTextWriter writer)
+   at System.Web.UI.HtmlControls.HtmlForm.Render(HtmlTextWriter output)
+   at System.Web.UI.Control.RenderControlInternal(HtmlTextWriter writer, ControlAdapter adapter)
+   at System.Web.UI.Control.RenderControl(HtmlTextWriter writer, ControlAdapter adapter)
+   at System.Web.UI.HtmlControls.HtmlForm.RenderControl(HtmlTextWriter writer)
+   at System.Web.UI.Control.RenderChildrenInternal(HtmlTextWriter writer, ICollection children)
+   at System.Web.UI.Control.RenderChildren(HtmlTextWriter writer)
+   at System.Web.UI.Control.Render(HtmlTextWriter writer)
+   at System.Web.UI.Control.RenderControlInternal(HtmlTextWriter writer, ControlAdapter adapter)
+   at System.Web.UI.Control.RenderControl(HtmlTextWriter writer, ControlAdapter adapter)
+   at System.Web.UI.Control.RenderControl(HtmlTextWriter writer)
+   at System.Web.UI.Control.RenderChildrenInternal(HtmlTextWriter writer, ICollection children)
+   at System.Web.UI.Control.RenderChildren(HtmlTextWriter writer)
+   at System.Web.UI.Control.Render(HtmlTextWriter writer)
+   at System.Web.UI.Control.RenderControlInternal(HtmlTextWriter writer, ControlAdapter adapter)
+   at System.Web.UI.Control.RenderControl(HtmlTextWriter writer, ControlAdapter adapter)
+   at System.Web.UI.Control.RenderControl(HtmlTextWriter writer)
+   at System.Web.UI.Control.RenderChildrenInternal(HtmlTextWriter writer, ICollection children)
+   at System.Web.UI.Control.RenderChildren(HtmlTextWriter writer)
+   at System.Web.UI.Page.Render(HtmlTextWriter writer)
+   at System.Web.UI.Control.RenderControlInternal(HtmlTextWriter writer, ControlAdapter adapter)
+   at System.Web.UI.Control.RenderControl(HtmlTextWriter writer, ControlAdapter adapter)
+   at System.Web.UI.Control.RenderControl(HtmlTextWriter writer)
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   at System.Web.UI.Page.HandleError(Exception e)
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   at System.Web.UI.Page.ProcessRequest(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   at System.Web.UI.Page.ProcessRequest()
+   at System.Web.UI.Page.ProcessRequestWithNoAssert(HttpContext context)
+   at System.Web.UI.Page.ProcessRequest(HttpContext context)
+   at ASP.ui_page_simpleservings_menu_viewmenu_aspx.ProcessRequest(HttpContext context) in c:\Users\mali\AppData\Local\Temp\Temporary ASP.NET Files\simpleservings\f45f45fb\c4c03705\App_Web_m4ugrjjf.0.cs:line 0
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStepImpl(IExecutionStep step)
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+2021-02-18 14:24:27,438 [128] INFO  AppManager [(null)] (landingPage.aspx) - Clearing Session 
+Request Type:  
+SessionId: yeyeyvm24sdgon5kd0f0wafl
+2021-02-18 14:24:27,459 [107] INFO  AppManager [(null)] (landingPage.aspx) - New Session 
+Request Type:  
+SessionId: 104mrhp3pph2uzoqiqsjplrz
+2021-02-18 14:24:27,636 [113] INFO  AppManager [(null)] (login.aspx) - (Mli) - Login successful 
+SessionId: 3hvwgfpyrcaf1y3au3detqnh
+2021-02-18 14:24:27,642 [159] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: 104mrhp3pph2uzoqiqsjplrz
+2021-02-18 14:24:34,161 [107] ERROR AppManager [(null)] SimpleServings application error: Exception of type 'System.Web.HttpUnhandledException' was thrown.
+location: http://localhost:1949/SimpleServings/UI/Page/SimpleServings/Menu/ViewMenu.aspx?MenuID=16134
+
+System.Web.HttpUnhandledException (0x80004005): Exception of type 'System.Web.HttpUnhandledException' was thrown. ---> System.Web.HttpException (0x80004005): Cannot have multiple items selected in a DropDownList.
+   at System.Web.UI.WebControls.DropDownList.VerifyMultiSelect()
+   at System.Web.UI.WebControls.ListControl.RenderContents(HtmlTextWriter writer)
+   at System.Web.UI.WebControls.WebControl.Render(HtmlTextWriter writer)
+   at System.Web.UI.Control.RenderControlInternal(HtmlTextWriter writer, ControlAdapter adapter)
+   at System.Web.UI.Control.RenderControl(HtmlTextWriter writer, ControlAdapter adapter)
+   at System.Web.UI.Control.RenderControl(HtmlTextWriter writer)
+   at System.Web.UI.Control.RenderChildrenInternal(HtmlTextWriter writer, ICollection children)
+   at System.Web.UI.Control.RenderChildren(HtmlTextWriter writer)
+   at System.Web.UI.WebControls.WebControl.RenderContents(HtmlTextWriter writer)
+   at System.Web.UI.WebControls.WebControl.Render(HtmlTextWriter writer)
+   at System.Web.UI.Control.RenderControlInternal(HtmlTextWriter writer, ControlAdapter adapter)
+   at System.Web.UI.Control.RenderControl(HtmlTextWriter writer, ControlAdapter adapter)
+   at System.Web.UI.Control.RenderControl(HtmlTextWriter writer)
+   at ASP.ui_udc_simpleservings_menu_menuitemgrid_ascx.__Render__control1(HtmlTextWriter __w, Control parameterContainer) in c:\Users\mali\AppData\Local\Temp\Temporary ASP.NET Files\simpleservings\f45f45fb\c4c03705\App_Web_iwg4opql.3.cs:line 0
+   at System.Web.UI.Control.RenderChildrenInternal(HtmlTextWriter writer, ICollection children)
+   at System.Web.UI.Control.RenderChildren(HtmlTextWriter writer)
+   at System.Web.UI.Control.Render(HtmlTextWriter writer)
+   at System.Web.UI.Control.RenderControlInternal(HtmlTextWriter writer, ControlAdapter adapter)
+   at System.Web.UI.Control.RenderControl(HtmlTextWriter writer, ControlAdapter adapter)
+   at System.Web.UI.Control.RenderControl(HtmlTextWriter writer)
+   at System.Web.UI.Control.RenderChildrenInternal(HtmlTextWriter writer, ICollection children)
+   at System.Web.UI.Control.RenderChildren(HtmlTextWriter writer)
+   at System.Web.UI.WebControls.WebControl.RenderContents(HtmlTextWriter writer)
+   at System.Web.UI.WebControls.WebControl.Render(HtmlTextWriter writer)
+   at System.Web.UI.Control.RenderControlInternal(HtmlTextWriter writer, ControlAdapter adapter)
+   at System.Web.UI.Control.RenderControl(HtmlTextWriter writer, ControlAdapter adapter)
+   at System.Web.UI.Control.RenderControl(HtmlTextWriter writer)
+   at System.Web.UI.Control.RenderChildrenInternal(HtmlTextWriter writer, ICollection children)
+   at System.Web.UI.Control.RenderChildren(HtmlTextWriter writer)
+   at System.Web.UI.Control.Render(HtmlTextWriter writer)
+   at System.Web.UI.Control.RenderControlInternal(HtmlTextWriter writer, ControlAdapter adapter)
+   at System.Web.UI.Control.RenderControl(HtmlTextWriter writer, ControlAdapter adapter)
+   at System.Web.UI.Control.RenderControl(HtmlTextWriter writer)
+   at System.Web.UI.Control.RenderChildrenInternal(HtmlTextWriter writer, ICollection children)
+   at System.Web.UI.HtmlControls.HtmlForm.RenderChildren(HtmlTextWriter writer)
+   at System.Web.UI.HtmlControls.HtmlContainerControl.Render(HtmlTextWriter writer)
+   at System.Web.UI.HtmlControls.HtmlForm.Render(HtmlTextWriter output)
+   at System.Web.UI.Control.RenderControlInternal(HtmlTextWriter writer, ControlAdapter adapter)
+   at System.Web.UI.Control.RenderControl(HtmlTextWriter writer, ControlAdapter adapter)
+   at System.Web.UI.HtmlControls.HtmlForm.RenderControl(HtmlTextWriter writer)
+   at System.Web.UI.Control.RenderChildrenInternal(HtmlTextWriter writer, ICollection children)
+   at System.Web.UI.Control.RenderChildren(HtmlTextWriter writer)
+   at System.Web.UI.Control.Render(HtmlTextWriter writer)
+   at System.Web.UI.Control.RenderControlInternal(HtmlTextWriter writer, ControlAdapter adapter)
+   at System.Web.UI.Control.RenderControl(HtmlTextWriter writer, ControlAdapter adapter)
+   at System.Web.UI.Control.RenderControl(HtmlTextWriter writer)
+   at System.Web.UI.Control.RenderChildrenInternal(HtmlTextWriter writer, ICollection children)
+   at System.Web.UI.Control.RenderChildren(HtmlTextWriter writer)
+   at System.Web.UI.Control.Render(HtmlTextWriter writer)
+   at System.Web.UI.Control.RenderControlInternal(HtmlTextWriter writer, ControlAdapter adapter)
+   at System.Web.UI.Control.RenderControl(HtmlTextWriter writer, ControlAdapter adapter)
+   at System.Web.UI.Control.RenderControl(HtmlTextWriter writer)
+   at System.Web.UI.Control.RenderChildrenInternal(HtmlTextWriter writer, ICollection children)
+   at System.Web.UI.Control.RenderChildren(HtmlTextWriter writer)
+   at System.Web.UI.Page.Render(HtmlTextWriter writer)
+   at System.Web.UI.Control.RenderControlInternal(HtmlTextWriter writer, ControlAdapter adapter)
+   at System.Web.UI.Control.RenderControl(HtmlTextWriter writer, ControlAdapter adapter)
+   at System.Web.UI.Control.RenderControl(HtmlTextWriter writer)
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   at System.Web.UI.Page.HandleError(Exception e)
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   at System.Web.UI.Page.ProcessRequest(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   at System.Web.UI.Page.ProcessRequest()
+   at System.Web.UI.Page.ProcessRequestWithNoAssert(HttpContext context)
+   at System.Web.UI.Page.ProcessRequest(HttpContext context)
+   at ASP.ui_page_simpleservings_menu_viewmenu_aspx.ProcessRequest(HttpContext context) in c:\Users\mali\AppData\Local\Temp\Temporary ASP.NET Files\simpleservings\f45f45fb\c4c03705\App_Web_m4ugrjjf.0.cs:line 0
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStepImpl(IExecutionStep step)
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+2021-02-18 14:26:50,744 [ 55] INFO  AppManager [(null)] SimpleServings started.
+2021-02-18 14:27:17,445 [150] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: vri0cgahkakf5gowpek3hyss
+2021-02-18 15:18:58,909 [173] INFO  AppManager [(null)] SimpleServings started.
+2021-02-18 15:19:21,502 [169] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: ewrqt021qygxafygcbzsdkxl
+2021-02-18 15:19:42,282 [168] ERROR AppManager [(null)] SimpleServings application error: e:\DFTA coding\SimpleServings\SimpleServings_networkVersion\SimpleServing_Latest\NewSimple\SimpleServings\SimpleServings\UI\UDC\SimpleServings\Menu\MenuItemGridByWeek.ascx(8): error CS1061: 'ASP.ui_udc_simpleservings_menu_menuitemgridbyweek_ascx' does not contain a definition for 'ddlWeek_SelectedIndexChanged' and no extension method 'ddlWeek_SelectedIndexChanged' accepting a first argument of type 'ASP.ui_udc_simpleservings_menu_menuitemgridbyweek_ascx' could be found (are you missing a using directive or an assembly reference?)
+location: http://localhost:1949/SimpleServings/UI/Page/SimpleServings/Menu/ViewMenu.aspx?MenuID=16134
+
+System.Web.HttpParseException (0x80004005): e:\DFTA coding\SimpleServings\SimpleServings_networkVersion\SimpleServing_Latest\NewSimple\SimpleServings\SimpleServings\UI\UDC\SimpleServings\Menu\MenuItemGridByWeek.ascx(8): error CS1061: 'ASP.ui_udc_simpleservings_menu_menuitemgridbyweek_ascx' does not contain a definition for 'ddlWeek_SelectedIndexChanged' and no extension method 'ddlWeek_SelectedIndexChanged' accepting a first argument of type 'ASP.ui_udc_simpleservings_menu_menuitemgridbyweek_ascx' could be found (are you missing a using directive or an assembly reference?) ---> System.Web.HttpCompileException (0x80004005): e:\DFTA coding\SimpleServings\SimpleServings_networkVersion\SimpleServing_Latest\NewSimple\SimpleServings\SimpleServings\UI\UDC\SimpleServings\Menu\MenuItemGridByWeek.ascx(8): error CS1061: 'ASP.ui_udc_simpleservings_menu_menuitemgridbyweek_ascx' does not contain a definition for 'ddlWeek_SelectedIndexChanged' and no extension method 'ddlWeek_SelectedIndexChanged' accepting a first argument of type 'ASP.ui_udc_simpleservings_menu_menuitemgridbyweek_ascx' could be found (are you missing a using directive or an assembly reference?)
+   at System.Web.Compilation.BuildManager.PostProcessFoundBuildResult(BuildResult result, Boolean keyFromVPP, VirtualPath virtualPath)
+   at System.Web.Compilation.BuildManager.GetBuildResultFromCacheInternal(String cacheKey, Boolean keyFromVPP, VirtualPath virtualPath, Int64 hashCode, Boolean ensureIsUpToDate)
+   at System.Web.Compilation.BuildManager.GetVPathBuildResultFromCacheInternal(VirtualPath virtualPath, Boolean ensureIsUpToDate)
+   at System.Web.Compilation.BuildManager.GetVPathBuildResultInternal(VirtualPath virtualPath, Boolean noBuild, Boolean allowCrossApp, Boolean allowBuildInPrecompile, Boolean throwIfNotFound, Boolean ensureIsUpToDate)
+   at System.Web.Compilation.BuildManager.GetVPathBuildResultWithNoAssert(HttpContext context, VirtualPath virtualPath, Boolean noBuild, Boolean allowCrossApp, Boolean allowBuildInPrecompile, Boolean throwIfNotFound, Boolean ensureIsUpToDate)
+   at System.Web.Compilation.BuildManager.GetVPathBuildResult(HttpContext context, VirtualPath virtualPath, Boolean noBuild, Boolean allowCrossApp, Boolean allowBuildInPrecompile, Boolean ensureIsUpToDate)
+   at System.Web.UI.BaseTemplateParser.GetReferencedType(VirtualPath virtualPath, Boolean allowNoCompile)
+   at System.Web.UI.BaseTemplateParser.GetUserControlType(VirtualPath virtualPath)
+   at System.Web.UI.MainTagNameToTypeMapper.ProcessUserControlRegistration(UserControlRegisterEntry ucRegisterEntry)
+   at System.Web.UI.BaseTemplateParser.ProcessDirective(String directiveName, IDictionary directive)
+   at System.Web.UI.TemplateControlParser.ProcessDirective(String directiveName, IDictionary directive)
+   at System.Web.UI.TemplateParser.ParseStringInternal(String text, Encoding fileEncoding)
+   at System.Web.UI.TemplateParser.ProcessException(Exception ex)
+   at System.Web.UI.TemplateParser.ParseStringInternal(String text, Encoding fileEncoding)
+   at System.Web.UI.TemplateParser.ParseString(String text, VirtualPath virtualPath, Encoding fileEncoding)
+   at System.Web.UI.TemplateParser.ParseFile(String physicalPath, VirtualPath virtualPath)
+   at System.Web.UI.TemplateParser.ParseInternal()
+   at System.Web.UI.TemplateParser.Parse()
+   at System.Web.Compilation.BaseTemplateBuildProvider.get_CodeCompilerType()
+   at System.Web.Compilation.BuildProvider.GetCompilerTypeFromBuildProvider(BuildProvider buildProvider)
+   at System.Web.Compilation.BuildProvidersCompiler.ProcessBuildProviders()
+   at System.Web.Compilation.BuildProvidersCompiler.PerformBuild()
+   at System.Web.Compilation.BuildManager.CompileWebFile(VirtualPath virtualPath)
+   at System.Web.Compilation.BuildManager.GetVPathBuildResultInternal(VirtualPath virtualPath, Boolean noBuild, Boolean allowCrossApp, Boolean allowBuildInPrecompile, Boolean throwIfNotFound, Boolean ensureIsUpToDate)
+   at System.Web.Compilation.BuildManager.GetVPathBuildResultWithNoAssert(HttpContext context, VirtualPath virtualPath, Boolean noBuild, Boolean allowCrossApp, Boolean allowBuildInPrecompile, Boolean throwIfNotFound, Boolean ensureIsUpToDate)
+   at System.Web.Compilation.BuildManager.GetVirtualPathObjectFactory(VirtualPath virtualPath, HttpContext context, Boolean allowCrossApp, Boolean throwIfNotFound)
+   at System.Web.Compilation.BuildManager.CreateInstanceFromVirtualPath(VirtualPath virtualPath, Type requiredBaseType, HttpContext context, Boolean allowCrossApp)
+   at System.Web.UI.PageHandlerFactory.GetHandlerHelper(HttpContext context, String requestType, VirtualPath virtualPath, String physicalPath)
+   at System.Web.UI.PageHandlerFactory.GetHandler(HttpContext context, String requestType, String virtualPath, String path)
+   at System.Web.HttpApplication.MaterializeHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStepImpl(IExecutionStep step)
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+2021-02-18 15:22:06,942 [ 99] INFO  AppManager [(null)] SimpleServings started.
+2021-02-18 15:22:28,894 [176] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: qzj4dxqjzkg5zly4cgsgi413
+2021-02-18 15:30:29,181 [123] INFO  AppManager [(null)] SimpleServings started.
+2021-02-18 15:30:57,283 [128] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: ygidyglkdrr0esbgveev4th2
+2021-02-18 15:46:31,790 [ 17] INFO  AppManager [(null)] SimpleServings started.
+2021-02-18 15:47:00,305 [ 18] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: ltxyirmehcpnlo1mkrsnfhrj
+2021-02-18 15:58:19,552 [140] INFO  AppManager [(null)] SimpleServings started.
+2021-02-18 15:58:43,443 [ 27] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: icdqhazdfl4ubpw4pgq42pjd
+2021-02-18 16:03:10,152 [140] INFO  AppManager [(null)] SimpleServings started.
+2021-02-18 16:03:43,062 [ 27] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: 2lqvjqkpxv0oe02gvnh41twi
+2021-02-18 16:06:09,877 [ 17] INFO  AppManager [(null)] SimpleServings started.
+2021-02-18 16:06:41,199 [ 84] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: bynpztsl5ww2uahm411lcwua
+2021-02-18 17:19:22,092 [  1] INFO  AppManager [(null)] SimpleServings started.
+2021-02-18 17:20:02,584 [ 14] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: 0kj3augz5qflneb4ufpezkro
+2021-02-18 22:03:38,658 [  1] INFO  AppManager [(null)] SimpleServings started.
+2021-02-18 22:03:54,159 [ 13] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: 3l3stdzhbbtd2f5403dze3jr
+2021-02-18 22:52:10,626 [119] INFO  AppManager [(null)] SimpleServings started.
+2021-02-18 22:52:33,836 [119] INFO  AppManager [(null)] SimpleServings started.
+2021-02-18 22:53:03,315 [132] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: fktmebzsrxlf20tu02csurue
+2021-02-18 22:53:25,711 [104] ERROR AppManager [(null)] SimpleServings application error: e:\DFTA coding\SimpleServings\SimpleServings_networkVersion\SimpleServing_Latest\NewSimple\SimpleServings\SimpleServings\UI\UDC\SimpleServings\Menu\MenuItemGridByWeek.ascx(67): error CS1061: 'ASP.ui_udc_simpleservings_menu_menuitemgridbyweek_ascx' does not contain a definition for 'lnkb_Click' and no extension method 'lnkb_Click' accepting a first argument of type 'ASP.ui_udc_simpleservings_menu_menuitemgridbyweek_ascx' could be found (are you missing a using directive or an assembly reference?)
+location: http://localhost:1949/SimpleServings/UI/Page/SimpleServings/Menu/ViewMenu.aspx?MenuID=16134
+
+System.Web.HttpParseException (0x80004005): e:\DFTA coding\SimpleServings\SimpleServings_networkVersion\SimpleServing_Latest\NewSimple\SimpleServings\SimpleServings\UI\UDC\SimpleServings\Menu\MenuItemGridByWeek.ascx(67): error CS1061: 'ASP.ui_udc_simpleservings_menu_menuitemgridbyweek_ascx' does not contain a definition for 'lnkb_Click' and no extension method 'lnkb_Click' accepting a first argument of type 'ASP.ui_udc_simpleservings_menu_menuitemgridbyweek_ascx' could be found (are you missing a using directive or an assembly reference?) ---> System.Web.HttpCompileException (0x80004005): e:\DFTA coding\SimpleServings\SimpleServings_networkVersion\SimpleServing_Latest\NewSimple\SimpleServings\SimpleServings\UI\UDC\SimpleServings\Menu\MenuItemGridByWeek.ascx(67): error CS1061: 'ASP.ui_udc_simpleservings_menu_menuitemgridbyweek_ascx' does not contain a definition for 'lnkb_Click' and no extension method 'lnkb_Click' accepting a first argument of type 'ASP.ui_udc_simpleservings_menu_menuitemgridbyweek_ascx' could be found (are you missing a using directive or an assembly reference?)
+   at System.Web.Compilation.BuildManager.PostProcessFoundBuildResult(BuildResult result, Boolean keyFromVPP, VirtualPath virtualPath)
+   at System.Web.Compilation.BuildManager.GetBuildResultFromCacheInternal(String cacheKey, Boolean keyFromVPP, VirtualPath virtualPath, Int64 hashCode, Boolean ensureIsUpToDate)
+   at System.Web.Compilation.BuildManager.GetVPathBuildResultFromCacheInternal(VirtualPath virtualPath, Boolean ensureIsUpToDate)
+   at System.Web.Compilation.BuildManager.GetVPathBuildResultInternal(VirtualPath virtualPath, Boolean noBuild, Boolean allowCrossApp, Boolean allowBuildInPrecompile, Boolean throwIfNotFound, Boolean ensureIsUpToDate)
+   at System.Web.Compilation.BuildManager.GetVPathBuildResultWithNoAssert(HttpContext context, VirtualPath virtualPath, Boolean noBuild, Boolean allowCrossApp, Boolean allowBuildInPrecompile, Boolean throwIfNotFound, Boolean ensureIsUpToDate)
+   at System.Web.Compilation.BuildManager.GetVPathBuildResult(HttpContext context, VirtualPath virtualPath, Boolean noBuild, Boolean allowCrossApp, Boolean allowBuildInPrecompile, Boolean ensureIsUpToDate)
+   at System.Web.UI.BaseTemplateParser.GetReferencedType(VirtualPath virtualPath, Boolean allowNoCompile)
+   at System.Web.UI.BaseTemplateParser.GetUserControlType(VirtualPath virtualPath)
+   at System.Web.UI.MainTagNameToTypeMapper.ProcessUserControlRegistration(UserControlRegisterEntry ucRegisterEntry)
+   at System.Web.UI.BaseTemplateParser.ProcessDirective(String directiveName, IDictionary directive)
+   at System.Web.UI.TemplateControlParser.ProcessDirective(String directiveName, IDictionary directive)
+   at System.Web.UI.TemplateParser.ParseStringInternal(String text, Encoding fileEncoding)
+   at System.Web.UI.TemplateParser.ProcessException(Exception ex)
+   at System.Web.UI.TemplateParser.ParseStringInternal(String text, Encoding fileEncoding)
+   at System.Web.UI.TemplateParser.ParseString(String text, VirtualPath virtualPath, Encoding fileEncoding)
+   at System.Web.UI.TemplateParser.ParseFile(String physicalPath, VirtualPath virtualPath)
+   at System.Web.UI.TemplateParser.ParseInternal()
+   at System.Web.UI.TemplateParser.Parse()
+   at System.Web.Compilation.BaseTemplateBuildProvider.get_CodeCompilerType()
+   at System.Web.Compilation.BuildProvider.GetCompilerTypeFromBuildProvider(BuildProvider buildProvider)
+   at System.Web.Compilation.BuildProvidersCompiler.ProcessBuildProviders()
+   at System.Web.Compilation.BuildProvidersCompiler.PerformBuild()
+   at System.Web.Compilation.BuildManager.CompileWebFile(VirtualPath virtualPath)
+   at System.Web.Compilation.BuildManager.GetVPathBuildResultInternal(VirtualPath virtualPath, Boolean noBuild, Boolean allowCrossApp, Boolean allowBuildInPrecompile, Boolean throwIfNotFound, Boolean ensureIsUpToDate)
+   at System.Web.Compilation.BuildManager.GetVPathBuildResultWithNoAssert(HttpContext context, VirtualPath virtualPath, Boolean noBuild, Boolean allowCrossApp, Boolean allowBuildInPrecompile, Boolean throwIfNotFound, Boolean ensureIsUpToDate)
+   at System.Web.Compilation.BuildManager.GetVirtualPathObjectFactory(VirtualPath virtualPath, HttpContext context, Boolean allowCrossApp, Boolean throwIfNotFound)
+   at System.Web.Compilation.BuildManager.CreateInstanceFromVirtualPath(VirtualPath virtualPath, Type requiredBaseType, HttpContext context, Boolean allowCrossApp)
+   at System.Web.UI.PageHandlerFactory.GetHandlerHelper(HttpContext context, String requestType, VirtualPath virtualPath, String physicalPath)
+   at System.Web.UI.PageHandlerFactory.GetHandler(HttpContext context, String requestType, String virtualPath, String path)
+   at System.Web.HttpApplication.MaterializeHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStepImpl(IExecutionStep step)
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+2021-02-18 22:58:31,983 [119] INFO  AppManager [(null)] SimpleServings started.
+2021-02-18 22:58:48,525 [ 22] INFO  AppManager [(null)] SimpleServings started.
+2021-02-18 22:59:15,001 [ 63] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: ywprxfdxm2z30icq0i4q3ppr
+2021-02-18 23:00:49,802 [  1] INFO  AppManager [(null)] SimpleServings started.
+2021-02-18 23:01:14,329 [ 17] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: dm1xan4tcswqrw43yx2moy2y

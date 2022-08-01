@@ -1,0 +1,65 @@
+2017-09-28 14:07:45,453 [  1] INFO  AppManager [(null)] SimpleServings started.
+2017-09-28 14:08:11,279 [  6] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: ewjxev55xkh2qyjr3zvm4y45
+2017-09-28 14:44:39,386 [ 11] INFO  AppManager [(null)] SimpleServings started.
+2017-09-28 14:48:10,003 [  8] INFO  AppManager [(null)] (login.aspx) - (JAlberg) - Login successful 
+SessionId: 0v2ob5qowj1rmq3rniix3f55
+2017-09-28 14:48:10,029 [  6] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: vtevamq3fbgppz2yfvj1wcjj
+2017-09-28 14:48:30,039 [  6] ERROR AppManager [(null)] SimpleServings application error: e:\SSDFTA\SimpleServings\SimpleServings\UI\UDC\SimpleServings\Menu\MenuStatusChangeSubmission.ascx(80): error CS1061: 'ASP.ui_udc_simpleservings_menu_menustatuschangesubmission_ascx' does not contain a definition for 'btnAgree_Click' and no extension method 'btnAgree_Click' accepting a first argument of type 'ASP.ui_udc_simpleservings_menu_menustatuschangesubmission_ascx' could be found (are you missing a using directive or an assembly reference?)
+location: http://localhost:1949/SimpleServings/UI/Page/SimpleServings/Menu/MenuStatusChangeSubmission.aspx?MenuID=8956&StatusID=111
+
+System.Web.HttpParseException: e:\SSDFTA\SimpleServings\SimpleServings\UI\UDC\SimpleServings\Menu\MenuStatusChangeSubmission.ascx(80): error CS1061: 'ASP.ui_udc_simpleservings_menu_menustatuschangesubmission_ascx' does not contain a definition for 'btnAgree_Click' and no extension method 'btnAgree_Click' accepting a first argument of type 'ASP.ui_udc_simpleservings_menu_menustatuschangesubmission_ascx' could be found (are you missing a using directive or an assembly reference?) ---> System.Web.HttpCompileException: e:\SSDFTA\SimpleServings\SimpleServings\UI\UDC\SimpleServings\Menu\MenuStatusChangeSubmission.ascx(80): error CS1061: 'ASP.ui_udc_simpleservings_menu_menustatuschangesubmission_ascx' does not contain a definition for 'btnAgree_Click' and no extension method 'btnAgree_Click' accepting a first argument of type 'ASP.ui_udc_simpleservings_menu_menustatuschangesubmission_ascx' could be found (are you missing a using directive or an assembly reference?)
+   at System.Web.Compilation.BuildManager.PostProcessFoundBuildResult(BuildResult result, Boolean keyFromVPP, VirtualPath virtualPath)
+   at System.Web.Compilation.BuildManager.GetBuildResultFromCacheInternal(String cacheKey, Boolean keyFromVPP, VirtualPath virtualPath, Int64 hashCode)
+   at System.Web.Compilation.BuildManager.GetVPathBuildResultFromCacheInternal(VirtualPath virtualPath)
+   at System.Web.Compilation.BuildManager.GetVPathBuildResultInternal(VirtualPath virtualPath, Boolean noBuild, Boolean allowCrossApp, Boolean allowBuildInPrecompile)
+   at System.Web.Compilation.BuildManager.GetVPathBuildResultWithNoAssert(HttpContext context, VirtualPath virtualPath, Boolean noBuild, Boolean allowCrossApp, Boolean allowBuildInPrecompile)
+   at System.Web.Compilation.BuildManager.GetVPathBuildResult(HttpContext context, VirtualPath virtualPath, Boolean noBuild, Boolean allowCrossApp, Boolean allowBuildInPrecompile)
+   at System.Web.UI.BaseTemplateParser.GetReferencedType(VirtualPath virtualPath, Boolean allowNoCompile)
+   at System.Web.UI.BaseTemplateParser.GetUserControlType(VirtualPath virtualPath)
+   at System.Web.UI.MainTagNameToTypeMapper.ProcessUserControlRegistration(UserControlRegisterEntry ucRegisterEntry)
+   at System.Web.UI.BaseTemplateParser.ProcessDirective(String directiveName, IDictionary directive)
+   at System.Web.UI.TemplateControlParser.ProcessDirective(String directiveName, IDictionary directive)
+   at System.Web.UI.PageParser.ProcessDirective(String directiveName, IDictionary directive)
+   at System.Web.UI.TemplateParser.ParseStringInternal(String text, Encoding fileEncoding)
+   --- End of inner exception stack trace ---
+   at System.Web.UI.TemplateParser.ProcessException(Exception ex)
+   at System.Web.UI.TemplateParser.ParseStringInternal(String text, Encoding fileEncoding)
+   at System.Web.UI.TemplateParser.ParseString(String text, VirtualPath virtualPath, Encoding fileEncoding)
+   at System.Web.UI.TemplateParser.ParseReader(StreamReader reader, VirtualPath virtualPath)
+   at System.Web.UI.TemplateParser.ParseFile(String physicalPath, VirtualPath virtualPath)
+   at System.Web.UI.TemplateParser.ParseInternal()
+   at System.Web.UI.TemplateParser.Parse()
+   at System.Web.UI.TemplateParser.Parse(ICollection referencedAssemblies, VirtualPath virtualPath)
+   at System.Web.Compilation.BaseTemplateBuildProvider.get_CodeCompilerType()
+   at System.Web.Compilation.BuildProvider.GetCompilerTypeFromBuildProvider(BuildProvider buildProvider)
+   at System.Web.Compilation.BuildProvidersCompiler.ProcessBuildProviders()
+   at System.Web.Compilation.BuildProvidersCompiler.PerformBuild()
+   at System.Web.Compilation.BuildManager.CompileWebFile(VirtualPath virtualPath)
+   at System.Web.Compilation.BuildManager.GetVPathBuildResultInternal(VirtualPath virtualPath, Boolean noBuild, Boolean allowCrossApp, Boolean allowBuildInPrecompile)
+   at System.Web.Compilation.BuildManager.GetVPathBuildResultWithNoAssert(HttpContext context, VirtualPath virtualPath, Boolean noBuild, Boolean allowCrossApp, Boolean allowBuildInPrecompile)
+   at System.Web.Compilation.BuildManager.GetVirtualPathObjectFactory(VirtualPath virtualPath, HttpContext context, Boolean allowCrossApp, Boolean noAssert)
+   at System.Web.Compilation.BuildManager.CreateInstanceFromVirtualPath(VirtualPath virtualPath, Type requiredBaseType, HttpContext context, Boolean allowCrossApp, Boolean noAssert)
+   at System.Web.UI.PageHandlerFactory.GetHandlerHelper(HttpContext context, String requestType, VirtualPath virtualPath, String physicalPath)
+   at System.Web.UI.PageHandlerFactory.GetHandler(HttpContext context, String requestType, String virtualPath, String path)
+   at System.Web.HttpApplication.MaterializeHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+2017-09-28 14:49:06,814 [ 11] INFO  AppManager [(null)] SimpleServings started.
+2017-09-28 14:49:23,601 [  6] INFO  AppManager [(null)] (login.aspx) - (JAlberg) - Login successful 
+SessionId: qnevuj55xdbomd45abg4xk3s
+2017-09-28 14:49:23,628 [  8] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: hnuwuh55t5lsy0ujtjhale55
+2017-09-28 14:53:48,038 [ 11] INFO  AppManager [(null)] SimpleServings started.
+2017-09-28 14:54:10,236 [  7] INFO  AppManager [(null)] (login.aspx) - (JAlberg) - Login successful 
+SessionId: ve4q20e2qex5h3itnqm10w55
+2017-09-28 14:54:10,261 [  7] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: 3rqsjwz4b3mlpdm2bgjw3545
+2017-09-28 14:54:35,847 [  8] INFO  AppManager [(null)] (landingPage.aspx) - Request from http://localhost:1949/SimpleServings/UI/Page/SimpleServings/Menu/MenuStatusChangeSubmission.aspx?MenuID=8956&StatusID=111 
+Request Type: LogInOut 
+SessionId: 3rqsjwz4b3mlpdm2bgjw3545
+2017-09-28 14:54:35,848 [  8] INFO  AppManager [(null)] (landingPage.aspx) - Redirecting to Login.aspx 
+Request Type: LogInOut 
+SessionId: 3rqsjwz4b3mlpdm2bgjw3545
+2017-09-28 14:54:35,855 [  7] INFO  AppManager [(null)] (login.aspx) - Request from http://localhost:1949/SimpleServings/UI/Page/SimpleServings/Menu/MenuStatusChangeSubmission.aspx?MenuID=8956&StatusID=111 
+SessionId: dho4pc3zqnjpezaos3yzyjma

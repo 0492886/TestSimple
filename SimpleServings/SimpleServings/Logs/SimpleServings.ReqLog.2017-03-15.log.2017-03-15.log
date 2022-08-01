@@ -1,0 +1,32 @@
+2017-03-15 14:37:04,896 [ 13] INFO  AppManager [(null)] SimpleServings started.
+2017-03-15 14:37:14,124 [ 15] INFO  AppManager [(null)] (landingPage.aspx) - Redirecting to Login.aspx 
+Request Type: LogInOut 
+SessionId: 
+2017-03-15 14:37:17,493 [  7] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: gwzyhyetfd3nu3j4l4mg4x45
+2017-03-15 14:41:07,700 [ 15] INFO  AppManager [(null)] (landingPage.aspx) - Request from http://localhost:1949/SimpleServings/UI/Page/SimpleServings/Menu/ViewMenu.aspx?MenuID=7478&WeekSelected=2 
+Request Type: LogInOut 
+SessionId: gwzyhyetfd3nu3j4l4mg4x45
+2017-03-15 14:41:07,701 [ 15] INFO  AppManager [(null)] (landingPage.aspx) - Redirecting to Login.aspx 
+Request Type: LogInOut 
+SessionId: gwzyhyetfd3nu3j4l4mg4x45
+2017-03-15 14:41:07,711 [  7] INFO  AppManager [(null)] (login.aspx) - Request from http://localhost:1949/SimpleServings/UI/Page/SimpleServings/Menu/ViewMenu.aspx?MenuID=7478&WeekSelected=2 
+SessionId: 1wvktxrzdfyikbbp3mziuli5
+2017-03-15 14:41:11,436 [ 15] INFO  AppManager [(null)] (landingPage.aspx) - Request from http://localhost:1949/SimpleServings/UI/Page/myzone.aspx?Control=NutritionalAnalysis 
+Request Type: LogInOut 
+SessionId: t3skqj3igzjsip55dcu51oi1
+2017-03-15 14:41:11,436 [ 15] INFO  AppManager [(null)] (landingPage.aspx) - Redirecting to Login.aspx 
+Request Type: LogInOut 
+SessionId: t3skqj3igzjsip55dcu51oi1
+2017-03-15 14:41:11,446 [ 15] INFO  AppManager [(null)] (login.aspx) - Request from http://localhost:1949/SimpleServings/UI/Page/myzone.aspx?Control=NutritionalAnalysis 
+SessionId: 0hkneqjyayirri45wtgnxq45
+2017-03-15 14:41:13,526 [  7] INFO  AppManager [(null)] (landingPage.aspx) - Clearing Session 
+Request Type:  
+SessionId: gglwx5v1jvmypj45alwkxwer
+2017-03-15 14:41:13,541 [ 15] INFO  AppManager [(null)] (landingPage.aspx) - New Session 
+Request Type:  
+SessionId: xohrn1jdg1iq5x55bk4kh145
+2017-03-15 14:41:13,552 [  5] INFO  AppManager [(null)] (login.aspx) - (cvais7773) - Login successful 
+SessionId: kfiihl2v5bktkfj4n41qux45
+2017-03-15 14:41:13,560 [ 15] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: xohrn1jdg1iq5x55bk4kh145

@@ -1,0 +1,5 @@
+2021-03-10 14:57:37,049 [  1] INFO  AppManager [(null)] SimpleServings started.
+2021-03-10 14:58:06,210 [ 11] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: sdgso0vzkothyb2hupuy3dku
+2021-03-10 14:58:09,627 [ 17] INFO  AppManager [(null)] (Recipe.aspx) - Request from http://localhost:1949/SimpleServings/UI/Page/Home.aspx 
+SessionId: sdgso0vzkothyb2hupuy3dku

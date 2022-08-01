@@ -1,0 +1,90 @@
+2016-12-05 10:32:08,883 [  5] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: nhuzaz450l354f55uicftxbt
+2016-12-05 10:32:11,477 [  7] INFO  AppManager [(null)] (landingPage.aspx) - Request from http://localhost:1949/SimpleServings/UI/page/ 
+Request Type: LogInOut 
+SessionId: iedeug45wrhrgn45bbmpsprt
+2016-12-05 10:32:11,478 [  7] INFO  AppManager [(null)] (landingPage.aspx) - Redirecting to Login.aspx 
+Request Type: LogInOut 
+SessionId: iedeug45wrhrgn45bbmpsprt
+2016-12-05 10:32:11,505 [  8] INFO  AppManager [(null)] (login.aspx) - Request from http://localhost:1949/SimpleServings/UI/page/ 
+SessionId: een5canps2i2xgfcm4apev33
+2016-12-05 10:32:19,832 [  8] INFO  AppManager [(null)] (landingPage.aspx) - Clearing Session 
+Request Type:  
+SessionId: blnp0ku1h2dadi55rjamxi3a
+2016-12-05 10:32:19,837 [  5] ERROR AppManager [(null)] btnLogin_Click failed: Incorrect username and/or password.
+2016-12-05 10:32:19,839 [  8] INFO  AppManager [(null)] (landingPage.aspx) - New Session 
+Request Type:  
+SessionId: rkzln045xsvkyd550pgsfoav
+2016-12-05 10:32:23,806 [  8] INFO  AppManager [(null)] (landingPage.aspx) - Clearing Session 
+Request Type:  
+SessionId: rkzln045xsvkyd550pgsfoav
+2016-12-05 10:32:23,815 [  5] INFO  AppManager [(null)] (landingPage.aspx) - New Session 
+Request Type:  
+SessionId: m3s2dq55wkufz0iq011ddu55
+2016-12-05 10:32:24,335 [  5] INFO  AppManager [(null)] (login.aspx) - (cvais7773) - Login successful 
+SessionId: rkzln045xsvkyd550pgsfoav
+2016-12-05 10:32:24,341 [  7] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: m3s2dq55wkufz0iq011ddu55
+2016-12-05 12:05:53,081 [  8] INFO  AppManager [(null)] (landingPage.aspx) - Request from http://localhost:1949/SimpleServings/UI/Page/SimpleServings/Menu/MenuList.aspx?MenuType=MyMenus 
+Request Type: LogInOut 
+SessionId: m3s2dq55wkufz0iq011ddu55
+2016-12-05 12:05:53,082 [  8] INFO  AppManager [(null)] (landingPage.aspx) - Redirecting to Login.aspx 
+Request Type: LogInOut 
+SessionId: m3s2dq55wkufz0iq011ddu55
+2016-12-05 12:05:53,084 [  5] INFO  AppManager [(null)] (login.aspx) - Request from http://localhost:1949/SimpleServings/UI/Page/SimpleServings/Menu/MenuList.aspx?MenuType=MyMenus 
+SessionId: xdljlo3kdylxam555psgm555
+2016-12-05 12:05:59,428 [  5] INFO  AppManager [(null)] (landingPage.aspx) - Clearing Session 
+Request Type:  
+SessionId: nnpznzvpmou2xy45ndvbqw45
+2016-12-05 12:05:59,436 [  8] INFO  AppManager [(null)] (landingPage.aspx) - New Session 
+Request Type:  
+SessionId: ial0np45nrbbtt3c4dyipt45
+2016-12-05 12:05:59,470 [  6] INFO  AppManager [(null)] (login.aspx) - (cvais7773) - Login successful 
+SessionId: clqkpa4555350oqh0soh5yiu
+2016-12-05 12:05:59,474 [  8] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: ial0np45nrbbtt3c4dyipt45
+2016-12-05 16:55:09,176 [ 11] INFO  AppManager [(null)] SimpleServings started.
+2016-12-05 16:55:09,799 [  5] INFO  AppManager [(null)] (landingPage.aspx) - Request from http://localhost:1949/SimpleServings/UI/Page/SimpleServings/Menu/ViewMenu.aspx?MenuID=6490 
+Request Type: LogInOut 
+SessionId: ial0np45nrbbtt3c4dyipt45
+2016-12-05 16:55:09,800 [  5] INFO  AppManager [(null)] (landingPage.aspx) - Redirecting to Login.aspx 
+Request Type: LogInOut 
+SessionId: ial0np45nrbbtt3c4dyipt45
+2016-12-05 16:55:16,202 [  8] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: uc0aplicv4w5yk55okaxg3ea
+2016-12-05 17:08:22,543 [ 13] INFO  AppManager [(null)] SimpleServings started.
+2016-12-05 17:08:34,496 [  5] INFO  AppManager [(null)] (landingPage.aspx) - Request from http://localhost:1949/SimpleServings/UI/Page/SimpleServings/Menu/MenuList.aspx?MenuType=MyMenus 
+Request Type: LogInOut 
+SessionId: uc0aplicv4w5yk55okaxg3ea
+2016-12-05 17:08:34,497 [  5] INFO  AppManager [(null)] (landingPage.aspx) - Redirecting to Login.aspx 
+Request Type: LogInOut 
+SessionId: uc0aplicv4w5yk55okaxg3ea
+2016-12-05 17:08:40,904 [  6] ERROR AppManager [(null)] btnLogin_Click failed: Incorrect username and/or password.
+2016-12-05 17:08:45,075 [  8] INFO  AppManager [(null)] (landingPage.aspx) - Clearing Session 
+Request Type:  
+SessionId: sgyizm45lthmd2ykphynwyz2
+2016-12-05 17:08:45,085 [  5] INFO  AppManager [(null)] (landingPage.aspx) - New Session 
+Request Type:  
+SessionId: vlgm0x45wtk33g45htxokb45
+2016-12-05 17:08:45,616 [  8] INFO  AppManager [(null)] (login.aspx) - (cvais7773) - Login successful 
+SessionId: sgyizm45lthmd2ykphynwyz2
+2016-12-05 17:08:45,648 [  6] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: vlgm0x45wtk33g45htxokb45
+2016-12-05 17:15:07,352 [  1] INFO  AppManager [(null)] SimpleServings started.
+2016-12-05 17:15:09,049 [  8] INFO  AppManager [(null)] (landingPage.aspx) - Request from http://localhost:1949/SimpleServings/UI/Page/Home.aspx 
+Request Type: LogInOut 
+SessionId: vlgm0x45wtk33g45htxokb45
+2016-12-05 17:15:09,050 [  8] INFO  AppManager [(null)] (landingPage.aspx) - Redirecting to Login.aspx 
+Request Type: LogInOut 
+SessionId: vlgm0x45wtk33g45htxokb45
+2016-12-05 17:15:17,587 [  6] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: okxdbi3nwx3mvu25w2zkzbrg
+2016-12-05 17:18:17,215 [ 16] INFO  AppManager [(null)] SimpleServings started.
+2016-12-05 17:18:28,054 [  7] INFO  AppManager [(null)] (landingPage.aspx) - Request from http://localhost:1949/SimpleServings/UI/Page/SimpleServings/Menu/MenuList.aspx?MenuType=MyDrafts 
+Request Type: LogInOut 
+SessionId: okxdbi3nwx3mvu25w2zkzbrg
+2016-12-05 17:18:28,054 [  7] INFO  AppManager [(null)] (landingPage.aspx) - Redirecting to Login.aspx 
+Request Type: LogInOut 
+SessionId: okxdbi3nwx3mvu25w2zkzbrg
+2016-12-05 17:18:36,022 [  6] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: u3z2n2vf0z1ymqjeehzpau55

@@ -1,0 +1,1051 @@
+2017-05-01 10:34:56,131 [  8] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: si3io1rojipsmb45wfo2eiyw
+2017-05-01 10:35:05,175 [  6] INFO  AppManager [(null)] (landingPage.aspx) - Request from http://localhost:1949/SimpleServings/UI/Page/ 
+Request Type: LogInOut 
+SessionId: asx3kh55gdl1uwzu3a0hv5yv
+2017-05-01 10:35:05,176 [  6] INFO  AppManager [(null)] (landingPage.aspx) - Redirecting to Login.aspx 
+Request Type: LogInOut 
+SessionId: asx3kh55gdl1uwzu3a0hv5yv
+2017-05-01 10:35:05,184 [  5] INFO  AppManager [(null)] (login.aspx) - Request from http://localhost:1949/SimpleServings/UI/Page/ 
+SessionId: xx1d32yo0jvswxjow0tc2fu1
+2017-05-01 10:35:10,049 [  6] INFO  AppManager [(null)] (landingPage.aspx) - Clearing Session 
+Request Type:  
+SessionId: eiy2nq55pukd44qrc4zx03zu
+2017-05-01 10:35:10,064 [  7] INFO  AppManager [(null)] (landingPage.aspx) - New Session 
+Request Type:  
+SessionId: 4ort0pm2hrlf4h45bbqncb45
+2017-05-01 10:35:10,750 [  6] INFO  AppManager [(null)] (login.aspx) - (cvais7773) - Login successful 
+SessionId: 5zlwoyarorlyus45k0zrqd3l
+2017-05-01 10:35:10,761 [  6] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: 4ort0pm2hrlf4h45bbqncb45
+2017-05-01 10:37:40,093 [ 14] INFO  AppManager [(null)] SimpleServings started.
+2017-05-01 10:37:44,209 [  5] INFO  AppManager [(null)] (landingPage.aspx) - Request from http://localhost:1949/SimpleServings/UI/Page/resources.aspx 
+Request Type: LogInOut 
+SessionId: 4ort0pm2hrlf4h45bbqncb45
+2017-05-01 10:37:44,210 [  5] INFO  AppManager [(null)] (landingPage.aspx) - Redirecting to Login.aspx 
+Request Type: LogInOut 
+SessionId: 4ort0pm2hrlf4h45bbqncb45
+2017-05-01 10:37:47,262 [  7] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: maj3rk45akrs154531xjium5
+2017-05-01 10:42:34,403 [ 14] INFO  AppManager [(null)] SimpleServings started.
+2017-05-01 10:42:35,702 [  7] INFO  AppManager [(null)] (landingPage.aspx) - Redirecting to Login.aspx 
+Request Type: LogInOut 
+SessionId: maj3rk45akrs154531xjium5
+2017-05-01 10:42:38,648 [  8] INFO  AppManager [(null)] (login.aspx) - (cvais7773) - Login successful 
+SessionId: 32a4njipsquopj45mzficzru
+2017-05-01 10:42:38,675 [  8] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: ju01gkn1lpae3m2c0it52w45
+2017-05-01 10:43:03,443 [  8] INFO  AppManager [(null)] (Recipe.aspx) - Request from http://localhost:1949/SimpleServings/UI/Page/resources.aspx 
+SessionId: ju01gkn1lpae3m2c0it52w45
+2017-05-01 10:47:48,251 [  7] INFO  AppManager [(null)] (Recipe.aspx) - Request from http://localhost:1949/SimpleServings/UI/Page/resources.aspx 
+SessionId: ju01gkn1lpae3m2c0it52w45
+2017-05-01 10:53:33,146 [ 11] INFO  AppManager [(null)] SimpleServings started.
+2017-05-01 10:53:34,340 [  8] INFO  AppManager [(null)] (landingPage.aspx) - Request from http://localhost:1949/SimpleServings/UI/Page/SimpleServings/Recipe/Recipe.aspx 
+Request Type: LogInOut 
+SessionId: ju01gkn1lpae3m2c0it52w45
+2017-05-01 10:53:34,341 [  8] INFO  AppManager [(null)] (landingPage.aspx) - Redirecting to Login.aspx 
+Request Type: LogInOut 
+SessionId: ju01gkn1lpae3m2c0it52w45
+2017-05-01 10:53:37,294 [  8] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: asjothuwso0mcb55e0e5pe45
+2017-05-01 10:54:58,397 [  8] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: asjothuwso0mcb55e0e5pe45
+2017-05-01 10:55:24,032 [  5] INFO  AppManager [(null)] (Recipe.aspx) - Request from http://localhost:1949/SimpleServings/UI/Page/Home.aspx 
+SessionId: asjothuwso0mcb55e0e5pe45
+2017-05-01 10:55:32,507 [  5] INFO  AppManager [(null)] (Recipe.aspx) - Request from http://localhost:1949/SimpleServings/UI/Page/SimpleServings/Recipe/Recipe.aspx 
+SessionId: asjothuwso0mcb55e0e5pe45
+2017-05-01 11:01:57,261 [ 13] INFO  AppManager [(null)] SimpleServings started.
+2017-05-01 11:01:58,515 [  6] INFO  AppManager [(null)] (landingPage.aspx) - Request from http://localhost:1949/SimpleServings/UI/Page/MyZone.aspx?Control=MyProfile&StaffID=450 
+Request Type: LogInOut 
+SessionId: asjothuwso0mcb55e0e5pe45
+2017-05-01 11:01:58,516 [  6] INFO  AppManager [(null)] (landingPage.aspx) - Redirecting to Login.aspx 
+Request Type: LogInOut 
+SessionId: asjothuwso0mcb55e0e5pe45
+2017-05-01 11:02:01,324 [  5] INFO  AppManager [(null)] (login.aspx) - (cvais7773) - Login successful 
+SessionId: 110b4r55plwvt545hcfoa4bx
+2017-05-01 11:02:01,363 [  5] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: backnbjjvrzeiu55iuhsay2y
+2017-05-01 11:06:28,016 [ 13] INFO  AppManager [(null)] SimpleServings started.
+2017-05-01 11:06:28,929 [  6] INFO  AppManager [(null)] (landingPage.aspx) - Request from http://localhost:1949/SimpleServings/UI/Page/Home.aspx 
+Request Type: LogInOut 
+SessionId: backnbjjvrzeiu55iuhsay2y
+2017-05-01 11:06:28,930 [  6] INFO  AppManager [(null)] (landingPage.aspx) - Redirecting to Login.aspx 
+Request Type: LogInOut 
+SessionId: backnbjjvrzeiu55iuhsay2y
+2017-05-01 11:06:31,516 [  7] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: c2njnm55z5fjjazntccvpj55
+2017-05-01 11:08:13,232 [  6] ERROR AppManager [(null)] SimpleServings application error: The server tag is not well formed.
+location: http://localhost:1949/SimpleServings/UI/Page/resources.aspx
+
+System.Web.HttpParseException: The server tag is not well formed. ---> System.Web.HttpException: The server tag is not well formed.
+   at System.Web.UI.TemplateParser.ProcessError(String message)
+   at System.Web.UI.TemplateParser.DetectSpecialServerTagError(String text, Int32 textPos)
+   at System.Web.UI.TemplateParser.ParseStringInternal(String text, Encoding fileEncoding)
+   at System.Web.UI.TemplateParser.ParseString(String text, VirtualPath virtualPath, Encoding fileEncoding)
+   --- End of inner exception stack trace ---
+   at System.Web.UI.TemplateParser.ProcessException(Exception ex)
+   at System.Web.UI.TemplateParser.ParseStringInternal(String text, Encoding fileEncoding)
+   at System.Web.UI.TemplateParser.ParseString(String text, VirtualPath virtualPath, Encoding fileEncoding)
+   at System.Web.UI.TemplateParser.ParseReader(StreamReader reader, VirtualPath virtualPath)
+   at System.Web.UI.TemplateParser.ParseFile(String physicalPath, VirtualPath virtualPath)
+   at System.Web.UI.TemplateParser.ParseInternal()
+   at System.Web.UI.TemplateParser.Parse()
+   at System.Web.UI.TemplateParser.Parse(ICollection referencedAssemblies, VirtualPath virtualPath)
+   at System.Web.Compilation.BaseTemplateBuildProvider.get_CodeCompilerType()
+   at System.Web.Compilation.BuildProvider.GetCompilerTypeFromBuildProvider(BuildProvider buildProvider)
+   at System.Web.Compilation.BuildProvidersCompiler.ProcessBuildProviders()
+   at System.Web.Compilation.BuildProvidersCompiler.PerformBuild()
+   at System.Web.Compilation.BuildManager.CompileWebFile(VirtualPath virtualPath)
+   at System.Web.Compilation.BuildManager.GetVPathBuildResultInternal(VirtualPath virtualPath, Boolean noBuild, Boolean allowCrossApp, Boolean allowBuildInPrecompile)
+   at System.Web.Compilation.BuildManager.GetVPathBuildResultWithNoAssert(HttpContext context, VirtualPath virtualPath, Boolean noBuild, Boolean allowCrossApp, Boolean allowBuildInPrecompile)
+   at System.Web.Compilation.BuildManager.GetVirtualPathObjectFactory(VirtualPath virtualPath, HttpContext context, Boolean allowCrossApp, Boolean noAssert)
+   at System.Web.Compilation.BuildManager.CreateInstanceFromVirtualPath(VirtualPath virtualPath, Type requiredBaseType, HttpContext context, Boolean allowCrossApp, Boolean noAssert)
+   at System.Web.UI.PageHandlerFactory.GetHandlerHelper(HttpContext context, String requestType, VirtualPath virtualPath, String physicalPath)
+   at System.Web.UI.PageHandlerFactory.GetHandler(HttpContext context, String requestType, String virtualPath, String path)
+   at System.Web.HttpApplication.MaterializeHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+2017-05-01 11:14:23,212 [ 13] INFO  AppManager [(null)] SimpleServings started.
+2017-05-01 11:14:24,441 [  7] INFO  AppManager [(null)] (landingPage.aspx) - Request from http://localhost:1949/SimpleServings/UI/Page/Home.aspx 
+Request Type: LogInOut 
+SessionId: c2njnm55z5fjjazntccvpj55
+2017-05-01 11:14:24,442 [  7] INFO  AppManager [(null)] (landingPage.aspx) - Redirecting to Login.aspx 
+Request Type: LogInOut 
+SessionId: c2njnm55z5fjjazntccvpj55
+2017-05-01 11:14:26,916 [  7] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: vsgrraar5toln5fvypavko55
+2017-05-01 11:22:18,541 [  7] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: vsgrraar5toln5fvypavko55
+2017-05-01 11:22:19,722 [  6] INFO  AppManager [(null)] (Recipe.aspx) - Request from http://localhost:1949/SimpleServings/UI/Page/Home.aspx 
+SessionId: vsgrraar5toln5fvypavko55
+2017-05-01 11:33:30,293 [  6] ERROR AppManager [(null)] SimpleServings application error: Exception of type 'System.Web.HttpUnhandledException' was thrown.
+location: http://localhost:1949/SimpleServings/UI/Page/resources.aspx
+
+System.Web.HttpUnhandledException: Exception of type 'System.Web.HttpUnhandledException' was thrown. ---> System.Web.HttpException: The GridView 'gvResources' fired event RowDeleting which wasn't handled.
+   at System.Web.UI.WebControls.GridView.OnRowDeleting(GridViewDeleteEventArgs e)
+   at System.Web.UI.WebControls.GridView.HandleDelete(GridViewRow row, Int32 rowIndex)
+   at System.Web.UI.WebControls.GridView.HandleEvent(EventArgs e, Boolean causesValidation, String validationGroup)
+   at System.Web.UI.WebControls.GridView.OnBubbleEvent(Object source, EventArgs e)
+   at System.Web.UI.Control.RaiseBubbleEvent(Object source, EventArgs args)
+   at System.Web.UI.WebControls.GridViewRow.OnBubbleEvent(Object source, EventArgs e)
+   at System.Web.UI.Control.RaiseBubbleEvent(Object source, EventArgs args)
+   at System.Web.UI.WebControls.LinkButton.OnCommand(CommandEventArgs e)
+   at System.Web.UI.WebControls.LinkButton.RaisePostBackEvent(String eventArgument)
+   at System.Web.UI.WebControls.LinkButton.System.Web.UI.IPostBackEventHandler.RaisePostBackEvent(String eventArgument)
+   at System.Web.UI.Page.RaisePostBackEvent(IPostBackEventHandler sourceControl, String eventArgument)
+   at System.Web.UI.Page.RaisePostBackEvent(NameValueCollection postData)
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   --- End of inner exception stack trace ---
+   at System.Web.UI.Page.HandleError(Exception e)
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   at System.Web.UI.Page.ProcessRequest(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   at System.Web.UI.Page.ProcessRequest()
+   at System.Web.UI.Page.ProcessRequestWithNoAssert(HttpContext context)
+   at System.Web.UI.Page.ProcessRequest(HttpContext context)
+   at ASP.ui_page_resources_aspx.ProcessRequest(HttpContext context) in c:\Windows\Microsoft.NET\Framework\v2.0.50727\Temporary ASP.NET Files\simpleservings\50605a42\75e306da\App_Web_cuvzaxoe.0.cs:line 0
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+2017-05-01 11:34:49,993 [  1] INFO  AppManager [(null)] SimpleServings started.
+2017-05-01 11:34:50,192 [  6] INFO  AppManager [(null)] (landingPage.aspx) - Request from http://localhost:1949/SimpleServings/UI/Page/resources.aspx 
+Request Type: LogInOut 
+SessionId: vsgrraar5toln5fvypavko55
+2017-05-01 11:34:50,193 [  6] INFO  AppManager [(null)] (landingPage.aspx) - Redirecting to Login.aspx 
+Request Type: LogInOut 
+SessionId: vsgrraar5toln5fvypavko55
+2017-05-01 11:34:53,100 [  6] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: e1ku0o45ae2togjztmr5tyyn
+2017-05-01 11:38:32,572 [  1] INFO  AppManager [(null)] SimpleServings started.
+2017-05-01 11:38:43,691 [  5] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: e1ku0o45ae2togjztmr5tyyn
+2017-05-01 11:39:06,113 [  8] INFO  AppManager [(null)] (landingPage.aspx) - Redirecting to Login.aspx 
+Request Type: LogInOut 
+SessionId: 
+2017-05-01 11:39:08,642 [  5] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: 22x5mrjrfgcr3hnkcz3ypg2j
+2017-05-01 11:39:28,629 [  6] ERROR AppManager [(null)] SimpleServings application error: Exception of type 'System.Web.HttpUnhandledException' was thrown.
+location: http://localhost:1949/SimpleServings/UI/Page/resources.aspx
+
+System.Web.HttpUnhandledException: Exception of type 'System.Web.HttpUnhandledException' was thrown. ---> System.Web.HttpException: The GridView 'gvResources' fired event RowDeleting which wasn't handled.
+   at System.Web.UI.WebControls.GridView.OnRowDeleting(GridViewDeleteEventArgs e)
+   at System.Web.UI.WebControls.GridView.HandleDelete(GridViewRow row, Int32 rowIndex)
+   at System.Web.UI.WebControls.GridView.HandleEvent(EventArgs e, Boolean causesValidation, String validationGroup)
+   at System.Web.UI.WebControls.GridView.OnBubbleEvent(Object source, EventArgs e)
+   at System.Web.UI.Control.RaiseBubbleEvent(Object source, EventArgs args)
+   at System.Web.UI.WebControls.GridViewRow.OnBubbleEvent(Object source, EventArgs e)
+   at System.Web.UI.Control.RaiseBubbleEvent(Object source, EventArgs args)
+   at System.Web.UI.WebControls.LinkButton.OnCommand(CommandEventArgs e)
+   at System.Web.UI.WebControls.LinkButton.RaisePostBackEvent(String eventArgument)
+   at System.Web.UI.WebControls.LinkButton.System.Web.UI.IPostBackEventHandler.RaisePostBackEvent(String eventArgument)
+   at System.Web.UI.Page.RaisePostBackEvent(IPostBackEventHandler sourceControl, String eventArgument)
+   at System.Web.UI.Page.RaisePostBackEvent(NameValueCollection postData)
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   --- End of inner exception stack trace ---
+   at System.Web.UI.Page.HandleError(Exception e)
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   at System.Web.UI.Page.ProcessRequest(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   at System.Web.UI.Page.ProcessRequest()
+   at System.Web.UI.Page.ProcessRequestWithNoAssert(HttpContext context)
+   at System.Web.UI.Page.ProcessRequest(HttpContext context)
+   at ASP.ui_page_resources_aspx.ProcessRequest(HttpContext context) in c:\Windows\Microsoft.NET\Framework\v2.0.50727\Temporary ASP.NET Files\simpleservings\50605a42\75e306da\App_Web_-x6xfy6u.3.cs:line 0
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+2017-05-01 11:41:42,722 [  1] INFO  AppManager [(null)] SimpleServings started.
+2017-05-01 11:42:41,954 [  6] INFO  AppManager [(null)] (landingPage.aspx) - Redirecting to Login.aspx 
+Request Type: LogInOut 
+SessionId: 
+2017-05-01 11:43:01,700 [  6] INFO  AppManager [(null)] (landingPage.aspx) - Request from http://localhost:1949/SimpleServings/UI/Page/resources.aspx 
+Request Type: LogInOut 
+SessionId: 22x5mrjrfgcr3hnkcz3ypg2j
+2017-05-01 11:43:01,701 [  6] INFO  AppManager [(null)] (landingPage.aspx) - Redirecting to Login.aspx 
+Request Type: LogInOut 
+SessionId: 22x5mrjrfgcr3hnkcz3ypg2j
+2017-05-01 11:43:25,542 [  6] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: cdjfqj55s2mnb1nieqrc1o55
+2017-05-01 11:52:12,708 [  8] INFO  AppManager [(null)] (Recipe.aspx) - Request from http://localhost:1949/SimpleServings/UI/Page/resources.aspx 
+SessionId: cdjfqj55s2mnb1nieqrc1o55
+2017-05-01 11:54:08,593 [  5] INFO  AppManager [(null)] (Recipe.aspx) - Request from http://localhost:1949/SimpleServings/UI/Page/SimpleServings/Recipe/RecipeList.aspx?rcpSearch=test 
+SessionId: cdjfqj55s2mnb1nieqrc1o55
+2017-05-01 11:54:59,422 [  5] INFO  AppManager [(null)] (Recipe.aspx) - Request from http://localhost:1949/SimpleServings/UI/Page/SimpleServings/Recipe/RecipeList.aspx 
+SessionId: cdjfqj55s2mnb1nieqrc1o55
+2017-05-01 11:56:14,332 [  7] ERROR AppManager [(null)] SimpleServings application error: Exception of type 'System.Web.HttpUnhandledException' was thrown.
+location: http://localhost:1949/SimpleServings/UI/Page/SimpleServings/Recipe/Recipe.aspx
+
+System.Web.HttpUnhandledException: Exception of type 'System.Web.HttpUnhandledException' was thrown. ---> System.NullReferenceException: Object reference not set to an instance of an object.
+   at SimpleServings.UI.UDC.SimpleServings.Recipe.RecipeGrid.GetRecipeListFromCache() in c:\TFS\DFTA\SimpleServings\SimpleServings\SimpleServings\UI\UDC\SimpleServings\Recipe\RecipeGrid.ascx.cs:line 211
+   at SimpleServings.UI.UDC.SimpleServings.Recipe.RecipeGrid.gvRecipes_PageIndexChanging(Object sender, GridViewPageEventArgs e) in c:\TFS\DFTA\SimpleServings\SimpleServings\SimpleServings\UI\UDC\SimpleServings\Recipe\RecipeGrid.ascx.cs:line 234
+   at System.Web.UI.WebControls.GridView.OnPageIndexChanging(GridViewPageEventArgs e)
+   at System.Web.UI.WebControls.GridView.HandlePage(Int32 newPage)
+   at System.Web.UI.WebControls.GridView.HandleEvent(EventArgs e, Boolean causesValidation, String validationGroup)
+   at System.Web.UI.WebControls.GridView.RaisePostBackEvent(String eventArgument)
+   at System.Web.UI.WebControls.GridView.System.Web.UI.IPostBackEventHandler.RaisePostBackEvent(String eventArgument)
+   at System.Web.UI.Page.RaisePostBackEvent(IPostBackEventHandler sourceControl, String eventArgument)
+   at System.Web.UI.Page.RaisePostBackEvent(NameValueCollection postData)
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   --- End of inner exception stack trace ---
+   at System.Web.UI.Page.HandleError(Exception e)
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   at System.Web.UI.Page.ProcessRequest(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   at System.Web.UI.Page.ProcessRequest()
+   at System.Web.UI.Page.ProcessRequestWithNoAssert(HttpContext context)
+   at System.Web.UI.Page.ProcessRequest(HttpContext context)
+   at ASP.ui_page_simpleservings_recipe_recipe_aspx.ProcessRequest(HttpContext context) in c:\Windows\Microsoft.NET\Framework\v2.0.50727\Temporary ASP.NET Files\simpleservings\50605a42\75e306da\App_Web_p1fsyk5z.6.cs:line 0
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+2017-05-01 11:56:21,511 [  6] ERROR AppManager [(null)] SimpleServings application error: Exception of type 'System.Web.HttpUnhandledException' was thrown.
+location: http://localhost:1949/SimpleServings/UI/Page/SimpleServings/Recipe/Recipe.aspx
+
+System.Web.HttpUnhandledException: Exception of type 'System.Web.HttpUnhandledException' was thrown. ---> System.NullReferenceException: Object reference not set to an instance of an object.
+   at SimpleServings.UI.UDC.SimpleServings.Recipe.RecipeGrid.GetRecipeListFromCache() in c:\TFS\DFTA\SimpleServings\SimpleServings\SimpleServings\UI\UDC\SimpleServings\Recipe\RecipeGrid.ascx.cs:line 211
+   at SimpleServings.UI.UDC.SimpleServings.Recipe.RecipeGrid.gvRecipes_PageIndexChanging(Object sender, GridViewPageEventArgs e) in c:\TFS\DFTA\SimpleServings\SimpleServings\SimpleServings\UI\UDC\SimpleServings\Recipe\RecipeGrid.ascx.cs:line 234
+   at System.Web.UI.WebControls.GridView.OnPageIndexChanging(GridViewPageEventArgs e)
+   at System.Web.UI.WebControls.GridView.HandlePage(Int32 newPage)
+   at System.Web.UI.WebControls.GridView.HandleEvent(EventArgs e, Boolean causesValidation, String validationGroup)
+   at System.Web.UI.WebControls.GridView.RaisePostBackEvent(String eventArgument)
+   at System.Web.UI.WebControls.GridView.System.Web.UI.IPostBackEventHandler.RaisePostBackEvent(String eventArgument)
+   at System.Web.UI.Page.RaisePostBackEvent(IPostBackEventHandler sourceControl, String eventArgument)
+   at System.Web.UI.Page.RaisePostBackEvent(NameValueCollection postData)
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   --- End of inner exception stack trace ---
+   at System.Web.UI.Page.HandleError(Exception e)
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   at System.Web.UI.Page.ProcessRequest(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   at System.Web.UI.Page.ProcessRequest()
+   at System.Web.UI.Page.ProcessRequestWithNoAssert(HttpContext context)
+   at System.Web.UI.Page.ProcessRequest(HttpContext context)
+   at ASP.ui_page_simpleservings_recipe_recipe_aspx.ProcessRequest(HttpContext context) in c:\Windows\Microsoft.NET\Framework\v2.0.50727\Temporary ASP.NET Files\simpleservings\50605a42\75e306da\App_Web_p1fsyk5z.6.cs:line 0
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+2017-05-01 11:57:20,793 [  7] INFO  AppManager [(null)] (Recipe.aspx) - Request from http://localhost:1949/SimpleServings/UI/Page/SimpleServings/Recipe/RecipeList.aspx 
+SessionId: cdjfqj55s2mnb1nieqrc1o55
+2017-05-01 12:00:32,713 [  6] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: cdjfqj55s2mnb1nieqrc1o55
+2017-05-01 12:00:33,899 [  7] INFO  AppManager [(null)] (Recipe.aspx) - Request from http://localhost:1949/SimpleServings/UI/Page/Home.aspx 
+SessionId: cdjfqj55s2mnb1nieqrc1o55
+2017-05-01 12:00:43,176 [  6] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: cdjfqj55s2mnb1nieqrc1o55
+2017-05-01 12:00:54,151 [  5] INFO  AppManager [(null)] (Recipe.aspx) - Request from http://localhost:1949/SimpleServings/UI/Page/SimpleServings/Menu/MenuList.aspx?MenuType=MyMenus 
+SessionId: cdjfqj55s2mnb1nieqrc1o55
+2017-05-01 13:27:51,309 [  7] ERROR AppManager [(null)] SimpleServings application error: Exception of type 'System.Web.HttpUnhandledException' was thrown.
+location: http://localhost:1949/SimpleServings/UI/Page/SimpleServings/Recipe/Recipe.aspx
+
+System.Web.HttpUnhandledException: Exception of type 'System.Web.HttpUnhandledException' was thrown. ---> System.NullReferenceException: Object reference not set to an instance of an object.
+   at SimpleServings.UI.UDC.SimpleServings.Recipe.RecipeGrid.GetRecipeListFromCache() in c:\TFS\DFTA\SimpleServings\SimpleServings\SimpleServings\UI\UDC\SimpleServings\Recipe\RecipeGrid.ascx.cs:line 211
+   at SimpleServings.UI.UDC.SimpleServings.Recipe.RecipeGrid.gvRecipes_PageIndexChanging(Object sender, GridViewPageEventArgs e) in c:\TFS\DFTA\SimpleServings\SimpleServings\SimpleServings\UI\UDC\SimpleServings\Recipe\RecipeGrid.ascx.cs:line 234
+   at System.Web.UI.WebControls.GridView.OnPageIndexChanging(GridViewPageEventArgs e)
+   at System.Web.UI.WebControls.GridView.HandlePage(Int32 newPage)
+   at System.Web.UI.WebControls.GridView.HandleEvent(EventArgs e, Boolean causesValidation, String validationGroup)
+   at System.Web.UI.WebControls.GridView.RaisePostBackEvent(String eventArgument)
+   at System.Web.UI.WebControls.GridView.System.Web.UI.IPostBackEventHandler.RaisePostBackEvent(String eventArgument)
+   at System.Web.UI.Page.RaisePostBackEvent(IPostBackEventHandler sourceControl, String eventArgument)
+   at System.Web.UI.Page.RaisePostBackEvent(NameValueCollection postData)
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   --- End of inner exception stack trace ---
+   at System.Web.UI.Page.HandleError(Exception e)
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   at System.Web.UI.Page.ProcessRequest(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   at System.Web.UI.Page.ProcessRequest()
+   at System.Web.UI.Page.ProcessRequestWithNoAssert(HttpContext context)
+   at System.Web.UI.Page.ProcessRequest(HttpContext context)
+   at ASP.ui_page_simpleservings_recipe_recipe_aspx.ProcessRequest(HttpContext context) in c:\Windows\Microsoft.NET\Framework\v2.0.50727\Temporary ASP.NET Files\simpleservings\50605a42\75e306da\App_Web_p1fsyk5z.6.cs:line 0
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+2017-05-01 13:27:58,683 [  8] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: cdjfqj55s2mnb1nieqrc1o55
+2017-05-01 13:28:07,420 [  5] INFO  AppManager [(null)] (landingPage.aspx) - Request from http://localhost:1949/SimpleServings/UI/Page/SimpleServings/Supplier/Contract.aspx?Contracts=All 
+Request Type: LogInOut 
+SessionId: cdjfqj55s2mnb1nieqrc1o55
+2017-05-01 13:28:07,420 [  5] INFO  AppManager [(null)] (landingPage.aspx) - Redirecting to Login.aspx 
+Request Type: LogInOut 
+SessionId: cdjfqj55s2mnb1nieqrc1o55
+2017-05-01 13:28:07,430 [  6] INFO  AppManager [(null)] (login.aspx) - Request from http://localhost:1949/SimpleServings/UI/Page/SimpleServings/Supplier/Contract.aspx?Contracts=All 
+SessionId: u5awsfvxeygdgx45iddhzyes
+2017-05-01 13:28:10,131 [  5] INFO  AppManager [(null)] (landingPage.aspx) - Clearing Session 
+Request Type:  
+SessionId: z5in3l45c4n55c453gsozkrv
+2017-05-01 13:28:10,149 [  7] INFO  AppManager [(null)] (landingPage.aspx) - New Session 
+Request Type:  
+SessionId: mts45gjdibzilsnszegown45
+2017-05-01 13:28:10,197 [  6] INFO  AppManager [(null)] (login.aspx) - (cvais7773) - Login successful 
+SessionId: 0vdbtb55cpcx0g55sdimzgzf
+2017-05-01 13:28:10,207 [  6] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: mts45gjdibzilsnszegown45
+2017-05-01 13:28:11,142 [  6] INFO  AppManager [(null)] (Recipe.aspx) - Request from http://localhost:1949/SimpleServings/UI/Page/Home.aspx 
+SessionId: mts45gjdibzilsnszegown45
+2017-05-01 13:28:16,062 [  7] ERROR AppManager [(null)] SimpleServings application error: Exception of type 'System.Web.HttpUnhandledException' was thrown.
+location: http://localhost:1949/SimpleServings/UI/Page/SimpleServings/Recipe/Recipe.aspx
+
+System.Web.HttpUnhandledException: Exception of type 'System.Web.HttpUnhandledException' was thrown. ---> System.NullReferenceException: Object reference not set to an instance of an object.
+   at SimpleServings.UI.UDC.SimpleServings.Recipe.RecipeGrid.GetRecipeListFromCache() in c:\TFS\DFTA\SimpleServings\SimpleServings\SimpleServings\UI\UDC\SimpleServings\Recipe\RecipeGrid.ascx.cs:line 211
+   at SimpleServings.UI.UDC.SimpleServings.Recipe.RecipeGrid.gvRecipes_PageIndexChanging(Object sender, GridViewPageEventArgs e) in c:\TFS\DFTA\SimpleServings\SimpleServings\SimpleServings\UI\UDC\SimpleServings\Recipe\RecipeGrid.ascx.cs:line 234
+   at System.Web.UI.WebControls.GridView.OnPageIndexChanging(GridViewPageEventArgs e)
+   at System.Web.UI.WebControls.GridView.HandlePage(Int32 newPage)
+   at System.Web.UI.WebControls.GridView.HandleEvent(EventArgs e, Boolean causesValidation, String validationGroup)
+   at System.Web.UI.WebControls.GridView.RaisePostBackEvent(String eventArgument)
+   at System.Web.UI.WebControls.GridView.System.Web.UI.IPostBackEventHandler.RaisePostBackEvent(String eventArgument)
+   at System.Web.UI.Page.RaisePostBackEvent(IPostBackEventHandler sourceControl, String eventArgument)
+   at System.Web.UI.Page.RaisePostBackEvent(NameValueCollection postData)
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   --- End of inner exception stack trace ---
+   at System.Web.UI.Page.HandleError(Exception e)
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   at System.Web.UI.Page.ProcessRequest(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   at System.Web.UI.Page.ProcessRequest()
+   at System.Web.UI.Page.ProcessRequestWithNoAssert(HttpContext context)
+   at System.Web.UI.Page.ProcessRequest(HttpContext context)
+   at ASP.ui_page_simpleservings_recipe_recipe_aspx.ProcessRequest(HttpContext context) in c:\Windows\Microsoft.NET\Framework\v2.0.50727\Temporary ASP.NET Files\simpleservings\50605a42\75e306da\App_Web_p1fsyk5z.6.cs:line 0
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+2017-05-01 13:28:27,198 [  5] INFO  AppManager [(null)] (landingPage.aspx) - Request from http://localhost:1949/SimpleServings/UI/Page/SimpleServings/Recipe/Recipe.aspx 
+Request Type: LogInOut 
+SessionId: mts45gjdibzilsnszegown45
+2017-05-01 13:28:27,199 [  5] INFO  AppManager [(null)] (landingPage.aspx) - Redirecting to Login.aspx 
+Request Type: LogInOut 
+SessionId: mts45gjdibzilsnszegown45
+2017-05-01 13:28:27,209 [  5] INFO  AppManager [(null)] (login.aspx) - Request from http://localhost:1949/SimpleServings/UI/Page/SimpleServings/Recipe/Recipe.aspx 
+SessionId: cxd0rj5535ykjj55g4gm4145
+2017-05-01 13:28:37,788 [  1] INFO  AppManager [(null)] SimpleServings started.
+2017-05-01 13:29:03,560 [  9] INFO  AppManager [(null)] (landingPage.aspx) - Redirecting to Login.aspx 
+Request Type: LogInOut 
+SessionId: 
+2017-05-01 13:29:10,513 [  8] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: 5jlgu0555p0j5quch3e4kd45
+2017-05-01 13:29:16,571 [  7] INFO  AppManager [(null)] (Recipe.aspx) - Request from http://localhost:1949/SimpleServings/UI/Page/Home.aspx 
+SessionId: 5jlgu0555p0j5quch3e4kd45
+2017-05-01 13:29:47,792 [  7] INFO  AppManager [(null)] (Recipe.aspx) - Request from http://localhost:1949/SimpleServings/UI/Page/SimpleServings/Recipe/Recipe.aspx 
+SessionId: 5jlgu0555p0j5quch3e4kd45
+2017-05-01 13:32:10,941 [  8] ERROR AppManager [(null)] SimpleServings application error: Exception of type 'System.Web.HttpUnhandledException' was thrown.
+location: http://localhost:1949/SimpleServings/UI/Page/SimpleServings/Recipe/Recipe.aspx
+
+System.Web.HttpUnhandledException: Exception of type 'System.Web.HttpUnhandledException' was thrown. ---> System.NullReferenceException: Object reference not set to an instance of an object.
+   at SimpleServings.UI.UDC.SimpleServings.Recipe.RecipeGrid.GetRecipeListFromCache() in c:\TFS\DFTA\SimpleServings\SimpleServings\SimpleServings\UI\UDC\SimpleServings\Recipe\RecipeGrid.ascx.cs:line 211
+   at SimpleServings.UI.UDC.SimpleServings.Recipe.RecipeGrid.gvRecipes_PageIndexChanging(Object sender, GridViewPageEventArgs e) in c:\TFS\DFTA\SimpleServings\SimpleServings\SimpleServings\UI\UDC\SimpleServings\Recipe\RecipeGrid.ascx.cs:line 234
+   at System.Web.UI.WebControls.GridView.OnPageIndexChanging(GridViewPageEventArgs e)
+   at System.Web.UI.WebControls.GridView.HandlePage(Int32 newPage)
+   at System.Web.UI.WebControls.GridView.HandleEvent(EventArgs e, Boolean causesValidation, String validationGroup)
+   at System.Web.UI.WebControls.GridView.RaisePostBackEvent(String eventArgument)
+   at System.Web.UI.WebControls.GridView.System.Web.UI.IPostBackEventHandler.RaisePostBackEvent(String eventArgument)
+   at System.Web.UI.Page.RaisePostBackEvent(IPostBackEventHandler sourceControl, String eventArgument)
+   at System.Web.UI.Page.RaisePostBackEvent(NameValueCollection postData)
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   --- End of inner exception stack trace ---
+   at System.Web.UI.Page.HandleError(Exception e)
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   at System.Web.UI.Page.ProcessRequest(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   at System.Web.UI.Page.ProcessRequest()
+   at System.Web.UI.Page.ProcessRequestWithNoAssert(HttpContext context)
+   at System.Web.UI.Page.ProcessRequest(HttpContext context)
+   at ASP.ui_page_simpleservings_recipe_recipe_aspx.ProcessRequest(HttpContext context) in c:\Windows\Microsoft.NET\Framework\v2.0.50727\Temporary ASP.NET Files\simpleservings\50605a42\75e306da\App_Web_p1fsyk5z.6.cs:line 0
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+2017-05-01 13:35:48,726 [  1] INFO  AppManager [(null)] SimpleServings started.
+2017-05-01 13:35:57,252 [  9] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: 5kjrpk453bo3vu45ngcyhq55
+2017-05-01 13:36:01,838 [ 11] INFO  AppManager [(null)] (Recipe.aspx) - Request from http://localhost:1949/SimpleServings/UI/Page/Home.aspx 
+SessionId: 5kjrpk453bo3vu45ngcyhq55
+2017-05-01 13:37:22,169 [  1] INFO  AppManager [(null)] SimpleServings started.
+2017-05-01 13:37:31,151 [  5] INFO  AppManager [(null)] (landingPage.aspx) - Redirecting to Login.aspx 
+Request Type: LogInOut 
+SessionId: 
+2017-05-01 13:37:35,830 [  5] INFO  AppManager [(null)] (landingPage.aspx) - Request from http://localhost:1949/SimpleServings/UI/Page/resources.aspx 
+Request Type: LogInOut 
+SessionId: 5kjrpk453bo3vu45ngcyhq55
+2017-05-01 13:37:35,831 [  5] INFO  AppManager [(null)] (landingPage.aspx) - Redirecting to Login.aspx 
+Request Type: LogInOut 
+SessionId: 5kjrpk453bo3vu45ngcyhq55
+2017-05-01 13:37:43,857 [ 10] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: n0ktg1m3yza0qb55wlcy0x45
+2017-05-01 13:37:46,182 [ 10] INFO  AppManager [(null)] (Recipe.aspx) - Request from http://localhost:1949/SimpleServings/UI/Page/Home.aspx 
+SessionId: n0ktg1m3yza0qb55wlcy0x45
+2017-05-01 13:38:11,472 [  9] ERROR AppManager [(null)] SimpleServings application error: Exception of type 'System.Web.HttpUnhandledException' was thrown.
+location: http://localhost:1949/SimpleServings/UI/Page/resources.aspx
+
+System.Web.HttpUnhandledException: Exception of type 'System.Web.HttpUnhandledException' was thrown. ---> System.Web.HttpException: The GridView 'gvResources' fired event RowDeleting which wasn't handled.
+   at System.Web.UI.WebControls.GridView.OnRowDeleting(GridViewDeleteEventArgs e)
+   at System.Web.UI.WebControls.GridView.HandleDelete(GridViewRow row, Int32 rowIndex)
+   at System.Web.UI.WebControls.GridView.HandleEvent(EventArgs e, Boolean causesValidation, String validationGroup)
+   at System.Web.UI.WebControls.GridView.OnBubbleEvent(Object source, EventArgs e)
+   at System.Web.UI.Control.RaiseBubbleEvent(Object source, EventArgs args)
+   at System.Web.UI.WebControls.GridViewRow.OnBubbleEvent(Object source, EventArgs e)
+   at System.Web.UI.Control.RaiseBubbleEvent(Object source, EventArgs args)
+   at System.Web.UI.WebControls.LinkButton.OnCommand(CommandEventArgs e)
+   at System.Web.UI.WebControls.LinkButton.RaisePostBackEvent(String eventArgument)
+   at System.Web.UI.WebControls.LinkButton.System.Web.UI.IPostBackEventHandler.RaisePostBackEvent(String eventArgument)
+   at System.Web.UI.Page.RaisePostBackEvent(IPostBackEventHandler sourceControl, String eventArgument)
+   at System.Web.UI.Page.RaisePostBackEvent(NameValueCollection postData)
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   --- End of inner exception stack trace ---
+   at System.Web.UI.Page.HandleError(Exception e)
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   at System.Web.UI.Page.ProcessRequest(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   at System.Web.UI.Page.ProcessRequest()
+   at System.Web.UI.Page.ProcessRequestWithNoAssert(HttpContext context)
+   at System.Web.UI.Page.ProcessRequest(HttpContext context)
+   at ASP.ui_page_resources_aspx.ProcessRequest(HttpContext context) in c:\Windows\Microsoft.NET\Framework\v2.0.50727\Temporary ASP.NET Files\simpleservings\50605a42\75e306da\App_Web_fkavukw_.3.cs:line 0
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+2017-05-01 13:43:41,082 [  1] INFO  AppManager [(null)] SimpleServings started.
+2017-05-01 13:43:50,446 [  9] INFO  AppManager [(null)] (landingPage.aspx) - Redirecting to Login.aspx 
+Request Type: LogInOut 
+SessionId: 
+2017-05-01 13:43:52,795 [  5] INFO  AppManager [(null)] (login.aspx) - (cvais7773) - Login successful 
+SessionId: 3zgghdm3eixct045np0b1345
+2017-05-01 13:43:52,802 [  5] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: 13ylhtmvolbe4b45meyhfm55
+2017-05-01 13:43:55,333 [ 10] ERROR AppManager [(null)] SimpleServings application error: c:\TFS\DFTA\SimpleServings\SimpleServings\SimpleServings\UI\UDC\SimpleServings\Resource\ResourceList.ascx(8): error CS0123: No overload for 'dlResources_DeleteCommand' matches delegate 'System.Web.UI.WebControls.GridViewDeleteEventHandler'
+location: http://localhost:1949/SimpleServings/UI/Page/resources.aspx
+
+System.Web.HttpParseException: c:\TFS\DFTA\SimpleServings\SimpleServings\SimpleServings\UI\UDC\SimpleServings\Resource\ResourceList.ascx(8): error CS0123: No overload for 'dlResources_DeleteCommand' matches delegate 'System.Web.UI.WebControls.GridViewDeleteEventHandler' ---> System.Web.HttpCompileException: c:\TFS\DFTA\SimpleServings\SimpleServings\SimpleServings\UI\UDC\SimpleServings\Resource\ResourceList.ascx(8): error CS0123: No overload for 'dlResources_DeleteCommand' matches delegate 'System.Web.UI.WebControls.GridViewDeleteEventHandler'
+   at System.Web.Compilation.BuildManager.PostProcessFoundBuildResult(BuildResult result, Boolean keyFromVPP, VirtualPath virtualPath)
+   at System.Web.Compilation.BuildManager.GetBuildResultFromCacheInternal(String cacheKey, Boolean keyFromVPP, VirtualPath virtualPath, Int64 hashCode)
+   at System.Web.Compilation.BuildManager.GetVPathBuildResultFromCacheInternal(VirtualPath virtualPath)
+   at System.Web.Compilation.BuildManager.GetVPathBuildResultInternal(VirtualPath virtualPath, Boolean noBuild, Boolean allowCrossApp, Boolean allowBuildInPrecompile)
+   at System.Web.Compilation.BuildManager.GetVPathBuildResultWithNoAssert(HttpContext context, VirtualPath virtualPath, Boolean noBuild, Boolean allowCrossApp, Boolean allowBuildInPrecompile)
+   at System.Web.Compilation.BuildManager.GetVPathBuildResult(HttpContext context, VirtualPath virtualPath, Boolean noBuild, Boolean allowCrossApp, Boolean allowBuildInPrecompile)
+   at System.Web.UI.BaseTemplateParser.GetReferencedType(VirtualPath virtualPath, Boolean allowNoCompile)
+   at System.Web.UI.BaseTemplateParser.GetUserControlType(VirtualPath virtualPath)
+   at System.Web.UI.MainTagNameToTypeMapper.ProcessUserControlRegistration(UserControlRegisterEntry ucRegisterEntry)
+   at System.Web.UI.BaseTemplateParser.ProcessDirective(String directiveName, IDictionary directive)
+   at System.Web.UI.TemplateControlParser.ProcessDirective(String directiveName, IDictionary directive)
+   at System.Web.UI.TemplateParser.ParseStringInternal(String text, Encoding fileEncoding)
+   --- End of inner exception stack trace ---
+   at System.Web.UI.TemplateParser.ProcessException(Exception ex)
+   at System.Web.UI.TemplateParser.ParseStringInternal(String text, Encoding fileEncoding)
+   at System.Web.UI.TemplateParser.ParseString(String text, VirtualPath virtualPath, Encoding fileEncoding)
+   at System.Web.UI.TemplateParser.ParseReader(StreamReader reader, VirtualPath virtualPath)
+   at System.Web.UI.TemplateParser.ParseFile(String physicalPath, VirtualPath virtualPath)
+   at System.Web.UI.TemplateParser.ParseInternal()
+   at System.Web.UI.TemplateParser.Parse()
+   at System.Web.UI.TemplateParser.Parse(ICollection referencedAssemblies, VirtualPath virtualPath)
+   at System.Web.Compilation.BaseTemplateBuildProvider.get_CodeCompilerType()
+   at System.Web.Compilation.BuildProvider.GetCompilerTypeFromBuildProvider(BuildProvider buildProvider)
+   at System.Web.Compilation.BuildProvidersCompiler.ProcessBuildProviders()
+   at System.Web.Compilation.BuildProvidersCompiler.PerformBuild()
+   at System.Web.Compilation.BuildManager.CompileWebFile(VirtualPath virtualPath)
+   at System.Web.Compilation.BuildManager.GetVPathBuildResultInternal(VirtualPath virtualPath, Boolean noBuild, Boolean allowCrossApp, Boolean allowBuildInPrecompile)
+   at System.Web.Compilation.BuildManager.GetVPathBuildResultWithNoAssert(HttpContext context, VirtualPath virtualPath, Boolean noBuild, Boolean allowCrossApp, Boolean allowBuildInPrecompile)
+   at System.Web.Compilation.BuildManager.GetVirtualPathObjectFactory(VirtualPath virtualPath, HttpContext context, Boolean allowCrossApp, Boolean noAssert)
+   at System.Web.Compilation.BuildManager.CreateInstanceFromVirtualPath(VirtualPath virtualPath, Type requiredBaseType, HttpContext context, Boolean allowCrossApp, Boolean noAssert)
+   at System.Web.UI.PageHandlerFactory.GetHandlerHelper(HttpContext context, String requestType, VirtualPath virtualPath, String physicalPath)
+   at System.Web.UI.PageHandlerFactory.GetHandler(HttpContext context, String requestType, String virtualPath, String path)
+   at System.Web.HttpApplication.MaterializeHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+2017-05-01 13:46:17,053 [  7] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: 13ylhtmvolbe4b45meyhfm55
+2017-05-01 13:46:18,031 [  9] INFO  AppManager [(null)] (landingPage.aspx) - Request from http://localhost:1949/SimpleServings/UI/Page/ 
+Request Type: LogInOut 
+SessionId: 13ylhtmvolbe4b45meyhfm55
+2017-05-01 13:46:18,032 [  9] INFO  AppManager [(null)] (landingPage.aspx) - Redirecting to Login.aspx 
+Request Type: LogInOut 
+SessionId: 13ylhtmvolbe4b45meyhfm55
+2017-05-01 13:46:18,037 [  5] INFO  AppManager [(null)] (login.aspx) - Request from http://localhost:1949/SimpleServings/UI/Page/ 
+SessionId: tpxzmuyaaywyii45vdgab3by
+2017-05-01 13:46:20,518 [  7] INFO  AppManager [(null)] (landingPage.aspx) - Clearing Session 
+Request Type:  
+SessionId: e5x0u4551tgg3hiunaowao45
+2017-05-01 13:46:20,535 [  5] INFO  AppManager [(null)] (landingPage.aspx) - New Session 
+Request Type:  
+SessionId: qkaywjz3lxui4y45dpadp355
+2017-05-01 13:46:20,590 [ 10] INFO  AppManager [(null)] (login.aspx) - (cvais7773) - Login successful 
+SessionId: 1eypssfcl3cw4b45bcvn2c45
+2017-05-01 13:46:20,597 [ 10] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: qkaywjz3lxui4y45dpadp355
+2017-05-01 13:46:22,601 [  9] ERROR AppManager [(null)] SimpleServings application error: c:\TFS\DFTA\SimpleServings\SimpleServings\SimpleServings\UI\UDC\SimpleServings\Resource\ResourceList.ascx(8): error CS0123: No overload for 'dlResources_DeleteCommand' matches delegate 'System.Web.UI.WebControls.GridViewDeleteEventHandler'
+location: http://localhost:1949/SimpleServings/UI/Page/resources.aspx
+
+System.Web.HttpParseException: c:\TFS\DFTA\SimpleServings\SimpleServings\SimpleServings\UI\UDC\SimpleServings\Resource\ResourceList.ascx(8): error CS0123: No overload for 'dlResources_DeleteCommand' matches delegate 'System.Web.UI.WebControls.GridViewDeleteEventHandler' ---> System.Web.HttpCompileException: c:\TFS\DFTA\SimpleServings\SimpleServings\SimpleServings\UI\UDC\SimpleServings\Resource\ResourceList.ascx(8): error CS0123: No overload for 'dlResources_DeleteCommand' matches delegate 'System.Web.UI.WebControls.GridViewDeleteEventHandler'
+   at System.Web.Compilation.BuildManager.PostProcessFoundBuildResult(BuildResult result, Boolean keyFromVPP, VirtualPath virtualPath)
+   at System.Web.Compilation.BuildManager.GetBuildResultFromCacheInternal(String cacheKey, Boolean keyFromVPP, VirtualPath virtualPath, Int64 hashCode)
+   at System.Web.Compilation.BuildManager.GetVPathBuildResultFromCacheInternal(VirtualPath virtualPath)
+   at System.Web.Compilation.BuildManager.GetVPathBuildResultInternal(VirtualPath virtualPath, Boolean noBuild, Boolean allowCrossApp, Boolean allowBuildInPrecompile)
+   at System.Web.Compilation.BuildManager.GetVPathBuildResultWithNoAssert(HttpContext context, VirtualPath virtualPath, Boolean noBuild, Boolean allowCrossApp, Boolean allowBuildInPrecompile)
+   at System.Web.Compilation.BuildManager.GetVPathBuildResult(HttpContext context, VirtualPath virtualPath, Boolean noBuild, Boolean allowCrossApp, Boolean allowBuildInPrecompile)
+   at System.Web.UI.BaseTemplateParser.GetReferencedType(VirtualPath virtualPath, Boolean allowNoCompile)
+   at System.Web.UI.BaseTemplateParser.GetUserControlType(VirtualPath virtualPath)
+   at System.Web.UI.MainTagNameToTypeMapper.ProcessUserControlRegistration(UserControlRegisterEntry ucRegisterEntry)
+   at System.Web.UI.BaseTemplateParser.ProcessDirective(String directiveName, IDictionary directive)
+   at System.Web.UI.TemplateControlParser.ProcessDirective(String directiveName, IDictionary directive)
+   at System.Web.UI.TemplateParser.ParseStringInternal(String text, Encoding fileEncoding)
+   --- End of inner exception stack trace ---
+   at System.Web.UI.TemplateParser.ProcessException(Exception ex)
+   at System.Web.UI.TemplateParser.ParseStringInternal(String text, Encoding fileEncoding)
+   at System.Web.UI.TemplateParser.ParseString(String text, VirtualPath virtualPath, Encoding fileEncoding)
+   at System.Web.UI.TemplateParser.ParseReader(StreamReader reader, VirtualPath virtualPath)
+   at System.Web.UI.TemplateParser.ParseFile(String physicalPath, VirtualPath virtualPath)
+   at System.Web.UI.TemplateParser.ParseInternal()
+   at System.Web.UI.TemplateParser.Parse()
+   at System.Web.UI.TemplateParser.Parse(ICollection referencedAssemblies, VirtualPath virtualPath)
+   at System.Web.Compilation.BaseTemplateBuildProvider.get_CodeCompilerType()
+   at System.Web.Compilation.BuildProvider.GetCompilerTypeFromBuildProvider(BuildProvider buildProvider)
+   at System.Web.Compilation.BuildProvidersCompiler.ProcessBuildProviders()
+   at System.Web.Compilation.BuildProvidersCompiler.PerformBuild()
+   at System.Web.Compilation.BuildManager.CompileWebFile(VirtualPath virtualPath)
+   at System.Web.Compilation.BuildManager.GetVPathBuildResultInternal(VirtualPath virtualPath, Boolean noBuild, Boolean allowCrossApp, Boolean allowBuildInPrecompile)
+   at System.Web.Compilation.BuildManager.GetVPathBuildResultWithNoAssert(HttpContext context, VirtualPath virtualPath, Boolean noBuild, Boolean allowCrossApp, Boolean allowBuildInPrecompile)
+   at System.Web.Compilation.BuildManager.GetVirtualPathObjectFactory(VirtualPath virtualPath, HttpContext context, Boolean allowCrossApp, Boolean noAssert)
+   at System.Web.Compilation.BuildManager.CreateInstanceFromVirtualPath(VirtualPath virtualPath, Type requiredBaseType, HttpContext context, Boolean allowCrossApp, Boolean noAssert)
+   at System.Web.UI.PageHandlerFactory.GetHandlerHelper(HttpContext context, String requestType, VirtualPath virtualPath, String physicalPath)
+   at System.Web.UI.PageHandlerFactory.GetHandler(HttpContext context, String requestType, String virtualPath, String path)
+   at System.Web.HttpApplication.MaterializeHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+2017-05-01 13:49:16,408 [ 11] INFO  AppManager [(null)] SimpleServings started.
+2017-05-01 13:49:25,228 [  7] INFO  AppManager [(null)] (landingPage.aspx) - Request from http://localhost:1949/SimpleServings/UI/Page/Home.aspx 
+Request Type: LogInOut 
+SessionId: qkaywjz3lxui4y45dpadp355
+2017-05-01 13:49:25,229 [  7] INFO  AppManager [(null)] (landingPage.aspx) - Redirecting to Login.aspx 
+Request Type: LogInOut 
+SessionId: qkaywjz3lxui4y45dpadp355
+2017-05-01 13:49:28,564 [  5] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: swe40s551gn1xk552hwjtxvf
+2017-05-01 13:50:21,873 [  1] INFO  AppManager [(null)] SimpleServings started.
+2017-05-01 13:50:22,054 [  5] INFO  AppManager [(null)] (landingPage.aspx) - Request from http://localhost:1949/SimpleServings/UI/Page/resources.aspx 
+Request Type: LogInOut 
+SessionId: swe40s551gn1xk552hwjtxvf
+2017-05-01 13:50:22,055 [  5] INFO  AppManager [(null)] (landingPage.aspx) - Redirecting to Login.aspx 
+Request Type: LogInOut 
+SessionId: swe40s551gn1xk552hwjtxvf
+2017-05-01 13:50:38,471 [  5] INFO  AppManager [(null)] (landingPage.aspx) - Redirecting to Login.aspx 
+Request Type: LogInOut 
+SessionId: 
+2017-05-01 13:50:50,208 [  8] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: zj0qz445ansnnm55ze0ezf45
+2017-05-01 13:56:56,915 [  1] INFO  AppManager [(null)] SimpleServings started.
+2017-05-01 13:57:16,619 [  8] INFO  AppManager [(null)] (landingPage.aspx) - Redirecting to Login.aspx 
+Request Type: LogInOut 
+SessionId: 
+2017-05-01 13:57:19,552 [  8] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: wymqpierizfn3l2mpvp1kxyk
+2017-05-01 13:57:47,315 [  5] INFO  AppManager [(null)] (landingPage.aspx) - Request from http://localhost:1949/SimpleServings/UI/Page/resources.aspx 
+Request Type: LogInOut 
+SessionId: wymqpierizfn3l2mpvp1kxyk
+2017-05-01 13:57:47,316 [  5] INFO  AppManager [(null)] (landingPage.aspx) - Redirecting to Login.aspx 
+Request Type: LogInOut 
+SessionId: wymqpierizfn3l2mpvp1kxyk
+2017-05-01 13:57:47,328 [ 10] INFO  AppManager [(null)] (login.aspx) - Request from http://localhost:1949/SimpleServings/UI/Page/resources.aspx 
+SessionId: pyszvkyz4teeo4n5hhn0envz
+2017-05-01 13:58:08,702 [  1] INFO  AppManager [(null)] SimpleServings started.
+2017-05-01 13:58:14,838 [  5] INFO  AppManager [(null)] (landingPage.aspx) - Redirecting to Login.aspx 
+Request Type: LogInOut 
+SessionId: 
+2017-05-01 13:58:22,865 [  7] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: zsuott45rq3fjd55ln0uvj55
+2017-05-01 14:04:41,301 [  1] INFO  AppManager [(null)] SimpleServings started.
+2017-05-01 14:04:55,834 [  8] INFO  AppManager [(null)] (landingPage.aspx) - Redirecting to Login.aspx 
+Request Type: LogInOut 
+SessionId: 
+2017-05-01 14:04:59,269 [  5] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: hkc325ryg2ywui550nr5dh55
+2017-05-01 14:05:25,980 [  9] INFO  AppManager [(null)] (landingPage.aspx) - Request from http://localhost:1949/SimpleServings/UI/Page/resources.aspx 
+Request Type: LogInOut 
+SessionId: hkc325ryg2ywui550nr5dh55
+2017-05-01 14:05:25,981 [  9] INFO  AppManager [(null)] (landingPage.aspx) - Redirecting to Login.aspx 
+Request Type: LogInOut 
+SessionId: hkc325ryg2ywui550nr5dh55
+2017-05-01 14:05:25,992 [  8] INFO  AppManager [(null)] (login.aspx) - Request from http://localhost:1949/SimpleServings/UI/Page/resources.aspx 
+SessionId: kxyp4vno3wkj40elnr3lunbf
+2017-05-01 14:05:35,241 [  1] INFO  AppManager [(null)] SimpleServings started.
+2017-05-01 14:05:42,124 [  5] INFO  AppManager [(null)] (landingPage.aspx) - Redirecting to Login.aspx 
+Request Type: LogInOut 
+SessionId: 
+2017-05-01 14:05:49,721 [  5] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: gmumix45omhedf455wpqmber
+2017-05-01 14:07:40,322 [  1] INFO  AppManager [(null)] SimpleServings started.
+2017-05-01 14:07:54,973 [  8] INFO  AppManager [(null)] (landingPage.aspx) - Redirecting to Login.aspx 
+Request Type: LogInOut 
+SessionId: 
+2017-05-01 14:08:00,503 [  7] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: eqfhcme32j4a2d45gopvbg45
+2017-05-01 14:12:28,524 [  1] INFO  AppManager [(null)] SimpleServings started.
+2017-05-01 14:12:39,746 [  5] INFO  AppManager [(null)] (landingPage.aspx) - Redirecting to Login.aspx 
+Request Type: LogInOut 
+SessionId: 
+2017-05-01 14:12:50,377 [  9] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: y24e1345ijft3q45rlot4c55
+2017-05-01 14:22:01,519 [  1] INFO  AppManager [(null)] SimpleServings started.
+2017-05-01 14:22:13,506 [  6] INFO  AppManager [(null)] (landingPage.aspx) - Redirecting to Login.aspx 
+Request Type: LogInOut 
+SessionId: 
+2017-05-01 14:22:20,137 [  7] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: 45xslimzmm405amndizfsf2w
+2017-05-01 14:33:29,483 [  1] INFO  AppManager [(null)] SimpleServings started.
+2017-05-01 14:33:47,083 [  8] INFO  AppManager [(null)] (landingPage.aspx) - Redirecting to Login.aspx 
+Request Type: LogInOut 
+SessionId: 
+2017-05-01 14:33:52,517 [  8] ERROR AppManager [(null)] btnLogin_Click failed: Incorrect username and/or password.
+2017-05-01 14:33:59,434 [  6] INFO  AppManager [(null)] (landingPage.aspx) - Clearing Session 
+Request Type:  
+SessionId: yr52a145c534q155b0ncz545
+2017-05-01 14:33:59,442 [  5] INFO  AppManager [(null)] (landingPage.aspx) - New Session 
+Request Type:  
+SessionId: mb0iepqphthgyn45vjztc355
+2017-05-01 14:34:00,011 [  9] INFO  AppManager [(null)] (login.aspx) - (cvais7773) - Login successful 
+SessionId: yr52a145c534q155b0ncz545
+2017-05-01 14:34:00,032 [  9] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: mb0iepqphthgyn45vjztc355
+2017-05-01 14:34:40,925 [  5] ERROR AppManager [(null)] SimpleServings application error: Exception of type 'System.Web.HttpUnhandledException' was thrown.
+location: http://localhost:1949/SimpleServings/UI/Page/resources.aspx
+
+System.Web.HttpUnhandledException: Exception of type 'System.Web.HttpUnhandledException' was thrown. ---> System.ArgumentException: Error serializing value 'System.Linq.OrderedEnumerable`2[SimpleServingsLibrary.Resource.Resource,System.String]' of type 'System.Linq.OrderedEnumerable`2[[SimpleServingsLibrary.Resource.Resource, SimpleServings.Resource, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]].' ---> System.Runtime.Serialization.SerializationException: Type 'System.Linq.OrderedEnumerable`2[[SimpleServingsLibrary.Resource.Resource, SimpleServings.Resource, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]' in Assembly 'System.Core, Version=3.5.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089' is not marked as serializable.
+   at System.Runtime.Serialization.FormatterServices.InternalGetSerializableMembers(RuntimeType type)
+   at System.Runtime.Serialization.FormatterServices.GetSerializableMembers(Type type, StreamingContext context)
+   at System.Runtime.Serialization.Formatters.Binary.WriteObjectInfo.InitMemberInfo()
+   at System.Runtime.Serialization.Formatters.Binary.WriteObjectInfo.InitSerialize(Object obj, ISurrogateSelector surrogateSelector, StreamingContext context, SerObjectInfoInit serObjectInfoInit, IFormatterConverter converter, ObjectWriter objectWriter)
+   at System.Runtime.Serialization.Formatters.Binary.WriteObjectInfo.Serialize(Object obj, ISurrogateSelector surrogateSelector, StreamingContext context, SerObjectInfoInit serObjectInfoInit, IFormatterConverter converter, ObjectWriter objectWriter)
+   at System.Runtime.Serialization.Formatters.Binary.ObjectWriter.Serialize(Object graph, Header[] inHeaders, __BinaryWriter serWriter, Boolean fCheck)
+   at System.Runtime.Serialization.Formatters.Binary.BinaryFormatter.Serialize(Stream serializationStream, Object graph, Header[] headers, Boolean fCheck)
+   at System.Runtime.Serialization.Formatters.Binary.BinaryFormatter.Serialize(Stream serializationStream, Object graph)
+   at System.Web.UI.ObjectStateFormatter.SerializeValue(SerializerBinaryWriter writer, Object value)
+   --- End of inner exception stack trace ---
+   at System.Web.UI.ObjectStateFormatter.SerializeValue(SerializerBinaryWriter writer, Object value)
+   at System.Web.UI.ObjectStateFormatter.Serialize(Stream outputStream, Object stateGraph)
+   at System.Web.UI.ObjectStateFormatter.Serialize(Object stateGraph)
+   at System.Web.UI.ObjectStateFormatter.System.Web.UI.IStateFormatter.Serialize(Object state)
+   at System.Web.UI.Util.SerializeWithAssert(IStateFormatter formatter, Object stateGraph)
+   at System.Web.UI.HiddenFieldPageStatePersister.Save()
+   at System.Web.UI.Page.SavePageStateToPersistenceMedium(Object state)
+   at System.Web.UI.Page.SaveAllState()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   --- End of inner exception stack trace ---
+   at System.Web.UI.Page.HandleError(Exception e)
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   at System.Web.UI.Page.ProcessRequest(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   at System.Web.UI.Page.ProcessRequest()
+   at System.Web.UI.Page.ProcessRequestWithNoAssert(HttpContext context)
+   at System.Web.UI.Page.ProcessRequest(HttpContext context)
+   at ASP.ui_page_resources_aspx.ProcessRequest(HttpContext context) in c:\Windows\Microsoft.NET\Framework\v2.0.50727\Temporary ASP.NET Files\simpleservings\50605a42\75e306da\App_Web_iuqji1ax.2.cs:line 0
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+2017-05-01 14:36:24,196 [  1] INFO  AppManager [(null)] SimpleServings started.
+2017-05-01 14:36:35,181 [  5] INFO  AppManager [(null)] (landingPage.aspx) - Redirecting to Login.aspx 
+Request Type: LogInOut 
+SessionId: 
+2017-05-01 14:36:41,088 [  5] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: 4xxn1vyo00wmqz55gdewaa55
+2017-05-01 14:36:43,837 [  6] ERROR AppManager [(null)] SimpleServings application error: Exception of type 'System.Web.HttpUnhandledException' was thrown.
+location: http://localhost:1949/SimpleServings/UI/Page/resources.aspx
+
+System.Web.HttpUnhandledException: Exception of type 'System.Web.HttpUnhandledException' was thrown. ---> System.ArgumentException: Error serializing value 'System.Linq.OrderedEnumerable`2[SimpleServingsLibrary.Resource.Resource,System.String]' of type 'System.Linq.OrderedEnumerable`2[[SimpleServingsLibrary.Resource.Resource, SimpleServings.Resource, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]].' ---> System.Runtime.Serialization.SerializationException: Type 'System.Linq.OrderedEnumerable`2[[SimpleServingsLibrary.Resource.Resource, SimpleServings.Resource, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]' in Assembly 'System.Core, Version=3.5.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089' is not marked as serializable.
+   at System.Runtime.Serialization.FormatterServices.InternalGetSerializableMembers(RuntimeType type)
+   at System.Runtime.Serialization.FormatterServices.GetSerializableMembers(Type type, StreamingContext context)
+   at System.Runtime.Serialization.Formatters.Binary.WriteObjectInfo.InitMemberInfo()
+   at System.Runtime.Serialization.Formatters.Binary.WriteObjectInfo.InitSerialize(Object obj, ISurrogateSelector surrogateSelector, StreamingContext context, SerObjectInfoInit serObjectInfoInit, IFormatterConverter converter, ObjectWriter objectWriter)
+   at System.Runtime.Serialization.Formatters.Binary.WriteObjectInfo.Serialize(Object obj, ISurrogateSelector surrogateSelector, StreamingContext context, SerObjectInfoInit serObjectInfoInit, IFormatterConverter converter, ObjectWriter objectWriter)
+   at System.Runtime.Serialization.Formatters.Binary.ObjectWriter.Serialize(Object graph, Header[] inHeaders, __BinaryWriter serWriter, Boolean fCheck)
+   at System.Runtime.Serialization.Formatters.Binary.BinaryFormatter.Serialize(Stream serializationStream, Object graph, Header[] headers, Boolean fCheck)
+   at System.Runtime.Serialization.Formatters.Binary.BinaryFormatter.Serialize(Stream serializationStream, Object graph)
+   at System.Web.UI.ObjectStateFormatter.SerializeValue(SerializerBinaryWriter writer, Object value)
+   --- End of inner exception stack trace ---
+   at System.Web.UI.ObjectStateFormatter.SerializeValue(SerializerBinaryWriter writer, Object value)
+   at System.Web.UI.ObjectStateFormatter.Serialize(Stream outputStream, Object stateGraph)
+   at System.Web.UI.ObjectStateFormatter.Serialize(Object stateGraph)
+   at System.Web.UI.ObjectStateFormatter.System.Web.UI.IStateFormatter.Serialize(Object state)
+   at System.Web.UI.Util.SerializeWithAssert(IStateFormatter formatter, Object stateGraph)
+   at System.Web.UI.HiddenFieldPageStatePersister.Save()
+   at System.Web.UI.Page.SavePageStateToPersistenceMedium(Object state)
+   at System.Web.UI.Page.SaveAllState()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   --- End of inner exception stack trace ---
+   at System.Web.UI.Page.HandleError(Exception e)
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   at System.Web.UI.Page.ProcessRequest(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   at System.Web.UI.Page.ProcessRequest()
+   at System.Web.UI.Page.ProcessRequestWithNoAssert(HttpContext context)
+   at System.Web.UI.Page.ProcessRequest(HttpContext context)
+   at ASP.ui_page_resources_aspx.ProcessRequest(HttpContext context) in c:\Windows\Microsoft.NET\Framework\v2.0.50727\Temporary ASP.NET Files\simpleservings\50605a42\75e306da\App_Web_7xl-jo6d.2.cs:line 0
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+2017-05-01 14:37:19,152 [  9] ERROR AppManager [(null)] SimpleServings application error: Exception of type 'System.Web.HttpUnhandledException' was thrown.
+location: http://localhost:1949/SimpleServings/UI/Page/resources.aspx
+
+System.Web.HttpUnhandledException: Exception of type 'System.Web.HttpUnhandledException' was thrown. ---> System.ArgumentException: Error serializing value 'System.Linq.OrderedEnumerable`2[SimpleServingsLibrary.Resource.Resource,System.String]' of type 'System.Linq.OrderedEnumerable`2[[SimpleServingsLibrary.Resource.Resource, SimpleServings.Resource, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]].' ---> System.Runtime.Serialization.SerializationException: Type 'System.Linq.OrderedEnumerable`2[[SimpleServingsLibrary.Resource.Resource, SimpleServings.Resource, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]' in Assembly 'System.Core, Version=3.5.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089' is not marked as serializable.
+   at System.Runtime.Serialization.FormatterServices.InternalGetSerializableMembers(RuntimeType type)
+   at System.Runtime.Serialization.FormatterServices.GetSerializableMembers(Type type, StreamingContext context)
+   at System.Runtime.Serialization.Formatters.Binary.WriteObjectInfo.InitMemberInfo()
+   at System.Runtime.Serialization.Formatters.Binary.WriteObjectInfo.InitSerialize(Object obj, ISurrogateSelector surrogateSelector, StreamingContext context, SerObjectInfoInit serObjectInfoInit, IFormatterConverter converter, ObjectWriter objectWriter)
+   at System.Runtime.Serialization.Formatters.Binary.WriteObjectInfo.Serialize(Object obj, ISurrogateSelector surrogateSelector, StreamingContext context, SerObjectInfoInit serObjectInfoInit, IFormatterConverter converter, ObjectWriter objectWriter)
+   at System.Runtime.Serialization.Formatters.Binary.ObjectWriter.Serialize(Object graph, Header[] inHeaders, __BinaryWriter serWriter, Boolean fCheck)
+   at System.Runtime.Serialization.Formatters.Binary.BinaryFormatter.Serialize(Stream serializationStream, Object graph, Header[] headers, Boolean fCheck)
+   at System.Runtime.Serialization.Formatters.Binary.BinaryFormatter.Serialize(Stream serializationStream, Object graph)
+   at System.Web.UI.ObjectStateFormatter.SerializeValue(SerializerBinaryWriter writer, Object value)
+   --- End of inner exception stack trace ---
+   at System.Web.UI.ObjectStateFormatter.SerializeValue(SerializerBinaryWriter writer, Object value)
+   at System.Web.UI.ObjectStateFormatter.Serialize(Stream outputStream, Object stateGraph)
+   at System.Web.UI.ObjectStateFormatter.Serialize(Object stateGraph)
+   at System.Web.UI.ObjectStateFormatter.System.Web.UI.IStateFormatter.Serialize(Object state)
+   at System.Web.UI.Util.SerializeWithAssert(IStateFormatter formatter, Object stateGraph)
+   at System.Web.UI.HiddenFieldPageStatePersister.Save()
+   at System.Web.UI.Page.SavePageStateToPersistenceMedium(Object state)
+   at System.Web.UI.Page.SaveAllState()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   --- End of inner exception stack trace ---
+   at System.Web.UI.Page.HandleError(Exception e)
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   at System.Web.UI.Page.ProcessRequest(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   at System.Web.UI.Page.ProcessRequest()
+   at System.Web.UI.Page.ProcessRequestWithNoAssert(HttpContext context)
+   at System.Web.UI.Page.ProcessRequest(HttpContext context)
+   at ASP.ui_page_resources_aspx.ProcessRequest(HttpContext context) in c:\Windows\Microsoft.NET\Framework\v2.0.50727\Temporary ASP.NET Files\simpleservings\50605a42\75e306da\App_Web_7xl-jo6d.2.cs:line 0
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+2017-05-01 14:39:42,096 [  5] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: 0k3az0554dezn355msspwkrn
+2017-05-01 14:39:43,825 [ 10] INFO  AppManager [(null)] (landingPage.aspx) - Request from http://localhost:1949/SimpleServings/UI/Page/ 
+Request Type: LogInOut 
+SessionId: 5nzsbbftwqaj3u45x43cigb2
+2017-05-01 14:39:43,826 [ 10] INFO  AppManager [(null)] (landingPage.aspx) - Redirecting to Login.aspx 
+Request Type: LogInOut 
+SessionId: 5nzsbbftwqaj3u45x43cigb2
+2017-05-01 14:39:43,834 [  6] INFO  AppManager [(null)] (login.aspx) - Request from http://localhost:1949/SimpleServings/UI/Page/ 
+SessionId: hvxlgg55qobnczmux3mn21iy
+2017-05-01 14:39:46,549 [ 10] INFO  AppManager [(null)] (landingPage.aspx) - Clearing Session 
+Request Type:  
+SessionId: 2c32s155ncnkfuug5vrshurf
+2017-05-01 14:39:46,569 [  6] INFO  AppManager [(null)] (landingPage.aspx) - New Session 
+Request Type:  
+SessionId: y5244hz0lex13cn3gpvnrp45
+2017-05-01 14:39:46,576 [  9] INFO  AppManager [(null)] (login.aspx) - (cvais7773) - Login successful 
+SessionId: wyymwyvjbcvhyv45f5oq5pms
+2017-05-01 14:39:46,587 [  6] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: y5244hz0lex13cn3gpvnrp45
+2017-05-01 14:39:48,324 [  6] ERROR AppManager [(null)] SimpleServings application error: Exception of type 'System.Web.HttpUnhandledException' was thrown.
+location: http://localhost:1949/SimpleServings/UI/Page/resources.aspx
+
+System.Web.HttpUnhandledException: Exception of type 'System.Web.HttpUnhandledException' was thrown. ---> System.ArgumentException: Error serializing value 'System.Linq.OrderedEnumerable`2[SimpleServingsLibrary.Resource.Resource,System.String]' of type 'System.Linq.OrderedEnumerable`2[[SimpleServingsLibrary.Resource.Resource, SimpleServings.Resource, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]].' ---> System.Runtime.Serialization.SerializationException: Type 'System.Linq.OrderedEnumerable`2[[SimpleServingsLibrary.Resource.Resource, SimpleServings.Resource, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]' in Assembly 'System.Core, Version=3.5.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089' is not marked as serializable.
+   at System.Runtime.Serialization.FormatterServices.InternalGetSerializableMembers(RuntimeType type)
+   at System.Runtime.Serialization.FormatterServices.GetSerializableMembers(Type type, StreamingContext context)
+   at System.Runtime.Serialization.Formatters.Binary.WriteObjectInfo.InitMemberInfo()
+   at System.Runtime.Serialization.Formatters.Binary.WriteObjectInfo.InitSerialize(Object obj, ISurrogateSelector surrogateSelector, StreamingContext context, SerObjectInfoInit serObjectInfoInit, IFormatterConverter converter, ObjectWriter objectWriter)
+   at System.Runtime.Serialization.Formatters.Binary.WriteObjectInfo.Serialize(Object obj, ISurrogateSelector surrogateSelector, StreamingContext context, SerObjectInfoInit serObjectInfoInit, IFormatterConverter converter, ObjectWriter objectWriter)
+   at System.Runtime.Serialization.Formatters.Binary.ObjectWriter.Serialize(Object graph, Header[] inHeaders, __BinaryWriter serWriter, Boolean fCheck)
+   at System.Runtime.Serialization.Formatters.Binary.BinaryFormatter.Serialize(Stream serializationStream, Object graph, Header[] headers, Boolean fCheck)
+   at System.Runtime.Serialization.Formatters.Binary.BinaryFormatter.Serialize(Stream serializationStream, Object graph)
+   at System.Web.UI.ObjectStateFormatter.SerializeValue(SerializerBinaryWriter writer, Object value)
+   --- End of inner exception stack trace ---
+   at System.Web.UI.ObjectStateFormatter.SerializeValue(SerializerBinaryWriter writer, Object value)
+   at System.Web.UI.ObjectStateFormatter.Serialize(Stream outputStream, Object stateGraph)
+   at System.Web.UI.ObjectStateFormatter.Serialize(Object stateGraph)
+   at System.Web.UI.ObjectStateFormatter.System.Web.UI.IStateFormatter.Serialize(Object state)
+   at System.Web.UI.Util.SerializeWithAssert(IStateFormatter formatter, Object stateGraph)
+   at System.Web.UI.HiddenFieldPageStatePersister.Save()
+   at System.Web.UI.Page.SavePageStateToPersistenceMedium(Object state)
+   at System.Web.UI.Page.SaveAllState()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   --- End of inner exception stack trace ---
+   at System.Web.UI.Page.HandleError(Exception e)
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   at System.Web.UI.Page.ProcessRequest(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   at System.Web.UI.Page.ProcessRequest()
+   at System.Web.UI.Page.ProcessRequestWithNoAssert(HttpContext context)
+   at System.Web.UI.Page.ProcessRequest(HttpContext context)
+   at ASP.ui_page_resources_aspx.ProcessRequest(HttpContext context) in c:\Windows\Microsoft.NET\Framework\v2.0.50727\Temporary ASP.NET Files\simpleservings\50605a42\75e306da\App_Web_7xl-jo6d.2.cs:line 0
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+2017-05-01 14:40:23,591 [  1] INFO  AppManager [(null)] SimpleServings started.
+2017-05-01 14:40:26,976 [  5] INFO  AppManager [(null)] (landingPage.aspx) - Redirecting to Login.aspx 
+Request Type: LogInOut 
+SessionId: 
+2017-05-01 14:40:33,705 [  7] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: 3ptpcge1fo5zn3nifpbjsq45
+2017-05-01 14:40:49,887 [  8] ERROR AppManager [(null)] SimpleServings application error: Exception of type 'System.Web.HttpUnhandledException' was thrown.
+location: http://localhost:1949/SimpleServings/UI/Page/resources.aspx
+
+System.Web.HttpUnhandledException: Exception of type 'System.Web.HttpUnhandledException' was thrown. ---> System.ArgumentException: Error serializing value 'System.Linq.OrderedEnumerable`2[SimpleServingsLibrary.Resource.Resource,System.String]' of type 'System.Linq.OrderedEnumerable`2[[SimpleServingsLibrary.Resource.Resource, SimpleServings.Resource, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]].' ---> System.Runtime.Serialization.SerializationException: Type 'System.Linq.OrderedEnumerable`2[[SimpleServingsLibrary.Resource.Resource, SimpleServings.Resource, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]' in Assembly 'System.Core, Version=3.5.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089' is not marked as serializable.
+   at System.Runtime.Serialization.FormatterServices.InternalGetSerializableMembers(RuntimeType type)
+   at System.Runtime.Serialization.FormatterServices.GetSerializableMembers(Type type, StreamingContext context)
+   at System.Runtime.Serialization.Formatters.Binary.WriteObjectInfo.InitMemberInfo()
+   at System.Runtime.Serialization.Formatters.Binary.WriteObjectInfo.InitSerialize(Object obj, ISurrogateSelector surrogateSelector, StreamingContext context, SerObjectInfoInit serObjectInfoInit, IFormatterConverter converter, ObjectWriter objectWriter)
+   at System.Runtime.Serialization.Formatters.Binary.WriteObjectInfo.Serialize(Object obj, ISurrogateSelector surrogateSelector, StreamingContext context, SerObjectInfoInit serObjectInfoInit, IFormatterConverter converter, ObjectWriter objectWriter)
+   at System.Runtime.Serialization.Formatters.Binary.ObjectWriter.Serialize(Object graph, Header[] inHeaders, __BinaryWriter serWriter, Boolean fCheck)
+   at System.Runtime.Serialization.Formatters.Binary.BinaryFormatter.Serialize(Stream serializationStream, Object graph, Header[] headers, Boolean fCheck)
+   at System.Runtime.Serialization.Formatters.Binary.BinaryFormatter.Serialize(Stream serializationStream, Object graph)
+   at System.Web.UI.ObjectStateFormatter.SerializeValue(SerializerBinaryWriter writer, Object value)
+   --- End of inner exception stack trace ---
+   at System.Web.UI.ObjectStateFormatter.SerializeValue(SerializerBinaryWriter writer, Object value)
+   at System.Web.UI.ObjectStateFormatter.Serialize(Stream outputStream, Object stateGraph)
+   at System.Web.UI.ObjectStateFormatter.Serialize(Object stateGraph)
+   at System.Web.UI.ObjectStateFormatter.System.Web.UI.IStateFormatter.Serialize(Object state)
+   at System.Web.UI.Util.SerializeWithAssert(IStateFormatter formatter, Object stateGraph)
+   at System.Web.UI.HiddenFieldPageStatePersister.Save()
+   at System.Web.UI.Page.SavePageStateToPersistenceMedium(Object state)
+   at System.Web.UI.Page.SaveAllState()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   --- End of inner exception stack trace ---
+   at System.Web.UI.Page.HandleError(Exception e)
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   at System.Web.UI.Page.ProcessRequest(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   at System.Web.UI.Page.ProcessRequest()
+   at System.Web.UI.Page.ProcessRequestWithNoAssert(HttpContext context)
+   at System.Web.UI.Page.ProcessRequest(HttpContext context)
+   at ASP.ui_page_resources_aspx.ProcessRequest(HttpContext context) in c:\Windows\Microsoft.NET\Framework\v2.0.50727\Temporary ASP.NET Files\simpleservings\50605a42\75e306da\App_Web_7xl-jo6d.2.cs:line 0
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+2017-05-01 14:41:02,312 [ 10] ERROR AppManager [(null)] SimpleServings application error: Exception of type 'System.Web.HttpUnhandledException' was thrown.
+location: http://localhost:1949/SimpleServings/UI/Page/resources.aspx
+
+System.Web.HttpUnhandledException: Exception of type 'System.Web.HttpUnhandledException' was thrown. ---> System.ArgumentException: Error serializing value 'System.Linq.OrderedEnumerable`2[SimpleServingsLibrary.Resource.Resource,System.String]' of type 'System.Linq.OrderedEnumerable`2[[SimpleServingsLibrary.Resource.Resource, SimpleServings.Resource, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]].' ---> System.Runtime.Serialization.SerializationException: Type 'System.Linq.OrderedEnumerable`2[[SimpleServingsLibrary.Resource.Resource, SimpleServings.Resource, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]' in Assembly 'System.Core, Version=3.5.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089' is not marked as serializable.
+   at System.Runtime.Serialization.FormatterServices.InternalGetSerializableMembers(RuntimeType type)
+   at System.Runtime.Serialization.FormatterServices.GetSerializableMembers(Type type, StreamingContext context)
+   at System.Runtime.Serialization.Formatters.Binary.WriteObjectInfo.InitMemberInfo()
+   at System.Runtime.Serialization.Formatters.Binary.WriteObjectInfo.InitSerialize(Object obj, ISurrogateSelector surrogateSelector, StreamingContext context, SerObjectInfoInit serObjectInfoInit, IFormatterConverter converter, ObjectWriter objectWriter)
+   at System.Runtime.Serialization.Formatters.Binary.WriteObjectInfo.Serialize(Object obj, ISurrogateSelector surrogateSelector, StreamingContext context, SerObjectInfoInit serObjectInfoInit, IFormatterConverter converter, ObjectWriter objectWriter)
+   at System.Runtime.Serialization.Formatters.Binary.ObjectWriter.Serialize(Object graph, Header[] inHeaders, __BinaryWriter serWriter, Boolean fCheck)
+   at System.Runtime.Serialization.Formatters.Binary.BinaryFormatter.Serialize(Stream serializationStream, Object graph, Header[] headers, Boolean fCheck)
+   at System.Runtime.Serialization.Formatters.Binary.BinaryFormatter.Serialize(Stream serializationStream, Object graph)
+   at System.Web.UI.ObjectStateFormatter.SerializeValue(SerializerBinaryWriter writer, Object value)
+   --- End of inner exception stack trace ---
+   at System.Web.UI.ObjectStateFormatter.SerializeValue(SerializerBinaryWriter writer, Object value)
+   at System.Web.UI.ObjectStateFormatter.Serialize(Stream outputStream, Object stateGraph)
+   at System.Web.UI.ObjectStateFormatter.Serialize(Object stateGraph)
+   at System.Web.UI.ObjectStateFormatter.System.Web.UI.IStateFormatter.Serialize(Object state)
+   at System.Web.UI.Util.SerializeWithAssert(IStateFormatter formatter, Object stateGraph)
+   at System.Web.UI.HiddenFieldPageStatePersister.Save()
+   at System.Web.UI.Page.SavePageStateToPersistenceMedium(Object state)
+   at System.Web.UI.Page.SaveAllState()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   --- End of inner exception stack trace ---
+   at System.Web.UI.Page.HandleError(Exception e)
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   at System.Web.UI.Page.ProcessRequest(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   at System.Web.UI.Page.ProcessRequest()
+   at System.Web.UI.Page.ProcessRequestWithNoAssert(HttpContext context)
+   at System.Web.UI.Page.ProcessRequest(HttpContext context)
+   at ASP.ui_page_resources_aspx.ProcessRequest(HttpContext context) in c:\Windows\Microsoft.NET\Framework\v2.0.50727\Temporary ASP.NET Files\simpleservings\50605a42\75e306da\App_Web_7xl-jo6d.2.cs:line 0
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+2017-05-01 14:42:42,854 [  1] INFO  AppManager [(null)] SimpleServings started.
+2017-05-01 14:42:54,061 [  6] INFO  AppManager [(null)] (landingPage.aspx) - Redirecting to Login.aspx 
+Request Type: LogInOut 
+SessionId: 
+2017-05-01 14:43:00,211 [  5] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: e3kxl4vvb3m3bn455gp2gg2s
+2017-05-01 14:43:24,217 [ 10] ERROR AppManager [(null)] SimpleServings application error: Exception of type 'System.Web.HttpUnhandledException' was thrown.
+location: http://localhost:1949/SimpleServings/UI/Page/resources.aspx
+
+System.Web.HttpUnhandledException: Exception of type 'System.Web.HttpUnhandledException' was thrown. ---> System.ArgumentException: Error serializing value 'SimpleServingsLibrary.Resource.Resources' of type 'SimpleServingsLibrary.Resource.Resources.' ---> System.Runtime.Serialization.SerializationException: Type 'SimpleServingsLibrary.Resource.Resources' in Assembly 'SimpleServings.Resource, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null' is not marked as serializable.
+   at System.Runtime.Serialization.FormatterServices.InternalGetSerializableMembers(RuntimeType type)
+   at System.Runtime.Serialization.FormatterServices.GetSerializableMembers(Type type, StreamingContext context)
+   at System.Runtime.Serialization.Formatters.Binary.WriteObjectInfo.InitMemberInfo()
+   at System.Runtime.Serialization.Formatters.Binary.WriteObjectInfo.InitSerialize(Object obj, ISurrogateSelector surrogateSelector, StreamingContext context, SerObjectInfoInit serObjectInfoInit, IFormatterConverter converter, ObjectWriter objectWriter)
+   at System.Runtime.Serialization.Formatters.Binary.WriteObjectInfo.Serialize(Object obj, ISurrogateSelector surrogateSelector, StreamingContext context, SerObjectInfoInit serObjectInfoInit, IFormatterConverter converter, ObjectWriter objectWriter)
+   at System.Runtime.Serialization.Formatters.Binary.ObjectWriter.Serialize(Object graph, Header[] inHeaders, __BinaryWriter serWriter, Boolean fCheck)
+   at System.Runtime.Serialization.Formatters.Binary.BinaryFormatter.Serialize(Stream serializationStream, Object graph, Header[] headers, Boolean fCheck)
+   at System.Runtime.Serialization.Formatters.Binary.BinaryFormatter.Serialize(Stream serializationStream, Object graph)
+   at System.Web.UI.ObjectStateFormatter.SerializeValue(SerializerBinaryWriter writer, Object value)
+   --- End of inner exception stack trace ---
+   at System.Web.UI.ObjectStateFormatter.SerializeValue(SerializerBinaryWriter writer, Object value)
+   at System.Web.UI.ObjectStateFormatter.Serialize(Stream outputStream, Object stateGraph)
+   at System.Web.UI.ObjectStateFormatter.Serialize(Object stateGraph)
+   at System.Web.UI.ObjectStateFormatter.System.Web.UI.IStateFormatter.Serialize(Object state)
+   at System.Web.UI.Util.SerializeWithAssert(IStateFormatter formatter, Object stateGraph)
+   at System.Web.UI.HiddenFieldPageStatePersister.Save()
+   at System.Web.UI.Page.SavePageStateToPersistenceMedium(Object state)
+   at System.Web.UI.Page.SaveAllState()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   --- End of inner exception stack trace ---
+   at System.Web.UI.Page.HandleError(Exception e)
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   at System.Web.UI.Page.ProcessRequest(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   at System.Web.UI.Page.ProcessRequest()
+   at System.Web.UI.Page.ProcessRequestWithNoAssert(HttpContext context)
+   at System.Web.UI.Page.ProcessRequest(HttpContext context)
+   at ASP.ui_page_resources_aspx.ProcessRequest(HttpContext context) in c:\Windows\Microsoft.NET\Framework\v2.0.50727\Temporary ASP.NET Files\simpleservings\50605a42\75e306da\App_Web_xe6zzib4.2.cs:line 0
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+2017-05-01 14:44:22,845 [  1] INFO  AppManager [(null)] SimpleServings started.
+2017-05-01 14:44:33,585 [  5] INFO  AppManager [(null)] (landingPage.aspx) - Redirecting to Login.aspx 
+Request Type: LogInOut 
+SessionId: 
+2017-05-01 14:44:39,675 [  5] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: ra35axjbkabsj255lgxzdryz
+2017-05-01 14:44:44,081 [ 10] ERROR AppManager [(null)] SimpleServings application error: Exception of type 'System.Web.HttpUnhandledException' was thrown.
+location: http://localhost:1949/SimpleServings/UI/Page/resources.aspx
+
+System.Web.HttpUnhandledException: Exception of type 'System.Web.HttpUnhandledException' was thrown. ---> System.ArgumentException: Error serializing value 'System.Linq.OrderedEnumerable`2[SimpleServingsLibrary.Resource.Resource,System.String]' of type 'System.Linq.OrderedEnumerable`2[[SimpleServingsLibrary.Resource.Resource, SimpleServings.Resource, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]].' ---> System.Runtime.Serialization.SerializationException: Type 'System.Linq.OrderedEnumerable`2[[SimpleServingsLibrary.Resource.Resource, SimpleServings.Resource, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]' in Assembly 'System.Core, Version=3.5.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089' is not marked as serializable.
+   at System.Runtime.Serialization.FormatterServices.InternalGetSerializableMembers(RuntimeType type)
+   at System.Runtime.Serialization.FormatterServices.GetSerializableMembers(Type type, StreamingContext context)
+   at System.Runtime.Serialization.Formatters.Binary.WriteObjectInfo.InitMemberInfo()
+   at System.Runtime.Serialization.Formatters.Binary.WriteObjectInfo.InitSerialize(Object obj, ISurrogateSelector surrogateSelector, StreamingContext context, SerObjectInfoInit serObjectInfoInit, IFormatterConverter converter, ObjectWriter objectWriter)
+   at System.Runtime.Serialization.Formatters.Binary.WriteObjectInfo.Serialize(Object obj, ISurrogateSelector surrogateSelector, StreamingContext context, SerObjectInfoInit serObjectInfoInit, IFormatterConverter converter, ObjectWriter objectWriter)
+   at System.Runtime.Serialization.Formatters.Binary.ObjectWriter.Serialize(Object graph, Header[] inHeaders, __BinaryWriter serWriter, Boolean fCheck)
+   at System.Runtime.Serialization.Formatters.Binary.BinaryFormatter.Serialize(Stream serializationStream, Object graph, Header[] headers, Boolean fCheck)
+   at System.Runtime.Serialization.Formatters.Binary.BinaryFormatter.Serialize(Stream serializationStream, Object graph)
+   at System.Web.UI.ObjectStateFormatter.SerializeValue(SerializerBinaryWriter writer, Object value)
+   --- End of inner exception stack trace ---
+   at System.Web.UI.ObjectStateFormatter.SerializeValue(SerializerBinaryWriter writer, Object value)
+   at System.Web.UI.ObjectStateFormatter.Serialize(Stream outputStream, Object stateGraph)
+   at System.Web.UI.ObjectStateFormatter.Serialize(Object stateGraph)
+   at System.Web.UI.ObjectStateFormatter.System.Web.UI.IStateFormatter.Serialize(Object state)
+   at System.Web.UI.Util.SerializeWithAssert(IStateFormatter formatter, Object stateGraph)
+   at System.Web.UI.HiddenFieldPageStatePersister.Save()
+   at System.Web.UI.Page.SavePageStateToPersistenceMedium(Object state)
+   at System.Web.UI.Page.SaveAllState()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   --- End of inner exception stack trace ---
+   at System.Web.UI.Page.HandleError(Exception e)
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   at System.Web.UI.Page.ProcessRequest(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   at System.Web.UI.Page.ProcessRequest()
+   at System.Web.UI.Page.ProcessRequestWithNoAssert(HttpContext context)
+   at System.Web.UI.Page.ProcessRequest(HttpContext context)
+   at ASP.ui_page_resources_aspx.ProcessRequest(HttpContext context) in c:\Windows\Microsoft.NET\Framework\v2.0.50727\Temporary ASP.NET Files\simpleservings\50605a42\75e306da\App_Web_eavmy4jb.2.cs:line 0
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+2017-05-01 14:47:17,707 [  1] INFO  AppManager [(null)] SimpleServings started.
+2017-05-01 14:47:29,714 [  7] INFO  AppManager [(null)] (landingPage.aspx) - Redirecting to Login.aspx 
+Request Type: LogInOut 
+SessionId: 
+2017-05-01 14:47:39,981 [  7] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: xecl0v45meichomxjwgg2v55
+2017-05-01 14:48:38,733 [  6] INFO  AppManager [(null)] (landingPage.aspx) - Request from http://localhost:1949/SimpleServings/UI/Page/resources.aspx 
+Request Type: LogInOut 
+SessionId: xecl0v45meichomxjwgg2v55
+2017-05-01 14:48:38,734 [  6] INFO  AppManager [(null)] (landingPage.aspx) - Redirecting to Login.aspx 
+Request Type: LogInOut 
+SessionId: xecl0v45meichomxjwgg2v55
+2017-05-01 14:48:38,773 [  6] INFO  AppManager [(null)] (login.aspx) - Request from http://localhost:1949/SimpleServings/UI/Page/resources.aspx 
+SessionId: ggzk2u3ngy5esa55waiweg55
+2017-05-01 14:48:51,550 [  7] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: y5244hz0lex13cn3gpvnrp45
+2017-05-01 14:48:52,535 [  6] INFO  AppManager [(null)] (landingPage.aspx) - Request from http://localhost:1949/SimpleServings/UI/Page/ 
+Request Type: LogInOut 
+SessionId: y5244hz0lex13cn3gpvnrp45
+2017-05-01 14:48:52,536 [  6] INFO  AppManager [(null)] (landingPage.aspx) - Redirecting to Login.aspx 
+Request Type: LogInOut 
+SessionId: y5244hz0lex13cn3gpvnrp45
+2017-05-01 14:48:52,564 [  5] INFO  AppManager [(null)] (login.aspx) - Request from http://localhost:1949/SimpleServings/UI/Page/ 
+SessionId: x5whgj5513w3ba55dctzl155
+2017-05-01 14:48:54,736 [  7] INFO  AppManager [(null)] (landingPage.aspx) - Clearing Session 
+Request Type:  
+SessionId: wf1jpt55ninqhj45m5vehz45
+2017-05-01 14:48:54,759 [  8] INFO  AppManager [(null)] (landingPage.aspx) - New Session 
+Request Type:  
+SessionId: prwjej450mm03z55f5nsvc55
+2017-05-01 14:48:54,771 [  5] INFO  AppManager [(null)] (login.aspx) - (cvais7773) - Login successful 
+SessionId: xhugo23vmpyiro45qjl01jjb
+2017-05-01 14:48:54,780 [  5] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: prwjej450mm03z55f5nsvc55
+2017-05-01 14:49:22,539 [  5] INFO  AppManager [(null)] (Recipe.aspx) - Request from http://localhost:1949/SimpleServings/UI/Page/resources.aspx 
+SessionId: prwjej450mm03z55f5nsvc55
+2017-05-01 15:03:19,169 [  6] INFO  AppManager [(null)] (Recipe.aspx) - Request from http://localhost:1949/SimpleServings/UI/Page/myzone.aspx?Control=ManageCategoriesandTags 
+SessionId: prwjej450mm03z55f5nsvc55
+2017-05-01 15:04:40,956 [  6] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: prwjej450mm03z55f5nsvc55
+2017-05-01 15:31:51,607 [  6] INFO  AppManager [(null)] (Recipe.aspx) - Request from http://localhost:1949/SimpleServings/UI/Page/Home.aspx 
+SessionId: prwjej450mm03z55f5nsvc55
+2017-05-01 15:37:01,208 [  8] INFO  AppManager [(null)] (Recipe.aspx) - Request from http://localhost:1949/SimpleServings/UI/Page/resources.aspx 
+SessionId: prwjej450mm03z55f5nsvc55
+2017-05-01 16:15:29,332 [  7] INFO  AppManager [(null)] (landingPage.aspx) - Request from http://localhost:1949/SimpleServings/UI/Page/SimpleServings/Recipe/Recipe.aspx 
+Request Type: LogInOut 
+SessionId: prwjej450mm03z55f5nsvc55
+2017-05-01 16:15:29,333 [  7] INFO  AppManager [(null)] (landingPage.aspx) - Redirecting to Login.aspx 
+Request Type: LogInOut 
+SessionId: prwjej450mm03z55f5nsvc55
+2017-05-01 16:15:29,343 [  8] INFO  AppManager [(null)] (login.aspx) - Request from http://localhost:1949/SimpleServings/UI/Page/SimpleServings/Recipe/Recipe.aspx 
+SessionId: gddjn2m1nllh4qetvtlbpx45
+2017-05-01 16:15:32,736 [  6] INFO  AppManager [(null)] (landingPage.aspx) - Clearing Session 
+Request Type:  
+SessionId: hy4ncy45rmqw4wzg5xjx3445
+2017-05-01 16:15:32,758 [  7] INFO  AppManager [(null)] (landingPage.aspx) - New Session 
+Request Type:  
+SessionId: eojww1i1neuvzhe3shxjwi2p
+2017-05-01 16:15:32,777 [  8] INFO  AppManager [(null)] (login.aspx) - (cvais7773) - Login successful 
+SessionId: vncx2355mr5zxb45ajqdmwqi
+2017-05-01 16:15:32,784 [  5] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: eojww1i1neuvzhe3shxjwi2p
+2017-05-01 16:15:33,948 [  5] INFO  AppManager [(null)] (Recipe.aspx) - Request from http://localhost:1949/SimpleServings/UI/Page/Home.aspx 
+SessionId: eojww1i1neuvzhe3shxjwi2p
+2017-05-01 16:25:15,446 [  5] INFO  AppManager [(null)] (Recipe.aspx) - Request from http://localhost:1949/SimpleServings/UI/Page/SimpleServings/Recipe/Recipe.aspx 
+SessionId: eojww1i1neuvzhe3shxjwi2p
+2017-05-01 16:25:15,602 [  8] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: eojww1i1neuvzhe3shxjwi2p
+2017-05-01 16:31:07,872 [  6] INFO  AppManager [(null)] (Recipe.aspx) - Request from http://localhost:1949/SimpleServings/UI/Page/SimpleServings/Recipe/Recipe.aspx 
+SessionId: eojww1i1neuvzhe3shxjwi2p
+2017-05-01 16:34:51,360 [  7] INFO  AppManager [(null)] (Recipe.aspx) - Request from http://localhost:1949/SimpleServings/UI/Page/SimpleServings/Recipe/Recipe.aspx 
+SessionId: eojww1i1neuvzhe3shxjwi2p
+2017-05-01 16:35:08,736 [  5] INFO  AppManager [(null)] (Recipe.aspx) - Request from http://localhost:1949/SimpleServings/UI/Page/SimpleServings/Recipe/Recipe.aspx 
+SessionId: eojww1i1neuvzhe3shxjwi2p
+2017-05-01 16:35:53,528 [  7] INFO  AppManager [(null)] (Recipe.aspx) - Request from http://localhost:1949/SimpleServings/UI/Page/SimpleServings/Recipe/Recipe.aspx 
+SessionId: eojww1i1neuvzhe3shxjwi2p
+2017-05-01 16:37:22,718 [  5] INFO  AppManager [(null)] (Recipe.aspx) - Request from http://localhost:1949/SimpleServings/UI/Page/SimpleServings/Recipe/Recipe.aspx 
+SessionId: eojww1i1neuvzhe3shxjwi2p
+2017-05-01 16:37:38,398 [  7] INFO  AppManager [(null)] (Recipe.aspx) - Request from http://localhost:1949/SimpleServings/UI/Page/SimpleServings/Recipe/Recipe.aspx 
+SessionId: eojww1i1neuvzhe3shxjwi2p
+2017-05-01 16:39:04,264 [  5] INFO  AppManager [(null)] (Recipe.aspx) - Request from http://localhost:1949/SimpleServings/UI/Page/SimpleServings/Recipe/Recipe.aspx 
+SessionId: eojww1i1neuvzhe3shxjwi2p
+2017-05-01 16:40:04,781 [  5] INFO  AppManager [(null)] (Recipe.aspx) - Request from http://localhost:1949/SimpleServings/UI/Page/SimpleServings/Recipe/Recipe.aspx 
+SessionId: eojww1i1neuvzhe3shxjwi2p
+2017-05-01 16:41:23,751 [  7] INFO  AppManager [(null)] (Recipe.aspx) - Request from http://localhost:1949/SimpleServings/UI/Page/SimpleServings/Recipe/Recipe.aspx 
+SessionId: eojww1i1neuvzhe3shxjwi2p
+2017-05-01 16:42:19,354 [  7] INFO  AppManager [(null)] (Recipe.aspx) - Request from http://localhost:1949/SimpleServings/UI/Page/SimpleServings/Recipe/Recipe.aspx 
+SessionId: eojww1i1neuvzhe3shxjwi2p
+2017-05-01 16:49:16,133 [  6] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: gdxnul55roeez245byez5b3z
+2017-05-01 16:49:17,993 [  6] INFO  AppManager [(null)] (landingPage.aspx) - Request from http://localhost:1949/SimpleServings/UI/Page/ 
+Request Type: LogInOut 
+SessionId: d1psob45z3ys1r453eytoqym
+2017-05-01 16:49:17,994 [  6] INFO  AppManager [(null)] (landingPage.aspx) - Redirecting to Login.aspx 
+Request Type: LogInOut 
+SessionId: d1psob45z3ys1r453eytoqym
+2017-05-01 16:49:18,002 [  5] INFO  AppManager [(null)] (login.aspx) - Request from http://localhost:1949/SimpleServings/UI/Page/ 
+SessionId: c4m5bx552erjjfy3fyfcby45
+2017-05-01 16:49:20,320 [  5] INFO  AppManager [(null)] (landingPage.aspx) - Clearing Session 
+Request Type:  
+SessionId: zweewhehpt2ofgmdgsmt2y45
+2017-05-01 16:49:20,338 [  7] INFO  AppManager [(null)] (landingPage.aspx) - New Session 
+Request Type:  
+SessionId: vsi5hrm3vizo2r45sih5ih45
+2017-05-01 16:49:20,363 [  5] INFO  AppManager [(null)] (login.aspx) - (cvais7773) - Login successful 
+SessionId: zrdgv5umzvipqj55oeufz5rz
+2017-05-01 16:49:20,370 [  5] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: vsi5hrm3vizo2r45sih5ih45
+2017-05-01 16:49:22,184 [  8] INFO  AppManager [(null)] (Recipe.aspx) - Request from http://localhost:1949/SimpleServings/UI/Page/Home.aspx 
+SessionId: vsi5hrm3vizo2r45sih5ih45
+2017-05-01 17:30:58,732 [  6] INFO  AppManager [(null)] (Recipe.aspx) - Request from http://localhost:1949/SimpleServings/UI/Page/SimpleServings/Recipe/Recipe.aspx 
+SessionId: vsi5hrm3vizo2r45sih5ih45
+2017-05-01 17:31:29,439 [  6] INFO  AppManager [(null)] (Recipe.aspx) - Request from http://localhost:1949/SimpleServings/UI/Page/SimpleServings/Recipe/Recipe.aspx 
+SessionId: vsi5hrm3vizo2r45sih5ih45
+2017-05-01 17:37:36,152 [  5] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: vsi5hrm3vizo2r45sih5ih45
+2017-05-01 17:37:38,253 [  6] INFO  AppManager [(null)] (Recipe.aspx) - Request from http://localhost:1949/SimpleServings/UI/Page/ 
+SessionId: vsi5hrm3vizo2r45sih5ih45
+2017-05-01 17:52:22,367 [ 11] INFO  AppManager [(null)] SimpleServings started.
+2017-05-01 17:52:24,439 [  6] INFO  AppManager [(null)] (Recipe.aspx) - Request from http://localhost:1949/SimpleServings/UI/Page/ 
+SessionId: vsi5hrm3vizo2r45sih5ih45

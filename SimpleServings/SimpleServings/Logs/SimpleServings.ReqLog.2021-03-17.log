@@ -1,0 +1,64 @@
+2021-03-17 13:51:52,642 [  1] INFO  AppManager [(null)] SimpleServings started.
+2021-03-17 13:52:09,519 [ 19] INFO  AppManager [(null)] (landingPage.aspx) - New Session 
+Request Type:  
+SessionId: p21cecamlvcyfcqced00p3c0
+2021-03-17 13:52:15,433 [ 14] INFO  AppManager [(null)] (RecipeList.aspx) - Redirecting to Login.aspx 
+SessionId: p21cecamlvcyfcqced00p3c0
+2021-03-17 13:52:15,465 [ 12] INFO  AppManager [(null)] (landingPage.aspx) - Request from http://localhost:1949/SimpleServings/UI/Page/Home.aspx 
+Request Type: LogInOut 
+SessionId: p21cecamlvcyfcqced00p3c0
+2021-03-17 13:52:15,466 [ 12] INFO  AppManager [(null)] (landingPage.aspx) - Redirecting to Login.aspx 
+Request Type: LogInOut 
+SessionId: p21cecamlvcyfcqced00p3c0
+2021-03-17 13:52:15,469 [ 18] INFO  AppManager [(null)] (login.aspx) - Request from http://localhost:1949/SimpleServings/UI/Page/Home.aspx 
+SessionId: 5cnut1hswj3c1mgzwvop4rqz
+2021-03-17 13:52:22,151 [ 13] INFO  AppManager [(null)] (landingPage.aspx) - Clearing Session 
+Request Type:  
+SessionId: bowlkujtu12euehbfv2fh3kv
+2021-03-17 13:52:22,155 [  9] INFO  AppManager [(null)] (landingPage.aspx) - New Session 
+Request Type:  
+SessionId: ootlakldbwcnk3kivb31m1bz
+2021-03-17 13:52:22,328 [ 17] INFO  AppManager [(null)] (login.aspx) - (Mli) - Login successful 
+SessionId: ajzmodelyx52puiqqbxblbkn
+2021-03-17 13:52:22,331 [ 20] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: ootlakldbwcnk3kivb31m1bz
+2021-03-17 14:10:19,063 [  1] INFO  AppManager [(null)] SimpleServings started.
+2021-03-17 14:10:37,135 [ 15] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: x1sgf2nnur4i0ntf2hd2pqzo
+2021-03-17 14:10:57,036 [ 21] ERROR AppManager [(null)] SimpleServings application error: Exception of type 'System.Web.HttpUnhandledException' was thrown.
+location: http://localhost:1949/SimpleServings/ASPNetSpellInclude/core/Default.aspx?note=&command=CTXSPELL&args=ra&lan=English (International)&sender=0&settingsfile=default-settings
+
+System.Web.HttpUnhandledException (0x80004005): Exception of type 'System.Web.HttpUnhandledException' was thrown. ---> System.Web.HttpException (0x80070057): The remote host closed the connection. The error code is 0x80070057.
+   at System.Web.Hosting.IIS7WorkerRequest.RaiseCommunicationError(Int32 result, Boolean throwOnDisconnect)
+   at System.Web.Hosting.IIS7WorkerRequest.ExplicitFlush()
+   at System.Web.HttpResponse.Flush(Boolean finalFlush, Boolean async)
+   at System.Web.HttpResponse.Flush()
+   at ASP.aspnetspellinclude_core_default_aspx.Page_Init(Object sndr, EventArgs e) in e:\DFTA coding\SimpleServings\Assu_version\Ansu_3_16\SimpleServings\SimpleServings\ASPNetSpellInclude\core\Default.aspx:line 5
+   at System.Web.Util.CalliEventHandlerDelegateProxy.Callback(Object sender, EventArgs e)
+   at System.Web.UI.Control.OnInit(EventArgs e)
+   at System.Web.UI.Page.OnInit(EventArgs e)
+   at System.Web.UI.Control.InitRecursive(Control namingContainer)
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   at System.Web.UI.Page.HandleError(Exception e)
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   at System.Web.UI.Page.ProcessRequest(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   at System.Web.UI.Page.ProcessRequest()
+   at System.Web.UI.Page.ProcessRequestWithNoAssert(HttpContext context)
+   at System.Web.UI.Page.ProcessRequest(HttpContext context)
+   at ASP.aspnetspellinclude_core_default_aspx.ProcessRequest(HttpContext context) in c:\Users\mali\AppData\Local\Temp\Temporary ASP.NET Files\simpleservings\3490db32\ccadd186\App_Web_4pejhjle.0.cs:line 0
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStepImpl(IExecutionStep step)
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+2021-03-17 14:11:50,872 [ 10] INFO  AppManager [(null)] (Recipe.aspx) - Request from http://localhost:1949/SimpleServings/UI/Page/SimpleServings/Menu/MenuList.aspx?MenuType=MyMenus 
+SessionId: x1sgf2nnur4i0ntf2hd2pqzo
+2021-03-17 14:18:27,768 [ 44] INFO  AppManager [(null)] SimpleServings started.
+2021-03-17 14:19:22,824 [ 50] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: gtkyxtgnttnxhstenxnpfk5p
+2021-03-17 14:41:34,207 [  1] INFO  AppManager [(null)] SimpleServings started.
+2021-03-17 14:42:01,044 [  6] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: 3zwtfmsloua2qryguvtqveta
+2021-03-17 14:43:10,429 [ 20] INFO  AppManager [(null)] (Recipe.aspx) - Request from http://localhost:1949/SimpleServings/UI/Page/SimpleServings/Menu/MenuList.aspx?MenuType=MyDrafts 
+SessionId: 3zwtfmsloua2qryguvtqveta
+2021-03-17 15:50:23,094 [  1] INFO  AppManager [(null)] SimpleServings started.
+2021-03-17 15:50:48,253 [ 12] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: cjvgma1twfx50ozg0aa3orbb

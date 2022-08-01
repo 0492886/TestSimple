@@ -1,0 +1,481 @@
+2021-02-26 09:04:50,048 [  1] INFO  AppManager [(null)] SimpleServings started.
+2021-02-26 09:05:37,280 [ 20] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: lsbsjzid54dco203bhrgh5dd
+2021-02-26 09:08:53,153 [ 18] INFO  AppManager [(null)] (Recipe.aspx) - Request from http://localhost:1948/SimpleServings/UI/Page/Home.aspx 
+SessionId: lsbsjzid54dco203bhrgh5dd
+2021-02-26 09:24:36,638 [  5] INFO  AppManager [(null)] (Recipe.aspx) - Request from http://localhost:1948/SimpleServings/UI/Page/SimpleServings/Recipe/AddRecipe.aspx 
+SessionId: lsbsjzid54dco203bhrgh5dd
+2021-02-26 09:25:43,858 [ 37] INFO  AppManager [(null)] (Recipe.aspx) - Request from http://localhost:1948/SimpleServings/UI/Page/SimpleServings/Recipe/Recipe.aspx 
+SessionId: lsbsjzid54dco203bhrgh5dd
+2021-02-26 10:18:42,571 [  1] INFO  AppManager [(null)] SimpleServings started.
+2021-02-26 10:19:10,415 [ 15] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: uyterkmc4wc5nlrf2xty3p2r
+2021-02-26 10:19:55,100 [ 17] INFO  AppManager [(null)] (landingPage.aspx) - Clearing Session 
+Request Type:  
+SessionId: j1ustsdhx2dqtu3r3q1b4tqw
+2021-02-26 10:19:55,117 [ 12] INFO  AppManager [(null)] (landingPage.aspx) - New Session 
+Request Type:  
+SessionId: nomob23gkhwv3mkvpicgwozq
+2021-02-26 10:19:55,321 [ 10] INFO  AppManager [(null)] (login.aspx) - (Mli) - Login successful 
+SessionId: sbbo34lccv12v55qp5vdrhaj
+2021-02-26 10:19:55,356 [ 22] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: nomob23gkhwv3mkvpicgwozq
+2021-02-26 10:27:32,932 [ 10] INFO  AppManager [(null)] (landingPage.aspx) - Clearing Session 
+Request Type:  
+SessionId: bfcvsav0vcvg2b15qqcvnc2q
+2021-02-26 10:27:32,948 [ 10] INFO  AppManager [(null)] (landingPage.aspx) - New Session 
+Request Type:  
+SessionId: 2zitj0y0ireyopvv0kesonsz
+2021-02-26 10:27:33,155 [ 15] INFO  AppManager [(null)] (login.aspx) - (Mli) - Login successful 
+SessionId: ng3ujxana0tgek2drc2d3g01
+2021-02-26 10:27:33,173 [ 18] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: 2zitj0y0ireyopvv0kesonsz
+2021-02-26 10:28:02,412 [ 16] INFO  AppManager [(null)] (landingPage.aspx) - Clearing Session 
+Request Type:  
+SessionId: 2vgvlcx0a3dmvjhst3sh4opx
+2021-02-26 10:28:02,429 [ 28] INFO  AppManager [(null)] (landingPage.aspx) - New Session 
+Request Type:  
+SessionId: ooc0xhgjmp1anmajg5apfypw
+2021-02-26 10:28:02,620 [ 10] INFO  AppManager [(null)] (login.aspx) - (Mli) - Login successful 
+SessionId: uqb5wswx4y23j3qxszfkn1d0
+2021-02-26 10:28:02,708 [ 17] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: ooc0xhgjmp1anmajg5apfypw
+2021-02-26 10:28:20,535 [ 15] ERROR AppManager [(null)] SimpleServings application error: Exception of type 'System.Web.HttpUnhandledException' was thrown.
+location: http://localhost:1948/SimpleServings/UI/Page/SimpleServings/Recipe/EditRecipe.aspx?RecipeID=3594
+
+System.Web.HttpUnhandledException (0x80004005): Exception of type 'System.Web.HttpUnhandledException' was thrown. ---> System.NullReferenceException: Object reference not set to an instance of an object.
+   at SimpleServings.UI.UDC.SimpleServings.Recipe.EditRecipe.cbCategories_SelectedIndexChanged(Object sender, EventArgs e) in E:\DFTA coding\SimpleServings\SimpleServings_networkVersion\SimpleServing_Latest\NewSimple\SimpleServings\SimpleServings\UI\UDC\SimpleServings\Recipe\EditRecipe.ascx.cs:line 624
+   at System.Web.UI.WebControls.ListControl.OnSelectedIndexChanged(EventArgs e)
+   at System.Web.UI.WebControls.CheckBoxList.RaisePostDataChangedEvent()
+   at System.Web.UI.WebControls.CheckBoxList.System.Web.UI.IPostBackDataHandler.RaisePostDataChangedEvent()
+   at System.Web.UI.Page.RaiseChangedEvents()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   at System.Web.UI.Page.HandleError(Exception e)
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   at System.Web.UI.Page.ProcessRequest(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   at System.Web.UI.Page.ProcessRequest()
+   at System.Web.UI.Page.ProcessRequestWithNoAssert(HttpContext context)
+   at System.Web.UI.Page.ProcessRequest(HttpContext context)
+   at ASP.ui_page_simpleservings_recipe_editrecipe_aspx.ProcessRequest(HttpContext context) in c:\Users\mali\AppData\Local\Temp\Temporary ASP.NET Files\simpleservings\4a1708cb\89115ec9\App_Web_nicpsvrs.0.cs:line 0
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStepImpl(IExecutionStep step)
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+2021-02-26 10:28:41,220 [ 27] ERROR AppManager [(null)] SimpleServings application error: Exception of type 'System.Web.HttpUnhandledException' was thrown.
+location: http://localhost:1948/SimpleServings/UI/Page/SimpleServings/Recipe/EditRecipe.aspx?RecipeID=3594
+
+System.Web.HttpUnhandledException (0x80004005): Exception of type 'System.Web.HttpUnhandledException' was thrown. ---> System.NullReferenceException: Object reference not set to an instance of an object.
+   at SimpleServings.UI.UDC.SimpleServings.Recipe.EditRecipe.cbCategories_SelectedIndexChanged(Object sender, EventArgs e) in E:\DFTA coding\SimpleServings\SimpleServings_networkVersion\SimpleServing_Latest\NewSimple\SimpleServings\SimpleServings\UI\UDC\SimpleServings\Recipe\EditRecipe.ascx.cs:line 624
+   at System.Web.UI.WebControls.ListControl.OnSelectedIndexChanged(EventArgs e)
+   at System.Web.UI.WebControls.CheckBoxList.RaisePostDataChangedEvent()
+   at System.Web.UI.WebControls.CheckBoxList.System.Web.UI.IPostBackDataHandler.RaisePostDataChangedEvent()
+   at System.Web.UI.Page.RaiseChangedEvents()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   at System.Web.UI.Page.HandleError(Exception e)
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   at System.Web.UI.Page.ProcessRequest(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   at System.Web.UI.Page.ProcessRequest()
+   at System.Web.UI.Page.ProcessRequestWithNoAssert(HttpContext context)
+   at System.Web.UI.Page.ProcessRequest(HttpContext context)
+   at ASP.ui_page_simpleservings_recipe_editrecipe_aspx.ProcessRequest(HttpContext context) in c:\Users\mali\AppData\Local\Temp\Temporary ASP.NET Files\simpleservings\4a1708cb\89115ec9\App_Web_nicpsvrs.0.cs:line 0
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStepImpl(IExecutionStep step)
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+2021-02-26 10:29:44,902 [ 18] INFO  AppManager [(null)] (landingPage.aspx) - Clearing Session 
+Request Type:  
+SessionId: tsddkvts00lhugkrff3ssi5k
+2021-02-26 10:29:44,918 [ 25] INFO  AppManager [(null)] (landingPage.aspx) - New Session 
+Request Type:  
+SessionId: 5x5lfnggzf4ee12f0bieq2kc
+2021-02-26 10:29:45,078 [ 10] INFO  AppManager [(null)] (login.aspx) - (Mli) - Login successful 
+SessionId: nxwuuqezji5tzxddzup0zfny
+2021-02-26 10:29:45,082 [ 29] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: 5x5lfnggzf4ee12f0bieq2kc
+2021-02-26 10:30:05,655 [ 25] ERROR AppManager [(null)] SimpleServings application error: Exception of type 'System.Web.HttpUnhandledException' was thrown.
+location: http://localhost:1948/SimpleServings/UI/Page/SimpleServings/Recipe/EditRecipe.aspx?RecipeID=852
+
+System.Web.HttpUnhandledException (0x80004005): Exception of type 'System.Web.HttpUnhandledException' was thrown. ---> System.NullReferenceException: Object reference not set to an instance of an object.
+   at SimpleServings.UI.UDC.SimpleServings.Recipe.EditRecipe.cbCategories_SelectedIndexChanged(Object sender, EventArgs e) in E:\DFTA coding\SimpleServings\SimpleServings_networkVersion\SimpleServing_Latest\NewSimple\SimpleServings\SimpleServings\UI\UDC\SimpleServings\Recipe\EditRecipe.ascx.cs:line 624
+   at System.Web.UI.WebControls.ListControl.OnSelectedIndexChanged(EventArgs e)
+   at System.Web.UI.WebControls.CheckBoxList.RaisePostDataChangedEvent()
+   at System.Web.UI.WebControls.CheckBoxList.System.Web.UI.IPostBackDataHandler.RaisePostDataChangedEvent()
+   at System.Web.UI.Page.RaiseChangedEvents()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   at System.Web.UI.Page.HandleError(Exception e)
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   at System.Web.UI.Page.ProcessRequest(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   at System.Web.UI.Page.ProcessRequest()
+   at System.Web.UI.Page.ProcessRequestWithNoAssert(HttpContext context)
+   at System.Web.UI.Page.ProcessRequest(HttpContext context)
+   at ASP.ui_page_simpleservings_recipe_editrecipe_aspx.ProcessRequest(HttpContext context) in c:\Users\mali\AppData\Local\Temp\Temporary ASP.NET Files\simpleservings\4a1708cb\89115ec9\App_Web_nicpsvrs.0.cs:line 0
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStepImpl(IExecutionStep step)
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+2021-02-26 10:30:52,969 [ 29] ERROR AppManager [(null)] SimpleServings application error: Exception of type 'System.Web.HttpUnhandledException' was thrown.
+location: http://localhost:1948/SimpleServings/UI/Page/SimpleServings/Recipe/EditRecipe.aspx?RecipeID=1515
+
+System.Web.HttpUnhandledException (0x80004005): Exception of type 'System.Web.HttpUnhandledException' was thrown. ---> System.NullReferenceException: Object reference not set to an instance of an object.
+   at SimpleServings.UI.UDC.SimpleServings.Recipe.EditRecipe.cbCategories_SelectedIndexChanged(Object sender, EventArgs e) in E:\DFTA coding\SimpleServings\SimpleServings_networkVersion\SimpleServing_Latest\NewSimple\SimpleServings\SimpleServings\UI\UDC\SimpleServings\Recipe\EditRecipe.ascx.cs:line 624
+   at System.Web.UI.WebControls.ListControl.OnSelectedIndexChanged(EventArgs e)
+   at System.Web.UI.WebControls.CheckBoxList.RaisePostDataChangedEvent()
+   at System.Web.UI.WebControls.CheckBoxList.System.Web.UI.IPostBackDataHandler.RaisePostDataChangedEvent()
+   at System.Web.UI.Page.RaiseChangedEvents()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   at System.Web.UI.Page.HandleError(Exception e)
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   at System.Web.UI.Page.ProcessRequest(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   at System.Web.UI.Page.ProcessRequest()
+   at System.Web.UI.Page.ProcessRequestWithNoAssert(HttpContext context)
+   at System.Web.UI.Page.ProcessRequest(HttpContext context)
+   at ASP.ui_page_simpleservings_recipe_editrecipe_aspx.ProcessRequest(HttpContext context) in c:\Users\mali\AppData\Local\Temp\Temporary ASP.NET Files\simpleservings\4a1708cb\89115ec9\App_Web_nicpsvrs.0.cs:line 0
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStepImpl(IExecutionStep step)
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+2021-02-26 10:43:46,426 [  4] INFO  AppManager [(null)] (landingPage.aspx) - Clearing Session 
+Request Type:  
+SessionId: d2su0tftdcts4mbfkrd0is41
+2021-02-26 10:43:46,440 [ 18] INFO  AppManager [(null)] (landingPage.aspx) - New Session 
+Request Type:  
+SessionId: kb3ftbc2ju414khhadpeqryf
+2021-02-26 10:43:46,605 [ 27] INFO  AppManager [(null)] (login.aspx) - (Mli) - Login successful 
+SessionId: jvtsw13mqrullkrzpyfwhmqp
+2021-02-26 10:43:46,624 [ 15] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: kb3ftbc2ju414khhadpeqryf
+2021-02-26 10:44:12,321 [ 33] ERROR AppManager [(null)] SimpleServings application error: Exception of type 'System.Web.HttpUnhandledException' was thrown.
+location: http://localhost:1948/SimpleServings/UI/Page/SimpleServings/Recipe/EditRecipe.aspx?RecipeID=852
+
+System.Web.HttpUnhandledException (0x80004005): Exception of type 'System.Web.HttpUnhandledException' was thrown. ---> System.NullReferenceException: Object reference not set to an instance of an object.
+   at SimpleServings.UI.UDC.SimpleServings.Recipe.EditRecipe.cbCategories_SelectedIndexChanged(Object sender, EventArgs e) in E:\DFTA coding\SimpleServings\SimpleServings_networkVersion\SimpleServing_Latest\NewSimple\SimpleServings\SimpleServings\UI\UDC\SimpleServings\Recipe\EditRecipe.ascx.cs:line 624
+   at System.Web.UI.WebControls.ListControl.OnSelectedIndexChanged(EventArgs e)
+   at System.Web.UI.WebControls.CheckBoxList.RaisePostDataChangedEvent()
+   at System.Web.UI.WebControls.CheckBoxList.System.Web.UI.IPostBackDataHandler.RaisePostDataChangedEvent()
+   at System.Web.UI.Page.RaiseChangedEvents()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   at System.Web.UI.Page.HandleError(Exception e)
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   at System.Web.UI.Page.ProcessRequest(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   at System.Web.UI.Page.ProcessRequest()
+   at System.Web.UI.Page.ProcessRequestWithNoAssert(HttpContext context)
+   at System.Web.UI.Page.ProcessRequest(HttpContext context)
+   at ASP.ui_page_simpleservings_recipe_editrecipe_aspx.ProcessRequest(HttpContext context) in c:\Users\mali\AppData\Local\Temp\Temporary ASP.NET Files\simpleservings\4a1708cb\89115ec9\App_Web_nicpsvrs.0.cs:line 0
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStepImpl(IExecutionStep step)
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+2021-02-26 10:54:18,470 [ 15] INFO  AppManager [(null)] (landingPage.aspx) - Clearing Session 
+Request Type:  
+SessionId: mincscu4gall5j32des1w5nl
+2021-02-26 10:54:18,484 [ 26] INFO  AppManager [(null)] (landingPage.aspx) - New Session 
+Request Type:  
+SessionId: 5nlfxavwmrhqcl4ctyw0xbsi
+2021-02-26 10:54:18,802 [ 25] INFO  AppManager [(null)] (login.aspx) - (Mli) - Login successful 
+SessionId: gc4qrjweylodui5vdhpuhepa
+2021-02-26 10:54:18,821 [ 26] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: 5nlfxavwmrhqcl4ctyw0xbsi
+2021-02-26 10:55:15,482 [ 15] INFO  AppManager [(null)] (landingPage.aspx) - Clearing Session 
+Request Type:  
+SessionId: 3ylqs2jo5wqhpspe1aievgci
+2021-02-26 10:55:15,594 [ 16] INFO  AppManager [(null)] (landingPage.aspx) - New Session 
+Request Type:  
+SessionId: fm45id443sjz1so4ao3ruqya
+2021-02-26 10:55:15,754 [ 26] INFO  AppManager [(null)] (login.aspx) - (Mli) - Login successful 
+SessionId: lxyewfjq5f3kcyhaxmnc1v5c
+2021-02-26 10:55:15,761 [ 53] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: fm45id443sjz1so4ao3ruqya
+2021-02-26 10:58:21,194 [ 15] ERROR AppManager [(null)] SimpleServings application error: Exception of type 'System.Web.HttpUnhandledException' was thrown.
+location: http://localhost:1948/SimpleServings/UI/Page/SimpleServings/Recipe/EditRecipe.aspx?RecipeID=852
+
+System.Web.HttpUnhandledException (0x80004005): Exception of type 'System.Web.HttpUnhandledException' was thrown. ---> System.NullReferenceException: Object reference not set to an instance of an object.
+   at SimpleServings.UI.UDC.SimpleServings.Recipe.EditRecipe.cbCategories_SelectedIndexChanged(Object sender, EventArgs e) in E:\DFTA coding\SimpleServings\SimpleServings_networkVersion\SimpleServing_Latest\NewSimple\SimpleServings\SimpleServings\UI\UDC\SimpleServings\Recipe\EditRecipe.ascx.cs:line 624
+   at System.Web.UI.WebControls.ListControl.OnSelectedIndexChanged(EventArgs e)
+   at System.Web.UI.WebControls.CheckBoxList.RaisePostDataChangedEvent()
+   at System.Web.UI.WebControls.CheckBoxList.System.Web.UI.IPostBackDataHandler.RaisePostDataChangedEvent()
+   at System.Web.UI.Page.RaiseChangedEvents()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   at System.Web.UI.Page.HandleError(Exception e)
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   at System.Web.UI.Page.ProcessRequest(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   at System.Web.UI.Page.ProcessRequest()
+   at System.Web.UI.Page.ProcessRequestWithNoAssert(HttpContext context)
+   at System.Web.UI.Page.ProcessRequest(HttpContext context)
+   at ASP.ui_page_simpleservings_recipe_editrecipe_aspx.ProcessRequest(HttpContext context) in c:\Users\mali\AppData\Local\Temp\Temporary ASP.NET Files\simpleservings\4a1708cb\89115ec9\App_Web_nicpsvrs.0.cs:line 0
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStepImpl(IExecutionStep step)
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+2021-02-26 11:06:44,751 [ 15] INFO  AppManager [(null)] (landingPage.aspx) - Clearing Session 
+Request Type:  
+SessionId: 31qtgk2zqw2un55bn1t0zduw
+2021-02-26 11:06:44,770 [ 15] INFO  AppManager [(null)] (landingPage.aspx) - New Session 
+Request Type:  
+SessionId: kvaopgeobw33dn4ilyzxjg14
+2021-02-26 11:06:44,965 [ 67] INFO  AppManager [(null)] (login.aspx) - (Mli) - Login successful 
+SessionId: effmpuaekhl2dyfptjvsm3eu
+2021-02-26 11:06:44,972 [ 82] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: kvaopgeobw33dn4ilyzxjg14
+2021-02-26 11:23:13,530 [ 15] ERROR AppManager [(null)] SimpleServings application error: Exception of type 'System.Web.HttpUnhandledException' was thrown.
+location: http://localhost:1948/SimpleServings/UI/Page/SimpleServings/Recipe/EditRecipe.aspx?RecipeID=852
+
+System.Web.HttpUnhandledException (0x80004005): Exception of type 'System.Web.HttpUnhandledException' was thrown. ---> System.NullReferenceException: Object reference not set to an instance of an object.
+   at SimpleServings.UI.UDC.SimpleServings.Recipe.EditRecipe.cbCategories_SelectedIndexChanged(Object sender, EventArgs e) in E:\DFTA coding\SimpleServings\SimpleServings_networkVersion\SimpleServing_Latest\NewSimple\SimpleServings\SimpleServings\UI\UDC\SimpleServings\Recipe\EditRecipe.ascx.cs:line 624
+   at System.Web.UI.WebControls.ListControl.OnSelectedIndexChanged(EventArgs e)
+   at System.Web.UI.WebControls.CheckBoxList.RaisePostDataChangedEvent()
+   at System.Web.UI.WebControls.CheckBoxList.System.Web.UI.IPostBackDataHandler.RaisePostDataChangedEvent()
+   at System.Web.UI.Page.RaiseChangedEvents()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   at System.Web.UI.Page.HandleError(Exception e)
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   at System.Web.UI.Page.ProcessRequest(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   at System.Web.UI.Page.ProcessRequest()
+   at System.Web.UI.Page.ProcessRequestWithNoAssert(HttpContext context)
+   at System.Web.UI.Page.ProcessRequest(HttpContext context)
+   at ASP.ui_page_simpleservings_recipe_editrecipe_aspx.ProcessRequest(HttpContext context) in c:\Users\mali\AppData\Local\Temp\Temporary ASP.NET Files\simpleservings\4a1708cb\89115ec9\App_Web_nicpsvrs.0.cs:line 0
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStepImpl(IExecutionStep step)
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+2021-02-26 11:30:51,017 [ 95] INFO  AppManager [(null)] (landingPage.aspx) - Clearing Session 
+Request Type:  
+SessionId: ebx4xpq410ps5s0lg23ppg3j
+2021-02-26 11:30:51,033 [105] INFO  AppManager [(null)] (landingPage.aspx) - New Session 
+Request Type:  
+SessionId: jiy44jdywix3a4kwetjxqmnm
+2021-02-26 11:30:51,446 [ 59] INFO  AppManager [(null)] (login.aspx) - (Mli) - Login successful 
+SessionId: 12trxlcw2ouxnsrz33ivhla5
+2021-02-26 11:30:51,453 [105] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: jiy44jdywix3a4kwetjxqmnm
+2021-02-26 12:02:46,846 [ 57] INFO  AppManager [(null)] (landingPage.aspx) - Clearing Session 
+Request Type:  
+SessionId: fbo4oc1j252bp5cd2fykhlwl
+2021-02-26 12:02:46,870 [ 89] INFO  AppManager [(null)] (landingPage.aspx) - New Session 
+Request Type:  
+SessionId: cydxh5jds2z0hiqoempj4egp
+2021-02-26 12:02:47,237 [ 13] INFO  AppManager [(null)] (login.aspx) - (Mli) - Login successful 
+SessionId: fuo2uwxtgiq0ed1byn2z0zgh
+2021-02-26 12:02:47,255 [ 90] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: cydxh5jds2z0hiqoempj4egp
+2021-02-26 12:03:15,831 [106] ERROR AppManager [(null)] SimpleServings application error: Exception of type 'System.Web.HttpUnhandledException' was thrown.
+location: http://localhost:1948/SimpleServings/UI/Page/SimpleServings/Recipe/EditRecipe.aspx?RecipeID=852
+
+System.Web.HttpUnhandledException (0x80004005): Exception of type 'System.Web.HttpUnhandledException' was thrown. ---> System.NullReferenceException: Object reference not set to an instance of an object.
+   at SimpleServings.UI.UDC.SimpleServings.Recipe.EditRecipe.cbCategories_SelectedIndexChanged(Object sender, EventArgs e) in E:\DFTA coding\SimpleServings\SimpleServings_networkVersion\SimpleServing_Latest\NewSimple\SimpleServings\SimpleServings\UI\UDC\SimpleServings\Recipe\EditRecipe.ascx.cs:line 624
+   at System.Web.UI.WebControls.ListControl.OnSelectedIndexChanged(EventArgs e)
+   at System.Web.UI.WebControls.CheckBoxList.RaisePostDataChangedEvent()
+   at System.Web.UI.WebControls.CheckBoxList.System.Web.UI.IPostBackDataHandler.RaisePostDataChangedEvent()
+   at System.Web.UI.Page.RaiseChangedEvents()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   at System.Web.UI.Page.HandleError(Exception e)
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   at System.Web.UI.Page.ProcessRequest(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   at System.Web.UI.Page.ProcessRequest()
+   at System.Web.UI.Page.ProcessRequestWithNoAssert(HttpContext context)
+   at System.Web.UI.Page.ProcessRequest(HttpContext context)
+   at ASP.ui_page_simpleservings_recipe_editrecipe_aspx.ProcessRequest(HttpContext context) in c:\Users\mali\AppData\Local\Temp\Temporary ASP.NET Files\simpleservings\4a1708cb\89115ec9\App_Web_nicpsvrs.0.cs:line 0
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStepImpl(IExecutionStep step)
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+2021-02-26 12:06:56,403 [106] INFO  AppManager [(null)] (landingPage.aspx) - Clearing Session 
+Request Type:  
+SessionId: sgtzdl2q1yt1rso3ompqteul
+2021-02-26 12:06:56,417 [ 17] INFO  AppManager [(null)] (landingPage.aspx) - New Session 
+Request Type:  
+SessionId: z0pwzoootcgby1kqccglmr3v
+2021-02-26 12:06:56,583 [ 75] INFO  AppManager [(null)] (login.aspx) - (Mli) - Login successful 
+SessionId: y24sr3ihuiizetppvs0akw50
+2021-02-26 12:06:56,589 [ 72] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: z0pwzoootcgby1kqccglmr3v
+2021-02-26 12:13:23,848 [106] ERROR AppManager [(null)] SimpleServings application error: Exception of type 'System.Web.HttpUnhandledException' was thrown.
+location: http://localhost:1948/SimpleServings/UI/Page/SimpleServings/Recipe/EditRecipe.aspx?RecipeID=852
+
+System.Web.HttpUnhandledException (0x80004005): Exception of type 'System.Web.HttpUnhandledException' was thrown. ---> System.NullReferenceException: Object reference not set to an instance of an object.
+   at SimpleServings.UI.UDC.SimpleServings.Recipe.EditRecipe.cbCategories_SelectedIndexChanged(Object sender, EventArgs e) in E:\DFTA coding\SimpleServings\SimpleServings_networkVersion\SimpleServing_Latest\NewSimple\SimpleServings\SimpleServings\UI\UDC\SimpleServings\Recipe\EditRecipe.ascx.cs:line 624
+   at System.Web.UI.WebControls.ListControl.OnSelectedIndexChanged(EventArgs e)
+   at System.Web.UI.WebControls.CheckBoxList.RaisePostDataChangedEvent()
+   at System.Web.UI.WebControls.CheckBoxList.System.Web.UI.IPostBackDataHandler.RaisePostDataChangedEvent()
+   at System.Web.UI.Page.RaiseChangedEvents()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   at System.Web.UI.Page.HandleError(Exception e)
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   at System.Web.UI.Page.ProcessRequest(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   at System.Web.UI.Page.ProcessRequest()
+   at System.Web.UI.Page.ProcessRequestWithNoAssert(HttpContext context)
+   at System.Web.UI.Page.ProcessRequest(HttpContext context)
+   at ASP.ui_page_simpleservings_recipe_editrecipe_aspx.ProcessRequest(HttpContext context) in c:\Users\mali\AppData\Local\Temp\Temporary ASP.NET Files\simpleservings\4a1708cb\89115ec9\App_Web_nicpsvrs.0.cs:line 0
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStepImpl(IExecutionStep step)
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+2021-02-26 12:37:55,114 [ 93] INFO  AppManager [(null)] (landingPage.aspx) - Clearing Session 
+Request Type:  
+SessionId: vrf4cd4upt4zlzrjrfzqrqdc
+2021-02-26 12:37:55,364 [ 21] INFO  AppManager [(null)] (landingPage.aspx) - New Session 
+Request Type:  
+SessionId: xnfvbmonveisb0k5t210ok4p
+2021-02-26 12:37:55,778 [ 68] INFO  AppManager [(null)] (login.aspx) - (Mli) - Login successful 
+SessionId: xnfvbmonveisb0k5t210ok4p
+2021-02-26 12:37:55,813 [ 93] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: xnfvbmonveisb0k5t210ok4p
+2021-02-26 12:38:30,970 [ 58] ERROR AppManager [(null)] SimpleServings application error: Exception of type 'System.Web.HttpUnhandledException' was thrown.
+location: http://localhost:1948/SimpleServings/UI/Page/SimpleServings/Recipe/EditRecipe.aspx?RecipeID=852
+
+System.Web.HttpUnhandledException (0x80004005): Exception of type 'System.Web.HttpUnhandledException' was thrown. ---> System.NullReferenceException: Object reference not set to an instance of an object.
+   at SimpleServings.UI.UDC.SimpleServings.Recipe.EditRecipe.cbCategories_SelectedIndexChanged(Object sender, EventArgs e) in E:\DFTA coding\SimpleServings\SimpleServings_networkVersion\SimpleServing_Latest\NewSimple\SimpleServings\SimpleServings\UI\UDC\SimpleServings\Recipe\EditRecipe.ascx.cs:line 624
+   at System.Web.UI.WebControls.ListControl.OnSelectedIndexChanged(EventArgs e)
+   at System.Web.UI.WebControls.CheckBoxList.RaisePostDataChangedEvent()
+   at System.Web.UI.WebControls.CheckBoxList.System.Web.UI.IPostBackDataHandler.RaisePostDataChangedEvent()
+   at System.Web.UI.Page.RaiseChangedEvents()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   at System.Web.UI.Page.HandleError(Exception e)
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   at System.Web.UI.Page.ProcessRequest(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   at System.Web.UI.Page.ProcessRequest()
+   at System.Web.UI.Page.ProcessRequestWithNoAssert(HttpContext context)
+   at System.Web.UI.Page.ProcessRequest(HttpContext context)
+   at ASP.ui_page_simpleservings_recipe_editrecipe_aspx.ProcessRequest(HttpContext context) in c:\Users\mali\AppData\Local\Temp\Temporary ASP.NET Files\simpleservings\4a1708cb\89115ec9\App_Web_nicpsvrs.0.cs:line 0
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStepImpl(IExecutionStep step)
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+2021-02-26 12:39:40,803 [108] INFO  AppManager [(null)] (landingPage.aspx) - Clearing Session 
+Request Type:  
+SessionId: hrjlcclmt4plbfseskbcrqwk
+2021-02-26 12:39:40,845 [118] INFO  AppManager [(null)] (landingPage.aspx) - New Session 
+Request Type:  
+SessionId: awubot0zzqtlzqfuskjparqg
+2021-02-26 12:39:41,130 [131] INFO  AppManager [(null)] (login.aspx) - (Mli) - Login successful 
+SessionId: 4luejyhth3wtrzqt45eoxm4u
+2021-02-26 12:39:41,172 [130] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: awubot0zzqtlzqfuskjparqg
+2021-02-26 12:47:37,985 [118] ERROR AppManager [(null)] SimpleServings application error: Exception of type 'System.Web.HttpUnhandledException' was thrown.
+location: http://localhost:1948/SimpleServings/UI/Page/SimpleServings/Recipe/EditRecipe.aspx?RecipeID=852
+
+System.Web.HttpUnhandledException (0x80004005): Exception of type 'System.Web.HttpUnhandledException' was thrown. ---> System.NullReferenceException: Object reference not set to an instance of an object.
+   at SimpleServings.UI.UDC.SimpleServings.Recipe.EditRecipe.cbCategories_SelectedIndexChanged(Object sender, EventArgs e) in E:\DFTA coding\SimpleServings\SimpleServings_networkVersion\SimpleServing_Latest\NewSimple\SimpleServings\SimpleServings\UI\UDC\SimpleServings\Recipe\EditRecipe.ascx.cs:line 624
+   at System.Web.UI.WebControls.ListControl.OnSelectedIndexChanged(EventArgs e)
+   at System.Web.UI.WebControls.CheckBoxList.RaisePostDataChangedEvent()
+   at System.Web.UI.WebControls.CheckBoxList.System.Web.UI.IPostBackDataHandler.RaisePostDataChangedEvent()
+   at System.Web.UI.Page.RaiseChangedEvents()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   at System.Web.UI.Page.HandleError(Exception e)
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   at System.Web.UI.Page.ProcessRequest(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   at System.Web.UI.Page.ProcessRequest()
+   at System.Web.UI.Page.ProcessRequestWithNoAssert(HttpContext context)
+   at System.Web.UI.Page.ProcessRequest(HttpContext context)
+   at ASP.ui_page_simpleservings_recipe_editrecipe_aspx.ProcessRequest(HttpContext context) in c:\Users\mali\AppData\Local\Temp\Temporary ASP.NET Files\simpleservings\4a1708cb\89115ec9\App_Web_nicpsvrs.0.cs:line 0
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStepImpl(IExecutionStep step)
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+2021-02-26 12:59:44,746 [ 56] INFO  AppManager [(null)] (landingPage.aspx) - Clearing Session 
+Request Type:  
+SessionId: 2nhof002hfkwp5kspyibtkls
+2021-02-26 12:59:44,762 [ 56] INFO  AppManager [(null)] (landingPage.aspx) - New Session 
+Request Type:  
+SessionId: kxs1qgv2k3ixyxvxj0bnrnur
+2021-02-26 12:59:45,158 [ 70] INFO  AppManager [(null)] (login.aspx) - (Mli) - Login successful 
+SessionId: wpjbxp1x1ditiiowfk2sjc5g
+2021-02-26 12:59:45,166 [ 55] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: kxs1qgv2k3ixyxvxj0bnrnur
+2021-02-26 13:02:11,820 [ 56] INFO  AppManager [(null)] (landingPage.aspx) - Clearing Session 
+Request Type:  
+SessionId: y4rn0ellyutndjm5qan11xxv
+2021-02-26 13:02:11,842 [ 56] INFO  AppManager [(null)] (landingPage.aspx) - New Session 
+Request Type:  
+SessionId: u33fdwuc1s1c4epfhelartik
+2021-02-26 13:02:12,020 [ 70] INFO  AppManager [(null)] (login.aspx) - (Mli) - Login successful 
+SessionId: czmm1nftg01bvo1ahffpk3gt
+2021-02-26 13:02:12,030 [122] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: u33fdwuc1s1c4epfhelartik
+2021-02-26 13:09:43,883 [ 16] INFO  AppManager [(null)] (landingPage.aspx) - Clearing Session 
+Request Type:  
+SessionId: hvtxtm2gyhjbnnszmbdbqryz
+2021-02-26 13:09:43,897 [  3] INFO  AppManager [(null)] (landingPage.aspx) - New Session 
+Request Type:  
+SessionId: jhyftcoj4vmr14bryi5nmqe5
+2021-02-26 13:09:44,227 [120] INFO  AppManager [(null)] (login.aspx) - (Mli) - Login successful 
+SessionId: msa1v0lhgqnb4k44nwvro42g
+2021-02-26 13:09:44,475 [110] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: jhyftcoj4vmr14bryi5nmqe5
+2021-02-26 14:01:08,609 [  1] INFO  AppManager [(null)] SimpleServings started.
+2021-02-26 14:01:54,405 [114] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: i5kk22iqmq4v21uw5yw5rfbm
+2021-02-26 14:02:47,582 [ 53] INFO  AppManager [(null)] (landingPage.aspx) - Clearing Session 
+Request Type:  
+SessionId: o2aspgdrbxyom2fpiqxbsjbr
+2021-02-26 14:02:47,597 [ 62] INFO  AppManager [(null)] (landingPage.aspx) - New Session 
+Request Type:  
+SessionId: boqldjkqv30fft2tcelokqi4
+2021-02-26 14:02:47,839 [109] INFO  AppManager [(null)] (login.aspx) - (Mli) - Login successful 
+SessionId: e0l04hz044tey4mmu1sazbus
+2021-02-26 14:02:47,843 [ 59] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: boqldjkqv30fft2tcelokqi4
+2021-02-26 14:13:17,720 [ 37] INFO  AppManager [(null)] (landingPage.aspx) - Clearing Session 
+Request Type:  
+SessionId: nu0aaatup1pxvrhhvm1yfrqa
+2021-02-26 14:13:17,732 [ 13] INFO  AppManager [(null)] (landingPage.aspx) - New Session 
+Request Type:  
+SessionId: eie5dqz4jwjtupu3lpkskng2
+2021-02-26 14:13:18,191 [ 53] INFO  AppManager [(null)] (login.aspx) - (Mli) - Login successful 
+SessionId: m34flj134g1v2gnezlma4iv5
+2021-02-26 14:13:18,355 [  3] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: eie5dqz4jwjtupu3lpkskng2
+2021-02-26 14:14:13,077 [ 16] INFO  AppManager [(null)] (Recipe.aspx) - Request from http://localhost:1948/SimpleServings/UI/Page/SimpleServings/Recipe/EditRecipe.aspx?RecipeID=852 
+SessionId: eie5dqz4jwjtupu3lpkskng2
+2021-02-26 14:14:38,471 [ 53] INFO  AppManager [(null)] (Recipe.aspx) - Request from http://localhost:1948/SimpleServings/UI/Page/SimpleServings/Recipe/EditRecipe.aspx?RecipeID=852 
+SessionId: eie5dqz4jwjtupu3lpkskng2
+2021-02-26 14:14:57,154 [109] INFO  AppManager [(null)] (Recipe.aspx) - Request from http://localhost:1948/SimpleServings/UI/Page/SimpleServings/Recipe/Recipe.aspx 
+SessionId: eie5dqz4jwjtupu3lpkskng2
+2021-02-26 14:14:59,163 [104] INFO  AppManager [(null)] (Recipe.aspx) - Request from http://localhost:1948/SimpleServings/UI/Page/SimpleServings/Recipe/Recipe.aspx 
+SessionId: eie5dqz4jwjtupu3lpkskng2
+2021-02-26 14:15:00,826 [120] INFO  AppManager [(null)] (Recipe.aspx) - Request from http://localhost:1948/SimpleServings/UI/Page/SimpleServings/Recipe/Recipe.aspx 
+SessionId: eie5dqz4jwjtupu3lpkskng2
+2021-02-26 15:33:22,188 [ 93] INFO  AppManager [(null)] (landingPage.aspx) - Clearing Session 
+Request Type:  
+SessionId: nwqmv52ybaoukx5p00ji2321
+2021-02-26 15:33:22,206 [ 95] INFO  AppManager [(null)] (landingPage.aspx) - New Session 
+Request Type:  
+SessionId: g3wd0aolir43rknkzvt4xcak
+2021-02-26 15:33:22,969 [ 41] INFO  AppManager [(null)] (login.aspx) - (Mli) - Login successful 
+SessionId: x5c1j5s1yfhleocyofxhia0n
+2021-02-26 15:33:23,021 [ 11] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: g3wd0aolir43rknkzvt4xcak
+2021-02-26 15:39:45,241 [ 33] INFO  AppManager [(null)] (Recipe.aspx) - Request from http://localhost:1948/SimpleServings/UI/Page/SimpleServings/Setting/InsertCode.aspx?CodeType=AccessLevel 
+SessionId: g3wd0aolir43rknkzvt4xcak
+2021-02-26 15:42:32,490 [ 93] INFO  AppManager [(null)] (Recipe.aspx) - Request from http://localhost:1948/SimpleServings/UI/Page/SimpleServings/Recipe/AddRecipe.aspx 
+SessionId: g3wd0aolir43rknkzvt4xcak
+2021-02-26 15:45:17,322 [135] INFO  AppManager [(null)] (Recipe.aspx) - Request from http://localhost:1948/SimpleServings/UI/Page/SimpleServings/Recipe/MyFavoriteRecipeList.aspx 
+SessionId: g3wd0aolir43rknkzvt4xcak
+2021-02-26 15:46:13,720 [ 28] INFO  AppManager [(null)] (Recipe.aspx) - Request from http://localhost:1948/SimpleServings/UI/Page/SimpleServings/Recipe/MyFavoriteRecipeList.aspx 
+SessionId: g3wd0aolir43rknkzvt4xcak
+2021-02-26 15:47:22,133 [ 11] INFO  AppManager [(null)] (Recipe.aspx) - Request from http://localhost:1948/SimpleServings/UI/Page/SimpleServings/Recipe/AddRecipe.aspx 
+SessionId: g3wd0aolir43rknkzvt4xcak
+2021-02-26 15:52:22,743 [102] INFO  AppManager [(null)] (Recipe.aspx) - Request from http://localhost:1948/SimpleServings/UI/Page/SimpleServings/Recipe/AddRecipe.aspx 
+SessionId: g3wd0aolir43rknkzvt4xcak
+2021-02-26 15:56:39,605 [106] INFO  AppManager [(null)] (Recipe.aspx) - Request from http://localhost:1948/SimpleServings/UI/Page/SimpleServings/Recipe/AddRecipe.aspx 
+SessionId: g3wd0aolir43rknkzvt4xcak
+2021-02-26 16:00:22,791 [120] INFO  AppManager [(null)] (Recipe.aspx) - Request from http://localhost:1948/SimpleServings/UI/Page/SimpleServings/Recipe/AddRecipe.aspx 
+SessionId: g3wd0aolir43rknkzvt4xcak
+2021-02-26 16:10:05,388 [106] INFO  AppManager [(null)] (Recipe.aspx) - Request from http://localhost:1948/SimpleServings/UI/Page/SimpleServings/Recipe/AddRecipe.aspx 
+SessionId: g3wd0aolir43rknkzvt4xcak
+2021-02-26 16:45:51,944 [ 59] INFO  AppManager [(null)] (landingPage.aspx) - Clearing Session 
+Request Type:  
+SessionId: vp0cnu01dwkhsw3jgcrxorir
+2021-02-26 16:45:51,959 [ 27] INFO  AppManager [(null)] (landingPage.aspx) - New Session 
+Request Type:  
+SessionId: eqhmxkldoimovfu0dzy0df4u
+2021-02-26 16:45:54,439 [ 33] INFO  AppManager [(null)] (login.aspx) - (Mli) - Login successful 
+SessionId: sp2n2hcwshn0ue3swibytasi
+2021-02-26 16:45:54,754 [ 40] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: eqhmxkldoimovfu0dzy0df4u
+2021-02-26 16:49:48,459 [111] INFO  AppManager [(null)] (Recipe.aspx) - Request from http://localhost:1948/SimpleServings/UI/Page/SimpleServings/Setting/InsertCode.aspx?CodeType=Tag 
+SessionId: eqhmxkldoimovfu0dzy0df4u
+2021-02-26 16:52:17,377 [114] INFO  AppManager [(null)] (Recipe.aspx) - Request from http://localhost:1948/SimpleServings/UI/Page/myzone.aspx?Control=Setting 
+SessionId: eqhmxkldoimovfu0dzy0df4u
+2021-02-26 16:54:37,305 [113] INFO  AppManager [(null)] (Recipe.aspx) - Request from http://localhost:1948/SimpleServings/UI/Page/SimpleServings/Setting/InsertCode.aspx?CodeType=Tag 
+SessionId: eqhmxkldoimovfu0dzy0df4u
+2021-02-26 16:56:40,442 [  6] INFO  AppManager [(null)] (Recipe.aspx) - Request from http://localhost:1948/SimpleServings/UI/Page/SimpleServings/Setting/InsertCode.aspx?CodeType=Tag 
+SessionId: eqhmxkldoimovfu0dzy0df4u
+2021-02-26 17:09:10,718 [111] INFO  AppManager [(null)] (landingPage.aspx) - Clearing Session 
+Request Type:  
+SessionId: dfnxnrjunmzbzn2of2200sfb
+2021-02-26 17:09:10,948 [101] INFO  AppManager [(null)] (landingPage.aspx) - New Session 
+Request Type:  
+SessionId: bsu2nl2vziifq4ixuofrwjzy
+2021-02-26 17:09:11,233 [ 62] INFO  AppManager [(null)] (login.aspx) - (Mli) - Login successful 
+SessionId: izf31y4pqavdfigk0mfpnkwv
+2021-02-26 17:09:11,238 [ 27] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: bsu2nl2vziifq4ixuofrwjzy

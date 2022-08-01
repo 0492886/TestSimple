@@ -1,0 +1,50 @@
+2022-01-11 15:14:14,749 [  1] INFO  AppManager [(null)] SimpleServings started.
+2022-01-11 15:16:05,554 [ 27] ERROR AppManager [(null)] btnLogin_Click failed: Incorrect username and/or password.
+2022-01-11 15:16:18,272 [ 13] INFO  AppManager [(null)] (login.aspx) - (ben.zahavi) - Login successful 
+SessionId: 5ajxg2znzxzf5fnrhadlpyj3
+2022-01-11 15:16:18,412 [ 23] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: 5ajxg2znzxzf5fnrhadlpyj3
+2022-01-11 15:16:18,549 [ 26] INFO  AppManager [(null)] (landingPage.aspx) - Clearing Session 
+Request Type:  
+SessionId: 5ajxg2znzxzf5fnrhadlpyj3
+2022-01-11 15:16:34,012 [ 22] INFO  AppManager [(null)] (landingPage.aspx) - Request from http://localhost:1945/SimpleServings/UI/Page/Home.aspx 
+Request Type: LogInOut 
+SessionId: 5ajxg2znzxzf5fnrhadlpyj3
+2022-01-11 15:16:34,012 [ 22] INFO  AppManager [(null)] (landingPage.aspx) - Redirecting to Login.aspx 
+Request Type: LogInOut 
+SessionId: 5ajxg2znzxzf5fnrhadlpyj3
+2022-01-11 15:16:34,017 [ 27] INFO  AppManager [(null)] (login.aspx) - Request from http://localhost:1945/SimpleServings/UI/Page/Home.aspx 
+SessionId: ztakcfrpvt12ilmrbbrcpg3r
+2022-01-11 15:16:48,284 [ 19] INFO  AppManager [(null)] (landingPage.aspx) - Clearing Session 
+Request Type:  
+SessionId: fl5kzn1d5310z04ycmj2qlvk
+2022-01-11 15:16:48,308 [ 27] INFO  AppManager [(null)] (landingPage.aspx) - New Session 
+Request Type:  
+SessionId: hbej0o3txww5rpbk1a1b35i2
+2022-01-11 15:16:48,545 [  3] INFO  AppManager [(null)] (login.aspx) - (ben.zahavi) - Login successful 
+SessionId: 10hnpwl2uyycb05kdmrq0aeo
+2022-01-11 15:16:48,553 [ 16] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: hbej0o3txww5rpbk1a1b35i2
+2022-01-11 15:19:24,306 [  1] INFO  AppManager [(null)] SimpleServings started.
+2022-01-11 15:19:44,611 [ 17] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: mnlutw2plgbfdjflsvvfvha5
+2022-01-11 15:21:39,000 [ 23] INFO  AppManager [(null)] (landingPage.aspx) - Clearing Session 
+Request Type:  
+SessionId: us4k1wsmufjxqou2p0pwb0hv
+2022-01-11 15:21:39,030 [ 18] INFO  AppManager [(null)] (landingPage.aspx) - New Session 
+Request Type:  
+SessionId: ibndrzyjpx5at413pjjwev4s
+2022-01-11 15:21:39,232 [ 27] INFO  AppManager [(null)] (login.aspx) - (ben.zahavi) - Login successful 
+SessionId: jmnvjzjpe3zzlv0gtyaqlfvv
+2022-01-11 15:21:39,241 [ 17] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: ibndrzyjpx5at413pjjwev4s
+2022-01-11 15:22:38,063 [ 28] INFO  AppManager [(null)] (landingPage.aspx) - Clearing Session 
+Request Type:  
+SessionId: ldbbgopwhp2reklzsvxe0pf4
+2022-01-11 15:22:38,083 [  8] INFO  AppManager [(null)] (landingPage.aspx) - New Session 
+Request Type:  
+SessionId: blxxuidyqlr3chf5hueamiga
+2022-01-11 15:22:38,344 [ 17] INFO  AppManager [(null)] (login.aspx) - (ben.zahavi) - Login successful 
+SessionId: 41h0y4mlbs0vffjkd3501t3z
+2022-01-11 15:22:38,361 [ 18] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: blxxuidyqlr3chf5hueamiga

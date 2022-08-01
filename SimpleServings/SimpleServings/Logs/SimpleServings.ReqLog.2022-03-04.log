@@ -1,0 +1,41 @@
+2022-03-04 16:29:28,042 [  1] INFO  AppManager [(null)] SimpleServings started.
+2022-03-04 16:29:54,927 [ 12] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: crjuzwushzebwbkzx00bmb13
+2022-03-04 16:29:58,876 [ 19] INFO  AppManager [(null)] (Recipe.aspx) - Request from http://localhost:1945/SimpleServings/UI/Page/Home.aspx 
+SessionId: crjuzwushzebwbkzx00bmb13
+2022-03-04 16:35:33,165 [ 17] INFO  AppManager [(null)] (landingPage.aspx) - Clearing Session 
+Request Type:  
+SessionId: qjdpysz4ln34ohp0xqnirytc
+2022-03-04 16:35:33,182 [ 20] INFO  AppManager [(null)] (landingPage.aspx) - New Session 
+Request Type:  
+SessionId: ewrxxk3zmbf5cjuzc4mjgjmk
+2022-03-04 16:35:33,694 [ 12] INFO  AppManager [(null)] (login.aspx) - (Mli) - Login successful 
+SessionId: x0hpdlkasuy1gmm145a4tv3j
+2022-03-04 16:35:33,706 [ 14] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: ewrxxk3zmbf5cjuzc4mjgjmk
+2022-03-04 16:35:35,581 [ 11] INFO  AppManager [(null)] (Recipe.aspx) - Request from http://localhost:1945/SimpleServings/UI/Page/Home.aspx 
+SessionId: ewrxxk3zmbf5cjuzc4mjgjmk
+2022-03-04 16:38:59,964 [ 19] INFO  AppManager [(null)] (landingPage.aspx) - Clearing Session 
+Request Type:  
+SessionId: 1xafqngpbjssnuymlexwez32
+2022-03-04 16:38:59,972 [ 25] INFO  AppManager [(null)] (landingPage.aspx) - New Session 
+Request Type:  
+SessionId: 44bb2rg4k1ux4stkgjxiwbez
+2022-03-04 16:39:00,199 [ 11] INFO  AppManager [(null)] (login.aspx) - (Mli) - Login successful 
+SessionId: qi1zkrkq05bce1wa0fpv1c2y
+2022-03-04 16:39:00,225 [ 15] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: 44bb2rg4k1ux4stkgjxiwbez
+2022-03-04 16:39:01,874 [ 29] INFO  AppManager [(null)] (Recipe.aspx) - Request from http://localhost:1945/SimpleServings/UI/Page/Home.aspx 
+SessionId: 44bb2rg4k1ux4stkgjxiwbez
+2022-03-04 16:44:35,675 [ 19] INFO  AppManager [(null)] (landingPage.aspx) - Clearing Session 
+Request Type:  
+SessionId: acrwvmxqd2ubetrrc2zgr4ca
+2022-03-04 16:44:35,701 [ 38] INFO  AppManager [(null)] (landingPage.aspx) - New Session 
+Request Type:  
+SessionId: tx2j3w2hadbsu4tef14f2nhk
+2022-03-04 16:44:35,952 [ 32] INFO  AppManager [(null)] (login.aspx) - (Mli) - Login successful 
+SessionId: sddzigofl0grnpgfox3q4bhy
+2022-03-04 16:44:35,963 [ 39] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: tx2j3w2hadbsu4tef14f2nhk
+2022-03-04 16:44:38,234 [ 26] INFO  AppManager [(null)] (Recipe.aspx) - Request from http://localhost:1945/SimpleServings/UI/Page/Home.aspx 
+SessionId: tx2j3w2hadbsu4tef14f2nhk

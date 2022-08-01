@@ -1,0 +1,95 @@
+2022-06-27 14:08:08,959 [  1] INFO  AppManager [(null)] SimpleServings started.
+2022-06-27 14:08:45,519 [  9] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: derggevtmbf42ot3azfpuyms
+2022-06-27 14:09:16,555 [ 22] INFO  AppManager [(null)] (landingPage.aspx) - Request from http://localhost:1946/SimpleServings/UI/Page/SimpleServings/Reports/ViewReport.aspx?reportID=17 
+Request Type: LogInOut 
+SessionId: derggevtmbf42ot3azfpuyms
+2022-06-27 14:09:16,555 [ 22] INFO  AppManager [(null)] (landingPage.aspx) - Redirecting to Login.aspx 
+Request Type: LogInOut 
+SessionId: derggevtmbf42ot3azfpuyms
+2022-06-27 14:09:16,562 [ 14] INFO  AppManager [(null)] (login.aspx) - Request from http://localhost:1946/SimpleServings/UI/Page/SimpleServings/Reports/ViewReport.aspx?reportID=17 
+SessionId: 0is5tnqmfzxk2kbgbvcaky32
+2022-06-27 14:09:25,689 [ 17] INFO  AppManager [(null)] (landingPage.aspx) - Clearing Session 
+Request Type:  
+SessionId: o2zzl5jubi24qdfuajctn5xl
+2022-06-27 14:09:25,696 [ 12] INFO  AppManager [(null)] (landingPage.aspx) - New Session 
+Request Type:  
+SessionId: 333emttvpgflxtfmarsuvrb1
+2022-06-27 14:09:25,983 [ 15] ERROR AppManager [(null)] btnLogin_Click failed: Incorrect username and/or password.
+2022-06-27 14:09:35,867 [  7] INFO  AppManager [(null)] (landingPage.aspx) - Clearing Session 
+Request Type:  
+SessionId: 333emttvpgflxtfmarsuvrb1
+2022-06-27 14:09:35,872 [ 16] INFO  AppManager [(null)] (landingPage.aspx) - New Session 
+Request Type:  
+SessionId: 5inotwjx44ffwo2h1djmj314
+2022-06-27 14:09:36,190 [ 22] ERROR AppManager [(null)] btnLogin_Click failed: Incorrect username and/or password.
+2022-06-27 14:09:45,843 [  7] INFO  AppManager [(null)] (landingPage.aspx) - Clearing Session 
+Request Type:  
+SessionId: 5inotwjx44ffwo2h1djmj314
+2022-06-27 14:09:45,850 [ 22] INFO  AppManager [(null)] (landingPage.aspx) - New Session 
+Request Type:  
+SessionId: o1ilmdg4hhpjm13rwg4i3m21
+2022-06-27 14:09:46,125 [ 11] ERROR AppManager [(null)] btnLogin_Click failed: Incorrect username and/or password.
+2022-06-27 14:10:00,307 [ 16] INFO  AppManager [(null)] (landingPage.aspx) - Clearing Session 
+Request Type:  
+SessionId: o1ilmdg4hhpjm13rwg4i3m21
+2022-06-27 14:10:00,314 [ 10] INFO  AppManager [(null)] (landingPage.aspx) - New Session 
+Request Type:  
+SessionId: 4cyh3rnv1buwvhnhwclaoeyl
+2022-06-27 14:10:00,512 [  6] ERROR AppManager [(null)] btnLogin_Click failed: Incorrect username and/or password.
+2022-06-27 14:10:10,549 [ 15] INFO  AppManager [(null)] (landingPage.aspx) - Clearing Session 
+Request Type:  
+SessionId: 4cyh3rnv1buwvhnhwclaoeyl
+2022-06-27 14:10:10,555 [ 11] INFO  AppManager [(null)] (landingPage.aspx) - New Session 
+Request Type:  
+SessionId: qc25c1bou4qttj0yqq0kjz5b
+2022-06-27 14:10:10,779 [ 14] ERROR AppManager [(null)] btnLogin_Click failed: Incorrect username and/or password.
+2022-06-27 14:10:41,751 [ 12] INFO  AppManager [(null)] (landingPage.aspx) - Clearing Session 
+Request Type:  
+SessionId: qc25c1bou4qttj0yqq0kjz5b
+2022-06-27 14:10:41,756 [ 13] INFO  AppManager [(null)] (landingPage.aspx) - New Session 
+Request Type:  
+SessionId: hmc3whhlbpn4jgumtpjcwaqq
+2022-06-27 14:10:41,987 [ 17] ERROR AppManager [(null)] btnLogin_Click failed: Incorrect username and/or password.
+2022-06-27 14:11:13,096 [ 12] INFO  AppManager [(null)] (landingPage.aspx) - Clearing Session 
+Request Type:  
+SessionId: hmc3whhlbpn4jgumtpjcwaqq
+2022-06-27 14:11:13,101 [  9] INFO  AppManager [(null)] (landingPage.aspx) - New Session 
+Request Type:  
+SessionId: jzu2lscbw3kwp2kmnsc4agpv
+2022-06-27 14:11:13,327 [ 11] ERROR AppManager [(null)] btnLogin_Click failed: Incorrect username and/or password.
+2022-06-27 14:40:20,417 [  1] INFO  AppManager [(null)] SimpleServings started.
+2022-06-27 14:40:45,245 [  8] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: o1rz34hwgvauumztsqmqstoj
+2022-06-27 14:40:49,999 [  6] INFO  AppManager [(null)] (Recipe.aspx) - Request from http://localhost:1946/SimpleServings/UI/Page/Home.aspx 
+SessionId: o1rz34hwgvauumztsqmqstoj
+2022-06-27 15:40:41,984 [ 21] INFO  AppManager [(null)] (landingPage.aspx) - Clearing Session 
+Request Type:  
+SessionId: a0pf2fbjtki12g0s0xlm25ot
+2022-06-27 15:40:42,004 [ 36] INFO  AppManager [(null)] (landingPage.aspx) - New Session 
+Request Type:  
+SessionId: cwqijsueuytwbckz5ljnzxtg
+2022-06-27 15:40:42,641 [ 22] INFO  AppManager [(null)] (login.aspx) - (hindy.chanales) - Login successful 
+SessionId: c1bltjorrphbdoq4g5in5nud
+2022-06-27 15:40:42,666 [ 36] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: cwqijsueuytwbckz5ljnzxtg
+2022-06-27 15:44:12,954 [ 21] INFO  AppManager [(null)] (landingPage.aspx) - Clearing Session 
+Request Type:  
+SessionId: xoy3d5yiax5xjdqxpdfnieov
+2022-06-27 15:44:12,974 [ 36] INFO  AppManager [(null)] (landingPage.aspx) - New Session 
+Request Type:  
+SessionId: wjk10ikfyows0eu4z5niq4pn
+2022-06-27 15:44:13,733 [ 22] INFO  AppManager [(null)] (login.aspx) - (hindy.chanales) - Login successful 
+SessionId: cql1erukcuemf3is2205zrip
+2022-06-27 15:44:13,757 [ 36] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: wjk10ikfyows0eu4z5niq4pn
+2022-06-27 16:41:42,506 [ 29] INFO  AppManager [(null)] (landingPage.aspx) - Clearing Session 
+Request Type:  
+SessionId: armf0dd32ywscjfntpsszvrr
+2022-06-27 16:41:42,512 [119] INFO  AppManager [(null)] (landingPage.aspx) - New Session 
+Request Type:  
+SessionId: bql3js33vfsluss4bhochszj
+2022-06-27 16:41:43,117 [127] INFO  AppManager [(null)] (login.aspx) - (scott.deas) - Login successful 
+SessionId: mv2elcg35akqadjeb1aqcupi
+2022-06-27 16:41:43,126 [125] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: bql3js33vfsluss4bhochszj

@@ -1,0 +1,63 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleServings", "SimpleServings\SimpleServings.csproj", "{22D2DA4B-7F38-4B2D-96EA-2BA64C912CCA}"
+EndProject
+Project("{F14B399A-7131-4C87-9E4B-1186C45EF12D}") = "Reports", "Reports\Reports.rptproj", "{453990F0-C972-47CA-B01E-B0E9F2BFB532}"
+EndProject
+Global
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 3
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = http://tfsdevmtcb:8080/tfs/aots
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = SimpleServings\\SimpleServings.csproj
+		SccProjectName1 = SimpleServings
+		SccLocalPath1 = SimpleServings
+		SccProjectUniqueName2 = Reports\\Reports.rptproj
+		SccProjectName2 = Reports
+		SccLocalPath2 = Reports
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x86 = Debug|x86
+		DebugLocal|Any CPU = DebugLocal|Any CPU
+		DebugLocal|x86 = DebugLocal|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{22D2DA4B-7F38-4B2D-96EA-2BA64C912CCA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{22D2DA4B-7F38-4B2D-96EA-2BA64C912CCA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{22D2DA4B-7F38-4B2D-96EA-2BA64C912CCA}.Debug|x86.ActiveCfg = Debug|x86
+		{22D2DA4B-7F38-4B2D-96EA-2BA64C912CCA}.Debug|x86.Build.0 = Debug|x86
+		{22D2DA4B-7F38-4B2D-96EA-2BA64C912CCA}.DebugLocal|Any CPU.ActiveCfg = Debug|Any CPU
+		{22D2DA4B-7F38-4B2D-96EA-2BA64C912CCA}.DebugLocal|Any CPU.Build.0 = Debug|Any CPU
+		{22D2DA4B-7F38-4B2D-96EA-2BA64C912CCA}.DebugLocal|x86.ActiveCfg = Debug|x86
+		{22D2DA4B-7F38-4B2D-96EA-2BA64C912CCA}.DebugLocal|x86.Build.0 = Debug|x86
+		{22D2DA4B-7F38-4B2D-96EA-2BA64C912CCA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{22D2DA4B-7F38-4B2D-96EA-2BA64C912CCA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{22D2DA4B-7F38-4B2D-96EA-2BA64C912CCA}.Release|x86.ActiveCfg = Release|Any CPU
+		{22D2DA4B-7F38-4B2D-96EA-2BA64C912CCA}.Release|x86.Build.0 = Release|Any CPU
+		{453990F0-C972-47CA-B01E-B0E9F2BFB532}.Debug|Any CPU.ActiveCfg = Debug
+		{453990F0-C972-47CA-B01E-B0E9F2BFB532}.Debug|Any CPU.Build.0 = Debug
+		{453990F0-C972-47CA-B01E-B0E9F2BFB532}.Debug|Any CPU.Deploy.0 = Debug
+		{453990F0-C972-47CA-B01E-B0E9F2BFB532}.Debug|x86.ActiveCfg = Debug
+		{453990F0-C972-47CA-B01E-B0E9F2BFB532}.Debug|x86.Build.0 = Debug
+		{453990F0-C972-47CA-B01E-B0E9F2BFB532}.Debug|x86.Deploy.0 = Debug
+		{453990F0-C972-47CA-B01E-B0E9F2BFB532}.DebugLocal|Any CPU.ActiveCfg = DebugLocal
+		{453990F0-C972-47CA-B01E-B0E9F2BFB532}.DebugLocal|Any CPU.Build.0 = DebugLocal
+		{453990F0-C972-47CA-B01E-B0E9F2BFB532}.DebugLocal|x86.ActiveCfg = DebugLocal
+		{453990F0-C972-47CA-B01E-B0E9F2BFB532}.DebugLocal|x86.Build.0 = DebugLocal
+		{453990F0-C972-47CA-B01E-B0E9F2BFB532}.DebugLocal|x86.Deploy.0 = DebugLocal
+		{453990F0-C972-47CA-B01E-B0E9F2BFB532}.Release|Any CPU.ActiveCfg = Release
+		{453990F0-C972-47CA-B01E-B0E9F2BFB532}.Release|Any CPU.Build.0 = Release
+		{453990F0-C972-47CA-B01E-B0E9F2BFB532}.Release|Any CPU.Deploy.0 = Release
+		{453990F0-C972-47CA-B01E-B0E9F2BFB532}.Release|x86.ActiveCfg = Release
+		{453990F0-C972-47CA-B01E-B0E9F2BFB532}.Release|x86.Build.0 = Release
+		{453990F0-C972-47CA-B01E-B0E9F2BFB532}.Release|x86.Deploy.0 = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

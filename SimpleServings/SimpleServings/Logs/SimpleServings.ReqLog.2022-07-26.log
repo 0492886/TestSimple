@@ -1,0 +1,29 @@
+2022-07-26 10:11:42,780 [  1] INFO  AppManager [(null)] SimpleServings started.
+2022-07-26 10:12:06,320 [ 12] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: 5huewnwb24csrjyqq111mkea
+2022-07-26 10:37:43,387 [ 19] INFO  AppManager [(null)] (landingPage.aspx) - Request from http://localhost:1946/SimpleServings/UI/Page/SimpleServings/Menu/MenuList.aspx?MenuType=MyMenus 
+Request Type: LogInOut 
+SessionId: 5huewnwb24csrjyqq111mkea
+2022-07-26 10:37:43,388 [ 19] INFO  AppManager [(null)] (landingPage.aspx) - Redirecting to Login.aspx 
+Request Type: LogInOut 
+SessionId: 5huewnwb24csrjyqq111mkea
+2022-07-26 10:37:43,393 [ 16] INFO  AppManager [(null)] (login.aspx) - Request from http://localhost:1946/SimpleServings/UI/Page/SimpleServings/Menu/MenuList.aspx?MenuType=MyMenus 
+SessionId: zuodkhkj04mabnmfje2waejm
+2022-07-26 10:37:43,882 [ 28] INFO  AppManager [(null)] (landingPage.aspx) - Request from http://localhost:1946/SimpleServings/UI/Page/SimpleServings/Menu/MenuList.aspx?MenuType=MyMenus 
+Request Type: LogInOut 
+SessionId: 5huewnwb24csrjyqq111mkea
+2022-07-26 10:37:43,882 [ 28] INFO  AppManager [(null)] (landingPage.aspx) - Redirecting to Login.aspx 
+Request Type: LogInOut 
+SessionId: 5huewnwb24csrjyqq111mkea
+2022-07-26 10:37:44,383 [ 18] INFO  AppManager [(null)] (landingPage.aspx) - Request from http://localhost:1946/SimpleServings/UI/Page/SimpleServings/Menu/MenuList.aspx?MenuType=MyMenus 
+Request Type: LogInOut 
+SessionId: 5huewnwb24csrjyqq111mkea
+2022-07-26 10:37:44,383 [ 18] INFO  AppManager [(null)] (landingPage.aspx) - Redirecting to Login.aspx 
+Request Type: LogInOut 
+SessionId: 5huewnwb24csrjyqq111mkea
+2022-07-26 10:37:44,886 [ 30] INFO  AppManager [(null)] (landingPage.aspx) - Request from http://localhost:1946/SimpleServings/UI/Page/SimpleServings/Menu/MenuList.aspx?MenuType=MyMenus 
+Request Type: LogInOut 
+SessionId: 5huewnwb24csrjyqq111mkea
+2022-07-26 10:37:44,886 [ 30] INFO  AppManager [(null)] (landingPage.aspx) - Redirecting to Login.aspx 
+Request Type: LogInOut 
+SessionId: 5huewnwb24csrjyqq111mkea

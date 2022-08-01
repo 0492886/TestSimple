@@ -1,0 +1,356 @@
+2016-12-29 11:45:20,644 [  9] INFO  AppManager [(null)] SimpleServings started.
+2016-12-29 11:45:28,679 [  6] INFO  AppManager [(null)] (landingPage.aspx) - Redirecting to Login.aspx 
+Request Type: LogInOut 
+SessionId: 
+2016-12-29 11:45:32,569 [  7] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: tjyebf55mftdof45xdqwdh55
+2016-12-29 11:58:05,329 [  7] INFO  AppManager [(null)] (landingPage.aspx) - Redirecting to Login.aspx 
+Request Type: LogInOut 
+SessionId: q0nsnrnh411v21bpe2qkccat
+2016-12-29 11:59:20,228 [  5] INFO  AppManager [(null)] (landingPage.aspx) - Clearing Session 
+Request Type:  
+SessionId: smrxxn45pv02yn55zslsgxe3
+2016-12-29 11:59:20,238 [  5] INFO  AppManager [(null)] (landingPage.aspx) - New Session 
+Request Type:  
+SessionId: 1y15uza5uc20aziqxnsbti55
+2016-12-29 11:59:20,245 [  6] INFO  AppManager [(null)] (login.aspx) - (cvais7773) - Login successful 
+SessionId: ichvnfr3kfk1nkffxw0fl255
+2016-12-29 11:59:20,250 [  6] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: 1y15uza5uc20aziqxnsbti55
+2016-12-29 12:56:51,229 [  1] INFO  AppManager [(null)] SimpleServings started.
+2016-12-29 12:56:52,936 [  5] INFO  AppManager [(null)] (landingPage.aspx) - Redirecting to Login.aspx 
+Request Type: LogInOut 
+SessionId: 
+2016-12-29 12:57:00,955 [  7] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: ipfgq5zu1ex2nl45vguons55
+2016-12-29 13:02:33,344 [  1] INFO  AppManager [(null)] SimpleServings started.
+2016-12-29 13:02:45,451 [  6] INFO  AppManager [(null)] (landingPage.aspx) - Redirecting to Login.aspx 
+Request Type: LogInOut 
+SessionId: 
+2016-12-29 13:02:52,380 [  7] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: 1fqc5gjptmrvjn45i3j5v0nv
+2016-12-29 13:17:58,477 [  5] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: p0qldj45p5thcq55ifejl245
+2016-12-29 13:18:01,300 [  7] INFO  AppManager [(null)] (landingPage.aspx) - Request from http://localhost:1949/simpleservings/ui/page/ 
+Request Type: LogInOut 
+SessionId: drbs3b45nc2hby45ud5yymul
+2016-12-29 13:18:01,300 [  7] INFO  AppManager [(null)] (landingPage.aspx) - Redirecting to Login.aspx 
+Request Type: LogInOut 
+SessionId: drbs3b45nc2hby45ud5yymul
+2016-12-29 13:18:01,304 [  8] INFO  AppManager [(null)] (login.aspx) - Request from http://localhost:1949/simpleservings/ui/page/ 
+SessionId: 2atcwq3rsrtlqs55a0zia5ju
+2016-12-29 13:18:11,354 [  8] INFO  AppManager [(null)] (landingPage.aspx) - Clearing Session 
+Request Type:  
+SessionId: fksji2454wievvrrnsk5gv45
+2016-12-29 13:18:11,362 [  6] INFO  AppManager [(null)] (landingPage.aspx) - New Session 
+Request Type:  
+SessionId: jwkfa3awvm2qpj452iedzi3t
+2016-12-29 13:18:11,375 [  7] INFO  AppManager [(null)] (login.aspx) - (cvais7773) - Login successful 
+SessionId: trm3u4ng2thr4n55yrhfzqvv
+2016-12-29 13:18:11,379 [  7] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: jwkfa3awvm2qpj452iedzi3t
+2016-12-29 13:19:50,057 [  1] INFO  AppManager [(null)] SimpleServings started.
+2016-12-29 13:19:59,834 [  5] INFO  AppManager [(null)] (landingPage.aspx) - Redirecting to Login.aspx 
+Request Type: LogInOut 
+SessionId: 
+2016-12-29 13:20:09,212 [  7] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: ifazmm55i2dfmf45rlf2gzib
+2016-12-29 13:25:32,359 [  1] INFO  AppManager [(null)] SimpleServings started.
+2016-12-29 13:25:42,208 [  5] INFO  AppManager [(null)] (landingPage.aspx) - Redirecting to Login.aspx 
+Request Type: LogInOut 
+SessionId: 
+2016-12-29 13:25:49,418 [  7] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: ipyulbrnfpydfu554welma45
+2016-12-29 14:34:53,797 [  1] INFO  AppManager [(null)] SimpleServings started.
+2016-12-29 14:35:04,052 [  7] INFO  AppManager [(null)] (landingPage.aspx) - Redirecting to Login.aspx 
+Request Type: LogInOut 
+SessionId: 
+2016-12-29 14:35:11,231 [  6] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: eqrrd245p0azls45pz1nqsq4
+2016-12-29 14:35:16,970 [  6] ERROR AppManager [(null)] SimpleServings application error: Exception of type 'System.Web.HttpUnhandledException' was thrown.
+location: http://localhost:1949/SimpleServings/UI/Page/SimpleServings/Menu/MenuList.aspx?MenuType=ViewSamples
+
+System.Web.HttpUnhandledException: Exception of type 'System.Web.HttpUnhandledException' was thrown. ---> System.ArgumentException: Error serializing value 'SimpleServingsLibrary.Menu.Menus' of type 'SimpleServingsLibrary.Menu.Menus.' ---> System.Runtime.Serialization.SerializationException: Type 'SimpleServingsLibrary.Menu.Menus' in Assembly 'SimpleServings.Menu, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null' is not marked as serializable.
+   at System.Runtime.Serialization.FormatterServices.InternalGetSerializableMembers(RuntimeType type)
+   at System.Runtime.Serialization.FormatterServices.GetSerializableMembers(Type type, StreamingContext context)
+   at System.Runtime.Serialization.Formatters.Binary.WriteObjectInfo.InitMemberInfo()
+   at System.Runtime.Serialization.Formatters.Binary.WriteObjectInfo.InitSerialize(Object obj, ISurrogateSelector surrogateSelector, StreamingContext context, SerObjectInfoInit serObjectInfoInit, IFormatterConverter converter, ObjectWriter objectWriter)
+   at System.Runtime.Serialization.Formatters.Binary.WriteObjectInfo.Serialize(Object obj, ISurrogateSelector surrogateSelector, StreamingContext context, SerObjectInfoInit serObjectInfoInit, IFormatterConverter converter, ObjectWriter objectWriter)
+   at System.Runtime.Serialization.Formatters.Binary.ObjectWriter.Serialize(Object graph, Header[] inHeaders, __BinaryWriter serWriter, Boolean fCheck)
+   at System.Runtime.Serialization.Formatters.Binary.BinaryFormatter.Serialize(Stream serializationStream, Object graph, Header[] headers, Boolean fCheck)
+   at System.Runtime.Serialization.Formatters.Binary.BinaryFormatter.Serialize(Stream serializationStream, Object graph)
+   at System.Web.UI.ObjectStateFormatter.SerializeValue(SerializerBinaryWriter writer, Object value)
+   --- End of inner exception stack trace ---
+   at System.Web.UI.ObjectStateFormatter.SerializeValue(SerializerBinaryWriter writer, Object value)
+   at System.Web.UI.ObjectStateFormatter.Serialize(Stream outputStream, Object stateGraph)
+   at System.Web.UI.ObjectStateFormatter.Serialize(Object stateGraph)
+   at System.Web.UI.ObjectStateFormatter.System.Web.UI.IStateFormatter.Serialize(Object state)
+   at System.Web.UI.Util.SerializeWithAssert(IStateFormatter formatter, Object stateGraph)
+   at System.Web.UI.HiddenFieldPageStatePersister.Save()
+   at System.Web.UI.Page.SavePageStateToPersistenceMedium(Object state)
+   at System.Web.UI.Page.SaveAllState()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   --- End of inner exception stack trace ---
+   at System.Web.UI.Page.HandleError(Exception e)
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   at System.Web.UI.Page.ProcessRequest(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   at System.Web.UI.Page.ProcessRequest()
+   at System.Web.UI.Page.ProcessRequestWithNoAssert(HttpContext context)
+   at System.Web.UI.Page.ProcessRequest(HttpContext context)
+   at ASP.ui_page_simpleservings_menu_menulist_aspx.ProcessRequest(HttpContext context) in c:\Windows\Microsoft.NET\Framework\v2.0.50727\Temporary ASP.NET Files\simpleservings\50605a42\75e306da\App_Web_o9-l-8tc.15.cs:line 0
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+2016-12-29 14:55:57,572 [  1] INFO  AppManager [(null)] SimpleServings started.
+2016-12-29 14:56:11,293 [  5] INFO  AppManager [(null)] (landingPage.aspx) - Redirecting to Login.aspx 
+Request Type: LogInOut 
+SessionId: 
+2016-12-29 14:56:17,427 [  6] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: q3hsh0ipm4hmr4yfrrtoc555
+2016-12-29 14:56:30,453 [  7] ERROR AppManager [(null)] SimpleServings application error: Exception of type 'System.Web.HttpUnhandledException' was thrown.
+location: http://localhost:1949/SimpleServings/UI/Page/SimpleServings/Menu/MenuList.aspx?MenuType=ViewSamples
+
+System.Web.HttpUnhandledException: Exception of type 'System.Web.HttpUnhandledException' was thrown. ---> System.ArgumentException: Error serializing value 'SimpleServingsLibrary.Menu.Menus' of type 'SimpleServingsLibrary.Menu.Menus.' ---> System.Runtime.Serialization.SerializationException: Type 'SimpleServingsLibrary.Menu.Menu' in Assembly 'SimpleServings.Menu, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null' is not marked as serializable.
+   at System.Runtime.Serialization.FormatterServices.InternalGetSerializableMembers(RuntimeType type)
+   at System.Runtime.Serialization.FormatterServices.GetSerializableMembers(Type type, StreamingContext context)
+   at System.Runtime.Serialization.Formatters.Binary.WriteObjectInfo.InitMemberInfo()
+   at System.Runtime.Serialization.Formatters.Binary.WriteObjectInfo.InitSerialize(Type objectType, ISurrogateSelector surrogateSelector, StreamingContext context, SerObjectInfoInit serObjectInfoInit, IFormatterConverter converter)
+   at System.Runtime.Serialization.Formatters.Binary.WriteObjectInfo.Serialize(Type objectType, ISurrogateSelector surrogateSelector, StreamingContext context, SerObjectInfoInit serObjectInfoInit, IFormatterConverter converter)
+   at System.Runtime.Serialization.Formatters.Binary.ObjectWriter.WriteArray(WriteObjectInfo objectInfo, NameInfo memberNameInfo, WriteObjectInfo memberObjectInfo)
+   at System.Runtime.Serialization.Formatters.Binary.ObjectWriter.Write(WriteObjectInfo objectInfo, NameInfo memberNameInfo, NameInfo typeNameInfo)
+   at System.Runtime.Serialization.Formatters.Binary.ObjectWriter.Serialize(Object graph, Header[] inHeaders, __BinaryWriter serWriter, Boolean fCheck)
+   at System.Runtime.Serialization.Formatters.Binary.BinaryFormatter.Serialize(Stream serializationStream, Object graph, Header[] headers, Boolean fCheck)
+   at System.Runtime.Serialization.Formatters.Binary.BinaryFormatter.Serialize(Stream serializationStream, Object graph)
+   at System.Web.UI.ObjectStateFormatter.SerializeValue(SerializerBinaryWriter writer, Object value)
+   --- End of inner exception stack trace ---
+   at System.Web.UI.ObjectStateFormatter.SerializeValue(SerializerBinaryWriter writer, Object value)
+   at System.Web.UI.ObjectStateFormatter.Serialize(Stream outputStream, Object stateGraph)
+   at System.Web.UI.ObjectStateFormatter.Serialize(Object stateGraph)
+   at System.Web.UI.ObjectStateFormatter.System.Web.UI.IStateFormatter.Serialize(Object state)
+   at System.Web.UI.Util.SerializeWithAssert(IStateFormatter formatter, Object stateGraph)
+   at System.Web.UI.HiddenFieldPageStatePersister.Save()
+   at System.Web.UI.Page.SavePageStateToPersistenceMedium(Object state)
+   at System.Web.UI.Page.SaveAllState()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   --- End of inner exception stack trace ---
+   at System.Web.UI.Page.HandleError(Exception e)
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   at System.Web.UI.Page.ProcessRequest(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   at System.Web.UI.Page.ProcessRequest()
+   at System.Web.UI.Page.ProcessRequestWithNoAssert(HttpContext context)
+   at System.Web.UI.Page.ProcessRequest(HttpContext context)
+   at ASP.ui_page_simpleservings_menu_menulist_aspx.ProcessRequest(HttpContext context) in c:\Windows\Microsoft.NET\Framework\v2.0.50727\Temporary ASP.NET Files\simpleservings\50605a42\75e306da\App_Web_ul60o0lg.14.cs:line 0
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+2016-12-29 14:57:22,630 [  1] INFO  AppManager [(null)] SimpleServings started.
+2016-12-29 14:57:32,396 [  5] INFO  AppManager [(null)] (landingPage.aspx) - Redirecting to Login.aspx 
+Request Type: LogInOut 
+SessionId: 
+2016-12-29 14:57:38,040 [  7] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: 1pg05y550j4uzdnikgxsrp45
+2016-12-29 17:04:10,222 [  1] INFO  AppManager [(null)] SimpleServings started.
+2016-12-29 17:04:21,907 [  7] INFO  AppManager [(null)] (landingPage.aspx) - Redirecting to Login.aspx 
+Request Type: LogInOut 
+SessionId: 
+2016-12-29 17:04:24,720 [  7] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: dedibk550y0dos455j3ojq2h
+2016-12-29 17:05:56,509 [  5] ERROR AppManager [(null)] SimpleServings application error: Exception of type 'System.Web.HttpUnhandledException' was thrown.
+location: http://localhost:1949/SimpleServings/UI/Page/SimpleServings/Menu/ViewMenu.aspx?MenuID=7254
+
+System.Web.HttpUnhandledException: Exception of type 'System.Web.HttpUnhandledException' was thrown. ---> System.Exception: Get Menu By MenuID did not return a record!
+   at SimpleServingsLibrary.Menu.MenuDB.GetMenuByMenuID(Int32 menuID) in c:\TFS\DFTA\SimpleServingsLibrary\SimpleServings.Menu\DAL\MenuDB.cs:line 124
+   at SimpleServingsLibrary.Menu.Menu.GetMenuByMenuID(Int32 menuID) in c:\TFS\DFTA\SimpleServingsLibrary\SimpleServings.Menu\BLL\Menu.cs:line 258
+   at SimpleServings.UI.UDC.SimpleServings.Menu.MenuItemGrid.PopGrid(Int32 menuID) in c:\TFS\DFTA\SimpleServings\SimpleServings\SimpleServings\UI\UDC\SimpleServings\Menu\MenuItemGrid.ascx.cs:line 80
+   at SimpleServings.UI.UDC.SimpleServings.Menu.MenuItemGrid.Page_Load(Object sender, EventArgs e) in c:\TFS\DFTA\SimpleServings\SimpleServings\SimpleServings\UI\UDC\SimpleServings\Menu\MenuItemGrid.ascx.cs:line 53
+   at System.Web.Util.CalliHelper.EventArgFunctionCaller(IntPtr fp, Object o, Object t, EventArgs e)
+   at System.Web.Util.CalliEventHandlerDelegateProxy.Callback(Object sender, EventArgs e)
+   at System.Web.UI.Control.OnLoad(EventArgs e)
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   --- End of inner exception stack trace ---
+   at System.Web.UI.Page.HandleError(Exception e)
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   at System.Web.UI.Page.ProcessRequest(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   at System.Web.UI.Page.ProcessRequest()
+   at System.Web.UI.Page.ProcessRequestWithNoAssert(HttpContext context)
+   at System.Web.UI.Page.ProcessRequest(HttpContext context)
+   at ASP.ui_page_simpleservings_menu_viewmenu_aspx.ProcessRequest(HttpContext context) in c:\Windows\Microsoft.NET\Framework\v2.0.50727\Temporary ASP.NET Files\simpleservings\50605a42\75e306da\App_Web_kftrzc85.14.cs:line 0
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+2016-12-29 17:08:25,550 [  9] ERROR AppManager [(null)] SimpleServings application error: Exception of type 'System.Web.HttpUnhandledException' was thrown.
+location: http://localhost:1949/SimpleServings/UI/Page/SimpleServings/Menu/ViewMenu.aspx?MenuID=7251
+
+System.Web.HttpUnhandledException: Exception of type 'System.Web.HttpUnhandledException' was thrown. ---> System.Exception: Get Menu By MenuID did not return a record!
+   at SimpleServingsLibrary.Menu.MenuDB.GetMenuByMenuID(Int32 menuID) in c:\TFS\DFTA\SimpleServingsLibrary\SimpleServings.Menu\DAL\MenuDB.cs:line 124
+   at SimpleServingsLibrary.Menu.Menu.GetMenuByMenuID(Int32 menuID) in c:\TFS\DFTA\SimpleServingsLibrary\SimpleServings.Menu\BLL\Menu.cs:line 258
+   at SimpleServings.UI.UDC.SimpleServings.Menu.MenuItemGrid.PopGrid(Int32 menuID) in c:\TFS\DFTA\SimpleServings\SimpleServings\SimpleServings\UI\UDC\SimpleServings\Menu\MenuItemGrid.ascx.cs:line 80
+   at SimpleServings.UI.UDC.SimpleServings.Menu.MenuItemGrid.Page_Load(Object sender, EventArgs e) in c:\TFS\DFTA\SimpleServings\SimpleServings\SimpleServings\UI\UDC\SimpleServings\Menu\MenuItemGrid.ascx.cs:line 53
+   at System.Web.Util.CalliHelper.EventArgFunctionCaller(IntPtr fp, Object o, Object t, EventArgs e)
+   at System.Web.Util.CalliEventHandlerDelegateProxy.Callback(Object sender, EventArgs e)
+   at System.Web.UI.Control.OnLoad(EventArgs e)
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   --- End of inner exception stack trace ---
+   at System.Web.UI.Page.HandleError(Exception e)
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   at System.Web.UI.Page.ProcessRequest(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   at System.Web.UI.Page.ProcessRequest()
+   at System.Web.UI.Page.ProcessRequestWithNoAssert(HttpContext context)
+   at System.Web.UI.Page.ProcessRequest(HttpContext context)
+   at ASP.ui_page_simpleservings_menu_viewmenu_aspx.ProcessRequest(HttpContext context) in c:\Windows\Microsoft.NET\Framework\v2.0.50727\Temporary ASP.NET Files\simpleservings\50605a42\75e306da\App_Web_kftrzc85.14.cs:line 0
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+2016-12-29 17:09:28,876 [  7] ERROR AppManager [(null)] SimpleServings application error: Exception of type 'System.Web.HttpUnhandledException' was thrown.
+location: http://localhost:1949/SimpleServings/UI/Page/SimpleServings/Menu/ViewMenu.aspx?MenuID=7249&WeekSelected=1
+
+System.Web.HttpUnhandledException: Exception of type 'System.Web.HttpUnhandledException' was thrown. ---> System.Exception: Get Menu By MenuID did not return a record!
+   at SimpleServingsLibrary.Menu.MenuDB.GetMenuByMenuID(Int32 menuID) in c:\TFS\DFTA\SimpleServingsLibrary\SimpleServings.Menu\DAL\MenuDB.cs:line 124
+   at SimpleServingsLibrary.Menu.Menu.GetMenuByMenuID(Int32 menuID) in c:\TFS\DFTA\SimpleServingsLibrary\SimpleServings.Menu\BLL\Menu.cs:line 258
+   at SimpleServings.UI.UDC.SimpleServings.Menu.MenuItemGrid.PopGrid(Int32 menuID) in c:\TFS\DFTA\SimpleServings\SimpleServings\SimpleServings\UI\UDC\SimpleServings\Menu\MenuItemGrid.ascx.cs:line 80
+   at SimpleServings.UI.UDC.SimpleServings.Menu.MenuItemGrid.Page_Load(Object sender, EventArgs e) in c:\TFS\DFTA\SimpleServings\SimpleServings\SimpleServings\UI\UDC\SimpleServings\Menu\MenuItemGrid.ascx.cs:line 53
+   at System.Web.Util.CalliHelper.EventArgFunctionCaller(IntPtr fp, Object o, Object t, EventArgs e)
+   at System.Web.Util.CalliEventHandlerDelegateProxy.Callback(Object sender, EventArgs e)
+   at System.Web.UI.Control.OnLoad(EventArgs e)
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   --- End of inner exception stack trace ---
+   at System.Web.UI.Page.HandleError(Exception e)
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   at System.Web.UI.Page.ProcessRequest(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   at System.Web.UI.Page.ProcessRequest()
+   at System.Web.UI.Page.ProcessRequestWithNoAssert(HttpContext context)
+   at System.Web.UI.Page.ProcessRequest(HttpContext context)
+   at ASP.ui_page_simpleservings_menu_viewmenu_aspx.ProcessRequest(HttpContext context) in c:\Windows\Microsoft.NET\Framework\v2.0.50727\Temporary ASP.NET Files\simpleservings\50605a42\75e306da\App_Web_kftrzc85.14.cs:line 0
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+2016-12-29 17:09:32,737 [  7] ERROR AppManager [(null)] SimpleServings application error: Exception of type 'System.Web.HttpUnhandledException' was thrown.
+location: http://localhost:1949/SimpleServings/UI/Page/SimpleServings/Menu/ViewMenu.aspx?MenuID=7249&WeekSelected=1
+
+System.Web.HttpUnhandledException: Exception of type 'System.Web.HttpUnhandledException' was thrown. ---> System.Exception: Get Menu By MenuID did not return a record!
+   at SimpleServingsLibrary.Menu.MenuDB.GetMenuByMenuID(Int32 menuID) in c:\TFS\DFTA\SimpleServingsLibrary\SimpleServings.Menu\DAL\MenuDB.cs:line 124
+   at SimpleServingsLibrary.Menu.Menu.GetMenuByMenuID(Int32 menuID) in c:\TFS\DFTA\SimpleServingsLibrary\SimpleServings.Menu\BLL\Menu.cs:line 258
+   at SimpleServings.UI.UDC.SimpleServings.Menu.MenuItemGrid.PopGrid(Int32 menuID) in c:\TFS\DFTA\SimpleServings\SimpleServings\SimpleServings\UI\UDC\SimpleServings\Menu\MenuItemGrid.ascx.cs:line 80
+   at SimpleServings.UI.UDC.SimpleServings.Menu.MenuItemGrid.Page_Load(Object sender, EventArgs e) in c:\TFS\DFTA\SimpleServings\SimpleServings\SimpleServings\UI\UDC\SimpleServings\Menu\MenuItemGrid.ascx.cs:line 53
+   at System.Web.Util.CalliHelper.EventArgFunctionCaller(IntPtr fp, Object o, Object t, EventArgs e)
+   at System.Web.Util.CalliEventHandlerDelegateProxy.Callback(Object sender, EventArgs e)
+   at System.Web.UI.Control.OnLoad(EventArgs e)
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   --- End of inner exception stack trace ---
+   at System.Web.UI.Page.HandleError(Exception e)
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   at System.Web.UI.Page.ProcessRequest(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   at System.Web.UI.Page.ProcessRequest()
+   at System.Web.UI.Page.ProcessRequestWithNoAssert(HttpContext context)
+   at System.Web.UI.Page.ProcessRequest(HttpContext context)
+   at ASP.ui_page_simpleservings_menu_viewmenu_aspx.ProcessRequest(HttpContext context) in c:\Windows\Microsoft.NET\Framework\v2.0.50727\Temporary ASP.NET Files\simpleservings\50605a42\75e306da\App_Web_kftrzc85.14.cs:line 0
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+2016-12-29 17:09:36,625 [  9] ERROR AppManager [(null)] SimpleServings application error: Exception of type 'System.Web.HttpUnhandledException' was thrown.
+location: http://localhost:1949/SimpleServings/UI/Page/SimpleServings/Menu/AddMenuItem.aspx?MenuID=7249&WeekSelected=1
+
+System.Web.HttpUnhandledException: Exception of type 'System.Web.HttpUnhandledException' was thrown. ---> System.Exception: Get Menu By MenuID did not return a record!
+   at SimpleServingsLibrary.Menu.MenuDB.GetMenuByMenuID(Int32 menuID) in c:\TFS\DFTA\SimpleServingsLibrary\SimpleServings.Menu\DAL\MenuDB.cs:line 124
+   at SimpleServingsLibrary.Menu.Menu.GetMenuByMenuID(Int32 menuID) in c:\TFS\DFTA\SimpleServingsLibrary\SimpleServings.Menu\BLL\Menu.cs:line 258
+   at SimpleServings.UI.UDC.SimpleServings.Menu.MenuItemGrid.PopGrid(Int32 menuID) in c:\TFS\DFTA\SimpleServings\SimpleServings\SimpleServings\UI\UDC\SimpleServings\Menu\MenuItemGrid.ascx.cs:line 80
+   at SimpleServings.UI.UDC.SimpleServings.Menu.MenuItemGrid.Page_Load(Object sender, EventArgs e) in c:\TFS\DFTA\SimpleServings\SimpleServings\SimpleServings\UI\UDC\SimpleServings\Menu\MenuItemGrid.ascx.cs:line 53
+   at System.Web.Util.CalliHelper.EventArgFunctionCaller(IntPtr fp, Object o, Object t, EventArgs e)
+   at System.Web.Util.CalliEventHandlerDelegateProxy.Callback(Object sender, EventArgs e)
+   at System.Web.UI.Control.OnLoad(EventArgs e)
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   --- End of inner exception stack trace ---
+   at System.Web.UI.Page.HandleError(Exception e)
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   at System.Web.UI.Page.ProcessRequest(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   at System.Web.UI.Page.ProcessRequest()
+   at System.Web.UI.Page.ProcessRequestWithNoAssert(HttpContext context)
+   at System.Web.UI.Page.ProcessRequest(HttpContext context)
+   at ASP.ui_page_simpleservings_menu_addmenuitem_aspx.ProcessRequest(HttpContext context) in c:\Windows\Microsoft.NET\Framework\v2.0.50727\Temporary ASP.NET Files\simpleservings\50605a42\75e306da\App_Web_kftrzc85.12.cs:line 0
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+2016-12-29 17:09:37,100 [  7] ERROR AppManager [(null)] SimpleServings application error: Exception of type 'System.Web.HttpUnhandledException' was thrown.
+location: http://localhost:1949/SimpleServings/UI/Page/SimpleServings/Menu/ViewMenu.aspx?MenuID=7249
+
+System.Web.HttpUnhandledException: Exception of type 'System.Web.HttpUnhandledException' was thrown. ---> System.Exception: Get Menu By MenuID did not return a record!
+   at SimpleServingsLibrary.Menu.MenuDB.GetMenuByMenuID(Int32 menuID) in c:\TFS\DFTA\SimpleServingsLibrary\SimpleServings.Menu\DAL\MenuDB.cs:line 124
+   at SimpleServingsLibrary.Menu.Menu.GetMenuByMenuID(Int32 menuID) in c:\TFS\DFTA\SimpleServingsLibrary\SimpleServings.Menu\BLL\Menu.cs:line 258
+   at SimpleServings.UI.UDC.SimpleServings.Menu.MenuItemGrid.PopGrid(Int32 menuID) in c:\TFS\DFTA\SimpleServings\SimpleServings\SimpleServings\UI\UDC\SimpleServings\Menu\MenuItemGrid.ascx.cs:line 80
+   at SimpleServings.UI.UDC.SimpleServings.Menu.MenuItemGrid.Page_Load(Object sender, EventArgs e) in c:\TFS\DFTA\SimpleServings\SimpleServings\SimpleServings\UI\UDC\SimpleServings\Menu\MenuItemGrid.ascx.cs:line 53
+   at System.Web.Util.CalliHelper.EventArgFunctionCaller(IntPtr fp, Object o, Object t, EventArgs e)
+   at System.Web.Util.CalliEventHandlerDelegateProxy.Callback(Object sender, EventArgs e)
+   at System.Web.UI.Control.OnLoad(EventArgs e)
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   --- End of inner exception stack trace ---
+   at System.Web.UI.Page.HandleError(Exception e)
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   at System.Web.UI.Page.ProcessRequest(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   at System.Web.UI.Page.ProcessRequest()
+   at System.Web.UI.Page.ProcessRequestWithNoAssert(HttpContext context)
+   at System.Web.UI.Page.ProcessRequest(HttpContext context)
+   at ASP.ui_page_simpleservings_menu_viewmenu_aspx.ProcessRequest(HttpContext context) in c:\Windows\Microsoft.NET\Framework\v2.0.50727\Temporary ASP.NET Files\simpleservings\50605a42\75e306da\App_Web_kftrzc85.14.cs:line 0
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+2016-12-29 17:25:42,557 [  5] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: dedibk550y0dos455j3ojq2h
+2016-12-29 17:27:22,619 [  5] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: dedibk550y0dos455j3ojq2h
+2016-12-29 17:27:22,651 [ 12] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: dedibk550y0dos455j3ojq2h
+2016-12-29 17:27:22,775 [  5] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: dedibk550y0dos455j3ojq2h
+2016-12-29 17:27:23,041 [ 12] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: dedibk550y0dos455j3ojq2h
+2016-12-29 17:27:27,374 [  9] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: dedibk550y0dos455j3ojq2h
+2016-12-29 17:27:27,374 [  7] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: dedibk550y0dos455j3ojq2h
+2016-12-29 17:27:28,869 [  7] INFO  AppManager [(null)] (landingPage.aspx) - Request from http://localhost:1949/SimpleServings/ui/page/ 
+Request Type: LogInOut 
+SessionId: dedibk550y0dos455j3ojq2h
+2016-12-29 17:27:28,870 [  7] INFO  AppManager [(null)] (landingPage.aspx) - Redirecting to Login.aspx 
+Request Type: LogInOut 
+SessionId: dedibk550y0dos455j3ojq2h
+2016-12-29 17:27:31,759 [ 12] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: 2emq1z45hvpjcjymwtvkra45
+2016-12-29 17:44:36,736 [ 11] INFO  AppManager [(null)] SimpleServings started.
+2016-12-29 17:44:45,248 [ 10] INFO  AppManager [(null)] (landingPage.aspx) - Redirecting to Login.aspx 
+Request Type: LogInOut 
+SessionId: 
+2016-12-29 17:44:48,181 [  7] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: 3dsxw2jhsaaxls55pawxp045

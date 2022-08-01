@@ -1,0 +1,286 @@
+2022-07-05 14:20:44,521 [343] INFO  AppManager [(null)] SimpleServings started.
+2022-07-05 14:21:25,381 [351] ERROR AppManager [(null)] btnLogin_Click failed: Incorrect username and/or password.
+2022-07-05 14:21:40,687 [348] INFO  AppManager [(null)] (landingPage.aspx) - Clearing Session 
+Request Type:  
+SessionId: oofuuhrsiqbtwcg5thgvvkel
+2022-07-05 14:21:40,692 [352] INFO  AppManager [(null)] (landingPage.aspx) - New Session 
+Request Type:  
+SessionId: i2pmiwobnhfcxvdbtg4z10bx
+2022-07-05 14:21:40,921 [341] INFO  AppManager [(null)] (login.aspx) - (scott.deas) - Login successful 
+SessionId: 1kncmyeqbvd3brezf40on04a
+2022-07-05 14:21:41,013 [354] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: i2pmiwobnhfcxvdbtg4z10bx
+2022-07-05 14:21:44,784 [366] INFO  AppManager [(null)] (Recipe.aspx) - Request from http://localhost:1946/SimpleServings/UI/Page/Home.aspx 
+SessionId: i2pmiwobnhfcxvdbtg4z10bx
+2022-07-05 14:26:46,123 [354] INFO  AppManager [(null)] (landingPage.aspx) - Clearing Session 
+Request Type:  
+SessionId: gwtcxegabzt3ksjosiw1pfi5
+2022-07-05 14:26:46,144 [367] INFO  AppManager [(null)] (landingPage.aspx) - New Session 
+Request Type:  
+SessionId: fxzs4b441vnriohrfehwlqlk
+2022-07-05 14:26:46,537 [366] ERROR AppManager [(null)] btnLogin_Click failed: Incorrect username and/or password.
+2022-07-05 14:27:02,591 [366] INFO  AppManager [(null)] (landingPage.aspx) - Clearing Session 
+Request Type:  
+SessionId: fxzs4b441vnriohrfehwlqlk
+2022-07-05 14:27:02,598 [351] INFO  AppManager [(null)] (landingPage.aspx) - New Session 
+Request Type:  
+SessionId: mfv4uvciwipgsvlhmmnrsh31
+2022-07-05 14:27:03,368 [366] INFO  AppManager [(null)] (login.aspx) - (scott.deas) - Login successful 
+SessionId: fxzs4b441vnriohrfehwlqlk
+2022-07-05 14:27:03,392 [354] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: mfv4uvciwipgsvlhmmnrsh31
+2022-07-05 14:27:22,075 [366] INFO  AppManager [(null)] (Recipe.aspx) - Request from http://localhost:1946/SimpleServings/UI/Page/Home.aspx 
+SessionId: mfv4uvciwipgsvlhmmnrsh31
+2022-07-05 15:20:14,750 [363] INFO  AppManager [(null)] SimpleServings started.
+2022-07-05 15:20:44,385 [376] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: ecjrrjauno01aa3nl0qbijbe
+2022-07-05 15:20:47,768 [360] INFO  AppManager [(null)] (Recipe.aspx) - Request from http://localhost:1946/SimpleServings/UI/Page/Home.aspx 
+SessionId: ecjrrjauno01aa3nl0qbijbe
+2022-07-05 15:28:43,997 [380] INFO  AppManager [(null)] (landingPage.aspx) - Clearing Session 
+Request Type:  
+SessionId: 0g5m5yvvixq4kygm3tufgmda
+2022-07-05 15:28:44,004 [340] INFO  AppManager [(null)] (landingPage.aspx) - New Session 
+Request Type:  
+SessionId: rnuruiu1zd5slznosh4hdrig
+2022-07-05 15:28:44,596 [341] INFO  AppManager [(null)] (login.aspx) - (Mli) - Login successful 
+SessionId: kdrmjj5itzfbgdrjxlizlznc
+2022-07-05 15:28:44,601 [347] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: rnuruiu1zd5slznosh4hdrig
+2022-07-05 15:28:58,355 [ 94] INFO  AppManager [(null)] (Recipe.aspx) - Request from http://localhost:1946/SimpleServings/UI/Page/Home.aspx 
+SessionId: rnuruiu1zd5slznosh4hdrig
+2022-07-05 15:30:25,627 [357] INFO  AppManager [(null)] (landingPage.aspx) - Clearing Session 
+Request Type:  
+SessionId: ubnkqdtqfuiroar5h3dkiuke
+2022-07-05 15:30:25,651 [357] INFO  AppManager [(null)] (landingPage.aspx) - New Session 
+Request Type:  
+SessionId: ifvdb0xzltphvmv3bl0xfo50
+2022-07-05 15:30:26,279 [ 40] INFO  AppManager [(null)] (login.aspx) - (Mli) - Login successful 
+SessionId: r2ublwt2gnxiav2e2eofi4ix
+2022-07-05 15:30:26,304 [351] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: ifvdb0xzltphvmv3bl0xfo50
+2022-07-05 15:30:28,186 [ 40] INFO  AppManager [(null)] (Recipe.aspx) - Request from http://localhost:1946/SimpleServings/UI/Page/Home.aspx 
+SessionId: ifvdb0xzltphvmv3bl0xfo50
+2022-07-05 15:32:51,335 [363] INFO  AppManager [(null)] SimpleServings started.
+2022-07-05 15:33:21,540 [352] ERROR AppManager [(null)] btnLogin_Click failed: Incorrect username and/or password.
+2022-07-05 15:33:29,298 [385] INFO  AppManager [(null)] (landingPage.aspx) - Clearing Session 
+Request Type:  
+SessionId: l3eav5aslo0zhy4thaatq0c3
+2022-07-05 15:33:29,303 [392] INFO  AppManager [(null)] (landingPage.aspx) - New Session 
+Request Type:  
+SessionId: fxxlurcru1afdhzgfctnb3kf
+2022-07-05 15:33:29,547 [368] ERROR AppManager [(null)] btnLogin_Click failed: Incorrect username and/or password.
+2022-07-05 15:33:38,018 [378] INFO  AppManager [(null)] (landingPage.aspx) - Clearing Session 
+Request Type:  
+SessionId: fxxlurcru1afdhzgfctnb3kf
+2022-07-05 15:33:38,023 [372] INFO  AppManager [(null)] (landingPage.aspx) - New Session 
+Request Type:  
+SessionId: kc44cpvko331n53xmhc0s0zo
+2022-07-05 15:33:38,268 [352] INFO  AppManager [(null)] (login.aspx) - (Mli) - Login successful 
+SessionId: ewu1ghvtd12br5dol5k3rn4v
+2022-07-05 15:33:38,291 [365] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: kc44cpvko331n53xmhc0s0zo
+2022-07-05 15:33:43,700 [ 40] INFO  AppManager [(null)] (Recipe.aspx) - Request from http://localhost:1946/SimpleServings/UI/Page/SimpleServings/Recipe/AddRecipe.aspx 
+SessionId: kc44cpvko331n53xmhc0s0zo
+2022-07-05 15:56:28,502 [382] INFO  AppManager [(null)] SimpleServings started.
+2022-07-05 15:57:00,547 [312] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: fepwwf2ywhlwvqcm3zsmlpw5
+2022-07-05 15:57:03,535 [389] INFO  AppManager [(null)] (Recipe.aspx) - Request from http://localhost:1946/SimpleServings/UI/Page/Home.aspx 
+SessionId: fepwwf2ywhlwvqcm3zsmlpw5
+2022-07-05 16:06:15,944 [390] INFO  AppManager [(null)] SimpleServings started.
+2022-07-05 16:06:50,226 [368] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: 0zztuuctqckspipy3vliwrpg
+2022-07-05 16:06:56,441 [137] INFO  AppManager [(null)] (Recipe.aspx) - Request from http://localhost:1946/SimpleServings/UI/Page/Home.aspx 
+SessionId: 0zztuuctqckspipy3vliwrpg
+2022-07-05 16:07:05,749 [372] INFO  AppManager [(null)] (landingPage.aspx) - Request from http://localhost:1946/SimpleServings/UI/Page/SimpleServings/Recipe/Recipe.aspx 
+Request Type: LogInOut 
+SessionId: 0zztuuctqckspipy3vliwrpg
+2022-07-05 16:07:05,749 [372] INFO  AppManager [(null)] (landingPage.aspx) - Redirecting to Login.aspx 
+Request Type: LogInOut 
+SessionId: 0zztuuctqckspipy3vliwrpg
+2022-07-05 16:07:05,753 [  9] INFO  AppManager [(null)] (login.aspx) - Request from http://localhost:1946/SimpleServings/UI/Page/SimpleServings/Recipe/Recipe.aspx 
+SessionId: wxkelgx142sfbicwwy4z4wnd
+2022-07-05 16:07:12,446 [292] INFO  AppManager [(null)] (Recipe.aspx) - Request from http://localhost:1946/SimpleServings/UI/Page/SimpleServings/Recipe/ViewRecipe.aspx?RecipeID=852 
+SessionId: c53dszfw2emv0gnx4b32zqw5
+2022-07-05 16:07:15,267 [373] INFO  AppManager [(null)] (landingPage.aspx) - Request from http://localhost:1946/SimpleServings/UI/Page/SimpleServings/Recipe/Recipe.aspx 
+Request Type: LogInOut 
+SessionId: 0jty0rpzx4clc1vensxof3hp
+2022-07-05 16:07:15,267 [373] INFO  AppManager [(null)] (landingPage.aspx) - Redirecting to Login.aspx 
+Request Type: LogInOut 
+SessionId: 0jty0rpzx4clc1vensxof3hp
+2022-07-05 16:07:15,271 [372] INFO  AppManager [(null)] (login.aspx) - Request from http://localhost:1946/SimpleServings/UI/Page/SimpleServings/Recipe/Recipe.aspx 
+SessionId: jwkrw30k4ba4owqvldc24jhe
+2022-07-05 16:07:31,905 [385] INFO  AppManager [(null)] (landingPage.aspx) - Clearing Session 
+Request Type:  
+SessionId: kew2vaohbzqsliqaf0h4dyd2
+2022-07-05 16:07:31,912 [379] INFO  AppManager [(null)] (landingPage.aspx) - New Session 
+Request Type:  
+SessionId: moo5pwbahocck3zowglzww1e
+2022-07-05 16:07:32,167 [161] INFO  AppManager [(null)] (login.aspx) - (Mli) - Login successful 
+SessionId: 5ukxmewiyuiylwsgdq0wqmgl
+2022-07-05 16:07:32,182 [365] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: moo5pwbahocck3zowglzww1e
+2022-07-05 16:07:33,985 [137] INFO  AppManager [(null)] (Recipe.aspx) - Request from http://localhost:1946/SimpleServings/UI/Page/Home.aspx 
+SessionId: moo5pwbahocck3zowglzww1e
+2022-07-05 16:08:19,184 [292] INFO  AppManager [(null)] (landingPage.aspx) - Clearing Session 
+Request Type:  
+SessionId: 5q1x0pxsheqfopnovouzqwzt
+2022-07-05 16:08:19,191 [386] INFO  AppManager [(null)] (landingPage.aspx) - New Session 
+Request Type:  
+SessionId: lotkn43q5w1xrqqxuanoxkxm
+2022-07-05 16:08:19,817 [385] INFO  AppManager [(null)] (login.aspx) - (Mli) - Login successful 
+SessionId: wequrle5vv3malotgtkbwpcf
+2022-07-05 16:08:19,821 [  9] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: lotkn43q5w1xrqqxuanoxkxm
+2022-07-05 16:08:21,360 [352] INFO  AppManager [(null)] (Recipe.aspx) - Request from http://localhost:1946/SimpleServings/UI/Page/Home.aspx 
+SessionId: lotkn43q5w1xrqqxuanoxkxm
+2022-07-05 16:08:29,626 [373] INFO  AppManager [(null)] (Recipe.aspx) - Request from http://localhost:1946/SimpleServings/UI/Page/SimpleServings/Recipe/ViewRecipe.aspx?RecipeID=2416 
+SessionId: lotkn43q5w1xrqqxuanoxkxm
+2022-07-05 16:08:35,922 [379] INFO  AppManager [(null)] (landingPage.aspx) - Request from http://localhost:1946/SimpleServings/UI/Page/SimpleServings/Recipe/ViewRecipe.aspx?RecipeID=852 
+Request Type: LogInOut 
+SessionId: lotkn43q5w1xrqqxuanoxkxm
+2022-07-05 16:08:35,923 [379] INFO  AppManager [(null)] (landingPage.aspx) - Redirecting to Login.aspx 
+Request Type: LogInOut 
+SessionId: lotkn43q5w1xrqqxuanoxkxm
+2022-07-05 16:08:35,927 [386] INFO  AppManager [(null)] (login.aspx) - Request from http://localhost:1946/SimpleServings/UI/Page/SimpleServings/Recipe/ViewRecipe.aspx?RecipeID=852 
+SessionId: lakv0tn0jbjaxhfg3hi5v0pa
+2022-07-05 16:08:44,336 [  9] INFO  AppManager [(null)] (landingPage.aspx) - Clearing Session 
+Request Type:  
+SessionId: pw2cp4ftd2b1wlfqnd1nipll
+2022-07-05 16:08:44,343 [355] INFO  AppManager [(null)] (landingPage.aspx) - New Session 
+Request Type:  
+SessionId: eznjd0qtxrmdr0y0zibyasmg
+2022-07-05 16:08:44,613 [386] INFO  AppManager [(null)] (login.aspx) - (scott.deas) - Login successful 
+SessionId: q3xuy04fwslihroc3zt3iao2
+2022-07-05 16:08:44,618 [379] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: eznjd0qtxrmdr0y0zibyasmg
+2022-07-05 16:08:46,722 [372] INFO  AppManager [(null)] (Recipe.aspx) - Request from http://localhost:1946/SimpleServings/UI/Page/Home.aspx 
+SessionId: eznjd0qtxrmdr0y0zibyasmg
+2022-07-05 16:46:38,384 [382] INFO  AppManager [(null)] SimpleServings started.
+2022-07-05 16:51:36,393 [308] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: ftvldmkwfiw1e3awpxhl3o5m
+2022-07-05 16:51:39,397 [ 28] INFO  AppManager [(null)] (Recipe.aspx) - Request from http://localhost:1946/SimpleServings/UI/Page/Home.aspx 
+SessionId: ftvldmkwfiw1e3awpxhl3o5m
+2022-07-05 16:52:49,851 [292] INFO  AppManager [(null)] SimpleServings started.
+2022-07-05 16:53:11,330 [308] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: eyqow4ps2orvwcyk4pnwuvro
+2022-07-05 16:53:13,728 [ 28] INFO  AppManager [(null)] (Recipe.aspx) - Request from http://localhost:1946/SimpleServings/UI/Page/Home.aspx 
+SessionId: eyqow4ps2orvwcyk4pnwuvro
+2022-07-05 16:54:37,245 [318] INFO  AppManager [(null)] (landingPage.aspx) - Clearing Session 
+Request Type:  
+SessionId: x2meuuxikh03ryf5ojufttfl
+2022-07-05 16:54:37,254 [123] INFO  AppManager [(null)] (landingPage.aspx) - New Session 
+Request Type:  
+SessionId: gavh2jrltxt3d501qq5sjzre
+2022-07-05 16:54:37,502 [308] INFO  AppManager [(null)] (login.aspx) - (Mli) - Login successful 
+SessionId: dpnod31crgux5vqpxcqbwsz0
+2022-07-05 16:54:37,525 [  6] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: gavh2jrltxt3d501qq5sjzre
+2022-07-05 16:54:39,204 [318] INFO  AppManager [(null)] (Recipe.aspx) - Request from http://localhost:1946/SimpleServings/UI/Page/Home.aspx 
+SessionId: gavh2jrltxt3d501qq5sjzre
+2022-07-05 16:55:13,103 [294] INFO  AppManager [(null)] (landingPage.aspx) - Clearing Session 
+Request Type:  
+SessionId: 0krqoqet22or5v0pyte1f0tk
+2022-07-05 16:55:13,111 [ 28] INFO  AppManager [(null)] (landingPage.aspx) - New Session 
+Request Type:  
+SessionId: 3irhghfwasjkg4kgnil3nmxx
+2022-07-05 16:55:13,325 [368] INFO  AppManager [(null)] (login.aspx) - (Mli) - Login successful 
+SessionId: 4zpbkdzygkqybbbwobaxnln4
+2022-07-05 16:55:13,329 [ 37] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: 3irhghfwasjkg4kgnil3nmxx
+2022-07-05 16:55:14,632 [ 32] INFO  AppManager [(null)] (Recipe.aspx) - Request from http://localhost:1946/SimpleServings/UI/Page/Home.aspx 
+SessionId: 3irhghfwasjkg4kgnil3nmxx
+2022-07-05 16:55:46,110 [391] INFO  AppManager [(null)] SimpleServings started.
+2022-07-05 16:56:10,362 [391] INFO  AppManager [(null)] SimpleServings started.
+2022-07-05 16:56:54,876 [368] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: px3n11kejdgvlenuyf1druqt
+2022-07-05 16:57:00,104 [  6] INFO  AppManager [(null)] (Recipe.aspx) - Request from http://localhost:1946/SimpleServings/UI/Page/Home.aspx 
+SessionId: px3n11kejdgvlenuyf1druqt
+2022-07-05 16:57:31,574 [308] INFO  AppManager [(null)] (landingPage.aspx) - Clearing Session 
+Request Type:  
+SessionId: kzkkp1o5yqkedy1uyxiveu0z
+2022-07-05 16:57:31,583 [123] INFO  AppManager [(null)] (landingPage.aspx) - New Session 
+Request Type:  
+SessionId: 4vmukkoot5oltwaz0kjjlfvv
+2022-07-05 16:57:31,875 [318] INFO  AppManager [(null)] (login.aspx) - (Mli) - Login successful 
+SessionId: xd50opwt44ptis3bi51mmp4w
+2022-07-05 16:57:31,900 [  6] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: 4vmukkoot5oltwaz0kjjlfvv
+2022-07-05 16:57:33,610 [318] INFO  AppManager [(null)] (Recipe.aspx) - Request from http://localhost:1946/SimpleServings/UI/Page/Home.aspx 
+SessionId: 4vmukkoot5oltwaz0kjjlfvv
+2022-07-05 16:58:31,329 [292] INFO  AppManager [(null)] SimpleServings started.
+2022-07-05 16:58:59,607 [308] ERROR AppManager [(null)] btnLogin_Click failed: Incorrect username and/or password.
+2022-07-05 16:59:07,613 [ 28] INFO  AppManager [(null)] (landingPage.aspx) - Clearing Session 
+Request Type:  
+SessionId: rat2shzzdki0voxiqvipa53o
+2022-07-05 16:59:07,623 [308] INFO  AppManager [(null)] (landingPage.aspx) - New Session 
+Request Type:  
+SessionId: nzp1fto2ocrfu4fldmbsff5v
+2022-07-05 16:59:08,370 [318] INFO  AppManager [(null)] (login.aspx) - (Mli) - Login successful 
+SessionId: rat2shzzdki0voxiqvipa53o
+2022-07-05 16:59:08,416 [  6] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: nzp1fto2ocrfu4fldmbsff5v
+2022-07-05 16:59:11,024 [308] INFO  AppManager [(null)] (Recipe.aspx) - Request from http://localhost:1946/SimpleServings/UI/Page/Home.aspx 
+SessionId: nzp1fto2ocrfu4fldmbsff5v
+2022-07-05 17:00:56,683 [308] INFO  AppManager [(null)] (landingPage.aspx) - Clearing Session 
+Request Type:  
+SessionId: vnteezn5tvw0evypupixj41r
+2022-07-05 17:00:56,700 [  6] INFO  AppManager [(null)] (landingPage.aspx) - New Session 
+Request Type:  
+SessionId: 4bcsudnrfjgprkvcyw4dow00
+2022-07-05 17:00:57,231 [318] INFO  AppManager [(null)] (login.aspx) - (Mli) - Login successful 
+SessionId: rpy0bxoszrbtpyukylzqpxhg
+2022-07-05 17:00:57,257 [  6] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: 4bcsudnrfjgprkvcyw4dow00
+2022-07-05 17:00:58,651 [318] INFO  AppManager [(null)] (Recipe.aspx) - Request from http://localhost:1946/SimpleServings/UI/Page/Home.aspx 
+SessionId: 4bcsudnrfjgprkvcyw4dow00
+2022-07-05 17:02:30,110 [318] INFO  AppManager [(null)] (landingPage.aspx) - Clearing Session 
+Request Type:  
+SessionId: voemrqwgzwkplrrqrve4b14f
+2022-07-05 17:02:30,132 [  6] INFO  AppManager [(null)] (landingPage.aspx) - New Session 
+Request Type:  
+SessionId: qxraki4vilb5aia3dshxh3vf
+2022-07-05 17:02:30,422 [308] INFO  AppManager [(null)] (login.aspx) - (Mli) - Login successful 
+SessionId: wjnct4lk1tpr3ympnp1o5d1g
+2022-07-05 17:02:30,448 [  6] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: qxraki4vilb5aia3dshxh3vf
+2022-07-05 17:02:31,870 [318] INFO  AppManager [(null)] (Recipe.aspx) - Request from http://localhost:1946/SimpleServings/UI/Page/Home.aspx 
+SessionId: qxraki4vilb5aia3dshxh3vf
+2022-07-05 17:05:28,866 [126] INFO  AppManager [(null)] (landingPage.aspx) - Clearing Session 
+Request Type:  
+SessionId: yguov4stdphhaqiaipejyter
+2022-07-05 17:05:28,874 [119] INFO  AppManager [(null)] (landingPage.aspx) - New Session 
+Request Type:  
+SessionId: irsnt51qsz0uhyqpubpafw2d
+2022-07-05 17:05:29,451 [369] INFO  AppManager [(null)] (login.aspx) - (Mli) - Login successful 
+SessionId: n0yopo1jzcrexezyhcfkfuhk
+2022-07-05 17:05:29,457 [125] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: irsnt51qsz0uhyqpubpafw2d
+2022-07-05 17:05:31,322 [306] INFO  AppManager [(null)] (Recipe.aspx) - Request from http://localhost:1946/SimpleServings/UI/Page/Home.aspx 
+SessionId: irsnt51qsz0uhyqpubpafw2d
+2022-07-05 17:05:39,129 [306] INFO  AppManager [(null)] (landingPage.aspx) - Request from http://localhost:1946/SimpleServings/UI/Page/SimpleServings/Recipe/Recipe.aspx 
+Request Type: LogInOut 
+SessionId: irsnt51qsz0uhyqpubpafw2d
+2022-07-05 17:05:39,129 [306] INFO  AppManager [(null)] (landingPage.aspx) - Redirecting to Login.aspx 
+Request Type: LogInOut 
+SessionId: irsnt51qsz0uhyqpubpafw2d
+2022-07-05 17:05:39,133 [ 29] INFO  AppManager [(null)] (login.aspx) - Request from http://localhost:1946/SimpleServings/UI/Page/SimpleServings/Recipe/Recipe.aspx 
+SessionId: rxflrysox1tb2ppyi5a1nbnn
+2022-07-05 17:05:56,976 [369] INFO  AppManager [(null)] (landingPage.aspx) - Clearing Session 
+Request Type:  
+SessionId: ao5c503uv5ey2um24pcmuo0h
+2022-07-05 17:05:56,983 [ 19] INFO  AppManager [(null)] (landingPage.aspx) - New Session 
+Request Type:  
+SessionId: xuxkykvhqze3bhhktm15swsd
+2022-07-05 17:05:57,201 [126] ERROR AppManager [(null)] btnLogin_Click failed: Incorrect username and/or password.
+2022-07-05 17:06:06,121 [306] INFO  AppManager [(null)] (landingPage.aspx) - Clearing Session 
+Request Type:  
+SessionId: xuxkykvhqze3bhhktm15swsd
+2022-07-05 17:06:06,127 [132] INFO  AppManager [(null)] (landingPage.aspx) - New Session 
+Request Type:  
+SessionId: i3befttfhecslgwfzth3rtbz
+2022-07-05 17:06:06,457 [369] INFO  AppManager [(null)] (login.aspx) - (scott.deas) - Login successful 
+SessionId: fv4ia0pywyn2wjrvogloinwb
+2022-07-05 17:06:06,464 [329] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: i3befttfhecslgwfzth3rtbz
+2022-07-05 17:06:10,158 [126] INFO  AppManager [(null)] (Recipe.aspx) - Request from http://localhost:1946/SimpleServings/UI/Page/Home.aspx 
+SessionId: i3befttfhecslgwfzth3rtbz

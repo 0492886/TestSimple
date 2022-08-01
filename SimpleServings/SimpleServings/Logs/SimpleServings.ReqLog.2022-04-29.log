@@ -1,0 +1,204 @@
+2022-04-29 11:30:44,255 [  1] INFO  AppManager [(null)] SimpleServings started.
+2022-04-29 11:31:25,574 [ 14] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: kqycfexektswuyapy0qb2m5x
+2022-04-29 11:32:51,720 [ 13] INFO  AppManager [(null)] (Recipe.aspx) - Request from http://localhost:1945/SimpleServings/UI/Page/SimpleServings/Recipe/AddRecipe.aspx 
+SessionId: kqycfexektswuyapy0qb2m5x
+2022-04-29 11:36:42,177 [ 19] INFO  AppManager [(null)] (landingPage.aspx) - Clearing Session 
+Request Type:  
+SessionId: 4a0qtuhjq5wmj25m1soqwmwo
+2022-04-29 11:36:42,268 [ 33] INFO  AppManager [(null)] (landingPage.aspx) - New Session 
+Request Type:  
+SessionId: 1lwmrca4ega54ok2ql3ztn5o
+2022-04-29 11:36:42,432 [ 24] INFO  AppManager [(null)] (login.aspx) - (Mli) - Login successful 
+SessionId: 0yjg4soz1owjrvotvqfxvb41
+2022-04-29 11:36:42,438 [ 35] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: 1lwmrca4ega54ok2ql3ztn5o
+2022-04-29 11:36:45,556 [ 15] INFO  AppManager [(null)] (Recipe.aspx) - Request from http://localhost:1945/SimpleServings/UI/Page/Home.aspx 
+SessionId: 1lwmrca4ega54ok2ql3ztn5o
+2022-04-29 13:28:29,155 [  1] INFO  AppManager [(null)] SimpleServings started.
+2022-04-29 13:28:51,748 [ 12] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: 4pvfy0cctaihbofeyq3mcoeg
+2022-04-29 13:28:56,795 [ 10] INFO  AppManager [(null)] (Recipe.aspx) - Request from http://localhost:1945/SimpleServings/UI/Page/Home.aspx 
+SessionId: 4pvfy0cctaihbofeyq3mcoeg
+2022-04-29 15:28:36,462 [105] INFO  AppManager [(null)] SimpleServings started.
+2022-04-29 15:29:02,448 [101] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: hjv1dzibcmymohrgl0n05qfn
+2022-04-29 15:29:13,094 [138] INFO  AppManager [(null)] (Recipe.aspx) - Request from http://localhost:1945/SimpleServings/UI/Page/Home.aspx 
+SessionId: hjv1dzibcmymohrgl0n05qfn
+2022-04-29 17:05:46,670 [  1] INFO  AppManager [(null)] SimpleServings started.
+2022-04-29 17:06:12,775 [ 19] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: uctsps0xmiq20qnax5f53lfu
+2022-04-29 17:06:18,036 [ 11] INFO  AppManager [(null)] (Recipe.aspx) - Request from http://localhost:1945/SimpleServings/UI/Page/Home.aspx 
+SessionId: uctsps0xmiq20qnax5f53lfu
+2022-04-29 17:36:04,997 [  1] INFO  AppManager [(null)] SimpleServings started.
+2022-04-29 17:36:51,660 [ 13] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: dbqov4y32ww4z4smcwbuabnh
+2022-04-29 17:37:09,156 [ 11] INFO  AppManager [(null)] (Recipe.aspx) - Request from http://localhost:1945/SimpleServings/UI/Page/Home.aspx 
+SessionId: dbqov4y32ww4z4smcwbuabnh
+2022-04-29 17:54:50,642 [ 77] INFO  AppManager [(null)] (landingPage.aspx) - Clearing Session 
+Request Type:  
+SessionId: ms4hjb0dd2n3s4cjdta42pdu
+2022-04-29 17:54:50,651 [ 69] INFO  AppManager [(null)] (landingPage.aspx) - New Session 
+Request Type:  
+SessionId: zuxk0u12tnofipjdnckdw0dt
+2022-04-29 17:54:50,887 [ 50] INFO  AppManager [(null)] (login.aspx) - (Mli) - Login successful 
+SessionId: iy35h1t1zoco3tmx0ke4m5sl
+2022-04-29 17:54:50,893 [  8] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: zuxk0u12tnofipjdnckdw0dt
+2022-04-29 17:54:54,344 [ 69] INFO  AppManager [(null)] (Recipe.aspx) - Request from http://localhost:1945/SimpleServings/UI/Page/Home.aspx 
+SessionId: zuxk0u12tnofipjdnckdw0dt
+2022-04-29 18:07:22,011 [153] INFO  AppManager [(null)] SimpleServings started.
+2022-04-29 18:07:42,321 [158] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: yuutjldcaebaefzpyxlarejs
+2022-04-29 18:07:45,463 [120] INFO  AppManager [(null)] (Recipe.aspx) - Request from http://localhost:1945/SimpleServings/UI/Page/Home.aspx 
+SessionId: yuutjldcaebaefzpyxlarejs
+2022-04-29 18:12:33,533 [130] INFO  AppManager [(null)] SimpleServings started.
+2022-04-29 18:13:17,077 [134] ERROR AppManager [(null)] btnLogin_Click failed: SQL Server Network Interfaces: Error Locating Server/Instance Specified [xFFFFFFFF]. 
+System.Data.SqlClient.SqlException (0x80131904): SQL Server Network Interfaces: Error Locating Server/Instance Specified [xFFFFFFFF]. 
+   at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at System.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   at System.Data.SqlClient.SqlDataReader.get_MetaData()
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   at System.Data.Common.DbCommand.ExecuteReader(CommandBehavior behavior)
+   at Microsoft.Practices.EnterpriseLibrary.Data.Database.DoExecuteReader(DbCommand command, CommandBehavior cmdBehavior)
+   at Microsoft.Practices.EnterpriseLibrary.Data.Database.ExecuteReader(DbCommand command)
+   at SimpleServingsLibrary.Shared.StaffDB.GetStaffByEmail(String email) in E:\DFTA coding\SimpleServings\SimpleServings_networkVersion_I_do\SimpleServing_Latest\NewSimple\SimpleServingsLibrary\SimpleServings.Shared\DAL\StaffDB.cs:line 86
+   at SimpleServingsLibrary.Shared.Staff.GetUserNameByEmail(String email) in E:\DFTA coding\SimpleServings\SimpleServings_networkVersion_I_do\SimpleServing_Latest\NewSimple\SimpleServingsLibrary\SimpleServings.Shared\BLL\Staff.cs:line 522
+   at SimpleServings.UI.Page.login.btnLogin_Click(Object sender, EventArgs e) in E:\DFTA coding\SimpleServings\SimpleServings_networkVersion_I_do\SimpleServing_Latest\NewSimple\SimpleServings\SimpleServings\UI\Page\login.aspx.cs:line 154
+ClientConnectionId:f1337188-2dec-4798-9066-273037c1c71b
+Error Number:-1,State:1,Class:16
+2022-04-29 18:17:44,737 [142] INFO  AppManager [(null)] (landingPage.aspx) - Clearing Session 
+Request Type:  
+SessionId: w4ez42iiyvj2pfuzyhfz1wsq
+2022-04-29 18:17:44,744 [125] INFO  AppManager [(null)] (landingPage.aspx) - New Session 
+Request Type:  
+SessionId: bukntcxkuv5azsxpugh43smi
+2022-04-29 18:17:45,699 [142] INFO  AppManager [(null)] (login.aspx) - (Mli) - Login successful 
+SessionId: 0yjpkjfxoixijrueu03hq043
+2022-04-29 18:17:45,723 [146] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: bukntcxkuv5azsxpugh43smi
+2022-04-29 18:17:48,617 [136] INFO  AppManager [(null)] (Recipe.aspx) - Request from http://localhost:1945/SimpleServings/UI/Page/Home.aspx 
+SessionId: bukntcxkuv5azsxpugh43smi
+2022-04-29 22:45:08,323 [ 58] INFO  AppManager [(null)] (Recipe.aspx) - Request from http://localhost:1945/SimpleServings/UI/Page/SimpleServings/Recipe/ViewRecipe.aspx?RecipeID=228 
+SessionId: bukntcxkuv5azsxpugh43smi
+2022-04-29 22:45:32,687 [ 50] INFO  AppManager [(null)] (Recipe.aspx) - Request from http://localhost:1945/SimpleServings/UI/Page/SimpleServings/Recipe/Recipe.aspx 
+SessionId: bukntcxkuv5azsxpugh43smi
+2022-04-29 22:46:12,338 [ 64] INFO  AppManager [(null)] (landingPage.aspx) - Clearing Session 
+Request Type:  
+SessionId: mcw3hcjuxxllha2din2wz54c
+2022-04-29 22:46:12,345 [ 68] INFO  AppManager [(null)] (landingPage.aspx) - New Session 
+Request Type:  
+SessionId: 15ijn2phq40iic0weoamlpzb
+2022-04-29 22:46:15,708 [ 64] INFO  AppManager [(null)] (login.aspx) - (Mli) - Login successful 
+SessionId: phpznbjc55bifj4jwlmkvjr3
+2022-04-29 22:46:15,726 [ 66] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: 15ijn2phq40iic0weoamlpzb
+2022-04-29 22:46:17,702 [ 84] INFO  AppManager [(null)] (Recipe.aspx) - Request from http://localhost:1945/SimpleServings/UI/Page/Home.aspx 
+SessionId: 15ijn2phq40iic0weoamlpzb
+2022-04-29 22:46:25,486 [ 77] ERROR AppManager [(null)] SimpleServings application error: Exception of type 'System.Web.HttpUnhandledException' was thrown.
+location: http://localhost:1945/SimpleServings/UI/Page/SimpleServings/Recipe/ViewRecipe.aspx?RecipeID=228
+
+System.Web.HttpUnhandledException (0x80004005): Exception of type 'System.Web.HttpUnhandledException' was thrown. ---> System.FormatException: Input string was not in a correct format.
+   at System.Number.ParseDouble(String value, NumberStyles options, NumberFormatInfo numfmt)
+   at System.String.System.IConvertible.ToDouble(IFormatProvider provider)
+   at System.Convert.ToDouble(Object value)
+   at SimpleServingsLibrary.RecipeSupplement.RecipeNutrition.PopRecipeNutritions(SqlDataReader dr) in E:\DFTA coding\SimpleServings\SimpleServings_networkVersion_I_do\SimpleServing_Latest\NewSimple\SimpleServingsLibrary\SimpleServings.RecipeSupplement\BLL\RecipeNutrition.cs:line 304
+   at SimpleServingsLibrary.RecipeSupplement.RecipeNutrition.GetRecipeNutritionFactsByRecipeID(Int32 recipeID) in E:\DFTA coding\SimpleServings\SimpleServings_networkVersion_I_do\SimpleServing_Latest\NewSimple\SimpleServingsLibrary\SimpleServings.RecipeSupplement\BLL\RecipeNutrition.cs:line 365
+   at SimpleServings.UI.UDC.SimpleServings.Recipe.NutritionFacts.PopNutritionFacts(Int32 recipeID) in E:\DFTA coding\SimpleServings\SimpleServings_networkVersion_I_do\SimpleServing_Latest\NewSimple\SimpleServings\SimpleServings\UI\UDC\SimpleServings\Recipe\NutritionFacts.ascx.cs:line 26
+   at SimpleServings.UI.UDC.SimpleServings.Recipe.NutritionFacts.Page_Load(Object sender, EventArgs e) in E:\DFTA coding\SimpleServings\SimpleServings_networkVersion_I_do\SimpleServing_Latest\NewSimple\SimpleServings\SimpleServings\UI\UDC\SimpleServings\Recipe\NutritionFacts.ascx.cs:line 15
+   at System.Web.Util.CalliEventHandlerDelegateProxy.Callback(Object sender, EventArgs e)
+   at System.Web.UI.Control.OnLoad(EventArgs e)
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   at System.Web.UI.Page.HandleError(Exception e)
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   at System.Web.UI.Page.ProcessRequest(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   at System.Web.UI.Page.ProcessRequest()
+   at System.Web.UI.Page.ProcessRequestWithNoAssert(HttpContext context)
+   at System.Web.UI.Page.ProcessRequest(HttpContext context)
+   at ASP.ui_page_simpleservings_recipe_viewrecipe_aspx.ProcessRequest(HttpContext context) in c:\Users\mali\AppData\Local\Temp\Temporary ASP.NET Files\simpleservings\44eca0d1\fb0616b5\App_Web_ezqytomp.4.cs:line 0
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStepImpl(IExecutionStep step)
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+2022-04-29 22:57:48,045 [ 33] INFO  AppManager [(null)] (Recipe.aspx) - Request from http://localhost:1945/SimpleServings/UI/Page/SimpleServings/Recipe/Recipe.aspx 
+SessionId: 15ijn2phq40iic0weoamlpzb
+2022-04-29 22:57:50,259 [115] INFO  AppManager [(null)] (Recipe.aspx) - Request from http://localhost:1945/SimpleServings/UI/Page/SimpleServings/Recipe/Recipe.aspx 
+SessionId: 15ijn2phq40iic0weoamlpzb
+2022-04-29 22:57:57,084 [100] ERROR AppManager [(null)] SimpleServings application error: Exception of type 'System.Web.HttpUnhandledException' was thrown.
+location: http://localhost:1945/SimpleServings/UI/Page/SimpleServings/Recipe/ViewRecipe.aspx?RecipeID=228
+
+System.Web.HttpUnhandledException (0x80004005): Exception of type 'System.Web.HttpUnhandledException' was thrown. ---> System.FormatException: Input string was not in a correct format.
+   at System.Number.ParseDouble(String value, NumberStyles options, NumberFormatInfo numfmt)
+   at System.String.System.IConvertible.ToDouble(IFormatProvider provider)
+   at System.Convert.ToDouble(Object value)
+   at SimpleServingsLibrary.RecipeSupplement.RecipeNutrition.PopRecipeNutritions(SqlDataReader dr) in E:\DFTA coding\SimpleServings\SimpleServings_networkVersion_I_do\SimpleServing_Latest\NewSimple\SimpleServingsLibrary\SimpleServings.RecipeSupplement\BLL\RecipeNutrition.cs:line 304
+   at SimpleServingsLibrary.RecipeSupplement.RecipeNutrition.GetRecipeNutritionFactsByRecipeID(Int32 recipeID) in E:\DFTA coding\SimpleServings\SimpleServings_networkVersion_I_do\SimpleServing_Latest\NewSimple\SimpleServingsLibrary\SimpleServings.RecipeSupplement\BLL\RecipeNutrition.cs:line 365
+   at SimpleServings.UI.UDC.SimpleServings.Recipe.NutritionFacts.PopNutritionFacts(Int32 recipeID) in E:\DFTA coding\SimpleServings\SimpleServings_networkVersion_I_do\SimpleServing_Latest\NewSimple\SimpleServings\SimpleServings\UI\UDC\SimpleServings\Recipe\NutritionFacts.ascx.cs:line 26
+   at SimpleServings.UI.UDC.SimpleServings.Recipe.NutritionFacts.Page_Load(Object sender, EventArgs e) in E:\DFTA coding\SimpleServings\SimpleServings_networkVersion_I_do\SimpleServing_Latest\NewSimple\SimpleServings\SimpleServings\UI\UDC\SimpleServings\Recipe\NutritionFacts.ascx.cs:line 15
+   at System.Web.Util.CalliEventHandlerDelegateProxy.Callback(Object sender, EventArgs e)
+   at System.Web.UI.Control.OnLoad(EventArgs e)
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   at System.Web.UI.Page.HandleError(Exception e)
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   at System.Web.UI.Page.ProcessRequest(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   at System.Web.UI.Page.ProcessRequest()
+   at System.Web.UI.Page.ProcessRequestWithNoAssert(HttpContext context)
+   at System.Web.UI.Page.ProcessRequest(HttpContext context)
+   at ASP.ui_page_simpleservings_recipe_viewrecipe_aspx.ProcessRequest(HttpContext context) in c:\Users\mali\AppData\Local\Temp\Temporary ASP.NET Files\simpleservings\44eca0d1\fb0616b5\App_Web_ezqytomp.4.cs:line 0
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStepImpl(IExecutionStep step)
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+2022-04-29 23:00:08,684 [ 60] INFO  AppManager [(null)] SimpleServings started.
+2022-04-29 23:00:32,216 [ 68] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: ied2wxljduxjawbqqihc02jf
+2022-04-29 23:00:36,835 [ 58] INFO  AppManager [(null)] (Recipe.aspx) - Request from http://localhost:1945/SimpleServings/UI/Page/Home.aspx 
+SessionId: ied2wxljduxjawbqqihc02jf
+2022-04-29 23:00:38,583 [ 58] INFO  AppManager [(null)] (Recipe.aspx) - Request from http://localhost:1945/SimpleServings/UI/Page/SimpleServings/Recipe/Recipe.aspx 
+SessionId: ied2wxljduxjawbqqihc02jf
+2022-04-29 23:06:13,670 [ 58] INFO  AppManager [(null)] (landingPage.aspx) - Clearing Session 
+Request Type:  
+SessionId: igqua3oxc02t4erpnek3qjby
+2022-04-29 23:06:13,678 [ 36] INFO  AppManager [(null)] (landingPage.aspx) - New Session 
+Request Type:  
+SessionId: hchd5d5hbafbgscluajjqngj
+2022-04-29 23:06:13,922 [107] INFO  AppManager [(null)] (login.aspx) - (Mli) - Login successful 
+SessionId: 5plbnrk1hqgxrtxmvuysn31z
+2022-04-29 23:06:13,927 [ 38] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: hchd5d5hbafbgscluajjqngj
+2022-04-29 23:06:17,120 [ 62] INFO  AppManager [(null)] (Recipe.aspx) - Request from http://localhost:1945/SimpleServings/UI/Page/Home.aspx 
+SessionId: hchd5d5hbafbgscluajjqngj
+2022-04-29 23:08:34,236 [117] INFO  AppManager [(null)] (landingPage.aspx) - Clearing Session 
+Request Type:  
+SessionId: kxaahewwxm5xyvnzvz5vk4xk
+2022-04-29 23:08:34,252 [ 61] INFO  AppManager [(null)] (landingPage.aspx) - New Session 
+Request Type:  
+SessionId: pk4pvpjoo3nblmi2q51steaa
+2022-04-29 23:08:34,529 [ 74] INFO  AppManager [(null)] (login.aspx) - (Mli) - Login successful 
+SessionId: z0rpgw2w0t5hklg2iyhwactb
+2022-04-29 23:08:34,534 [118] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: pk4pvpjoo3nblmi2q51steaa
+2022-04-29 23:08:36,390 [ 41] INFO  AppManager [(null)] (Recipe.aspx) - Request from http://localhost:1945/SimpleServings/UI/Page/Home.aspx 
+SessionId: pk4pvpjoo3nblmi2q51steaa

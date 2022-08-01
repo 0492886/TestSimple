@@ -1,0 +1,28 @@
+2022-07-12 16:35:33,088 [  1] INFO  AppManager [(null)] SimpleServings started.
+2022-07-12 16:40:52,563 [ 34] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: 4noff5vadomqaip5ltdqadcv
+2022-07-12 17:09:12,492 [ 80] INFO  AppManager [(null)] SimpleServings started.
+2022-07-12 17:09:37,820 [ 74] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: kwblmb5hkjkmuozorxbjrxrs
+2022-07-12 17:09:40,793 [ 68] INFO  AppManager [(null)] (Recipe.aspx) - Request from http://localhost:1946/SimpleServings/UI/Page/Home.aspx 
+SessionId: kwblmb5hkjkmuozorxbjrxrs
+2022-07-12 17:13:28,549 [ 79] INFO  AppManager [(null)] (landingPage.aspx) - Request from http://localhost:1946/SimpleServings/UI/Page/SimpleServings/Recipe/RecipeList.aspx 
+Request Type: LogInOut 
+SessionId: kwblmb5hkjkmuozorxbjrxrs
+2022-07-12 17:13:28,550 [ 79] INFO  AppManager [(null)] (landingPage.aspx) - Redirecting to Login.aspx 
+Request Type: LogInOut 
+SessionId: kwblmb5hkjkmuozorxbjrxrs
+2022-07-12 17:13:28,573 [ 67] INFO  AppManager [(null)] (login.aspx) - Request from http://localhost:1946/SimpleServings/UI/Page/SimpleServings/Recipe/RecipeList.aspx 
+SessionId: k1zfzlxtii2dzj3o2nqqdmzy
+2022-07-12 17:13:36,826 [ 66] INFO  AppManager [(null)] (landingPage.aspx) - Clearing Session 
+Request Type:  
+SessionId: koq2z5pdisoe0xeaewmut5cs
+2022-07-12 17:13:36,832 [ 57] INFO  AppManager [(null)] (landingPage.aspx) - New Session 
+Request Type:  
+SessionId: kz4dm0wuwvkfq1qj1bhaevbw
+2022-07-12 17:13:37,382 [ 56] INFO  AppManager [(null)] (login.aspx) - (hindy.chanales) - Login successful 
+SessionId: cy4013rzylfvzzkgzzxpfoun
+2022-07-12 17:13:37,515 [ 64] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: kz4dm0wuwvkfq1qj1bhaevbw
+2022-07-12 17:13:39,086 [ 79] INFO  AppManager [(null)] (Recipe.aspx) - Request from http://localhost:1946/SimpleServings/UI/Page/Home.aspx 
+SessionId: kz4dm0wuwvkfq1qj1bhaevbw

@@ -1,0 +1,234 @@
+2022-05-11 10:24:08,946 [103] ERROR AppManager [(null)] btnLogin_Click failed: GetStaffByEmail did not return any record!
+System.Exception: GetStaffByEmail did not return any record!
+   at SimpleServingsLibrary.Shared.StaffDB.GetStaffByEmail(String email) in E:\DFTA coding\SimpleServings\SimpleServings_networkVersion_I_do\SimpleServing_Latest\NewSimple\SimpleServingsLibrary\SimpleServings.Shared\DAL\StaffDB.cs:line 93
+   at SimpleServingsLibrary.Shared.Staff.GetUserNameByEmail(String email) in E:\DFTA coding\SimpleServings\SimpleServings_networkVersion_I_do\SimpleServing_Latest\NewSimple\SimpleServingsLibrary\SimpleServings.Shared\BLL\Staff.cs:line 522
+   at SimpleServings.UI.Page.login.btnLogin_Click(Object sender, EventArgs e) in E:\DFTA coding\SimpleServings\SimpleServings_networkVersion_I_do\SimpleServing_Latest\NewSimple\SimpleServings\SimpleServings\UI\Page\login.aspx.cs:line 154
+2022-05-11 10:24:09,131 [137] INFO  AppManager [(null)] (landingPage.aspx) - Clearing Session 
+Request Type:  
+SessionId: qvd21f3gmlifzy3yho0jcyiq
+2022-05-11 10:24:09,267 [138] INFO  AppManager [(null)] (landingPage.aspx) - New Session 
+Request Type:  
+SessionId: ujhyxx5g0p5kb3hievdvu12g
+2022-05-11 10:24:43,950 [ 19] INFO  AppManager [(null)] (landingPage.aspx) - Clearing Session 
+Request Type:  
+SessionId: 1t4navhmbdh45vdeaqd1uoyz
+2022-05-11 10:24:43,958 [ 94] INFO  AppManager [(null)] (landingPage.aspx) - New Session 
+Request Type:  
+SessionId: 2apv1zoz3vllal0dgdvbm25p
+2022-05-11 10:24:43,972 [ 30] ERROR AppManager [(null)] btnLogin_Click failed: GetStaffByEmail did not return any record!
+System.Exception: GetStaffByEmail did not return any record!
+   at SimpleServingsLibrary.Shared.StaffDB.GetStaffByEmail(String email) in E:\DFTA coding\SimpleServings\SimpleServings_networkVersion_I_do\SimpleServing_Latest\NewSimple\SimpleServingsLibrary\SimpleServings.Shared\DAL\StaffDB.cs:line 93
+   at SimpleServingsLibrary.Shared.Staff.GetUserNameByEmail(String email) in E:\DFTA coding\SimpleServings\SimpleServings_networkVersion_I_do\SimpleServing_Latest\NewSimple\SimpleServingsLibrary\SimpleServings.Shared\BLL\Staff.cs:line 522
+   at SimpleServings.UI.Page.login.btnLogin_Click(Object sender, EventArgs e) in E:\DFTA coding\SimpleServings\SimpleServings_networkVersion_I_do\SimpleServing_Latest\NewSimple\SimpleServings\SimpleServings\UI\Page\login.aspx.cs:line 154
+2022-05-11 10:25:01,273 [ 75] INFO  AppManager [(null)] (landingPage.aspx) - Clearing Session 
+Request Type:  
+SessionId: 2apv1zoz3vllal0dgdvbm25p
+2022-05-11 10:25:01,281 [ 94] INFO  AppManager [(null)] (landingPage.aspx) - New Session 
+Request Type:  
+SessionId: 3zyzq4uns2dfdjzpias2ae1q
+2022-05-11 10:25:02,146 [141] ERROR AppManager [(null)] btnLogin_Click failed: Incorrect username and/or password.
+2022-05-11 10:25:25,041 [112] INFO  AppManager [(null)] (landingPage.aspx) - Clearing Session 
+Request Type:  
+SessionId: 3zyzq4uns2dfdjzpias2ae1q
+2022-05-11 10:25:25,049 [ 74] INFO  AppManager [(null)] (landingPage.aspx) - New Session 
+Request Type:  
+SessionId: 1u44j4bqfkujquzi22tmffjl
+2022-05-11 10:25:25,056 [ 97] ERROR AppManager [(null)] btnLogin_Click failed: GetStaffByEmail did not return any record!
+System.Exception: GetStaffByEmail did not return any record!
+   at SimpleServingsLibrary.Shared.StaffDB.GetStaffByEmail(String email) in E:\DFTA coding\SimpleServings\SimpleServings_networkVersion_I_do\SimpleServing_Latest\NewSimple\SimpleServingsLibrary\SimpleServings.Shared\DAL\StaffDB.cs:line 93
+   at SimpleServingsLibrary.Shared.Staff.GetUserNameByEmail(String email) in E:\DFTA coding\SimpleServings\SimpleServings_networkVersion_I_do\SimpleServing_Latest\NewSimple\SimpleServingsLibrary\SimpleServings.Shared\BLL\Staff.cs:line 522
+   at SimpleServings.UI.Page.login.btnLogin_Click(Object sender, EventArgs e) in E:\DFTA coding\SimpleServings\SimpleServings_networkVersion_I_do\SimpleServing_Latest\NewSimple\SimpleServings\SimpleServings\UI\Page\login.aspx.cs:line 154
+2022-05-11 10:25:48,384 [ 27] INFO  AppManager [(null)] (landingPage.aspx) - Clearing Session 
+Request Type:  
+SessionId: 1u44j4bqfkujquzi22tmffjl
+2022-05-11 10:25:48,391 [103] INFO  AppManager [(null)] (landingPage.aspx) - New Session 
+Request Type:  
+SessionId: hzgwuptn4msgigedjbhj04v4
+2022-05-11 10:25:48,409 [ 97] ERROR AppManager [(null)] btnLogin_Click failed: GetStaffByEmail did not return any record!
+System.Exception: GetStaffByEmail did not return any record!
+   at SimpleServingsLibrary.Shared.StaffDB.GetStaffByEmail(String email) in E:\DFTA coding\SimpleServings\SimpleServings_networkVersion_I_do\SimpleServing_Latest\NewSimple\SimpleServingsLibrary\SimpleServings.Shared\DAL\StaffDB.cs:line 93
+   at SimpleServingsLibrary.Shared.Staff.GetUserNameByEmail(String email) in E:\DFTA coding\SimpleServings\SimpleServings_networkVersion_I_do\SimpleServing_Latest\NewSimple\SimpleServingsLibrary\SimpleServings.Shared\BLL\Staff.cs:line 522
+   at SimpleServings.UI.Page.login.btnLogin_Click(Object sender, EventArgs e) in E:\DFTA coding\SimpleServings\SimpleServings_networkVersion_I_do\SimpleServing_Latest\NewSimple\SimpleServings\SimpleServings\UI\Page\login.aspx.cs:line 154
+2022-05-11 10:26:58,472 [ 94] INFO  AppManager [(null)] (landingPage.aspx) - Clearing Session 
+Request Type:  
+SessionId: hzgwuptn4msgigedjbhj04v4
+2022-05-11 10:26:58,479 [103] INFO  AppManager [(null)] (landingPage.aspx) - New Session 
+Request Type:  
+SessionId: gqbfsthdawqiwdp51zoi4nn2
+2022-05-11 10:26:58,739 [ 74] ERROR AppManager [(null)] btnLogin_Click failed: Incorrect username and/or password.
+2022-05-11 10:30:51,948 [103] INFO  AppManager [(null)] (landingPage.aspx) - Clearing Session 
+Request Type:  
+SessionId: gqbfsthdawqiwdp51zoi4nn2
+2022-05-11 10:30:51,956 [ 30] INFO  AppManager [(null)] (landingPage.aspx) - New Session 
+Request Type:  
+SessionId: 0w0vcpmpw5gb2vqvoapmwgw2
+2022-05-11 10:30:52,199 [113] INFO  AppManager [(null)] (login.aspx) - (scott.deas) - Login successful 
+SessionId: zjsr2breqpe2suejprdwkp51
+2022-05-11 10:30:52,427 [ 17] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: 0w0vcpmpw5gb2vqvoapmwgw2
+2022-05-11 11:27:28,877 [131] ERROR AppManager [(null)] btnLogin_Click failed: Incorrect username and/or password.
+2022-05-11 11:27:28,943 [ 26] INFO  AppManager [(null)] (landingPage.aspx) - Clearing Session 
+Request Type:  
+SessionId: xnqd0eweb3q4d0tnb1mpssyg
+2022-05-11 11:27:39,516 [109] INFO  AppManager [(null)] (landingPage.aspx) - Clearing Session 
+Request Type:  
+SessionId: aklhll12qlg3hevadjgvumka
+2022-05-11 11:27:39,523 [ 14] INFO  AppManager [(null)] (landingPage.aspx) - New Session 
+Request Type:  
+SessionId: tfxd0dcyavyo04spbkxj5rd0
+2022-05-11 11:27:39,753 [ 24] INFO  AppManager [(null)] (login.aspx) - (scott.deas) - Login successful 
+SessionId: k324hmkf1gnazckr1g0osotb
+2022-05-11 11:27:41,015 [144] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: tfxd0dcyavyo04spbkxj5rd0
+2022-05-11 11:36:33,000 [141] INFO  AppManager [(null)] (landingPage.aspx) - Clearing Session 
+Request Type:  
+SessionId: k2n34jbafy13fq3vuhfn2h1g
+2022-05-11 11:36:33,008 [129] INFO  AppManager [(null)] (landingPage.aspx) - New Session 
+Request Type:  
+SessionId: nnhztekmzayz00qd4i43wizh
+2022-05-11 11:36:33,362 [ 14] INFO  AppManager [(null)] (login.aspx) - (scott.deas) - Login successful 
+SessionId: 4ssqubpr2alzqwofwn3akva0
+2022-05-11 11:36:33,401 [129] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: nnhztekmzayz00qd4i43wizh
+2022-05-11 12:12:16,781 [ 41] INFO  AppManager [(null)] (landingPage.aspx) - Clearing Session 
+Request Type:  
+SessionId: bl40w1wrx5dmnkddfw3f4y5y
+2022-05-11 12:12:16,788 [  5] INFO  AppManager [(null)] (landingPage.aspx) - New Session 
+Request Type:  
+SessionId: pmuohvvhavxmdohoauy5qyos
+2022-05-11 12:12:17,122 [ 45] INFO  AppManager [(null)] (login.aspx) - (Mli) - Login successful 
+SessionId: 1p30igiik1c4rzv5dbffwlrv
+2022-05-11 12:12:17,126 [141] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: pmuohvvhavxmdohoauy5qyos
+2022-05-11 12:12:19,729 [ 47] ERROR AppManager [(null)] SimpleServings application error: Exception of type 'System.Web.HttpUnhandledException' was thrown.
+location: http://localhost:1945/SimpleServings/UI/Page/SimpleServings/Supplier/Contract.aspx?Contracts=All
+
+System.Web.HttpUnhandledException (0x80004005): Exception of type 'System.Web.HttpUnhandledException' was thrown. ---> System.InvalidCastException: Object cannot be cast from DBNull to other types.
+   at System.DBNull.System.IConvertible.ToInt32(IFormatProvider provider)
+   at System.Convert.ToInt32(Object value)
+   at SimpleServingsLibrary.SupplierRelationship.Contract.PopContracts(SqlDataReader dr) in E:\DFTA coding\SimpleServings\SimpleServings_networkVersion_I_do\SimpleServing_Latest\NewSimple\SimpleServingsLibrary\SimpleServings.SupplierRelationship\BLL\Contract.cs:line 225
+   at SimpleServingsLibrary.SupplierRelationship.Contract.GetContractAll() in E:\DFTA coding\SimpleServings\SimpleServings_networkVersion_I_do\SimpleServing_Latest\NewSimple\SimpleServingsLibrary\SimpleServings.SupplierRelationship\BLL\Contract.cs:line 368
+   at SimpleServings.UI.UDC.SimpleServings.Supplier.ListContract.PopAllContract() in E:\DFTA coding\SimpleServings\SimpleServings_networkVersion_I_do\SimpleServing_Latest\NewSimple\SimpleServings\SimpleServings\UI\UDC\SimpleServings\Supplier\ListContract.ascx.cs:line 71
+   at SimpleServings.UI.UDC.SimpleServings.Supplier.ListContract.Page_Load(Object sender, EventArgs e) in E:\DFTA coding\SimpleServings\SimpleServings_networkVersion_I_do\SimpleServing_Latest\NewSimple\SimpleServings\SimpleServings\UI\UDC\SimpleServings\Supplier\ListContract.ascx.cs:line 43
+   at System.Web.Util.CalliEventHandlerDelegateProxy.Callback(Object sender, EventArgs e)
+   at System.Web.UI.Control.OnLoad(EventArgs e)
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   at System.Web.UI.Page.HandleError(Exception e)
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   at System.Web.UI.Page.ProcessRequest(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   at System.Web.UI.Page.ProcessRequest()
+   at System.Web.UI.Page.ProcessRequestWithNoAssert(HttpContext context)
+   at System.Web.UI.Page.ProcessRequest(HttpContext context)
+   at ASP.ui_page_simpleservings_supplier_contract_aspx.ProcessRequest(HttpContext context) in c:\Users\mali\AppData\Local\Temp\Temporary ASP.NET Files\simpleservings\44eca0d1\fb0616b5\App_Web_0won0yhm.2.cs:line 0
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStepImpl(IExecutionStep step)
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+2022-05-11 14:11:55,462 [153] INFO  AppManager [(null)] (Recipe.aspx) - Request from http://localhost:1945/SimpleServings/UI/Page/SimpleServings/Menu/MenuList.aspx?MenuType=MyMenus 
+SessionId: pmuohvvhavxmdohoauy5qyos
+2022-05-11 14:12:13,840 [112] INFO  AppManager [(null)] (landingPage.aspx) - Request from http://localhost:1945/SimpleServings/UI/Page/SimpleServings/Recipe/Recipe.aspx 
+Request Type: LogInOut 
+SessionId: pmuohvvhavxmdohoauy5qyos
+2022-05-11 14:12:13,840 [112] INFO  AppManager [(null)] (landingPage.aspx) - Redirecting to Login.aspx 
+Request Type: LogInOut 
+SessionId: pmuohvvhavxmdohoauy5qyos
+2022-05-11 14:12:13,845 [137] INFO  AppManager [(null)] (login.aspx) - Request from http://localhost:1945/SimpleServings/UI/Page/SimpleServings/Recipe/Recipe.aspx 
+SessionId: pz1qaspwixrz4lknpxxhrhfw
+2022-05-11 14:12:24,353 [ 75] INFO  AppManager [(null)] (landingPage.aspx) - Clearing Session 
+Request Type:  
+SessionId: si2uk3fg3mkaz0zbiuzekab1
+2022-05-11 14:12:24,361 [ 28] INFO  AppManager [(null)] (landingPage.aspx) - New Session 
+Request Type:  
+SessionId: td2wj3elyjn2yabax0d14hqq
+2022-05-11 14:12:24,729 [  6] INFO  AppManager [(null)] (login.aspx) - (Mli) - Login successful 
+SessionId: b32vnl3q5gu4f4ahmdu11502
+2022-05-11 14:12:24,734 [117] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: td2wj3elyjn2yabax0d14hqq
+2022-05-11 14:12:25,994 [ 77] INFO  AppManager [(null)] (Recipe.aspx) - Request from http://localhost:1945/SimpleServings/UI/Page/Home.aspx 
+SessionId: td2wj3elyjn2yabax0d14hqq
+2022-05-11 14:12:48,780 [139] INFO  AppManager [(null)] (Recipe.aspx) - Request from http://localhost:1945/SimpleServings/UI/Page/SimpleServings/Recipe/AddRecipe.aspx 
+SessionId: td2wj3elyjn2yabax0d14hqq
+2022-05-11 14:45:02,439 [ 40] INFO  AppManager [(null)] (landingPage.aspx) - Clearing Session 
+Request Type:  
+SessionId: dxmoci2k5t3c11gfds0o1ycb
+2022-05-11 14:45:02,449 [111] INFO  AppManager [(null)] (landingPage.aspx) - New Session 
+Request Type:  
+SessionId: ra3bdmtyguxufpvtbp3xdjr2
+2022-05-11 14:45:02,734 [ 72] ERROR AppManager [(null)] btnLogin_Click failed: Incorrect username and/or password.
+2022-05-11 14:45:14,925 [ 33] INFO  AppManager [(null)] (landingPage.aspx) - Clearing Session 
+Request Type:  
+SessionId: ra3bdmtyguxufpvtbp3xdjr2
+2022-05-11 14:45:14,933 [ 53] INFO  AppManager [(null)] (landingPage.aspx) - New Session 
+Request Type:  
+SessionId: ahocu1eci1a4ml3ifbnsg5re
+2022-05-11 14:45:15,185 [111] ERROR AppManager [(null)] btnLogin_Click failed: Incorrect username and/or password.
+2022-05-11 16:16:00,567 [107] INFO  AppManager [(null)] (landingPage.aspx) - Clearing Session 
+Request Type:  
+SessionId: bgezp2gavuf3145dareipfid
+2022-05-11 16:16:00,576 [ 59] INFO  AppManager [(null)] (landingPage.aspx) - New Session 
+Request Type:  
+SessionId: sknslolnmquahbiyerjcqajh
+2022-05-11 16:16:01,228 [153] INFO  AppManager [(null)] (login.aspx) - (Mli) - Login successful 
+SessionId: itpwhlsrh51d3lzynsygyi4j
+2022-05-11 16:16:01,236 [107] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: sknslolnmquahbiyerjcqajh
+2022-05-11 16:16:13,110 [ 91] INFO  AppManager [(null)] (Recipe.aspx) - Request from http://localhost:1945/SimpleServings/UI/Page/Home.aspx 
+SessionId: sknslolnmquahbiyerjcqajh
+2022-05-11 16:44:17,558 [ 44] INFO  AppManager [(null)] (landingPage.aspx) - Clearing Session 
+Request Type:  
+SessionId: 4nnljyt2atj44v32jehhab52
+2022-05-11 16:44:17,572 [125] INFO  AppManager [(null)] (landingPage.aspx) - New Session 
+Request Type:  
+SessionId: pi0cgzt3ogwnypnqtcdt2cty
+2022-05-11 16:44:17,976 [ 61] INFO  AppManager [(null)] (login.aspx) - (Mli) - Login successful 
+SessionId: idrn33u5mqe2hupdthuuy5cp
+2022-05-11 16:44:17,983 [125] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: pi0cgzt3ogwnypnqtcdt2cty
+2022-05-11 16:44:21,185 [ 44] INFO  AppManager [(null)] (Recipe.aspx) - Request from http://localhost:1945/SimpleServings/UI/Page/Home.aspx 
+SessionId: pi0cgzt3ogwnypnqtcdt2cty
+2022-05-11 16:59:29,453 [ 26] INFO  AppManager [(null)] SimpleServings started.
+2022-05-11 16:59:49,429 [156] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: b0gp0cfmmjtfa1dtjbry5q2h
+2022-05-11 16:59:58,307 [133] INFO  AppManager [(null)] (Recipe.aspx) - Request from http://localhost:1945/SimpleServings/UI/Page/SimpleServings/Recipe/AddRecipe.aspx 
+SessionId: b0gp0cfmmjtfa1dtjbry5q2h
+2022-05-11 17:02:59,833 [122] INFO  AppManager [(null)] (landingPage.aspx) - Clearing Session 
+Request Type:  
+SessionId: s1sxg1hppuxkjnirhcp5snbi
+2022-05-11 17:02:59,847 [ 60] INFO  AppManager [(null)] (landingPage.aspx) - New Session 
+Request Type:  
+SessionId: mldsm00piemthjsodmsjcd5x
+2022-05-11 17:03:00,060 [ 67] INFO  AppManager [(null)] (login.aspx) - (Mli) - Login successful 
+SessionId: gqf2p21nahstladxb1qveg1t
+2022-05-11 17:03:00,067 [122] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: mldsm00piemthjsodmsjcd5x
+2022-05-11 17:03:03,241 [ 70] INFO  AppManager [(null)] (Recipe.aspx) - Request from http://localhost:1945/SimpleServings/UI/Page/Home.aspx 
+SessionId: mldsm00piemthjsodmsjcd5x
+2022-05-11 17:06:23,626 [133] INFO  AppManager [(null)] (landingPage.aspx) - Clearing Session 
+Request Type:  
+SessionId: au4bkbt0swxuj3urh53ljplm
+2022-05-11 17:06:23,634 [122] INFO  AppManager [(null)] (landingPage.aspx) - New Session 
+Request Type:  
+SessionId: dtod5gekm4cbwydo0q55vvc3
+2022-05-11 17:06:23,882 [ 70] INFO  AppManager [(null)] (login.aspx) - (Mli) - Login successful 
+SessionId: yep05ucls5oy5jsmbu25ej1s
+2022-05-11 17:06:23,887 [ 94] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: dtod5gekm4cbwydo0q55vvc3
+2022-05-11 17:06:25,706 [ 95] INFO  AppManager [(null)] (Recipe.aspx) - Request from http://localhost:1945/SimpleServings/UI/Page/Home.aspx 
+SessionId: dtod5gekm4cbwydo0q55vvc3
+2022-05-11 17:08:20,929 [126] INFO  AppManager [(null)] (landingPage.aspx) - Clearing Session 
+Request Type:  
+SessionId: mom3j1gwmkgnjspxbw2s5tt4
+2022-05-11 17:08:20,935 [ 33] INFO  AppManager [(null)] (landingPage.aspx) - New Session 
+Request Type:  
+SessionId: ksxulzmg0pxpo3tgxe225b5n
+2022-05-11 17:08:21,178 [117] INFO  AppManager [(null)] (login.aspx) - (Mli) - Login successful 
+SessionId: qwaed0hxokudhpzy5nsg31no
+2022-05-11 17:08:21,183 [133] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: ksxulzmg0pxpo3tgxe225b5n
+2022-05-11 17:08:22,586 [139] INFO  AppManager [(null)] (Recipe.aspx) - Request from http://localhost:1945/SimpleServings/UI/Page/Home.aspx 
+SessionId: ksxulzmg0pxpo3tgxe225b5n

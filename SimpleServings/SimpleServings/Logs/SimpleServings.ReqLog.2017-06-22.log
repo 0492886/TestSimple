@@ -1,0 +1,52 @@
+2017-06-22 10:13:22,595 [  1] INFO  AppManager [(null)] SimpleServings started.
+2017-06-22 10:13:39,543 [  9] INFO  AppManager [(null)] (landingPage.aspx) - Request from http://localhost:1949/SimpleServings/UI/Page/SimpleServings/Reports/reports.aspx 
+Request Type: LogInOut 
+SessionId: yiizn03soruww255s3gqer45
+2017-06-22 10:13:39,544 [  9] INFO  AppManager [(null)] (landingPage.aspx) - Redirecting to Login.aspx 
+Request Type: LogInOut 
+SessionId: yiizn03soruww255s3gqer45
+2017-06-22 10:30:57,458 [  5] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: kdm25kqbs3lpyp55jnnfp245
+2017-06-22 10:38:21,809 [  1] INFO  AppManager [(null)] SimpleServings started.
+2017-06-22 10:38:56,438 [  8] INFO  AppManager [(null)] (landingPage.aspx) - Redirecting to Login.aspx 
+Request Type: LogInOut 
+SessionId: 
+2017-06-22 10:39:06,582 [  8] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: rqkpxa55u5vkzgr45vcvm555
+2017-06-22 10:43:34,194 [  8] ERROR AppManager [(null)] SimpleServings application error: ASP.NET session has expired or could not be found
+location: http://localhost:1949/SimpleServings/Reserved.ReportViewerWebControl.axd?OpType=SessionKeepAlive&ControlID=d5798ed6095b4712a44020c3283bde91
+
+Microsoft.Reporting.WebForms.AspNetSessionExpiredException: ASP.NET session has expired or could not be found
+   at Microsoft.Reporting.WebForms.ViewerDataOperation..ctor()
+   at Microsoft.Reporting.WebForms.HttpHandler.GetHandler(String operationType)
+   at Microsoft.Reporting.WebForms.HttpHandler.ProcessRequest(HttpContext context)
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+2017-06-22 10:43:51,724 [  8] INFO  AppManager [(null)] (landingPage.aspx) - Request from http://localhost:1949/SimpleServings/UI/Page/SimpleServings/Reports/ViewReport.aspx?reportID=6 
+Request Type: LogInOut 
+SessionId: kdm25kqbs3lpyp55jnnfp245
+2017-06-22 10:43:51,725 [  8] INFO  AppManager [(null)] (landingPage.aspx) - Redirecting to Login.aspx 
+Request Type: LogInOut 
+SessionId: kdm25kqbs3lpyp55jnnfp245
+2017-06-22 10:43:51,735 [  6] INFO  AppManager [(null)] (login.aspx) - Request from http://localhost:1949/SimpleServings/UI/Page/SimpleServings/Reports/ViewReport.aspx?reportID=6 
+SessionId: ggdnkyii4jwtksaknymgfobw
+2017-06-22 10:43:58,863 [  8] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: yn4vu2f5bpne1045uadntl2c
+2017-06-22 10:44:02,825 [  8] INFO  AppManager [(null)] (landingPage.aspx) - Request from http://localhost:1949/SimpleServings/UI/Page/ 
+Request Type: LogInOut 
+SessionId: e4fabdm1iaoefg553xcghm45
+2017-06-22 10:44:02,827 [  8] INFO  AppManager [(null)] (landingPage.aspx) - Redirecting to Login.aspx 
+Request Type: LogInOut 
+SessionId: e4fabdm1iaoefg553xcghm45
+2017-06-22 10:44:02,837 [  5] INFO  AppManager [(null)] (login.aspx) - Request from http://localhost:1949/SimpleServings/UI/Page/ 
+SessionId: ultbgm55hwkwpz55xele3gee
+2017-06-22 10:44:07,734 [  6] INFO  AppManager [(null)] (landingPage.aspx) - Clearing Session 
+Request Type:  
+SessionId: nabbzgb4ckj4dpubxfs3ac45
+2017-06-22 10:44:07,750 [  8] INFO  AppManager [(null)] (landingPage.aspx) - New Session 
+Request Type:  
+SessionId: 0312q4qryhnuudv34knigrzx
+2017-06-22 10:44:08,219 [  6] INFO  AppManager [(null)] (login.aspx) - (cvais7773) - Login successful 
+SessionId: xrjjp545rgjnuz45rw4zap55
+2017-06-22 10:44:08,231 [  6] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: 0312q4qryhnuudv34knigrzx

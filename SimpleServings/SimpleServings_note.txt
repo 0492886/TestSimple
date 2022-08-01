@@ -1,0 +1,7 @@
+
+select * from tblMenuItem where MenuID = 16134 and DayOfWeekID= 70
+
+select * from [dbo].[tblMenuItemType]
+
+select * from [dbo].[tblMenu] where MenuID = 16134
+select distinct  CodeType From tblCode order by 1

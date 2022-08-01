@@ -1,0 +1,210 @@
+2021-03-24 11:25:10,642 [  1] INFO  AppManager [(null)] SimpleServings started.
+2021-03-24 11:25:57,926 [  9] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: dtawivzfd55lgl1om0psyueb
+2021-03-24 13:47:37,270 [ 29] INFO  AppManager [(null)] (landingPage.aspx) - Request from http://localhost:1947/SimpleServings/UI/Page/SimpleServings/Menu/AddMenu.aspx?MenuType=AddMenu 
+Request Type: LogInOut 
+SessionId: dtawivzfd55lgl1om0psyueb
+2021-03-24 13:47:37,270 [ 29] INFO  AppManager [(null)] (landingPage.aspx) - Redirecting to Login.aspx 
+Request Type: LogInOut 
+SessionId: dtawivzfd55lgl1om0psyueb
+2021-03-24 13:47:37,278 [ 11] INFO  AppManager [(null)] (login.aspx) - Request from http://localhost:1947/SimpleServings/UI/Page/SimpleServings/Menu/AddMenu.aspx?MenuType=AddMenu 
+SessionId: 1rxnjykcntw0jpitsfbaiiei
+2021-03-24 13:47:40,341 [ 28] INFO  AppManager [(null)] (landingPage.aspx) - Clearing Session 
+Request Type:  
+SessionId: prmqcvya1tq5zu12ohxslsio
+2021-03-24 13:47:40,353 [ 12] INFO  AppManager [(null)] (landingPage.aspx) - New Session 
+Request Type:  
+SessionId: vszmija0zhcbim0pujra3fqz
+2021-03-24 13:47:40,604 [ 46] INFO  AppManager [(null)] (login.aspx) - (araj) - Login successful 
+SessionId: h3qw5cp2mcjxcjf4q1chsmzo
+2021-03-24 13:47:40,609 [ 14] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: vszmija0zhcbim0pujra3fqz
+2021-03-24 14:51:22,329 [ 31] INFO  AppManager [(null)] (landingPage.aspx) - Clearing Session 
+Request Type:  
+SessionId: pqggadxlatssveeqrfaggze2
+2021-03-24 14:51:22,338 [ 36] INFO  AppManager [(null)] (landingPage.aspx) - New Session 
+Request Type:  
+SessionId: 52emovnrnj0swrfxonhcr5ik
+2021-03-24 14:51:22,601 [ 46] INFO  AppManager [(null)] (login.aspx) - (araj) - Login successful 
+SessionId: vsc3lwhkf31jgbknt15gz2xv
+2021-03-24 14:51:22,605 [ 30] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: 52emovnrnj0swrfxonhcr5ik
+2021-03-24 14:51:47,677 [ 46] INFO  AppManager [(null)] (landingPage.aspx) - Clearing Session 
+Request Type:  
+SessionId: rohmdjgwrm4hcokxtbxrffgc
+2021-03-24 14:51:47,686 [ 30] INFO  AppManager [(null)] (landingPage.aspx) - New Session 
+Request Type:  
+SessionId: gp5yfmjimnin1mokqhnjetyv
+2021-03-24 14:51:48,031 [ 46] ERROR AppManager [(null)] btnLogin_Click failed: Incorrect username and/or password.
+2021-03-24 14:52:35,166 [ 30] INFO  AppManager [(null)] (landingPage.aspx) - Clearing Session 
+Request Type:  
+SessionId: gp5yfmjimnin1mokqhnjetyv
+2021-03-24 14:52:35,176 [ 36] INFO  AppManager [(null)] (landingPage.aspx) - New Session 
+Request Type:  
+SessionId: 5ef1lvjfa5feky0l450wndyg
+2021-03-24 14:52:35,355 [ 30] ERROR AppManager [(null)] btnLogin_Click failed: Incorrect username and/or password.
+2021-03-24 14:52:38,170 [ 46] INFO  AppManager [(null)] (landingPage.aspx) - Clearing Session 
+Request Type:  
+SessionId: 5ef1lvjfa5feky0l450wndyg
+2021-03-24 14:52:38,188 [ 30] INFO  AppManager [(null)] (landingPage.aspx) - New Session 
+Request Type:  
+SessionId: 0dtrzupuvhauw02nhs3fwnun
+2021-03-24 14:52:39,822 [ 46] INFO  AppManager [(null)] (landingPage.aspx) - Clearing Session 
+Request Type:  
+SessionId: 0dtrzupuvhauw02nhs3fwnun
+2021-03-24 14:52:39,826 [ 31] INFO  AppManager [(null)] (landingPage.aspx) - New Session 
+Request Type:  
+SessionId: vxy2wr2rvs1h4yk2j3scfvuh
+2021-03-24 14:52:46,895 [ 46] INFO  AppManager [(null)] (landingPage.aspx) - Clearing Session 
+Request Type:  
+SessionId: vxy2wr2rvs1h4yk2j3scfvuh
+2021-03-24 14:52:46,902 [ 30] INFO  AppManager [(null)] (landingPage.aspx) - New Session 
+Request Type:  
+SessionId: tgvkjytypgovogrremqahbwi
+2021-03-24 14:52:47,125 [ 31] ERROR AppManager [(null)] btnLogin_Click failed: Incorrect username and/or password.
+2021-03-24 14:52:54,670 [ 46] INFO  AppManager [(null)] (landingPage.aspx) - Clearing Session 
+Request Type:  
+SessionId: tgvkjytypgovogrremqahbwi
+2021-03-24 14:52:54,680 [ 36] INFO  AppManager [(null)] (landingPage.aspx) - New Session 
+Request Type:  
+SessionId: pxlyhmemhu0hspicvgftuhjn
+2021-03-24 14:52:54,851 [ 31] ERROR AppManager [(null)] btnLogin_Click failed: Incorrect username and/or password.
+2021-03-24 14:58:54,015 [ 53] INFO  AppManager [(null)] (landingPage.aspx) - Request from http://localhost:1947/SimpleServings/UI/Page/SimpleServings/Menu/AddMenu.aspx?MenuType=AddMenu 
+Request Type: LogInOut 
+SessionId: pxlyhmemhu0hspicvgftuhjn
+2021-03-24 14:58:54,015 [ 53] INFO  AppManager [(null)] (landingPage.aspx) - Redirecting to Login.aspx 
+Request Type: LogInOut 
+SessionId: pxlyhmemhu0hspicvgftuhjn
+2021-03-24 14:58:54,019 [ 57] INFO  AppManager [(null)] (login.aspx) - Request from http://localhost:1947/SimpleServings/UI/Page/SimpleServings/Menu/AddMenu.aspx?MenuType=AddMenu 
+SessionId: wptk1vm1o3wh3fagkhwglbsq
+2021-03-24 17:23:29,194 [129] INFO  AppManager [(null)] SimpleServings started.
+2021-03-24 17:24:18,877 [ 71] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: 1w2v444qd3boobs5bs0efg2i
+2021-03-24 17:30:57,783 [129] INFO  AppManager [(null)] SimpleServings started.
+2021-03-24 17:31:12,751 [ 62] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: ihcrdbjfx1spauu1dubmdor2
+2021-03-24 17:34:08,127 [ 88] ERROR AppManager [(null)] SimpleServings application error: Exception of type 'System.Web.HttpUnhandledException' was thrown.
+location: http://localhost:1947/SimpleServings/UI/Page/SimpleServings/Menu/AddMenu.aspx?MenuType=AddMenu
+
+System.Web.HttpUnhandledException (0x80004005): Exception of type 'System.Web.HttpUnhandledException' was thrown. ---> System.Exception: GetCatererByContractID did not return a record!
+   at SimpleServingsLibrary.Shared.CodeDB.GetCatererByContractID(Int32 contractId, Int32 staffId) in C:\Users\araj\Simple Servings-New 03242021\03242021\NewSimple\SimpleServingsLibrary\SimpleServings.Shared\DAL\CodeDB.cs:line 395
+   at SimpleServingsLibrary.Shared.Code.GetCatererByContractID(Int32 contractId, Int32 staffId) in C:\Users\araj\Simple Servings-New 03242021\03242021\NewSimple\SimpleServingsLibrary\SimpleServings.Shared\BLL\Code.cs:line 428
+   at SimpleServingsLibrary.Shared.Utility.GetCatererByContractID(Int32 contractId, Int32 staffId) in C:\Users\araj\Simple Servings-New 03242021\03242021\NewSimple\SimpleServingsLibrary\SimpleServings.Shared\BLL\Utility.cs:line 422
+   at SimpleServings.UI.UDC.SimpleServings.Menu.AddMenu.PopMenuName() in C:\Users\araj\Simple Servings-New 03242021\03242021\NewSimple\SimpleServings\SimpleServings\UI\UDC\SimpleServings\Menu\AddMenu.ascx.cs:line 88
+   at SimpleServings.UI.UDC.SimpleServings.Menu.AddMenu.Page_Load(Object sender, EventArgs e) in C:\Users\araj\Simple Servings-New 03242021\03242021\NewSimple\SimpleServings\SimpleServings\UI\UDC\SimpleServings\Menu\AddMenu.ascx.cs:line 45
+   at System.Web.Util.CalliEventHandlerDelegateProxy.Callback(Object sender, EventArgs e)
+   at System.Web.UI.Control.OnLoad(EventArgs e)
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   at System.Web.UI.Page.HandleError(Exception e)
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   at System.Web.UI.Page.ProcessRequest(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   at System.Web.UI.Page.ProcessRequest()
+   at System.Web.UI.Page.ProcessRequestWithNoAssert(HttpContext context)
+   at System.Web.UI.Page.ProcessRequest(HttpContext context)
+   at ASP.ui_page_simpleservings_menu_addmenu_aspx.ProcessRequest(HttpContext context) in c:\Users\araj\AppData\Local\Temp\Temporary ASP.NET Files\simpleservings\2bde0e3d\90264120\App_Web_n4rihxtb.5.cs:line 0
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStepImpl(IExecutionStep step)
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+2021-03-24 17:34:14,989 [ 53] ERROR AppManager [(null)] SimpleServings application error: Exception of type 'System.Web.HttpUnhandledException' was thrown.
+location: http://localhost:1947/SimpleServings/UI/Page/SimpleServings/Menu/AddMenu.aspx?MenuType=AddMenu
+
+System.Web.HttpUnhandledException (0x80004005): Exception of type 'System.Web.HttpUnhandledException' was thrown. ---> System.Exception: GetCatererByContractID did not return a record!
+   at SimpleServingsLibrary.Shared.CodeDB.GetCatererByContractID(Int32 contractId, Int32 staffId) in C:\Users\araj\Simple Servings-New 03242021\03242021\NewSimple\SimpleServingsLibrary\SimpleServings.Shared\DAL\CodeDB.cs:line 395
+   at SimpleServingsLibrary.Shared.Code.GetCatererByContractID(Int32 contractId, Int32 staffId) in C:\Users\araj\Simple Servings-New 03242021\03242021\NewSimple\SimpleServingsLibrary\SimpleServings.Shared\BLL\Code.cs:line 428
+   at SimpleServingsLibrary.Shared.Utility.GetCatererByContractID(Int32 contractId, Int32 staffId) in C:\Users\araj\Simple Servings-New 03242021\03242021\NewSimple\SimpleServingsLibrary\SimpleServings.Shared\BLL\Utility.cs:line 422
+   at SimpleServings.UI.UDC.SimpleServings.Menu.AddMenu.PopMenuName() in C:\Users\araj\Simple Servings-New 03242021\03242021\NewSimple\SimpleServings\SimpleServings\UI\UDC\SimpleServings\Menu\AddMenu.ascx.cs:line 88
+   at SimpleServings.UI.UDC.SimpleServings.Menu.AddMenu.Page_Load(Object sender, EventArgs e) in C:\Users\araj\Simple Servings-New 03242021\03242021\NewSimple\SimpleServings\SimpleServings\UI\UDC\SimpleServings\Menu\AddMenu.ascx.cs:line 45
+   at System.Web.Util.CalliEventHandlerDelegateProxy.Callback(Object sender, EventArgs e)
+   at System.Web.UI.Control.OnLoad(EventArgs e)
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   at System.Web.UI.Page.HandleError(Exception e)
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   at System.Web.UI.Page.ProcessRequest(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   at System.Web.UI.Page.ProcessRequest()
+   at System.Web.UI.Page.ProcessRequestWithNoAssert(HttpContext context)
+   at System.Web.UI.Page.ProcessRequest(HttpContext context)
+   at ASP.ui_page_simpleservings_menu_addmenu_aspx.ProcessRequest(HttpContext context) in c:\Users\araj\AppData\Local\Temp\Temporary ASP.NET Files\simpleservings\2bde0e3d\90264120\App_Web_n4rihxtb.5.cs:line 0
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStepImpl(IExecutionStep step)
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+2021-03-24 17:34:15,502 [ 61] ERROR AppManager [(null)] SimpleServings application error: Exception of type 'System.Web.HttpUnhandledException' was thrown.
+location: http://localhost:1947/SimpleServings/UI/Page/SimpleServings/Menu/AddMenu.aspx?MenuType=AddMenu
+
+System.Web.HttpUnhandledException (0x80004005): Exception of type 'System.Web.HttpUnhandledException' was thrown. ---> System.Exception: GetCatererByContractID did not return a record!
+   at SimpleServingsLibrary.Shared.CodeDB.GetCatererByContractID(Int32 contractId, Int32 staffId) in C:\Users\araj\Simple Servings-New 03242021\03242021\NewSimple\SimpleServingsLibrary\SimpleServings.Shared\DAL\CodeDB.cs:line 395
+   at SimpleServingsLibrary.Shared.Code.GetCatererByContractID(Int32 contractId, Int32 staffId) in C:\Users\araj\Simple Servings-New 03242021\03242021\NewSimple\SimpleServingsLibrary\SimpleServings.Shared\BLL\Code.cs:line 428
+   at SimpleServingsLibrary.Shared.Utility.GetCatererByContractID(Int32 contractId, Int32 staffId) in C:\Users\araj\Simple Servings-New 03242021\03242021\NewSimple\SimpleServingsLibrary\SimpleServings.Shared\BLL\Utility.cs:line 422
+   at SimpleServings.UI.UDC.SimpleServings.Menu.AddMenu.PopMenuName() in C:\Users\araj\Simple Servings-New 03242021\03242021\NewSimple\SimpleServings\SimpleServings\UI\UDC\SimpleServings\Menu\AddMenu.ascx.cs:line 88
+   at SimpleServings.UI.UDC.SimpleServings.Menu.AddMenu.Page_Load(Object sender, EventArgs e) in C:\Users\araj\Simple Servings-New 03242021\03242021\NewSimple\SimpleServings\SimpleServings\UI\UDC\SimpleServings\Menu\AddMenu.ascx.cs:line 45
+   at System.Web.Util.CalliEventHandlerDelegateProxy.Callback(Object sender, EventArgs e)
+   at System.Web.UI.Control.OnLoad(EventArgs e)
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   at System.Web.UI.Page.HandleError(Exception e)
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   at System.Web.UI.Page.ProcessRequest(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   at System.Web.UI.Page.ProcessRequest()
+   at System.Web.UI.Page.ProcessRequestWithNoAssert(HttpContext context)
+   at System.Web.UI.Page.ProcessRequest(HttpContext context)
+   at ASP.ui_page_simpleservings_menu_addmenu_aspx.ProcessRequest(HttpContext context) in c:\Users\araj\AppData\Local\Temp\Temporary ASP.NET Files\simpleservings\2bde0e3d\90264120\App_Web_n4rihxtb.5.cs:line 0
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStepImpl(IExecutionStep step)
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+2021-03-24 17:34:52,926 [ 28] INFO  AppManager [(null)] SimpleServings started.
+2021-03-24 17:45:12,456 [ 28] INFO  AppManager [(null)] SimpleServings started.
+2021-03-24 17:46:57,602 [115] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: wdby4av1ouzsr5pqhtt4j302
+2021-03-24 17:48:47,674 [ 62] ERROR AppManager [(null)] SimpleServings application error: Exception of type 'System.Web.HttpUnhandledException' was thrown.
+location: http://localhost:1947/SimpleServings/UI/Page/SimpleServings/Menu/AddMenu.aspx?MenuType=AddMenu
+
+System.Web.HttpUnhandledException (0x80004005): Exception of type 'System.Web.HttpUnhandledException' was thrown. ---> System.Exception: GetCatererByContractID did not return a record!
+   at SimpleServingsLibrary.Shared.CodeDB.GetCatererByContractID(Int32 contractId, Int32 staffId) in C:\Users\araj\Simple Servings-New 03242021\03242021\NewSimple\SimpleServingsLibrary\SimpleServings.Shared\DAL\CodeDB.cs:line 395
+   at SimpleServingsLibrary.Shared.Code.GetCatererByContractID(Int32 contractId, Int32 staffId) in C:\Users\araj\Simple Servings-New 03242021\03242021\NewSimple\SimpleServingsLibrary\SimpleServings.Shared\BLL\Code.cs:line 428
+   at SimpleServingsLibrary.Shared.Utility.GetCatererByContractID(Int32 contractId, Int32 staffId) in C:\Users\araj\Simple Servings-New 03242021\03242021\NewSimple\SimpleServingsLibrary\SimpleServings.Shared\BLL\Utility.cs:line 422
+   at SimpleServings.UI.UDC.SimpleServings.Menu.AddMenu.PopMenuName() in C:\Users\araj\Simple Servings-New 03242021\03242021\NewSimple\SimpleServings\SimpleServings\UI\UDC\SimpleServings\Menu\AddMenu.ascx.cs:line 89
+   at SimpleServings.UI.UDC.SimpleServings.Menu.AddMenu.Page_Load(Object sender, EventArgs e) in C:\Users\araj\Simple Servings-New 03242021\03242021\NewSimple\SimpleServings\SimpleServings\UI\UDC\SimpleServings\Menu\AddMenu.ascx.cs:line 45
+   at System.Web.Util.CalliEventHandlerDelegateProxy.Callback(Object sender, EventArgs e)
+   at System.Web.UI.Control.OnLoad(EventArgs e)
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   at System.Web.UI.Page.HandleError(Exception e)
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   at System.Web.UI.Page.ProcessRequest(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   at System.Web.UI.Page.ProcessRequest()
+   at System.Web.UI.Page.ProcessRequestWithNoAssert(HttpContext context)
+   at System.Web.UI.Page.ProcessRequest(HttpContext context)
+   at ASP.ui_page_simpleservings_menu_addmenu_aspx.ProcessRequest(HttpContext context) in c:\Users\araj\AppData\Local\Temp\Temporary ASP.NET Files\simpleservings\2bde0e3d\90264120\App_Web_zwif3ptu.14.cs:line 0
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStepImpl(IExecutionStep step)
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+2021-03-24 17:49:05,507 [ 46] INFO  AppManager [(null)] SimpleServings started.
+2021-03-24 17:49:25,603 [ 60] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: uwmpl1rauwksvoczdrdr1yfg
+2021-03-24 17:51:30,934 [ 62] INFO  AppManager [(null)] (landingPage.aspx) - Clearing Session 
+Request Type:  
+SessionId: 4tov0qjii02o3gq3gi1thhjz
+2021-03-24 17:51:30,942 [115] INFO  AppManager [(null)] (landingPage.aspx) - New Session 
+Request Type:  
+SessionId: qatlaxlmjnjvsmeuyrzi0tj5
+2021-03-24 17:51:31,106 [ 68] INFO  AppManager [(null)] (login.aspx) - (araj) - Login successful 
+SessionId: wdk31gahzoygxbsg3fcm5cxz
+2021-03-24 17:51:31,112 [ 63] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: qatlaxlmjnjvsmeuyrzi0tj5

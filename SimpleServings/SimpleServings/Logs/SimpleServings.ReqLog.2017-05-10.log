@@ -1,0 +1,428 @@
+2017-05-10 13:51:15,972 [  7] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: ddwntp55a04zjiemdlqcozrx
+2017-05-10 13:51:20,784 [  8] INFO  AppManager [(null)] (landingPage.aspx) - Request from http://localhost:1949/SimpleServings/UI/Page/ 
+Request Type: LogInOut 
+SessionId: ddwntp55a04zjiemdlqcozrx
+2017-05-10 13:51:20,796 [  8] INFO  AppManager [(null)] (landingPage.aspx) - Redirecting to Login.aspx 
+Request Type: LogInOut 
+SessionId: ddwntp55a04zjiemdlqcozrx
+2017-05-10 13:51:21,045 [  5] INFO  AppManager [(null)] (login.aspx) - Request from http://localhost:1949/SimpleServings/UI/Page/ 
+SessionId: 4u3xto55mzzzqwy0unwicr55
+2017-05-10 13:51:40,317 [  6] INFO  AppManager [(null)] (landingPage.aspx) - Clearing Session 
+Request Type:  
+SessionId: tkvx3gbsiyd1wtmqg0ft1f2j
+2017-05-10 13:51:40,360 [  7] INFO  AppManager [(null)] (landingPage.aspx) - New Session 
+Request Type:  
+SessionId: lcbxfdzytj2cpn55atan2dzj
+2017-05-10 13:51:40,433 [  5] INFO  AppManager [(null)] (login.aspx) - (cvais7773) - Login successful 
+SessionId: vvswc3550gd1nf55by32rjrw
+2017-05-10 13:51:40,452 [  8] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: lcbxfdzytj2cpn55atan2dzj
+2017-05-10 14:16:47,875 [  1] INFO  AppManager [(null)] SimpleServings started.
+2017-05-10 14:29:15,730 [  7] INFO  AppManager [(null)] (landingPage.aspx) - Redirecting to Login.aspx 
+Request Type: LogInOut 
+SessionId: 
+2017-05-10 14:29:25,322 [  9] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: e2ip1s55354yqreivpskq1q4
+2017-05-10 14:33:38,077 [  7] ERROR AppManager [(null)] SimpleServings application error: Exception of type 'System.Web.HttpUnhandledException' was thrown.
+location: http://localhost:1949/SimpleServings/UI/Page/SimpleServings/Reports/ViewReport.aspx
+
+System.Web.HttpUnhandledException: Exception of type 'System.Web.HttpUnhandledException' was thrown. ---> Microsoft.Reporting.WebForms.Internal.Soap.ReportingServices2005.Execution.RSExecutionConnection+MissingEndpointException: The attempt to connect to the report server failed.  Check your connection information and that the report server is a compatible version. ---> System.InvalidOperationException: Client found response content type of '', but expected 'text/xml'.
+The request failed with an empty response.
+   at Microsoft.Reporting.WebForms.Internal.Soap.ReportingServices2005.Execution.RSExecutionConnection.GetSecureMethods()
+   at Microsoft.Reporting.WebForms.Internal.Soap.ReportingServices2005.Execution.RSExecutionConnection.IsSecureMethod(String methodname)
+   at Microsoft.Reporting.WebForms.Internal.Soap.ReportingServices2005.Execution.RSExecutionConnection.SetConnectionSSLForMethod(String methodname)
+   at Microsoft.Reporting.WebForms.Internal.Soap.ReportingServices2005.Execution.RSExecutionConnection.ProxyMethodInvocation.Execute[TReturn](RSExecutionConnection connection, ProxyMethod`1 initialMethod, ProxyMethod`1 retryMethod)
+   --- End of inner exception stack trace ---
+   at Microsoft.Reporting.WebForms.Internal.Soap.ReportingServices2005.Execution.RSExecutionConnection.ProxyMethodInvocation.Execute[TReturn](RSExecutionConnection connection, ProxyMethod`1 initialMethod, ProxyMethod`1 retryMethod)
+   at Microsoft.Reporting.WebForms.Internal.Soap.ReportingServices2005.Execution.RSExecutionConnection.LoadReport(String Report, String HistoryID)
+   at Microsoft.Reporting.WebForms.SoapReportExecutionService.LoadReport(String report, String historyId)
+   at Microsoft.Reporting.WebForms.ServerReport.EnsureExecutionSession()
+   at Microsoft.Reporting.WebForms.ServerReport.SetParameters(IEnumerable`1 parameters)
+   at SimpleServings.UI.UDC.SimpleServings.Reports.ViewReport.btnSearch_Click(Object sender, EventArgs e) in c:\TFS\DFTA\SimpleServings\SimpleServings\SimpleServings\UI\UDC\SimpleServings\Reports\ViewReport.ascx.cs:line 30
+   at System.Web.UI.WebControls.Button.OnClick(EventArgs e)
+   at System.Web.UI.WebControls.Button.RaisePostBackEvent(String eventArgument)
+   at System.Web.UI.WebControls.Button.System.Web.UI.IPostBackEventHandler.RaisePostBackEvent(String eventArgument)
+   at System.Web.UI.Page.RaisePostBackEvent(IPostBackEventHandler sourceControl, String eventArgument)
+   at System.Web.UI.Page.RaisePostBackEvent(NameValueCollection postData)
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   --- End of inner exception stack trace ---
+   at System.Web.UI.Page.HandleError(Exception e)
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   at System.Web.UI.Page.ProcessRequest(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   at System.Web.UI.Page.ProcessRequest()
+   at System.Web.UI.Page.ProcessRequestWithNoAssert(HttpContext context)
+   at System.Web.UI.Page.ProcessRequest(HttpContext context)
+   at ASP.ui_page_simpleservings_reports_viewreport_aspx.ProcessRequest(HttpContext context) in c:\Windows\Microsoft.NET\Framework\v2.0.50727\Temporary ASP.NET Files\simpleservings\50605a42\75e306da\App_Web_ordm61qo.1.cs:line 0
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+2017-05-10 14:34:42,077 [  1] INFO  AppManager [(null)] SimpleServings started.
+2017-05-10 14:34:50,883 [  5] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: lcbxfdzytj2cpn55atan2dzj
+2017-05-10 14:34:53,137 [  7] INFO  AppManager [(null)] (landingPage.aspx) - Request from http://localhost:1949/SimpleServings/UI/Page/ 
+Request Type: LogInOut 
+SessionId: lcbxfdzytj2cpn55atan2dzj
+2017-05-10 14:34:53,138 [  7] INFO  AppManager [(null)] (landingPage.aspx) - Redirecting to Login.aspx 
+Request Type: LogInOut 
+SessionId: lcbxfdzytj2cpn55atan2dzj
+2017-05-10 14:34:56,923 [  7] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: znpyr0mqmbo450iqf00v1sre
+2017-05-10 14:35:07,493 [  7] INFO  AppManager [(null)] (landingPage.aspx) - Request from http://localhost:1949/SimpleServings/UI/Page/SimpleServings/Reports/ViewReport.aspx 
+Request Type: LogInOut 
+SessionId: znpyr0mqmbo450iqf00v1sre
+2017-05-10 14:35:07,494 [  7] INFO  AppManager [(null)] (landingPage.aspx) - Redirecting to Login.aspx 
+Request Type: LogInOut 
+SessionId: znpyr0mqmbo450iqf00v1sre
+2017-05-10 14:35:07,503 [  7] INFO  AppManager [(null)] (login.aspx) - Request from http://localhost:1949/SimpleServings/UI/Page/SimpleServings/Reports/ViewReport.aspx 
+SessionId: vggqwb3i3nbk4e55oeszbo55
+2017-05-10 14:56:23,327 [  9] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: q3cchv55wogace45yg1jpu55
+2017-05-10 15:11:33,753 [  1] INFO  AppManager [(null)] SimpleServings started.
+2017-05-10 15:11:46,172 [  8] INFO  AppManager [(null)] (landingPage.aspx) - Redirecting to Login.aspx 
+Request Type: LogInOut 
+SessionId: 
+2017-05-10 15:11:53,298 [  5] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: ugmpdz2qdhc0ewea5dzdtm45
+2017-05-10 15:14:59,663 [  7] ERROR AppManager [(null)] SimpleServings application error: Exception of type 'System.Web.HttpUnhandledException' was thrown.
+location: http://localhost:1949/SimpleServings/UI/Page/SimpleServings/Reports/ViewReport.aspx
+
+System.Web.HttpUnhandledException: Exception of type 'System.Web.HttpUnhandledException' was thrown. ---> Microsoft.Reporting.WebForms.Internal.Soap.ReportingServices2005.Execution.RSExecutionConnection+MissingEndpointException: The attempt to connect to the report server failed.  Check your connection information and that the report server is a compatible version. ---> System.InvalidOperationException: Client found response content type of '', but expected 'text/xml'.
+The request failed with an empty response.
+   at Microsoft.Reporting.WebForms.Internal.Soap.ReportingServices2005.Execution.RSExecutionConnection.GetSecureMethods()
+   at Microsoft.Reporting.WebForms.Internal.Soap.ReportingServices2005.Execution.RSExecutionConnection.IsSecureMethod(String methodname)
+   at Microsoft.Reporting.WebForms.Internal.Soap.ReportingServices2005.Execution.RSExecutionConnection.SetConnectionSSLForMethod(String methodname)
+   at Microsoft.Reporting.WebForms.Internal.Soap.ReportingServices2005.Execution.RSExecutionConnection.ProxyMethodInvocation.Execute[TReturn](RSExecutionConnection connection, ProxyMethod`1 initialMethod, ProxyMethod`1 retryMethod)
+   --- End of inner exception stack trace ---
+   at Microsoft.Reporting.WebForms.Internal.Soap.ReportingServices2005.Execution.RSExecutionConnection.ProxyMethodInvocation.Execute[TReturn](RSExecutionConnection connection, ProxyMethod`1 initialMethod, ProxyMethod`1 retryMethod)
+   at Microsoft.Reporting.WebForms.Internal.Soap.ReportingServices2005.Execution.RSExecutionConnection.LoadReport(String Report, String HistoryID)
+   at Microsoft.Reporting.WebForms.SoapReportExecutionService.LoadReport(String report, String historyId)
+   at Microsoft.Reporting.WebForms.ServerReport.EnsureExecutionSession()
+   at Microsoft.Reporting.WebForms.ServerReport.SetParameters(IEnumerable`1 parameters)
+   at SimpleServings.UI.UDC.SimpleServings.Reports.ViewReport.btnSearch_Click(Object sender, EventArgs e) in c:\TFS\DFTA\SimpleServings\SimpleServings\SimpleServings\UI\UDC\SimpleServings\Reports\ViewReport.ascx.cs:line 30
+   at System.Web.UI.WebControls.Button.OnClick(EventArgs e)
+   at System.Web.UI.WebControls.Button.RaisePostBackEvent(String eventArgument)
+   at System.Web.UI.WebControls.Button.System.Web.UI.IPostBackEventHandler.RaisePostBackEvent(String eventArgument)
+   at System.Web.UI.Page.RaisePostBackEvent(IPostBackEventHandler sourceControl, String eventArgument)
+   at System.Web.UI.Page.RaisePostBackEvent(NameValueCollection postData)
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   --- End of inner exception stack trace ---
+   at System.Web.UI.Page.HandleError(Exception e)
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   at System.Web.UI.Page.ProcessRequest(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   at System.Web.UI.Page.ProcessRequest()
+   at System.Web.UI.Page.ProcessRequestWithNoAssert(HttpContext context)
+   at System.Web.UI.Page.ProcessRequest(HttpContext context)
+   at ASP.ui_page_simpleservings_reports_viewreport_aspx.ProcessRequest(HttpContext context) in c:\Windows\Microsoft.NET\Framework\v2.0.50727\Temporary ASP.NET Files\simpleservings\50605a42\75e306da\App_Web_pyzsehzz.2.cs:line 0
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+2017-05-10 15:24:27,564 [  1] INFO  AppManager [(null)] SimpleServings started.
+2017-05-10 15:24:40,303 [  7] INFO  AppManager [(null)] (landingPage.aspx) - Redirecting to Login.aspx 
+Request Type: LogInOut 
+SessionId: 
+2017-05-10 15:24:45,940 [  7] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: tbev3imyco2bfcn4dkczmy55
+2017-05-10 15:25:54,626 [  6] ERROR AppManager [(null)] SimpleServings application error: Exception of type 'System.Web.HttpUnhandledException' was thrown.
+location: http://localhost:1949/SimpleServings/UI/Page/SimpleServings/Reports/ViewReport.aspx
+
+System.Web.HttpUnhandledException: Exception of type 'System.Web.HttpUnhandledException' was thrown. ---> Microsoft.Reporting.WebForms.Internal.Soap.ReportingServices2005.Execution.RSExecutionConnection+MissingEndpointException: The attempt to connect to the report server failed.  Check your connection information and that the report server is a compatible version. ---> System.InvalidOperationException: Client found response content type of '', but expected 'text/xml'.
+The request failed with an empty response.
+   at Microsoft.Reporting.WebForms.Internal.Soap.ReportingServices2005.Execution.RSExecutionConnection.GetSecureMethods()
+   at Microsoft.Reporting.WebForms.Internal.Soap.ReportingServices2005.Execution.RSExecutionConnection.IsSecureMethod(String methodname)
+   at Microsoft.Reporting.WebForms.Internal.Soap.ReportingServices2005.Execution.RSExecutionConnection.SetConnectionSSLForMethod(String methodname)
+   at Microsoft.Reporting.WebForms.Internal.Soap.ReportingServices2005.Execution.RSExecutionConnection.ProxyMethodInvocation.Execute[TReturn](RSExecutionConnection connection, ProxyMethod`1 initialMethod, ProxyMethod`1 retryMethod)
+   --- End of inner exception stack trace ---
+   at Microsoft.Reporting.WebForms.Internal.Soap.ReportingServices2005.Execution.RSExecutionConnection.ProxyMethodInvocation.Execute[TReturn](RSExecutionConnection connection, ProxyMethod`1 initialMethod, ProxyMethod`1 retryMethod)
+   at Microsoft.Reporting.WebForms.Internal.Soap.ReportingServices2005.Execution.RSExecutionConnection.LoadReport(String Report, String HistoryID)
+   at Microsoft.Reporting.WebForms.SoapReportExecutionService.LoadReport(String report, String historyId)
+   at Microsoft.Reporting.WebForms.ServerReport.EnsureExecutionSession()
+   at Microsoft.Reporting.WebForms.ServerReport.SetParameters(IEnumerable`1 parameters)
+   at SimpleServings.UI.UDC.SimpleServings.Reports.ViewReport.btnSearch_Click(Object sender, EventArgs e) in c:\TFS\DFTA\SimpleServings\SimpleServings\SimpleServings\UI\UDC\SimpleServings\Reports\ViewReport.ascx.cs:line 30
+   at System.Web.UI.WebControls.Button.OnClick(EventArgs e)
+   at System.Web.UI.WebControls.Button.RaisePostBackEvent(String eventArgument)
+   at System.Web.UI.WebControls.Button.System.Web.UI.IPostBackEventHandler.RaisePostBackEvent(String eventArgument)
+   at System.Web.UI.Page.RaisePostBackEvent(IPostBackEventHandler sourceControl, String eventArgument)
+   at System.Web.UI.Page.RaisePostBackEvent(NameValueCollection postData)
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   --- End of inner exception stack trace ---
+   at System.Web.UI.Page.HandleError(Exception e)
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   at System.Web.UI.Page.ProcessRequest(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   at System.Web.UI.Page.ProcessRequest()
+   at System.Web.UI.Page.ProcessRequestWithNoAssert(HttpContext context)
+   at System.Web.UI.Page.ProcessRequest(HttpContext context)
+   at ASP.ui_page_simpleservings_reports_viewreport_aspx.ProcessRequest(HttpContext context) in c:\Windows\Microsoft.NET\Framework\v2.0.50727\Temporary ASP.NET Files\simpleservings\50605a42\75e306da\App_Web__f3v4zje.1.cs:line 0
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+2017-05-10 15:57:38,656 [  6] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: ob4diqy0ilfa5rq5o4ctv2yk
+2017-05-10 15:57:40,052 [  5] INFO  AppManager [(null)] (landingPage.aspx) - Request from http://localhost:1949/SimpleServings/UI/Page/ 
+Request Type: LogInOut 
+SessionId: eufu1p45w3pzb3552d1j4h55
+2017-05-10 15:57:40,053 [  5] INFO  AppManager [(null)] (landingPage.aspx) - Redirecting to Login.aspx 
+Request Type: LogInOut 
+SessionId: eufu1p45w3pzb3552d1j4h55
+2017-05-10 15:57:40,063 [  8] INFO  AppManager [(null)] (login.aspx) - Request from http://localhost:1949/SimpleServings/UI/Page/ 
+SessionId: et3bqofqctryuu55qtji4k55
+2017-05-10 15:57:42,519 [  8] INFO  AppManager [(null)] (landingPage.aspx) - Clearing Session 
+Request Type:  
+SessionId: fkzo4v45srycwyfnisjjsx55
+2017-05-10 15:57:42,535 [  7] INFO  AppManager [(null)] (landingPage.aspx) - New Session 
+Request Type:  
+SessionId: ogmunyntagslggfs2tlma155
+2017-05-10 15:57:42,558 [  6] INFO  AppManager [(null)] (login.aspx) - (cvais7773) - Login successful 
+SessionId: rtqqjo2b3llajsqc25gn2ki0
+2017-05-10 15:57:42,566 [  6] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: ogmunyntagslggfs2tlma155
+2017-05-10 16:04:51,083 [  1] INFO  AppManager [(null)] SimpleServings started.
+2017-05-10 16:05:03,172 [  6] INFO  AppManager [(null)] (landingPage.aspx) - Redirecting to Login.aspx 
+Request Type: LogInOut 
+SessionId: 
+2017-05-10 16:05:09,752 [  8] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: 0vay3i551ulhtgbxqrqusq45
+2017-05-10 16:06:44,061 [  7] ERROR AppManager [(null)] SimpleServings application error: Exception of type 'System.Web.HttpUnhandledException' was thrown.
+location: http://localhost:1949/SimpleServings/UI/Page/SimpleServings/Reports/ViewReport.aspx
+
+System.Web.HttpUnhandledException: Exception of type 'System.Web.HttpUnhandledException' was thrown. ---> Microsoft.Reporting.WebForms.ReportServerException: The path of the item '//SimpleServings//Menu_Item_by_MenuID_ML' is not valid. The full path must be less than 260 characters long; other restrictions apply. If the report server is in native mode, the path must start with slash. (rsInvalidItemPath)
+   at Microsoft.Reporting.WebForms.SoapReportExecutionService.ServerReportSoapProxy.OnSoapException(SoapException e)
+   at Microsoft.Reporting.WebForms.Internal.Soap.ReportingServices2005.Execution.RSExecutionConnection.ProxyMethodInvocation.Execute[TReturn](RSExecutionConnection connection, ProxyMethod`1 initialMethod, ProxyMethod`1 retryMethod)
+   at Microsoft.Reporting.WebForms.Internal.Soap.ReportingServices2005.Execution.RSExecutionConnection.LoadReport(String Report, String HistoryID)
+   at Microsoft.Reporting.WebForms.SoapReportExecutionService.LoadReport(String report, String historyId)
+   at Microsoft.Reporting.WebForms.ServerReport.EnsureExecutionSession()
+   at Microsoft.Reporting.WebForms.ServerReport.SetParameters(IEnumerable`1 parameters)
+   at SimpleServings.UI.UDC.SimpleServings.Reports.ViewReport.btnSearch_Click(Object sender, EventArgs e) in c:\TFS\DFTA\SimpleServings\SimpleServings\SimpleServings\UI\UDC\SimpleServings\Reports\ViewReport.ascx.cs:line 30
+   at System.Web.UI.WebControls.Button.OnClick(EventArgs e)
+   at System.Web.UI.WebControls.Button.RaisePostBackEvent(String eventArgument)
+   at System.Web.UI.WebControls.Button.System.Web.UI.IPostBackEventHandler.RaisePostBackEvent(String eventArgument)
+   at System.Web.UI.Page.RaisePostBackEvent(IPostBackEventHandler sourceControl, String eventArgument)
+   at System.Web.UI.Page.RaisePostBackEvent(NameValueCollection postData)
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   --- End of inner exception stack trace ---
+   at System.Web.UI.Page.HandleError(Exception e)
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   at System.Web.UI.Page.ProcessRequest(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   at System.Web.UI.Page.ProcessRequest()
+   at System.Web.UI.Page.ProcessRequestWithNoAssert(HttpContext context)
+   at System.Web.UI.Page.ProcessRequest(HttpContext context)
+   at ASP.ui_page_simpleservings_reports_viewreport_aspx.ProcessRequest(HttpContext context) in c:\Windows\Microsoft.NET\Framework\v2.0.50727\Temporary ASP.NET Files\simpleservings\50605a42\75e306da\App_Web_lvap7z8v.2.cs:line 0
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+2017-05-10 16:09:09,960 [  1] INFO  AppManager [(null)] SimpleServings started.
+2017-05-10 16:09:22,209 [  5] INFO  AppManager [(null)] (landingPage.aspx) - Redirecting to Login.aspx 
+Request Type: LogInOut 
+SessionId: 
+2017-05-10 16:09:27,581 [  9] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: tagdca45qe0dpy55xo1vc445
+2017-05-10 16:11:03,301 [  8] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: ogmunyntagslggfs2tlma155
+2017-05-10 16:11:04,343 [  8] INFO  AppManager [(null)] (landingPage.aspx) - Request from http://localhost:1949/SimpleServings/UI/Page/ 
+Request Type: LogInOut 
+SessionId: ogmunyntagslggfs2tlma155
+2017-05-10 16:11:04,344 [  8] INFO  AppManager [(null)] (landingPage.aspx) - Redirecting to Login.aspx 
+Request Type: LogInOut 
+SessionId: ogmunyntagslggfs2tlma155
+2017-05-10 16:11:04,352 [  5] INFO  AppManager [(null)] (login.aspx) - Request from http://localhost:1949/SimpleServings/UI/Page/ 
+SessionId: 3lw00q45yq1gtqi5tyzuc0ey
+2017-05-10 16:11:06,791 [  9] INFO  AppManager [(null)] (landingPage.aspx) - Clearing Session 
+Request Type:  
+SessionId: bcuoi2q3vcsnlj55ss0nwoiw
+2017-05-10 16:11:06,803 [  5] INFO  AppManager [(null)] (landingPage.aspx) - New Session 
+Request Type:  
+SessionId: biactbj1ntzrcs55kvrhkm45
+2017-05-10 16:11:06,824 [  6] INFO  AppManager [(null)] (login.aspx) - (cvais7773) - Login successful 
+SessionId: ceybkc32ctdgycncdxfidfzv
+2017-05-10 16:11:06,831 [  5] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: biactbj1ntzrcs55kvrhkm45
+2017-05-10 16:17:48,199 [  1] INFO  AppManager [(null)] SimpleServings started.
+2017-05-10 16:17:52,522 [  5] INFO  AppManager [(null)] (landingPage.aspx) - Redirecting to Login.aspx 
+Request Type: LogInOut 
+SessionId: 
+2017-05-10 16:17:59,615 [  7] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: yhfs1i3zyk2no0jun5e1lp45
+2017-05-10 16:19:21,168 [ 11] INFO  AppManager [(null)] SimpleServings started.
+2017-05-10 16:19:31,190 [  5] INFO  AppManager [(null)] (landingPage.aspx) - Request from http://localhost:1949/SimpleServings/UI/Page/SimpleServings/Reports/ViewReport.aspx 
+Request Type: LogInOut 
+SessionId: biactbj1ntzrcs55kvrhkm45
+2017-05-10 16:19:31,192 [  5] INFO  AppManager [(null)] (landingPage.aspx) - Redirecting to Login.aspx 
+Request Type: LogInOut 
+SessionId: biactbj1ntzrcs55kvrhkm45
+2017-05-10 16:19:34,826 [  5] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: g01w43550gvlvi45fmoosq2r
+2017-05-10 16:25:47,468 [  8] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: g01w43550gvlvi45fmoosq2r
+2017-05-10 16:25:49,851 [  5] INFO  AppManager [(null)] (Recipe.aspx) - Request from http://localhost:1949/SimpleServings/UI/Page/Home.aspx 
+SessionId: g01w43550gvlvi45fmoosq2r
+2017-05-10 16:30:03,905 [ 12] INFO  AppManager [(null)] SimpleServings started.
+2017-05-10 16:32:09,747 [ 12] INFO  AppManager [(null)] SimpleServings started.
+2017-05-10 16:32:18,008 [  5] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: g01w43550gvlvi45fmoosq2r
+2017-05-10 16:32:25,450 [  7] INFO  AppManager [(null)] (landingPage.aspx) - Request from http://localhost:1949/SimpleServings/UI/Page/ 
+Request Type: LogInOut 
+SessionId: g01w43550gvlvi45fmoosq2r
+2017-05-10 16:32:25,451 [  7] INFO  AppManager [(null)] (landingPage.aspx) - Redirecting to Login.aspx 
+Request Type: LogInOut 
+SessionId: g01w43550gvlvi45fmoosq2r
+2017-05-10 16:32:27,847 [  7] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: yswzls45c4mkmmvbelpiin45
+2017-05-10 16:36:05,284 [  7] INFO  AppManager [(null)] (landingPage.aspx) - Request from http://localhost:1949/SimpleServings/UI/Page/SimpleServings/Reports/ViewReport.aspx 
+Request Type: LogInOut 
+SessionId: yswzls45c4mkmmvbelpiin45
+2017-05-10 16:36:05,285 [  7] INFO  AppManager [(null)] (landingPage.aspx) - Redirecting to Login.aspx 
+Request Type: LogInOut 
+SessionId: yswzls45c4mkmmvbelpiin45
+2017-05-10 16:36:05,296 [  9] INFO  AppManager [(null)] (login.aspx) - Request from http://localhost:1949/SimpleServings/UI/Page/SimpleServings/Reports/ViewReport.aspx 
+SessionId: vuk43dapd3g121zlyl2rxcbn
+2017-05-10 16:40:13,951 [ 12] INFO  AppManager [(null)] SimpleServings started.
+2017-05-10 16:40:22,037 [  7] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: 4o4vhwuayqd4q5iaeo4cqgac
+2017-05-10 16:49:34,220 [  5] INFO  AppManager [(null)] (Recipe.aspx) - Request from http://localhost:1949/SimpleServings/UI/Page/SimpleServings/Reports/reports.aspx 
+SessionId: 4o4vhwuayqd4q5iaeo4cqgac
+2017-05-10 16:51:35,837 [  1] INFO  AppManager [(null)] SimpleServings started.
+2017-05-10 16:51:37,323 [  8] INFO  AppManager [(null)] (landingPage.aspx) - Request from http://localhost:1949/SimpleServings/UI/Page/SimpleServings/Recipe/Recipe.aspx 
+Request Type: LogInOut 
+SessionId: 4o4vhwuayqd4q5iaeo4cqgac
+2017-05-10 16:51:37,324 [  8] INFO  AppManager [(null)] (landingPage.aspx) - Redirecting to Login.aspx 
+Request Type: LogInOut 
+SessionId: 4o4vhwuayqd4q5iaeo4cqgac
+2017-05-10 16:51:39,927 [  8] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: bnixkf45e2nnyofbmvvnakrd
+2017-05-10 16:52:54,103 [  5] ERROR AppManager [(null)] SimpleServings application error: Exception of type 'System.Web.HttpUnhandledException' was thrown.
+location: http://localhost:1949/SimpleServings/UI/Page/resources.aspx
+
+System.Web.HttpUnhandledException: Exception of type 'System.Web.HttpUnhandledException' was thrown. ---> System.Web.HttpException: Failed to load viewstate.  The control tree into which viewstate is being loaded must match the control tree that was used to save viewstate during the previous request.  For example, when adding controls dynamically, the controls added during a post-back must match the type and position of the controls added during the initial request.
+   at System.Web.UI.Control.LoadViewStateRecursive(Object savedState)
+   at System.Web.UI.Control.LoadChildViewStateByIndex(ArrayList childState)
+   at System.Web.UI.Control.LoadViewStateRecursive(Object savedState)
+   at System.Web.UI.Control.LoadChildViewStateByIndex(ArrayList childState)
+   at System.Web.UI.Control.LoadViewStateRecursive(Object savedState)
+   at System.Web.UI.Control.LoadChildViewStateByIndex(ArrayList childState)
+   at System.Web.UI.Control.LoadViewStateRecursive(Object savedState)
+   at System.Web.UI.Control.LoadChildViewStateByIndex(ArrayList childState)
+   at System.Web.UI.Control.LoadViewStateRecursive(Object savedState)
+   at System.Web.UI.Control.LoadChildViewStateByIndex(ArrayList childState)
+   at System.Web.UI.Control.LoadViewStateRecursive(Object savedState)
+   at System.Web.UI.Control.LoadChildViewStateByIndex(ArrayList childState)
+   at System.Web.UI.Control.LoadViewStateRecursive(Object savedState)
+   at System.Web.UI.Page.LoadAllState()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   --- End of inner exception stack trace ---
+   at System.Web.UI.Page.HandleError(Exception e)
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   at System.Web.UI.Page.ProcessRequest(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   at System.Web.UI.Page.ProcessRequest()
+   at System.Web.UI.Page.ProcessRequestWithNoAssert(HttpContext context)
+   at System.Web.UI.Page.ProcessRequest(HttpContext context)
+   at ASP.ui_page_resources_aspx.ProcessRequest(HttpContext context) in c:\Windows\Microsoft.NET\Framework\v2.0.50727\Temporary ASP.NET Files\simpleservings\50605a42\75e306da\App_Web_b_bykoy_.6.cs:line 0
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+2017-05-10 16:52:59,977 [  5] INFO  AppManager [(null)] (landingPage.aspx) - Request from http://localhost:1949/SimpleServings/UI/Page/resources.aspx 
+Request Type: LogInOut 
+SessionId: bnixkf45e2nnyofbmvvnakrd
+2017-05-10 16:52:59,978 [  5] INFO  AppManager [(null)] (landingPage.aspx) - Redirecting to Login.aspx 
+Request Type: LogInOut 
+SessionId: bnixkf45e2nnyofbmvvnakrd
+2017-05-10 16:52:59,987 [  5] INFO  AppManager [(null)] (login.aspx) - Request from http://localhost:1949/SimpleServings/UI/Page/resources.aspx 
+SessionId: kpaxpsrahx15fmjlncwkvk55
+2017-05-10 16:53:02,222 [  7] INFO  AppManager [(null)] (landingPage.aspx) - Clearing Session 
+Request Type:  
+SessionId: 0yhfi0555getozuiwyqjhe55
+2017-05-10 16:53:02,239 [  9] INFO  AppManager [(null)] (landingPage.aspx) - New Session 
+Request Type:  
+SessionId: az05b045acz5y255wcpnz3j0
+2017-05-10 16:53:02,270 [  7] INFO  AppManager [(null)] (login.aspx) - (cvais7773) - Login successful 
+SessionId: rqokrubxa2z04p45fibvsva0
+2017-05-10 16:53:02,278 [  7] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: az05b045acz5y255wcpnz3j0
+2017-05-10 16:54:48,552 [  5] INFO  AppManager [(null)] (Recipe.aspx) - Request from http://localhost:1949/SimpleServings/UI/Page/resources.aspx 
+SessionId: az05b045acz5y255wcpnz3j0
+2017-05-10 16:57:45,529 [ 12] INFO  AppManager [(null)] SimpleServings started.
+2017-05-10 16:57:54,373 [  7] INFO  AppManager [(null)] (landingPage.aspx) - Request from http://localhost:1949/SimpleServings/UI/Page/resources.aspx 
+Request Type: LogInOut 
+SessionId: az05b045acz5y255wcpnz3j0
+2017-05-10 16:57:54,374 [  7] INFO  AppManager [(null)] (landingPage.aspx) - Redirecting to Login.aspx 
+Request Type: LogInOut 
+SessionId: az05b045acz5y255wcpnz3j0
+2017-05-10 16:57:57,285 [  9] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: xo0fwpe0kzzuqp45c5ah2qiz
+2017-05-10 17:07:56,480 [  1] INFO  AppManager [(null)] SimpleServings started.
+2017-05-10 17:08:04,906 [  8] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: xo0fwpe0kzzuqp45c5ah2qiz
+2017-05-10 17:08:06,528 [  8] INFO  AppManager [(null)] (landingPage.aspx) - Request from http://localhost:1949/SimpleServings/ui/page/ 
+Request Type: LogInOut 
+SessionId: xo0fwpe0kzzuqp45c5ah2qiz
+2017-05-10 17:08:06,529 [  8] INFO  AppManager [(null)] (landingPage.aspx) - Redirecting to Login.aspx 
+Request Type: LogInOut 
+SessionId: xo0fwpe0kzzuqp45c5ah2qiz
+2017-05-10 17:08:08,655 [  6] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: wezyd045nyflh2jwfnv21n45
+2017-05-10 17:08:12,774 [  6] ERROR AppManager [(null)] SimpleServings application error: Exception of type 'System.Web.HttpUnhandledException' was thrown.
+location: http://localhost:1949/SimpleServings/UI/Page/resources.aspx
+
+System.Web.HttpUnhandledException: Exception of type 'System.Web.HttpUnhandledException' was thrown. ---> System.Web.HttpException: The GridView 'gvResources' fired event Sorting which wasn't handled.
+   at System.Web.UI.WebControls.GridView.OnSorting(GridViewSortEventArgs e)
+   at System.Web.UI.WebControls.GridView.HandleSort(String sortExpression, SortDirection sortDirection)
+   at System.Web.UI.WebControls.GridView.HandleSort(String sortExpression)
+   at System.Web.UI.WebControls.GridView.HandleEvent(EventArgs e, Boolean causesValidation, String validationGroup)
+   at System.Web.UI.WebControls.GridView.RaisePostBackEvent(String eventArgument)
+   at System.Web.UI.WebControls.GridView.System.Web.UI.IPostBackEventHandler.RaisePostBackEvent(String eventArgument)
+   at System.Web.UI.Page.RaisePostBackEvent(IPostBackEventHandler sourceControl, String eventArgument)
+   at System.Web.UI.Page.RaisePostBackEvent(NameValueCollection postData)
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   --- End of inner exception stack trace ---
+   at System.Web.UI.Page.HandleError(Exception e)
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   at System.Web.UI.Page.ProcessRequest(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   at System.Web.UI.Page.ProcessRequest()
+   at System.Web.UI.Page.ProcessRequestWithNoAssert(HttpContext context)
+   at System.Web.UI.Page.ProcessRequest(HttpContext context)
+   at ASP.ui_page_resources_aspx.ProcessRequest(HttpContext context) in c:\Windows\Microsoft.NET\Framework\v2.0.50727\Temporary ASP.NET Files\simpleservings\50605a42\75e306da\App_Web_clnpglfd.2.cs:line 0
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+2017-05-10 17:39:25,795 [  5] ERROR AppManager [(null)] SimpleServings application error: Exception of type 'System.Web.HttpUnhandledException' was thrown.
+location: http://localhost:1949/SimpleServings/UI/Page/resources.aspx
+
+System.Web.HttpUnhandledException: Exception of type 'System.Web.HttpUnhandledException' was thrown. ---> System.Web.HttpException: The GridView 'gvResources' fired event Sorting which wasn't handled.
+   at System.Web.UI.WebControls.GridView.OnSorting(GridViewSortEventArgs e)
+   at System.Web.UI.WebControls.GridView.HandleSort(String sortExpression, SortDirection sortDirection)
+   at System.Web.UI.WebControls.GridView.HandleSort(String sortExpression)
+   at System.Web.UI.WebControls.GridView.HandleEvent(EventArgs e, Boolean causesValidation, String validationGroup)
+   at System.Web.UI.WebControls.GridView.RaisePostBackEvent(String eventArgument)
+   at System.Web.UI.WebControls.GridView.System.Web.UI.IPostBackEventHandler.RaisePostBackEvent(String eventArgument)
+   at System.Web.UI.Page.RaisePostBackEvent(IPostBackEventHandler sourceControl, String eventArgument)
+   at System.Web.UI.Page.RaisePostBackEvent(NameValueCollection postData)
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   --- End of inner exception stack trace ---
+   at System.Web.UI.Page.HandleError(Exception e)
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   at System.Web.UI.Page.ProcessRequest(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   at System.Web.UI.Page.ProcessRequest()
+   at System.Web.UI.Page.ProcessRequestWithNoAssert(HttpContext context)
+   at System.Web.UI.Page.ProcessRequest(HttpContext context)
+   at ASP.ui_page_resources_aspx.ProcessRequest(HttpContext context) in c:\Windows\Microsoft.NET\Framework\v2.0.50727\Temporary ASP.NET Files\simpleservings\50605a42\75e306da\App_Web_clnpglfd.2.cs:line 0
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+2017-05-10 17:40:22,263 [  6] INFO  AppManager [(null)] (landingPage.aspx) - Request from http://localhost:1949/SimpleServings/UI/Page/resources.aspx 
+Request Type: LogInOut 
+SessionId: wezyd045nyflh2jwfnv21n45
+2017-05-10 17:40:22,264 [  6] INFO  AppManager [(null)] (landingPage.aspx) - Redirecting to Login.aspx 
+Request Type: LogInOut 
+SessionId: wezyd045nyflh2jwfnv21n45
+2017-05-10 17:40:22,275 [  8] INFO  AppManager [(null)] (login.aspx) - Request from http://localhost:1949/SimpleServings/UI/Page/resources.aspx 
+SessionId: cnwmp455wasb5j3ybqozsxii
+2017-05-10 17:40:24,892 [  8] INFO  AppManager [(null)] (landingPage.aspx) - Clearing Session 
+Request Type:  
+SessionId: flccb145htbgsyyp3jqzkomd
+2017-05-10 17:40:24,912 [  7] INFO  AppManager [(null)] (landingPage.aspx) - New Session 
+Request Type:  
+SessionId: idks5mmz0lx0ib2n3folzd3l
+2017-05-10 17:40:24,927 [  6] INFO  AppManager [(null)] (login.aspx) - (cvais7773) - Login successful 
+SessionId: whfhrd55q4mywf55wajncf22
+2017-05-10 17:40:24,935 [  6] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: idks5mmz0lx0ib2n3folzd3l
+2017-05-10 17:41:14,048 [  6] INFO  AppManager [(null)] (landingPage.aspx) - Request from http://localhost:1949/SimpleServings/UI/Page/SimpleServings/Reports/ViewReport.aspx 
+Request Type: LogInOut 
+SessionId: idks5mmz0lx0ib2n3folzd3l
+2017-05-10 17:41:14,049 [  6] INFO  AppManager [(null)] (landingPage.aspx) - Redirecting to Login.aspx 
+Request Type: LogInOut 
+SessionId: idks5mmz0lx0ib2n3folzd3l
+2017-05-10 17:41:14,058 [  8] INFO  AppManager [(null)] (login.aspx) - Request from http://localhost:1949/SimpleServings/UI/Page/SimpleServings/Reports/ViewReport.aspx 
+SessionId: atnb00uw4wxmfs45llxfji55

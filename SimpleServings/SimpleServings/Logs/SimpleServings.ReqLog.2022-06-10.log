@@ -1,0 +1,16 @@
+2022-06-10 13:55:45,119 [  1] INFO  AppManager [(null)] SimpleServings started.
+2022-06-10 14:06:30,276 [ 46] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: iss2cxwg0ozmxceu3piwzewd
+2022-06-10 14:53:46,795 [ 93] INFO  AppManager [(null)] SimpleServings started.
+2022-06-10 14:54:16,188 [ 88] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: ekrecc4vxqkrlou3us54xegz
+2022-06-10 14:58:12,209 [ 76] INFO  AppManager [(null)] SimpleServings started.
+2022-06-10 15:00:05,433 [ 86] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: qj1v0pojktn3qiotqlld4qc4
+2022-06-10 15:02:00,728 [ 83] INFO  AppManager [(null)] SimpleServings started.
+2022-06-10 15:02:38,166 [ 81] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: aruawhybvra144s032tk4riu
+2022-06-10 15:04:21,670 [ 55] INFO  AppManager [(null)] SimpleServings started.
+2022-06-10 15:05:58,817 [ 55] INFO  AppManager [(null)] SimpleServings started.
+2022-06-10 15:06:20,324 [ 91] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: 5ponh00pgbpuvd1a33y3ort2

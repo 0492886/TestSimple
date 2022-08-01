@@ -1,0 +1,113 @@
+2017-07-20 10:39:56,938 [ 10] INFO  AppManager [(null)] (landingPage.aspx) - Redirecting to Login.aspx 
+Request Type: LogInOut 
+SessionId: 
+2017-07-20 10:40:03,397 [  8] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: dqjzjlulkc2f4ia03jen2r55
+2017-07-20 11:43:39,754 [  7] INFO  AppManager [(null)] (landingPage.aspx) - Request from http://localhost:1949/SimpleServings/UI/Page/myzone.aspx?Control=Setting 
+Request Type: LogInOut 
+SessionId: dqjzjlulkc2f4ia03jen2r55
+2017-07-20 11:43:39,755 [  7] INFO  AppManager [(null)] (landingPage.aspx) - Redirecting to Login.aspx 
+Request Type: LogInOut 
+SessionId: dqjzjlulkc2f4ia03jen2r55
+2017-07-20 11:43:39,824 [  5] INFO  AppManager [(null)] (login.aspx) - Request from http://localhost:1949/SimpleServings/UI/Page/myzone.aspx?Control=Setting 
+SessionId: qqcquozvfawcjz21tt4dypvd
+2017-07-20 11:43:42,596 [  8] INFO  AppManager [(null)] (landingPage.aspx) - Clearing Session 
+Request Type:  
+SessionId: 1qyog245ppj5vhnhsg2chqre
+2017-07-20 11:43:42,608 [  5] INFO  AppManager [(null)] (login.aspx) - (cvais7773) - Login successful 
+SessionId: gfwffa55sarkeciln4h4wn55
+2017-07-20 11:43:42,640 [ 10] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: ymk4meealh3yahjozwvtv2u2
+2017-07-20 11:43:42,644 [  5] INFO  AppManager [(null)] (landingPage.aspx) - New Session 
+Request Type:  
+SessionId: qlfdx3552nvnmr45eu5vdkng
+2017-07-20 13:35:54,784 [  7] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: ymk4meealh3yahjozwvtv2u2
+2017-07-20 13:35:56,615 [ 10] INFO  AppManager [(null)] (landingPage.aspx) - Request from http://localhost:1949/SimpleServings/ui/page/ 
+Request Type: LogInOut 
+SessionId: ymk4meealh3yahjozwvtv2u2
+2017-07-20 13:35:56,615 [ 10] INFO  AppManager [(null)] (landingPage.aspx) - Redirecting to Login.aspx 
+Request Type: LogInOut 
+SessionId: ymk4meealh3yahjozwvtv2u2
+2017-07-20 13:35:56,660 [  7] INFO  AppManager [(null)] (login.aspx) - Request from http://localhost:1949/SimpleServings/ui/page/ 
+SessionId: uxjis5uobmpltf45gu0dm0zs
+2017-07-20 13:35:58,915 [ 10] INFO  AppManager [(null)] (landingPage.aspx) - Clearing Session 
+Request Type:  
+SessionId: hnwrcmrlxvtil5ai5bl4ln45
+2017-07-20 13:35:58,975 [  8] INFO  AppManager [(null)] (landingPage.aspx) - New Session 
+Request Type:  
+SessionId: okubhs22b14oam55ekhmznjy
+2017-07-20 13:35:59,151 [  7] INFO  AppManager [(null)] (login.aspx) - (cvais7773) - Login successful 
+SessionId: d02lkhrsi52bbxvjckq42tbs
+2017-07-20 13:35:59,220 [ 10] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: okubhs22b14oam55ekhmznjy
+2017-07-20 14:11:04,591 [ 10] INFO  AppManager [(null)] (Recipe.aspx) - Request from http://localhost:1949/SimpleServings/UI/Page/myzone.aspx?Control=Setting 
+SessionId: okubhs22b14oam55ekhmznjy
+2017-07-20 14:11:11,756 [ 10] INFO  AppManager [(null)] (landingPage.aspx) - Request from http://localhost:1949/SimpleServings/UI/Page/SimpleServings/Recipe/Recipe.aspx 
+Request Type: LogInOut 
+SessionId: okubhs22b14oam55ekhmznjy
+2017-07-20 14:11:11,757 [ 10] INFO  AppManager [(null)] (landingPage.aspx) - Redirecting to Login.aspx 
+Request Type: LogInOut 
+SessionId: okubhs22b14oam55ekhmznjy
+2017-07-20 14:11:11,796 [ 10] INFO  AppManager [(null)] (login.aspx) - Request from http://localhost:1949/SimpleServings/UI/Page/SimpleServings/Recipe/Recipe.aspx 
+SessionId: y1p1o355ah4zkkzn2nh3tu45
+2017-07-20 14:11:14,046 [  8] INFO  AppManager [(null)] (landingPage.aspx) - Clearing Session 
+Request Type:  
+SessionId: yasjyo45wab1dg45atq5ms55
+2017-07-20 14:11:14,292 [  8] INFO  AppManager [(null)] (login.aspx) - (cvais7773) - Login successful 
+SessionId: ewx3v555mvguoy555b1jhe45
+2017-07-20 14:11:14,293 [  5] INFO  AppManager [(null)] (landingPage.aspx) - New Session 
+Request Type:  
+SessionId: 2ovpyy55qtf3bm45buohsuy3
+2017-07-20 14:11:14,323 [  7] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: 2ovpyy55qtf3bm45buohsuy3
+2017-07-20 14:11:15,922 [ 10] INFO  AppManager [(null)] (Recipe.aspx) - Request from http://localhost:1949/SimpleServings/UI/Page/Home.aspx 
+SessionId: 2ovpyy55qtf3bm45buohsuy3
+2017-07-20 16:36:53,682 [  7] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: 2ovpyy55qtf3bm45buohsuy3
+2017-07-20 16:36:54,545 [  8] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: 2ovpyy55qtf3bm45buohsuy3
+2017-07-20 16:36:55,859 [ 10] INFO  AppManager [(null)] (landingPage.aspx) - Request from http://localhost:1949/SimpleServings/ui/page/ 
+Request Type: LogInOut 
+SessionId: 2ovpyy55qtf3bm45buohsuy3
+2017-07-20 16:36:55,860 [ 10] INFO  AppManager [(null)] (landingPage.aspx) - Redirecting to Login.aspx 
+Request Type: LogInOut 
+SessionId: 2ovpyy55qtf3bm45buohsuy3
+2017-07-20 16:36:55,923 [ 10] INFO  AppManager [(null)] (login.aspx) - Request from http://localhost:1949/SimpleServings/ui/page/ 
+SessionId: xsaroljymi2kxz55lwdgll45
+2017-07-20 16:36:59,192 [  7] INFO  AppManager [(null)] (landingPage.aspx) - Clearing Session 
+Request Type:  
+SessionId: ypy4orymiloop155qpyg5055
+2017-07-20 16:36:59,202 [ 10] INFO  AppManager [(null)] (landingPage.aspx) - New Session 
+Request Type:  
+SessionId: ixqa1h45utiaqd55upz0az55
+2017-07-20 16:36:59,236 [  8] INFO  AppManager [(null)] (login.aspx) - (cvais7773) - Login successful 
+SessionId: 50adjlepiu4ert55smuyo4ny
+2017-07-20 16:36:59,244 [  8] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: ixqa1h45utiaqd55upz0az55
+2017-07-20 16:51:24,054 [ 18] INFO  AppManager [(null)] SimpleServings started.
+2017-07-20 16:51:35,222 [  5] INFO  AppManager [(null)] (landingPage.aspx) - Request from http://localhost:1949/SimpleServings/UI/Page/SimpleServings/Menu/AddMenuItem.aspx?MenuID=7531&WeekSelected=1 
+Request Type: LogInOut 
+SessionId: ixqa1h45utiaqd55upz0az55
+2017-07-20 16:51:35,223 [  5] INFO  AppManager [(null)] (landingPage.aspx) - Redirecting to Login.aspx 
+Request Type: LogInOut 
+SessionId: ixqa1h45utiaqd55upz0az55
+2017-07-20 16:52:07,068 [  7] INFO  AppManager [(null)] (login.aspx) - (cvais7773) - Login successful 
+SessionId: ik3blhnric2g3ub1zmq5o43c
+2017-07-20 16:52:07,098 [  7] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: ik3blhnric2g3ub1zmq5o43c
+2017-07-20 17:02:01,745 [ 10] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: ik3blhnric2g3ub1zmq5o43c
+2017-07-20 17:42:49,580 [  1] INFO  AppManager [(null)] SimpleServings started.
+2017-07-20 17:43:03,442 [  5] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: ik3blhnric2g3ub1zmq5o43c
+2017-07-20 17:43:14,841 [  6] INFO  AppManager [(null)] (landingPage.aspx) - Request from http://localhost:1949/SimpleServings/ui/page/ 
+Request Type: LogInOut 
+SessionId: ik3blhnric2g3ub1zmq5o43c
+2017-07-20 17:43:14,843 [  6] INFO  AppManager [(null)] (landingPage.aspx) - Redirecting to Login.aspx 
+Request Type: LogInOut 
+SessionId: ik3blhnric2g3ub1zmq5o43c
+2017-07-20 17:43:17,999 [  9] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: glnbyx55urvvglqexjpgzv45
+2017-07-20 17:43:19,033 [  8] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: glnbyx55urvvglqexjpgzv45

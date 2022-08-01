@@ -1,0 +1,107 @@
+2022-07-15 10:00:43,756 [ 87] INFO  AppManager [(null)] (landingPage.aspx) - Clearing Session 
+Request Type:  
+SessionId: a25tjalu40owrdt3tzifmsyt
+2022-07-15 10:00:44,184 [107] INFO  AppManager [(null)] (landingPage.aspx) - New Session 
+Request Type:  
+SessionId: rhxqbtkpygwsmotsdzkwxeck
+2022-07-15 10:00:44,379 [ 26] INFO  AppManager [(null)] (login.aspx) - (Mli) - Login successful 
+SessionId: 11anw4e0s0owcm50i1ogqkrk
+2022-07-15 10:00:44,654 [ 45] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: rhxqbtkpygwsmotsdzkwxeck
+2022-07-15 10:36:27,246 [  1] INFO  AppManager [(null)] SimpleServings started.
+2022-07-15 10:37:49,954 [ 12] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: fcgqqkbip2oaxtiojn5kfd1c
+2022-07-15 10:40:21,019 [ 27] INFO  AppManager [(null)] SimpleServings started.
+2022-07-15 10:40:42,699 [ 30] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: 0ykkw1ogpmdv1sqczhogreil
+2022-07-15 10:44:16,869 [  1] INFO  AppManager [(null)] SimpleServings started.
+2022-07-15 10:44:28,816 [  9] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: vbyzwrgkkdu0m5ymptuvq12s
+2022-07-15 10:46:56,545 [  1] INFO  AppManager [(null)] SimpleServings started.
+2022-07-15 10:47:18,251 [ 13] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: hjtlt5xapadnrdkdx44cjyf1
+2022-07-15 10:50:42,363 [  1] INFO  AppManager [(null)] SimpleServings started.
+2022-07-15 10:51:03,790 [ 32] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: dmagmrbqjyjrditjj5fwt31b
+2022-07-15 13:49:53,329 [  1] INFO  AppManager [(null)] SimpleServings started.
+2022-07-15 13:50:12,059 [ 17] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: rsmcsebnftivuyephjvc12zv
+2022-07-15 14:02:21,408 [ 46] INFO  AppManager [(null)] (landingPage.aspx) - Clearing Session 
+Request Type:  
+SessionId: f1fipypkxxn4cnxuc22kfwn5
+2022-07-15 14:02:21,416 [ 55] INFO  AppManager [(null)] (landingPage.aspx) - New Session 
+Request Type:  
+SessionId: pxpr4tvkva4an0hhnd1vh1pg
+2022-07-15 14:02:22,111 [ 47] INFO  AppManager [(null)] (login.aspx) - (Mli) - Login successful 
+SessionId: rikxz5yrv0chvrchybs1y20m
+2022-07-15 14:02:22,119 [ 41] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: pxpr4tvkva4an0hhnd1vh1pg
+2022-07-15 14:32:48,736 [ 89] INFO  AppManager [(null)] SimpleServings started.
+2022-07-15 14:33:12,064 [ 43] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: gsg4mjunlo20vmsr2hlbayds
+2022-07-15 14:33:28,418 [ 87] ERROR AppManager [(null)] SimpleServings application error: Exception of type 'System.Web.HttpUnhandledException' was thrown.
+location: http://localhost:1946/SimpleServings/UI/Page/SimpleServings/Reports/ViewReport.aspx?reportID=17
+
+System.Web.HttpUnhandledException (0x80004005): Exception of type 'System.Web.HttpUnhandledException' was thrown. ---> System.InvalidCastException: Unable to cast object of type 'System.Web.UI.WebControls.TextBox' to type 'System.IConvertible'.
+   at System.Convert.ToDateTime(Object value)
+   at SimpleServings.UI.UDC.SimpleServings.Reports.ucDailyMenuParameter.tbDate_TextChanged(Object sender, EventArgs e) in F:\DFTA coding\SimpleServings\SimpleServings_networkVersion_I_do\SimpleServing_Latest\NewSimple\SimpleServings\SimpleServings\UI\UDC\SimpleServings\Reports\ucDailyMenuParameter.ascx.cs:line 117
+   at System.Web.UI.WebControls.TextBox.OnTextChanged(EventArgs e)
+   at System.Web.UI.WebControls.TextBox.RaisePostDataChangedEvent()
+   at System.Web.UI.WebControls.TextBox.System.Web.UI.IPostBackDataHandler.RaisePostDataChangedEvent()
+   at System.Web.UI.Page.RaiseChangedEvents()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   at System.Web.UI.Page.HandleError(Exception e)
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   at System.Web.UI.Page.ProcessRequest(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   at System.Web.UI.Page.ProcessRequest()
+   at System.Web.UI.Page.ProcessRequestWithNoAssert(HttpContext context)
+   at System.Web.UI.Page.ProcessRequest(HttpContext context)
+   at ASP.ui_page_simpleservings_reports_viewreport_aspx.ProcessRequest(HttpContext context) in c:\Users\mli\AppData\Local\Temp\Temporary ASP.NET Files\simpleservings\d8789953\4318f988\App_Web_hyo0urql.3.cs:line 0
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStepImpl(IExecutionStep step)
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+2022-07-15 14:35:33,017 [ 93] INFO  AppManager [(null)] (landingPage.aspx) - Clearing Session 
+Request Type:  
+SessionId: 2vbirdhr0ofrxznz0c3npp0g
+2022-07-15 14:35:33,024 [ 52] INFO  AppManager [(null)] (landingPage.aspx) - New Session 
+Request Type:  
+SessionId: t1zaojaoew4ipyofsegdpjmi
+2022-07-15 14:35:33,253 [ 58] INFO  AppManager [(null)] (login.aspx) - (Mli) - Login successful 
+SessionId: fhewh4ke541fpbzt0sfk32kv
+2022-07-15 14:35:33,270 [ 90] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: t1zaojaoew4ipyofsegdpjmi
+2022-07-15 14:35:50,384 [ 94] ERROR AppManager [(null)] SimpleServings application error: Exception of type 'System.Web.HttpUnhandledException' was thrown.
+location: http://localhost:1946/SimpleServings/UI/Page/SimpleServings/Reports/ViewReport.aspx?reportID=17
+
+System.Web.HttpUnhandledException (0x80004005): Exception of type 'System.Web.HttpUnhandledException' was thrown. ---> System.InvalidCastException: Unable to cast object of type 'System.Web.UI.WebControls.TextBox' to type 'System.IConvertible'.
+   at System.Convert.ToDateTime(Object value)
+   at SimpleServings.UI.UDC.SimpleServings.Reports.ucDailyMenuParameter.tbDate_TextChanged(Object sender, EventArgs e) in F:\DFTA coding\SimpleServings\SimpleServings_networkVersion_I_do\SimpleServing_Latest\NewSimple\SimpleServings\SimpleServings\UI\UDC\SimpleServings\Reports\ucDailyMenuParameter.ascx.cs:line 117
+   at System.Web.UI.WebControls.TextBox.OnTextChanged(EventArgs e)
+   at System.Web.UI.WebControls.TextBox.RaisePostDataChangedEvent()
+   at System.Web.UI.WebControls.TextBox.System.Web.UI.IPostBackDataHandler.RaisePostDataChangedEvent()
+   at System.Web.UI.Page.RaiseChangedEvents()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   at System.Web.UI.Page.HandleError(Exception e)
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   at System.Web.UI.Page.ProcessRequest(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   at System.Web.UI.Page.ProcessRequest()
+   at System.Web.UI.Page.ProcessRequestWithNoAssert(HttpContext context)
+   at System.Web.UI.Page.ProcessRequest(HttpContext context)
+   at ASP.ui_page_simpleservings_reports_viewreport_aspx.ProcessRequest(HttpContext context) in c:\Users\mli\AppData\Local\Temp\Temporary ASP.NET Files\simpleservings\d8789953\4318f988\App_Web_hyo0urql.3.cs:line 0
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStepImpl(IExecutionStep step)
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+2022-07-15 14:36:14,689 [ 89] INFO  AppManager [(null)] SimpleServings started.
+2022-07-15 14:36:36,478 [ 58] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: lwlxoeobu1x3kljx3opsyidm
+2022-07-15 14:37:32,281 [  1] INFO  AppManager [(null)] SimpleServings started.
+2022-07-15 14:37:47,217 [  9] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: sfd5cketjuwxp0ullt0jewak
+2022-07-15 14:40:12,472 [ 23] INFO  AppManager [(null)] SimpleServings started.
+2022-07-15 14:40:34,639 [ 28] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: 3gx5rc5hlaobuzbuhayj5c3l
+2022-07-15 14:49:31,674 [ 23] INFO  AppManager [(null)] SimpleServings started.
+2022-07-15 14:49:55,608 [ 76] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: tehvupu3tifrhfrn4htwh2zj
+2022-07-15 14:50:43,578 [ 23] INFO  AppManager [(null)] SimpleServings started.
+2022-07-15 17:14:44,415 [  1] INFO  AppManager [(null)] SimpleServings started.

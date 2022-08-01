@@ -1,0 +1,73 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="dashboardmain.Master.cs" Inherits="SimpleServings.UI.Page.dashboardmain" %>
+<%@ Register TagPrefix="uc1" TagName="header" Src="~/UI/UDC/Navigation/header.ascx" %>
+<%@ Register TagPrefix="uc1" TagName="footer" Src="~/UI/UDC/Navigation/footer.ascx" %>
+
+<!DOCTYPE HTML>
+<html>
+    <head id="Head1" runat="server">
+		<title>Simple Servings</title>
+        <%--<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />--%> 
+        <meta http-equiv="X-UA-Compatible" content="IE=8;IE=Edge;chrome=1;" />         
+         <%--<meta name="viewport" content="width=device-width, maximum-scale=1.0, minimum-scale=1.0, initial-scale=1.0" />--%>
+        
+        <link href="../CSS/ModalPopup.css" rel="stylesheet" type="text/css" />
+        <!-- CSS -->
+		<link rel="stylesheet" type="text/css" href="../CSS/style.css" />  
+        <link rel="stylesheet" type="text/css" href="../CSS/jquery-ui.css" />  
+       
+        <!-- Javascript-->
+        <%-- 
+        <script type="text/javascript" src="../../../js/jquery-1.9.1.js"></script>
+         <script type="text/javascript" src="../js/jquery-1.9.1.js"></script>
+             <script type="text/javascript" src="../../../js/jquery-ui.js"></script>  
+            --%>
+          <script type="text/javascript"  src="<%# Page.ResolveUrl("~/UI/js/jquery-1.9.1.js") %>"></script>
+       
+         <script type="text/javascript"  src="<%# Page.ResolveUrl("~/UI/js/jquery-ui.js") %>"></script>
+        <script type="text/javascript" src="<%# Page.ResolveUrl("~/UI/js/custom.js") %>"></script>
+
+<%--        <script type="text/javascript" src="<%# Page.ResolveUrl("~/global/js/tinynav.min.js") %>"></script>
+         <script type="text/javascript" src="<%# Page.ResolveUrl("~/Javascript/MenuDisclaimer.js") %>"></script>--%>
+        <%--<script src="../../../js/custom.js" type="text/javascript"></script>--%>
+        <!--<script type="text/javascript" src="../../../../Scripts/tableDnD.js" ></script>-->		
+        <!--script type="text/javascript" src="../js/customScroll.js"></script--> 
+
+        <script type="text/javascript" src="../global/js/tinynav.min.js"></script>
+        <script type="text/javascript" src="../Javascript/MenuDisclaimer.js"></script>
+        
+         <script>
+             $(function () {
+                 //debugger;
+                 //$("#accordion").accordion(
+                     //{
+                     //icons: { "header": "ui-icon-", "activeHeader": "ui-icon-minus" }
+                     //}
+                 //);
+             });
+
+             
+         </script>
+        
+	</head>
+
+    <body id="top">
+
+        <div class="container">
+
+            <!-- Header -->
+            <uc1:header ID="header" runat="server" />
+            <!-- header end -->
+
+            <!-- Content -->    
+            <asp:ContentPlaceHolder ID="containerhome" runat="server"></asp:ContentPlaceHolder>
+            <!-- Content end -->
+            
+            <!-- Footer -->
+		    <uc1:footer ID="footer" runat="server" />
+            <!-- Footer end-->
+
+        </div>
+        
+	</body>
+ 
+</html>

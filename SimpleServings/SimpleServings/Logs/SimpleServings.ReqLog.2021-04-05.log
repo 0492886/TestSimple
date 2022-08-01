@@ -1,0 +1,77 @@
+2021-04-05 09:54:08,547 [  1] INFO  AppManager [(null)] SimpleServings started.
+2021-04-05 09:54:32,982 [ 12] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: wg1ck13fobi5f3mjbh0sornc
+2021-04-05 09:55:29,640 [  8] INFO  AppManager [(null)] (landingPage.aspx) - Request from http://localhost:1947/SimpleServings/UI/Page/SimpleServings/Menu/AddMenu.aspx?MenuType=AddMenu 
+Request Type: LogInOut 
+SessionId: wg1ck13fobi5f3mjbh0sornc
+2021-04-05 09:55:29,641 [  8] INFO  AppManager [(null)] (landingPage.aspx) - Redirecting to Login.aspx 
+Request Type: LogInOut 
+SessionId: wg1ck13fobi5f3mjbh0sornc
+2021-04-05 09:55:29,644 [ 10] INFO  AppManager [(null)] (login.aspx) - Request from http://localhost:1947/SimpleServings/UI/Page/SimpleServings/Menu/AddMenu.aspx?MenuType=AddMenu 
+SessionId: r4nbxl4qubfm43wglxigbe1n
+2021-04-05 15:44:01,213 [  1] INFO  AppManager [(null)] SimpleServings started.
+2021-04-05 15:44:31,482 [ 13] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: nlhoockzyyog43a12nowrh4g
+2021-04-05 15:49:08,220 [ 27] INFO  AppManager [(null)] (landingPage.aspx) - Clearing Session 
+Request Type:  
+SessionId: ug1sbrivq1n5lkv0ee4cov41
+2021-04-05 15:49:08,226 [ 28] INFO  AppManager [(null)] (landingPage.aspx) - New Session 
+Request Type:  
+SessionId: 5dxf5pxegzdywwzf0g2bvpun
+2021-04-05 15:49:08,350 [ 13] INFO  AppManager [(null)] (login.aspx) - (Mli) - Login successful 
+SessionId: fggkqoxzucq4mvmbfbty11ol
+2021-04-05 15:49:08,628 [ 10] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: 5dxf5pxegzdywwzf0g2bvpun
+2021-04-05 15:51:34,156 [  1] INFO  AppManager [(null)] SimpleServings started.
+2021-04-05 15:51:57,715 [ 14] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: tm3rlura2qj1uygfcy30opib
+2021-04-05 15:53:31,669 [ 11] INFO  AppManager [(null)] (landingPage.aspx) - Clearing Session 
+Request Type:  
+SessionId: wz2p3j2mhqozq2xp0if1wata
+2021-04-05 15:53:31,674 [ 19] INFO  AppManager [(null)] (landingPage.aspx) - New Session 
+Request Type:  
+SessionId: lrrsvk1li1teads005y5at0b
+2021-04-05 15:53:32,137 [ 20] INFO  AppManager [(null)] (login.aspx) - (Mli) - Login successful 
+SessionId: 4icjvlulxatjy3jyl20xi2mf
+2021-04-05 15:53:32,310 [ 21] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: lrrsvk1li1teads005y5at0b
+2021-04-05 15:54:13,393 [ 11] INFO  AppManager [(null)] (landingPage.aspx) - Clearing Session 
+Request Type:  
+SessionId: abuspywworizabi5xdgkujq4
+2021-04-05 15:54:13,407 [ 14] INFO  AppManager [(null)] (landingPage.aspx) - New Session 
+Request Type:  
+SessionId: tnvep0bozc4flqzd2earolha
+2021-04-05 15:54:13,573 [ 21] INFO  AppManager [(null)] (login.aspx) - (Mli) - Login successful 
+SessionId: 3hqilvt4ldb0eavujazpy4zk
+2021-04-05 15:54:13,579 [ 15] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: tnvep0bozc4flqzd2earolha
+2021-04-05 15:55:15,766 [ 14] INFO  AppManager [(null)] (landingPage.aspx) - Clearing Session 
+Request Type:  
+SessionId: nr4qcls1svgbew5ko3zbm1jt
+2021-04-05 15:55:15,771 [ 24] INFO  AppManager [(null)] (landingPage.aspx) - New Session 
+Request Type:  
+SessionId: 1kkohgrmihegmtlqegigzavh
+2021-04-05 15:55:15,878 [ 16] INFO  AppManager [(null)] (login.aspx) - (Mli) - Login successful 
+SessionId: v1qexn54htahrmtgonr13yu0
+2021-04-05 15:55:16,055 [ 19] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: 1kkohgrmihegmtlqegigzavh
+2021-04-05 15:56:12,713 [ 16] INFO  AppManager [(null)] (landingPage.aspx) - Clearing Session 
+Request Type:  
+SessionId: tm1wwqylwfq54ezq4r2asmyu
+2021-04-05 15:56:12,721 [ 10] INFO  AppManager [(null)] (landingPage.aspx) - New Session 
+Request Type:  
+SessionId: txtve5ok3pzjhlpewjcdj53u
+2021-04-05 15:56:12,920 [ 17] INFO  AppManager [(null)] (login.aspx) - (Mli) - Login successful 
+SessionId: 3luc2gdjbbgbs3ybnvguyrwg
+2021-04-05 15:56:12,926 [ 23] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: txtve5ok3pzjhlpewjcdj53u
+2021-04-05 16:06:49,365 [ 35] INFO  AppManager [(null)] (landingPage.aspx) - Clearing Session 
+Request Type:  
+SessionId: vqjygwhfwb40uooattjvjpby
+2021-04-05 16:06:49,374 [ 50] INFO  AppManager [(null)] (landingPage.aspx) - New Session 
+Request Type:  
+SessionId: stbc4uq0tz0fp2bmd2mkc0fw
+2021-04-05 16:06:49,509 [ 52] INFO  AppManager [(null)] (login.aspx) - (Mli) - Login successful 
+SessionId: eiwbbt2pdrxsxbhhn2sw4wjl
+2021-04-05 16:06:49,651 [ 48] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: stbc4uq0tz0fp2bmd2mkc0fw

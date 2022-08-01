@@ -1,0 +1,12 @@
+2021-02-21 00:02:58,596 [129] INFO  AppManager [(null)] SimpleServings started.
+2021-02-21 00:03:20,928 [123] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: yz1bfrs2coe4jq1njpsqn4ju
+2021-02-21 00:14:38,385 [ 31] INFO  AppManager [(null)] SimpleServings started.
+2021-02-21 00:14:59,118 [108] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: nhayjzyizdizkqu0fg4qw3g5
+2021-02-21 20:55:33,367 [  1] INFO  AppManager [(null)] SimpleServings started.
+2021-02-21 20:56:05,685 [ 17] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: mqcha2sf0li23xe3oqpmix0t
+2021-02-21 21:01:50,583 [  1] INFO  AppManager [(null)] SimpleServings started.
+2021-02-21 21:02:25,930 [ 12] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: mihoa2gdsikjnf0zqhyx422h

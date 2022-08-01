@@ -1,0 +1,71 @@
+/* CSS Document */
+body{margin: 10px 0px; padding:0px;}
+a, a:hover, a:visited{color:#003333;}
+.float_right{float:right; width:auto;}
+.float_left{float:left; width:auto;}
+.clear{clear:both; }
+.clear_right{clear:right;}
+.clear_left{clear:left;}
+.bold_type_1{font: bold 11px Arial, Helvetica, sans-serif; color:#666;}
+.bold{ font-weight:bold}
+
+
+
+
+img{border:0px; margin:0px; padding:0px;}
+h2{font: bold 14px Arial, Helvetica, sans-serif; color:#3D8B9D; margin:2px 0px; padding:0px;}
+.fix_h2{font: bold 14px Arial, Helvetica, sans-serif; color:#3D8B9D; padding:15px 0px 0px 7px;}
+
+#hasaweb2{background:#B9DAE2; text-align:center; margin: 10px auto; width:810px;}
+#v2main {width:810px; text-align:left; font:11px Arial, Helvetica, sans-serif;}
+/*picture container & login section  for main page*/
+#v2main .header{background:url(../Images/v2/logo.gif) no-repeat; height:30px;}
+#v2main .navigation{background:url(../Images/v2/navigation_bg.gif) repeat; height:28px;}
+#v2main .navigation ul{margin:0px; padding:0px;}
+#v2main .navigation li{float:left; padding:0px; list-style:none; white-space:nowrap; padding:2px 0px}
+#v2main .navigation a{text-decoration:none; border-right:1px dotted #ccc; padding:0px 22px; color:#eee; font:13px Georgia, "Times New Roman", Times, serif; line-height:19px;}
+#v2main .navigation a:hover{color:#fff;}
+#v2main .navigation .no_border{border:none;}
+
+/* picture container & login section  for main page*/
+#v2main .header_container{height:157px; clear:right; margin:0px; padding:0px;  }
+#v2main .pic_container{padding:0px; margin:0px; float:left; width:535px;}
+#v2main .login_container{float:right; width:275px; height:145px; background:url(../Images/v2/login_bg.gif) repeat; color:#666}
+#v2main .black_btn{border:2px solid #fff; background:#234b4f; color:#ddd; font:12px Georgia, "Times New Roman", Times, serif; padding:0px 5px; margin-left:185px}
+#v2main .input_box{font: 12px arial,sans-serif; width:150px; border:1px solid #888; color:#666;}
+#v2main .login_form{ margin-top:48px;}
+#v2main .forms_txt{ width:150px; display: block; width:68px; float:left; padding-top:1px; margin-left:10px; font:11px Verdana, Arial, Helvetica, sans-serif 	}
+#v2main .header_container p{padding-top:5px; margin:0px;}
+
+
+
+#v2main .img_float_left{float:left; padding:0 10px 0 0; width:auto;}
+#v2main .img_float_right{float:right; padding:0 0 0 2px; width:auto;}
+
+#v2main .main_body{background:url(../Images/v2/body_bg.gif) repeat; height:auto; margin:0px; padding:0px; padding:5px 0px 50px 10px; font:11px Verdana, Arial, Helvetica, sans-serif; line-height:14px;  color:#555; clear:both;}
+#v2main .module_container{background:#F2F5F8; height:auto; width:780px; overflow:auto; padding-bottom:10px;}
+#v2main .box_1{padding:0px; }
+#v2main .col_1{border-right:1px dotted silver; width:470px; float:left; height:170px; padding:0px 7px; padding-bottom:4px;}
+#v2main .col_2{ width:281px; float:right; height:170px; padding:0px 7px; padding-bottom:4px;}
+#v2main .box_1 p{padding:0px; margin:2px 0px;}
+#v2main .list{margin:5px 20px; padding:0px; }
+#v2main .list li{ list-style-type:disc; padding:2px; font:bold 11px Verdana, Arial, Helvetica, sans-serif; color:#777;}
+#v2main .sub_list{ margin-left:10px; }
+#v2main .sub_list li{ list-style:none; font-weight:100; color:black;  }
+
+
+#v2main .breaker{width:450px; border-top:2px solid white; height:2px; margin:0px auto;}
+#v2main .dotted_breaker{width:261px; border-top:1px dotted silver; height:2px; margin:0px auto;}
+
+#v2main .large_col{background:#EBEEF0 url(../Images/v2/tab_bottom.gif) bottom no-repeat; width:780px; padding:10px 0 10px 0; margin-top:-10px;}
+#v2main .tab_bg{background:#F2F5F8 url(../Images/v2/links_tab.gif) no-repeat; width:780px; height:30px;  padding:6px 0px 0px 0px; margin:0px	;}
+#v2main .hasa_links{padding:0px; margin: 0px 7px 10px 7px;}
+#v2main .hasa_links li{ list-style:none; padding:2px 0px;}
+#v2main .hasa_links li a{text-decoration:none; }
+#v2main .hasa_links li a:hover{border-bottom:1px dotted black;}
+
+
+
+
+#v2main .footer{ background:url(../Images/v2/body_bg.gif)repeat; height:auto; padding:0 10px 0 10px; margin-top:-30px; font-size:10px; color:#777;   }
+#v2main p{margin:0px; padding:0px;}

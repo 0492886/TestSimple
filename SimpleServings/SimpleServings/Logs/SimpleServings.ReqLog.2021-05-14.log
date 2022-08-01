@@ -1,0 +1,72 @@
+2021-05-14 09:23:15,081 [  1] INFO  AppManager [(null)] SimpleServings started.
+2021-05-14 09:23:40,494 [ 17] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: 0x2hszybrjr1qnx0cggaubn3
+2021-05-14 09:26:54,432 [ 14] INFO  AppManager [(null)] (landingPage.aspx) - Clearing Session 
+Request Type:  
+SessionId: wtlqgc4h5orkvlsafdtae130
+2021-05-14 09:26:54,443 [ 26] INFO  AppManager [(null)] (landingPage.aspx) - New Session 
+Request Type:  
+SessionId: rsdx1eas312x2mw4alpelija
+2021-05-14 09:26:54,616 [ 11] INFO  AppManager [(null)] (login.aspx) - (Mli) - Login successful 
+SessionId: jigl42y2omtiwq2iyqw1xwdc
+2021-05-14 09:26:54,749 [ 24] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: rsdx1eas312x2mw4alpelija
+2021-05-14 09:29:30,400 [ 36] INFO  AppManager [(null)] (landingPage.aspx) - Clearing Session 
+Request Type:  
+SessionId: emfitmxyfxg0vhoumpagdeq0
+2021-05-14 09:29:30,410 [ 38] INFO  AppManager [(null)] (landingPage.aspx) - New Session 
+Request Type:  
+SessionId: 01mabwru5jcbd4gwntum5blp
+2021-05-14 09:29:30,572 [ 14] INFO  AppManager [(null)] (login.aspx) - (Mli) - Login successful 
+SessionId: mmvmnh5qjnqeyty5dvkeniqv
+2021-05-14 09:29:30,576 [ 29] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: 01mabwru5jcbd4gwntum5blp
+2021-05-14 09:32:23,764 [ 27] INFO  AppManager [(null)] SimpleServings started.
+2021-05-14 09:32:42,397 [ 29] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: il41acvgjjyds0oi3glsv3gt
+2021-05-14 09:33:40,348 [ 25] INFO  AppManager [(null)] (landingPage.aspx) - Clearing Session 
+Request Type:  
+SessionId: 4rgbopsl1n4vmfbr14xkr0l0
+2021-05-14 09:33:40,360 [ 14] INFO  AppManager [(null)] (landingPage.aspx) - New Session 
+Request Type:  
+SessionId: iioqz0tawxdquaomxjlp5tl2
+2021-05-14 09:33:40,582 [ 33] INFO  AppManager [(null)] (login.aspx) - (Mli) - Login successful 
+SessionId: sufw2pq0m5g50wuuqjn23huz
+2021-05-14 09:33:40,588 [ 28] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: iioqz0tawxdquaomxjlp5tl2
+2021-05-14 09:37:55,996 [ 23] INFO  AppManager [(null)] (landingPage.aspx) - Clearing Session 
+Request Type:  
+SessionId: fu2qwjmp1plei3lovitdvbl3
+2021-05-14 09:37:56,005 [ 18] INFO  AppManager [(null)] (landingPage.aspx) - New Session 
+Request Type:  
+SessionId: d1ttqlbhjehf21tx3nb1123u
+2021-05-14 09:37:56,275 [ 29] INFO  AppManager [(null)] (login.aspx) - (Mli) - Login successful 
+SessionId: hhiolofjyn44k2lnchokiqrd
+2021-05-14 09:37:56,281 [ 16] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: d1ttqlbhjehf21tx3nb1123u
+2021-05-14 09:39:52,493 [ 36] INFO  AppManager [(null)] (landingPage.aspx) - Clearing Session 
+Request Type:  
+SessionId: z4yfhgznfa01v4g3aedcg2ar
+2021-05-14 09:39:52,504 [ 18] INFO  AppManager [(null)] (landingPage.aspx) - New Session 
+Request Type:  
+SessionId: o43evjsvufm2zzgbvytwmkn3
+2021-05-14 09:39:52,677 [ 20] INFO  AppManager [(null)] (login.aspx) - (Mli) - Login successful 
+SessionId: 0xbspet2irzuxd3m4305l3w0
+2021-05-14 09:39:52,681 [ 33] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: o43evjsvufm2zzgbvytwmkn3
+2021-05-14 09:41:38,470 [  1] INFO  AppManager [(null)] SimpleServings started.
+2021-05-14 09:42:01,252 [ 20] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: hwabzaa0tn2gix4b5dg44mf2
+2021-05-14 09:44:18,294 [  1] INFO  AppManager [(null)] SimpleServings started.
+2021-05-14 09:44:41,355 [ 41] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: zzklhqwuax0ogvlketwbmw3s
+2021-05-14 09:46:20,236 [ 17] INFO  AppManager [(null)] (landingPage.aspx) - Clearing Session 
+Request Type:  
+SessionId: remybnfbbbsv4kznem5mdi0u
+2021-05-14 09:46:20,248 [ 14] INFO  AppManager [(null)] (landingPage.aspx) - New Session 
+Request Type:  
+SessionId: xdyyudjxtt2cg5eic0ncqvsf
+2021-05-14 09:46:20,415 [ 20] INFO  AppManager [(null)] (login.aspx) - (Mli) - Login successful 
+SessionId: m2crvwj1klmg55x1pofg5i4o
+2021-05-14 09:46:20,419 [ 39] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: xdyyudjxtt2cg5eic0ncqvsf

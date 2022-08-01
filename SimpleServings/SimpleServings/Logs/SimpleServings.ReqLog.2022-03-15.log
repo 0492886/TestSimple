@@ -1,0 +1,28 @@
+2022-03-15 12:56:40,981 [  1] INFO  AppManager [(null)] SimpleServings started.
+2022-03-15 12:57:20,077 [ 23] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: h44hijtpnvva03mbvtulyrt4
+2022-03-15 12:59:52,371 [  1] INFO  AppManager [(null)] SimpleServings started.
+2022-03-15 13:00:09,258 [ 12] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: kwlrovkkewmmy3cuihb3cub5
+2022-03-15 13:02:50,090 [ 11] INFO  AppManager [(null)] (landingPage.aspx) - Clearing Session 
+Request Type:  
+SessionId: tnmhzsk15wexo3xwzzfgn00a
+2022-03-15 13:02:50,099 [ 13] INFO  AppManager [(null)] (landingPage.aspx) - New Session 
+Request Type:  
+SessionId: gxox50lwa154l44kptcqcivy
+2022-03-15 13:02:50,322 [ 12] INFO  AppManager [(null)] (login.aspx) - (Mli) - Login successful 
+SessionId: thqmibykufabd2ungf1o0pal
+2022-03-15 13:02:50,328 [ 25] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: gxox50lwa154l44kptcqcivy
+2022-03-15 13:04:39,012 [ 42] INFO  AppManager [(null)] SimpleServings started.
+2022-03-15 13:05:50,093 [ 42] INFO  AppManager [(null)] SimpleServings started.
+2022-03-15 13:06:19,053 [ 50] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: thlf25crt0xtws1i4u3vzu1a
+2022-03-15 14:28:23,198 [159] INFO  AppManager [(null)] (landingPage.aspx) - Request from http://localhost:1945/SimpleServings/UI/Page/myzone.aspx?Control=Setting 
+Request Type: LogInOut 
+SessionId: thlf25crt0xtws1i4u3vzu1a
+2022-03-15 14:28:23,199 [159] INFO  AppManager [(null)] (landingPage.aspx) - Redirecting to Login.aspx 
+Request Type: LogInOut 
+SessionId: thlf25crt0xtws1i4u3vzu1a
+2022-03-15 14:28:23,204 [193] INFO  AppManager [(null)] (login.aspx) - Request from http://localhost:1945/SimpleServings/UI/Page/myzone.aspx?Control=Setting 
+SessionId: vx4s5yzvhbnmrtomb0qr0bfh

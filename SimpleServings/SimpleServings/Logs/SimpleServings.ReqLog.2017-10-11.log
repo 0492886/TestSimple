@@ -1,0 +1,126 @@
+2017-10-11 11:06:41,909 [  1] INFO  AppManager [(null)] SimpleServings started.
+2017-10-11 11:08:07,703 [  8] INFO  AppManager [(null)] (landingPage.aspx) - Clearing Session 
+Request Type:  
+SessionId: xxvxjoa5rduvc155n442pymg
+2017-10-11 11:08:07,703 [  8] INFO  AppManager [(null)] (landingPage.aspx) - New Session 
+Request Type:  
+SessionId: rregbfzqs0ho5jaualhqq2u4
+2017-10-11 11:08:51,047 [  1] INFO  AppManager [(null)] SimpleServings started.
+2017-10-11 11:09:08,305 [  1] INFO  AppManager [(null)] SimpleServings started.
+2017-10-11 11:09:31,007 [  1] INFO  AppManager [(null)] SimpleServings started.
+2017-10-11 11:12:37,137 [  1] INFO  AppManager [(null)] SimpleServings started.
+2017-10-11 11:23:08,615 [  1] INFO  AppManager [(null)] SimpleServings started.
+2017-10-11 11:24:21,214 [  7] ERROR AppManager [(null)] btnLogin_Click failed: User Name missing from the table
+2017-10-11 11:26:25,155 [  5] INFO  AppManager [(null)] (landingPage.aspx) - Clearing Session 
+Request Type:  
+SessionId: ytd31445pg21nf55iyrqogmf
+2017-10-11 11:26:25,167 [  7] INFO  AppManager [(null)] (landingPage.aspx) - New Session 
+Request Type:  
+SessionId: n2fzramfjpsfjlzlwl4afr45
+2017-10-11 11:26:25,206 [  6] ERROR AppManager [(null)] btnLogin_Click failed: Incorrect username and/or password.
+2017-10-11 11:34:13,564 [  7] INFO  AppManager [(null)] (landingPage.aspx) - Clearing Session 
+Request Type:  
+SessionId: iljymj35hj0shimahyqgvd55
+2017-10-11 11:34:13,588 [  7] INFO  AppManager [(null)] (landingPage.aspx) - New Session 
+Request Type:  
+SessionId: rgrwfa55jsy5d0blyxeso255
+2017-10-11 11:34:13,744 [  8] INFO  AppManager [(null)] (login.aspx) - (kpatel1) - Login successful 
+SessionId: ysfgi355hvhp5nacvqey2g55
+2017-10-11 11:34:13,773 [  7] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: rgrwfa55jsy5d0blyxeso255
+2017-10-11 11:38:15,061 [  8] INFO  AppManager [(null)] (AddEditAccountInfo.ascx) - Request from http://localhost:1949/SimpleServings/UI/Page/SimpleServings/Staff/StaffWizard.aspx 
+SessionId: rgrwfa55jsy5d0blyxeso255
+2017-10-11 11:38:15,062 [  8] INFO  AppManager [(null)] (AddEditAccountInfo.ascx) - Request from http://localhost:1949/SimpleServings/UI/Page/SimpleServings/Staff/StaffWizard.aspx 
+SessionId: rgrwfa55jsy5d0blyxeso255
+2017-10-11 11:39:14,269 [  7] INFO  AppManager [(null)] (AddEditAccountInfo.ascx) - Request from http://localhost:1949/SimpleServings/UI/Page/MyZone.aspx?Control=EditStaff&StaffID=22&EditPart=EditAccountInfo 
+SessionId: rgrwfa55jsy5d0blyxeso255
+2017-10-11 11:39:14,270 [  7] INFO  AppManager [(null)] (AddEditAccountInfo.ascx) - Request from http://localhost:1949/SimpleServings/UI/Page/MyZone.aspx?Control=EditStaff&StaffID=22&EditPart=EditAccountInfo 
+SessionId: rgrwfa55jsy5d0blyxeso255
+2017-10-11 11:39:46,099 [  6] INFO  AppManager [(null)] (AddEditAccountInfo.ascx) - Request from http://localhost:1949/SimpleServings/UI/Page/SimpleServings/Staff/StaffWizard.aspx 
+SessionId: rgrwfa55jsy5d0blyxeso255
+2017-10-11 11:39:46,100 [  6] INFO  AppManager [(null)] (AddEditAccountInfo.ascx) - Request from http://localhost:1949/SimpleServings/UI/Page/SimpleServings/Staff/StaffWizard.aspx 
+SessionId: rgrwfa55jsy5d0blyxeso255
+2017-10-11 11:41:19,420 [  6] INFO  AppManager [(null)] (AddEditAccountInfo.ascx) - Request from http://localhost:1949/SimpleServings/UI/Page/MyZone.aspx?Control=EditStaff&StaffID=325&EditPart=EditAccountInfo 
+SessionId: rgrwfa55jsy5d0blyxeso255
+2017-10-11 11:41:19,420 [  6] INFO  AppManager [(null)] (AddEditAccountInfo.ascx) - Request from http://localhost:1949/SimpleServings/UI/Page/MyZone.aspx?Control=EditStaff&StaffID=325&EditPart=EditAccountInfo 
+SessionId: rgrwfa55jsy5d0blyxeso255
+2017-10-11 11:43:07,724 [ 12] INFO  AppManager [(null)] SimpleServings started.
+2017-10-11 11:43:14,960 [  8] INFO  AppManager [(null)] (landingPage.aspx) - Request from http://localhost:1949/SimpleServings/UI/Page/MyZone.aspx?Control=MyProfile&StaffID=325 
+Request Type: LogInOut 
+SessionId: rgrwfa55jsy5d0blyxeso255
+2017-10-11 11:43:14,960 [  8] INFO  AppManager [(null)] (landingPage.aspx) - Redirecting to Login.aspx 
+Request Type: LogInOut 
+SessionId: rgrwfa55jsy5d0blyxeso255
+2017-10-11 11:43:23,948 [  5] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: wzmttrjrsemarh55ags5uq55
+2017-10-11 11:45:12,224 [ 15] INFO  AppManager [(null)] SimpleServings started.
+2017-10-11 11:45:18,749 [  7] INFO  AppManager [(null)] (landingPage.aspx) - Request from http://localhost:1949/SimpleServings/UI/Page/MyZone.aspx?Control=MyProfile&StaffID=770 
+Request Type: LogInOut 
+SessionId: wzmttrjrsemarh55ags5uq55
+2017-10-11 11:45:18,750 [  7] INFO  AppManager [(null)] (landingPage.aspx) - Redirecting to Login.aspx 
+Request Type: LogInOut 
+SessionId: wzmttrjrsemarh55ags5uq55
+2017-10-11 11:45:46,589 [ 15] INFO  AppManager [(null)] SimpleServings started.
+2017-10-11 11:45:53,312 [  6] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: u224tp55mtdeooquiito4vrb
+2017-10-11 11:46:29,373 [  7] INFO  AppManager [(null)] (AddEditAccountInfo.ascx) - Request from http://localhost:1949/SimpleServings/UI/Page/MyZone.aspx?Control=EditStaff&StaffID=588&EditPart=EditAccountInfo 
+SessionId: u224tp55mtdeooquiito4vrb
+2017-10-11 11:46:29,374 [  7] INFO  AppManager [(null)] (AddEditAccountInfo.ascx) - Request from http://localhost:1949/SimpleServings/UI/Page/MyZone.aspx?Control=EditStaff&StaffID=588&EditPart=EditAccountInfo 
+SessionId: u224tp55mtdeooquiito4vrb
+2017-10-11 11:48:11,218 [ 15] INFO  AppManager [(null)] SimpleServings started.
+2017-10-11 11:48:17,450 [  5] INFO  AppManager [(null)] (landingPage.aspx) - Request from http://localhost:1949/SimpleServings/UI/Page/MyZone.aspx?Control=MyProfile&StaffID=588 
+Request Type: LogInOut 
+SessionId: u224tp55mtdeooquiito4vrb
+2017-10-11 11:48:17,451 [  5] INFO  AppManager [(null)] (landingPage.aspx) - Redirecting to Login.aspx 
+Request Type: LogInOut 
+SessionId: u224tp55mtdeooquiito4vrb
+2017-10-11 11:48:24,919 [  6] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: 3gbigbuyv0rctracgumtuvng
+2017-10-11 11:48:39,828 [  8] INFO  AppManager [(null)] (AddEditAccountInfo.ascx) - Request from http://localhost:1949/SimpleServings/UI/Page/MyZone.aspx?Control=EditStaff&StaffID=588&EditPart=EditAccountInfo 
+SessionId: 3gbigbuyv0rctracgumtuvng
+2017-10-11 11:48:39,829 [  8] INFO  AppManager [(null)] (AddEditAccountInfo.ascx) - Request from http://localhost:1949/SimpleServings/UI/Page/MyZone.aspx?Control=EditStaff&StaffID=588&EditPart=EditAccountInfo 
+SessionId: 3gbigbuyv0rctracgumtuvng
+2017-10-11 11:57:52,575 [ 12] INFO  AppManager [(null)] SimpleServings started.
+2017-10-11 11:58:23,867 [  5] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: 3j1fry45h34pcm450gd5yg55
+2017-10-11 12:01:00,889 [ 12] INFO  AppManager [(null)] SimpleServings started.
+2017-10-11 12:01:07,378 [  8] INFO  AppManager [(null)] (landingPage.aspx) - Request from http://localhost:1949/SimpleServings/UI/Page/MyZone.aspx?Control=MyProfile&StaffID=852 
+Request Type: LogInOut 
+SessionId: 3j1fry45h34pcm450gd5yg55
+2017-10-11 12:01:07,379 [  8] INFO  AppManager [(null)] (landingPage.aspx) - Redirecting to Login.aspx 
+Request Type: LogInOut 
+SessionId: 3j1fry45h34pcm450gd5yg55
+2017-10-11 12:02:00,092 [  8] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: c5d3l1uavb0rm145010t4taz
+2017-10-11 12:04:35,292 [  6] INFO  AppManager [(null)] (landingPage.aspx) - Request from http://localhost:1949/SimpleServings/UI/Page/MyZone.aspx?Control=EditStaff&StaffID=852&EditPart=EditGeneralInfo 
+Request Type: LogInOut 
+SessionId: c5d3l1uavb0rm145010t4taz
+2017-10-11 12:04:35,293 [  6] INFO  AppManager [(null)] (landingPage.aspx) - Redirecting to Login.aspx 
+Request Type: LogInOut 
+SessionId: c5d3l1uavb0rm145010t4taz
+2017-10-11 12:04:35,304 [  6] INFO  AppManager [(null)] (login.aspx) - Request from http://localhost:1949/SimpleServings/UI/Page/MyZone.aspx?Control=EditStaff&StaffID=852&EditPart=EditGeneralInfo 
+SessionId: zlkhozu2k2qfbjyn4amwyu45
+2017-10-11 12:04:58,751 [  1] INFO  AppManager [(null)] SimpleServings started.
+2017-10-11 12:05:12,997 [  6] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: ya03uk55kq1ji545gpsntp45
+2017-10-11 12:10:46,594 [  1] INFO  AppManager [(null)] SimpleServings started.
+2017-10-11 12:10:52,935 [  5] INFO  AppManager [(null)] (landingPage.aspx) - Request from http://localhost:1949/SimpleServings/UI/Page/MyZone.aspx?Control=EditStaff&StaffID=852&EditPart=EditGeneralInfo 
+Request Type: LogInOut 
+SessionId: ya03uk55kq1ji545gpsntp45
+2017-10-11 12:10:52,935 [  5] INFO  AppManager [(null)] (landingPage.aspx) - Redirecting to Login.aspx 
+Request Type: LogInOut 
+SessionId: ya03uk55kq1ji545gpsntp45
+2017-10-11 12:11:15,411 [  6] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: d4jgbu55i3miyz45cdwrpvjr
+2017-10-11 12:12:37,218 [  5] INFO  AppManager [(null)] (AddEditAccountInfo.ascx) - Request from http://localhost:1949/SimpleServings/UI/Page/SimpleServings/Staff/StaffWizard.aspx 
+SessionId: d4jgbu55i3miyz45cdwrpvjr
+2017-10-11 12:12:37,219 [  5] INFO  AppManager [(null)] (AddEditAccountInfo.ascx) - Request from http://localhost:1949/SimpleServings/UI/Page/SimpleServings/Staff/StaffWizard.aspx 
+SessionId: d4jgbu55i3miyz45cdwrpvjr
+2017-10-11 12:13:12,830 [  6] INFO  AppManager [(null)] (landingPage.aspx) - Request from http://localhost:1949/SimpleServings/UI/Page/myzone.aspx?Control=ManageStaff 
+Request Type: LogInOut 
+SessionId: d4jgbu55i3miyz45cdwrpvjr
+2017-10-11 12:13:12,832 [  6] INFO  AppManager [(null)] (landingPage.aspx) - Redirecting to Login.aspx 
+Request Type: LogInOut 
+SessionId: d4jgbu55i3miyz45cdwrpvjr
+2017-10-11 12:13:12,843 [  6] INFO  AppManager [(null)] (login.aspx) - Request from http://localhost:1949/SimpleServings/UI/Page/myzone.aspx?Control=ManageStaff 
+SessionId: thi2fdnb1gcagb45wbrazz55

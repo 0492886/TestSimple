@@ -1,0 +1,132 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>SimpleServings.Menu</name>
+    </assembly>
+    <members>
+        <member name="M:SimpleServingsLibrary.Menu.Menu.ValidateRequiredItems(System.Int32,System.Int32)">
+            <summary>
+            Check all the required items to build a Menu
+            </summary>
+            <param name="menuID"></param>
+            <param name="weekInCycle"></param>
+        </member>
+        <member name="M:SimpleServingsLibrary.Menu.Menu.ValidateMenuName(System.String)">
+            <summary>
+            Validate Menu Name
+            </summary>
+            <param name="menuNameInput"></param>
+            <returns></returns>
+        </member>
+        <member name="M:SimpleServingsLibrary.Menu.Menu.AddSampleMenu">
+            <summary>
+            Add Sample Menu
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:SimpleServingsLibrary.Menu.Menu.AddMenu">
+            <summary>
+            Add Blank Menu 
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:SimpleServingsLibrary.Menu.Menu.AddMenuUsingSample">
+            <summary>
+            Add Regular Menu using sample menu 
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:SimpleServingsLibrary.Menu.Menu.EditMenu">
+            <summary>
+            Edit Menu Fields ,e.g., Name, Diet Type etc.
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:SimpleServingsLibrary.Menu.Menu.EditMenuName">
+            <summary>
+            Edmit Menu Name
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:SimpleServingsLibrary.Menu.Menu.AddCuisine(System.Int32,System.Int32)">
+            <summary>
+            Add Cuisine
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:SimpleServingsLibrary.Menu.Menu.GetMenuByMenuID(System.Int32)">
+            <summary>
+            Returns single menu for the given MenuID
+            </summary>
+            <param name="menuID"></param>
+        </member>
+        <member name="M:SimpleServingsLibrary.Menu.Menu.GetSampleMenusByMenuStatus(System.Int32,System.Int32)">
+            <summary>
+            Method to Return Sample Menus in complete or incomplete status 
+            </summary>
+            <param name="staffID"></param>
+            <param name="menuStatus"></param>
+            <returns>Menus</returns>
+        </member>
+        <member name="M:SimpleServingsLibrary.Menu.Menu.SubmitToMultipleContracts(System.Int32,System.Collections.Generic.List{System.Int32},System.Int32,System.String,System.Int32)">
+            <summary>
+            If multipe Contracts are being submitted cope all Menu Details, Menu History, Menu Item and Menu Item History 
+            </summary>
+            <param name="OriginalMenuID"></param>
+            <param name="ContractIDs"></param>
+            <param name="StaffID"></param>
+            <param name="customMsg"></param>
+            <param name="Menustatus"></param>
+        </member>
+        <member name="M:SimpleServingsLibrary.Menu.Menu.SwapWeeksForMenu(System.Int32,System.String)">
+            <summary>
+            Swap Week Order for the replicated Menu 
+            </summary>
+            <param name="MenuId"></param>
+            <param name="NewWeekOrder"></param>
+        </member>
+        <member name="T:SimpleServingsLibrary.Menu.MenuItemGridChangeHistory">
+            <summary>
+            MenuItemGrid History Log Business logic
+            </summary>
+        </member>
+        <member name="M:SimpleServingsLibrary.Menu.MenuItemGridChangeHistory.GetMenuItemGridChangeHistorysByMenuID(System.Int32)">
+            <summary>
+            Get MenuItem (Recipe) history log if any original Sample Menu Item is moved/ removed
+            </summary>
+            <param name="menuID"></param>
+            <returns></returns>
+        </member>
+        <member name="M:SimpleServingsLibrary.Menu.MenuItemGridChangeHistory.AddMenuItemGridChangeHistory(System.Int32,System.Int32,System.Int32,System.Int32,System.Int32,System.Int32,System.Int32,System.Int32,System.String)">
+            <summary>
+            Insert Item in History table for Regular Menus if any Original Sample Menu Item moved
+            </summary>
+            <param name="MenuID"></param>
+            <param name="RecipeID"></param>
+            <param name="WeekInCycle"></param>
+            <param name="OriginalDayOfWeekID"></param>
+            <param name="OriginalMenuItemTypeID"></param>
+            <param name="NewDayOfWeekID"></param>
+            <param name="NewMenuItemTypeID"></param>
+            <param name="CreatedBy"></param>
+            <param name="Action"></param>
+        </member>
+        <member name="M:SimpleServingsLibrary.Menu.MenuItemGridChangeHistory.AddMenuItemGridChangeHistory(System.Int32,System.Int32,System.Int32,System.Int32,System.Int32,System.Int32,System.String)">
+            <summary>
+            Insert Item in History table for Regular Menus if any Original Sample Menu Item removed
+            </summary>
+            <param name="MenuID"></param>
+            <param name="RecipeID"></param>
+            <param name="WeekInCycle"></param>
+            <param name="OriginalDayOfWeekID"></param>
+            <param name="OriginalMenuItemTypeID"></param>
+            <param name="CreatedBy"></param>
+            <param name="Action"></param>
+        </member>
+        <member name="T:SimpleServingsLibrary.Menu.MenuItemGridChangeHistorys">
+            <summary>
+            List of MenuItemGridChangeHistory
+            </summary>
+        </member>
+    </members>
+</doc>

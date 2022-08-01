@@ -1,0 +1,834 @@
+2017-03-30 11:09:36,814 [  1] INFO  AppManager [(null)] SimpleServings started.
+2017-03-30 11:09:59,734 [  8] INFO  AppManager [(null)] (landingPage.aspx) - Redirecting to Login.aspx 
+Request Type: LogInOut 
+SessionId: 
+2017-03-30 11:10:12,534 [  8] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: ztoeaeypwnvbsi45o0r2dw3x
+2017-03-30 11:13:10,339 [  1] INFO  AppManager [(null)] SimpleServings started.
+2017-03-30 11:13:29,234 [  8] INFO  AppManager [(null)] (landingPage.aspx) - Redirecting to Login.aspx 
+Request Type: LogInOut 
+SessionId: 
+2017-03-30 11:13:35,145 [  5] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: x424nc45rwmnrs55lpv0mgqt
+2017-03-30 11:21:15,796 [  8] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: pua1cwarusvea04513ekj145
+2017-03-30 11:21:18,047 [  9] INFO  AppManager [(null)] (landingPage.aspx) - Request from http://localhost:1949/SimpleServings/UI/Page/ 
+Request Type: LogInOut 
+SessionId: 2uta2420y01omv55a5kswpb1
+2017-03-30 11:21:18,048 [  9] INFO  AppManager [(null)] (landingPage.aspx) - Redirecting to Login.aspx 
+Request Type: LogInOut 
+SessionId: 2uta2420y01omv55a5kswpb1
+2017-03-30 11:21:18,069 [  9] INFO  AppManager [(null)] (login.aspx) - Request from http://localhost:1949/SimpleServings/UI/Page/ 
+SessionId: kukdkwaz5eklhtb20d53je22
+2017-03-30 11:21:20,565 [  9] INFO  AppManager [(null)] (landingPage.aspx) - Clearing Session 
+Request Type:  
+SessionId: m1elxz45vcyhfc2zyyouap3j
+2017-03-30 11:21:20,581 [  5] INFO  AppManager [(null)] (landingPage.aspx) - New Session 
+Request Type:  
+SessionId: 0w3obn2m124fyzqme0ip35m0
+2017-03-30 11:21:20,598 [  8] INFO  AppManager [(null)] (login.aspx) - (cvais7773) - Login successful 
+SessionId: 12xe4gnigdbqi45530f3sv45
+2017-03-30 11:21:20,630 [  8] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: 0w3obn2m124fyzqme0ip35m0
+2017-03-30 13:17:41,080 [  8] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: 0w3obn2m124fyzqme0ip35m0
+2017-03-30 13:17:43,248 [  8] INFO  AppManager [(null)] (landingPage.aspx) - Request from http://localhost:1949/SimpleServings/UI/Page/ 
+Request Type: LogInOut 
+SessionId: 0w3obn2m124fyzqme0ip35m0
+2017-03-30 13:17:43,248 [  8] INFO  AppManager [(null)] (landingPage.aspx) - Redirecting to Login.aspx 
+Request Type: LogInOut 
+SessionId: 0w3obn2m124fyzqme0ip35m0
+2017-03-30 13:17:43,254 [  9] INFO  AppManager [(null)] (login.aspx) - Request from http://localhost:1949/SimpleServings/UI/Page/ 
+SessionId: vm1xm255imj1g255uaqh5m45
+2017-03-30 13:17:45,883 [  5] INFO  AppManager [(null)] (landingPage.aspx) - Clearing Session 
+Request Type:  
+SessionId: qam54viqr54unombtudaf2iy
+2017-03-30 13:17:45,899 [  8] INFO  AppManager [(null)] (landingPage.aspx) - New Session 
+Request Type:  
+SessionId: cqx4ryawkx53gkmriciza445
+2017-03-30 13:17:46,202 [  9] INFO  AppManager [(null)] (login.aspx) - (cvais7773) - Login successful 
+SessionId: iagxz5zeos0qegfp0hktgi55
+2017-03-30 13:17:46,212 [  9] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: cqx4ryawkx53gkmriciza445
+2017-03-30 13:39:39,934 [  1] INFO  AppManager [(null)] SimpleServings started.
+2017-03-30 13:39:50,617 [  5] INFO  AppManager [(null)] (RecipeList.aspx) - Redirecting to Login.aspx 
+SessionId: cqx4ryawkx53gkmriciza445
+2017-03-30 13:39:50,640 [  5] INFO  AppManager [(null)] (landingPage.aspx) - Request from http://localhost:1949/SimpleServings/UI/Page/myzone.aspx?Control=ManageCategoriesandTags 
+Request Type: LogInOut 
+SessionId: cqx4ryawkx53gkmriciza445
+2017-03-30 13:39:50,642 [  5] INFO  AppManager [(null)] (landingPage.aspx) - Redirecting to Login.aspx 
+Request Type: LogInOut 
+SessionId: cqx4ryawkx53gkmriciza445
+2017-03-30 13:40:03,954 [  5] INFO  AppManager [(null)] (login.aspx) - (cvais7773) - Login successful 
+SessionId: vma2hz45cegnao45hd104kjb
+2017-03-30 13:40:03,981 [  8] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: s1cfkgbouztsvg55lc5sovux
+2017-03-30 13:52:58,641 [ 12] INFO  AppManager [(null)] SimpleServings started.
+2017-03-30 13:53:06,636 [  8] INFO  AppManager [(null)] (landingPage.aspx) - Request from http://localhost:1949/SimpleServings/UI/Page/SimpleServings/Recipe/EditRecipe.aspx?RecipeID=852 
+Request Type: LogInOut 
+SessionId: s1cfkgbouztsvg55lc5sovux
+2017-03-30 13:53:06,637 [  8] INFO  AppManager [(null)] (landingPage.aspx) - Redirecting to Login.aspx 
+Request Type: LogInOut 
+SessionId: s1cfkgbouztsvg55lc5sovux
+2017-03-30 13:53:11,405 [  8] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: lvgcstmvrf3ehq55vbbqo1e2
+2017-03-30 13:53:19,207 [  8] ERROR AppManager [(null)] SimpleServings application error: Exception of type 'System.Web.HttpUnhandledException' was thrown.
+location: http://localhost:1949/SimpleServings/UI/Page/myzone.aspx?Control=ManageCategoriesandTags
+
+System.Web.HttpUnhandledException: Exception of type 'System.Web.HttpUnhandledException' was thrown. ---> System.IndexOutOfRangeException: RemovedOn 
+   at System.Data.ProviderBase.FieldNameLookup.GetOrdinal(String fieldName)
+   at System.Data.SqlClient.SqlDataReader.GetOrdinal(String name)
+   at System.Data.SqlClient.SqlDataReader.get_Item(String name)
+   at SimpleServingsLibrary.Shared.ManageCategoriesandTags.PopCategoriesandTags(SqlDataReader dr) in c:\TFS\DFTA\SimpleServingsLibrary\SimpleServings.Shared\BLL\ManageCategoriesandTags.cs:line 57
+   at SimpleServingsLibrary.Shared.ManageCategoriesandTags.GetTagsByCategoryID(Int32 CategoryID) in c:\TFS\DFTA\SimpleServingsLibrary\SimpleServings.Shared\BLL\ManageCategoriesandTags.cs:line 71
+   at SimpleServings.UI.UDC.SimpleServings.Setting.ManageCategoriesandTags.PopTags() in c:\TFS\DFTA\SimpleServings\SimpleServings\SimpleServings\UI\UDC\SimpleServings\Setting\ManageCategoriesandTags.ascx.cs:line 53
+   at SimpleServings.UI.UDC.SimpleServings.Setting.ManageCategoriesandTags.Page_Load(Object sender, EventArgs e) in c:\TFS\DFTA\SimpleServings\SimpleServings\SimpleServings\UI\UDC\SimpleServings\Setting\ManageCategoriesandTags.ascx.cs:line 16
+   at System.Web.Util.CalliHelper.EventArgFunctionCaller(IntPtr fp, Object o, Object t, EventArgs e)
+   at System.Web.Util.CalliEventHandlerDelegateProxy.Callback(Object sender, EventArgs e)
+   at System.Web.UI.Control.OnLoad(EventArgs e)
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   --- End of inner exception stack trace ---
+   at System.Web.UI.Page.HandleError(Exception e)
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   at System.Web.UI.Page.ProcessRequest(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   at System.Web.UI.Page.ProcessRequest()
+   at System.Web.UI.Page.ProcessRequestWithNoAssert(HttpContext context)
+   at System.Web.UI.Page.ProcessRequest(HttpContext context)
+   at ASP.ui_page_myzone_aspx.ProcessRequest(HttpContext context) in c:\Windows\Microsoft.NET\Framework\v2.0.50727\Temporary ASP.NET Files\simpleservings\50605a42\75e306da\App_Web_jt8xcmyx.5.cs:line 0
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+2017-03-30 13:55:08,826 [  1] INFO  AppManager [(null)] SimpleServings started.
+2017-03-30 13:55:20,257 [  8] INFO  AppManager [(null)] (landingPage.aspx) - Redirecting to Login.aspx 
+Request Type: LogInOut 
+SessionId: 
+2017-03-30 13:55:27,829 [  8] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: mbth3d2gilf45z45azy5qb45
+2017-03-30 14:06:53,735 [  6] ERROR AppManager [(null)] SimpleServings application error: Exception of type 'System.Web.HttpUnhandledException' was thrown.
+location: http://localhost:1949/SimpleServings/UI/Page/myzone.aspx?Control=ManageCategoriesandTags
+
+System.Web.HttpUnhandledException: Exception of type 'System.Web.HttpUnhandledException' was thrown. ---> System.InvalidCastException: Object cannot be cast from DBNull to other types.
+   at System.DBNull.System.IConvertible.ToInt32(IFormatProvider provider)
+   at System.Convert.ToInt32(Object value)
+   at SimpleServingsLibrary.Shared.ManageCategoriesandTags.PopCategoriesandTags(SqlDataReader dr) in c:\TFS\DFTA\SimpleServingsLibrary\SimpleServings.Shared\BLL\ManageCategoriesandTags.cs:line 58
+   at SimpleServingsLibrary.Shared.ManageCategoriesandTags.GetTagsByCategoryID(Int32 CategoryID) in c:\TFS\DFTA\SimpleServingsLibrary\SimpleServings.Shared\BLL\ManageCategoriesandTags.cs:line 71
+   at SimpleServings.UI.UDC.SimpleServings.Setting.ManageCategoriesandTags.PopTags() in c:\TFS\DFTA\SimpleServings\SimpleServings\SimpleServings\UI\UDC\SimpleServings\Setting\ManageCategoriesandTags.ascx.cs:line 53
+   at SimpleServings.UI.UDC.SimpleServings.Setting.ManageCategoriesandTags.Page_Load(Object sender, EventArgs e) in c:\TFS\DFTA\SimpleServings\SimpleServings\SimpleServings\UI\UDC\SimpleServings\Setting\ManageCategoriesandTags.ascx.cs:line 16
+   at System.Web.Util.CalliHelper.EventArgFunctionCaller(IntPtr fp, Object o, Object t, EventArgs e)
+   at System.Web.Util.CalliEventHandlerDelegateProxy.Callback(Object sender, EventArgs e)
+   at System.Web.UI.Control.OnLoad(EventArgs e)
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   --- End of inner exception stack trace ---
+   at System.Web.UI.Page.HandleError(Exception e)
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   at System.Web.UI.Page.ProcessRequest(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   at System.Web.UI.Page.ProcessRequest()
+   at System.Web.UI.Page.ProcessRequestWithNoAssert(HttpContext context)
+   at System.Web.UI.Page.ProcessRequest(HttpContext context)
+   at ASP.ui_page_myzone_aspx.ProcessRequest(HttpContext context) in c:\Windows\Microsoft.NET\Framework\v2.0.50727\Temporary ASP.NET Files\simpleservings\50605a42\75e306da\App_Web_laobatej.0.cs:line 0
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+2017-03-30 14:08:02,728 [  8] ERROR AppManager [(null)] SimpleServings application error: Exception of type 'System.Web.HttpUnhandledException' was thrown.
+location: http://localhost:1949/SimpleServings/UI/Page/myzone.aspx?Control=ManageCategoriesandTags
+
+System.Web.HttpUnhandledException: Exception of type 'System.Web.HttpUnhandledException' was thrown. ---> System.IndexOutOfRangeException: RemovedOn
+   at System.Data.ProviderBase.FieldNameLookup.GetOrdinal(String fieldName)
+   at System.Data.SqlClient.SqlDataReader.GetOrdinal(String name)
+   at System.Data.SqlClient.SqlDataReader.get_Item(String name)
+   at SimpleServingsLibrary.Shared.ManageCategoriesandTags.PopCategoriesandTags(SqlDataReader dr) in c:\TFS\DFTA\SimpleServingsLibrary\SimpleServings.Shared\BLL\ManageCategoriesandTags.cs:line 57
+   at SimpleServingsLibrary.Shared.ManageCategoriesandTags.GetTagsByCategoryID(Int32 CategoryID) in c:\TFS\DFTA\SimpleServingsLibrary\SimpleServings.Shared\BLL\ManageCategoriesandTags.cs:line 71
+   at SimpleServings.UI.UDC.SimpleServings.Setting.ManageCategoriesandTags.PopTags() in c:\TFS\DFTA\SimpleServings\SimpleServings\SimpleServings\UI\UDC\SimpleServings\Setting\ManageCategoriesandTags.ascx.cs:line 53
+   at SimpleServings.UI.UDC.SimpleServings.Setting.ManageCategoriesandTags.Page_Load(Object sender, EventArgs e) in c:\TFS\DFTA\SimpleServings\SimpleServings\SimpleServings\UI\UDC\SimpleServings\Setting\ManageCategoriesandTags.ascx.cs:line 16
+   at System.Web.Util.CalliHelper.EventArgFunctionCaller(IntPtr fp, Object o, Object t, EventArgs e)
+   at System.Web.Util.CalliEventHandlerDelegateProxy.Callback(Object sender, EventArgs e)
+   at System.Web.UI.Control.OnLoad(EventArgs e)
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   --- End of inner exception stack trace ---
+   at System.Web.UI.Page.HandleError(Exception e)
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   at System.Web.UI.Page.ProcessRequest(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   at System.Web.UI.Page.ProcessRequest()
+   at System.Web.UI.Page.ProcessRequestWithNoAssert(HttpContext context)
+   at System.Web.UI.Page.ProcessRequest(HttpContext context)
+   at ASP.ui_page_myzone_aspx.ProcessRequest(HttpContext context) in c:\Windows\Microsoft.NET\Framework\v2.0.50727\Temporary ASP.NET Files\simpleservings\50605a42\75e306da\App_Web_laobatej.0.cs:line 0
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+2017-03-30 14:08:59,704 [  6] ERROR AppManager [(null)] SimpleServings application error: Exception of type 'System.Web.HttpUnhandledException' was thrown.
+location: http://localhost:1949/SimpleServings/UI/Page/myzone.aspx?Control=ManageCategoriesandTags
+
+System.Web.HttpUnhandledException: Exception of type 'System.Web.HttpUnhandledException' was thrown. ---> System.InvalidOperationException: Invalid attempt to call Read when reader is closed.
+   at System.Data.SqlClient.SqlDataReader.ReadInternal(Boolean setTimeout)
+   at System.Data.SqlClient.SqlDataReader.Read()
+   at SimpleServingsLibrary.Shared.ManageCategoriesandTags.PopCategoriesandTags(SqlDataReader dr) in c:\TFS\DFTA\SimpleServingsLibrary\SimpleServings.Shared\BLL\ManageCategoriesandTags.cs:line 48
+   at SimpleServingsLibrary.Shared.ManageCategoriesandTags.GetTagsByCategoryID(Int32 CategoryID) in c:\TFS\DFTA\SimpleServingsLibrary\SimpleServings.Shared\BLL\ManageCategoriesandTags.cs:line 71
+   at SimpleServings.UI.UDC.SimpleServings.Setting.ManageCategoriesandTags.PopTags() in c:\TFS\DFTA\SimpleServings\SimpleServings\SimpleServings\UI\UDC\SimpleServings\Setting\ManageCategoriesandTags.ascx.cs:line 53
+   at SimpleServings.UI.UDC.SimpleServings.Setting.ManageCategoriesandTags.Page_Load(Object sender, EventArgs e) in c:\TFS\DFTA\SimpleServings\SimpleServings\SimpleServings\UI\UDC\SimpleServings\Setting\ManageCategoriesandTags.ascx.cs:line 16
+   at System.Web.Util.CalliHelper.EventArgFunctionCaller(IntPtr fp, Object o, Object t, EventArgs e)
+   at System.Web.Util.CalliEventHandlerDelegateProxy.Callback(Object sender, EventArgs e)
+   at System.Web.UI.Control.OnLoad(EventArgs e)
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   --- End of inner exception stack trace ---
+   at System.Web.UI.Page.HandleError(Exception e)
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   at System.Web.UI.Page.ProcessRequest(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   at System.Web.UI.Page.ProcessRequest()
+   at System.Web.UI.Page.ProcessRequestWithNoAssert(HttpContext context)
+   at System.Web.UI.Page.ProcessRequest(HttpContext context)
+   at ASP.ui_page_myzone_aspx.ProcessRequest(HttpContext context) in c:\Windows\Microsoft.NET\Framework\v2.0.50727\Temporary ASP.NET Files\simpleservings\50605a42\75e306da\App_Web_laobatej.0.cs:line 0
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+2017-03-30 14:09:08,157 [ 10] ERROR AppManager [(null)] SimpleServings application error: Exception of type 'System.Web.HttpUnhandledException' was thrown.
+location: http://localhost:1949/SimpleServings/UI/Page/myzone.aspx?Control=ManageCategoriesandTags
+
+System.Web.HttpUnhandledException: Exception of type 'System.Web.HttpUnhandledException' was thrown. ---> System.IndexOutOfRangeException: RemovedOn
+   at System.Data.ProviderBase.FieldNameLookup.GetOrdinal(String fieldName)
+   at System.Data.SqlClient.SqlDataReader.GetOrdinal(String name)
+   at System.Data.SqlClient.SqlDataReader.get_Item(String name)
+   at SimpleServingsLibrary.Shared.ManageCategoriesandTags.PopCategoriesandTags(SqlDataReader dr) in c:\TFS\DFTA\SimpleServingsLibrary\SimpleServings.Shared\BLL\ManageCategoriesandTags.cs:line 57
+   at SimpleServingsLibrary.Shared.ManageCategoriesandTags.GetTagsByCategoryID(Int32 CategoryID) in c:\TFS\DFTA\SimpleServingsLibrary\SimpleServings.Shared\BLL\ManageCategoriesandTags.cs:line 71
+   at SimpleServings.UI.UDC.SimpleServings.Setting.ManageCategoriesandTags.PopTags() in c:\TFS\DFTA\SimpleServings\SimpleServings\SimpleServings\UI\UDC\SimpleServings\Setting\ManageCategoriesandTags.ascx.cs:line 53
+   at SimpleServings.UI.UDC.SimpleServings.Setting.ManageCategoriesandTags.Page_Load(Object sender, EventArgs e) in c:\TFS\DFTA\SimpleServings\SimpleServings\SimpleServings\UI\UDC\SimpleServings\Setting\ManageCategoriesandTags.ascx.cs:line 16
+   at System.Web.Util.CalliHelper.EventArgFunctionCaller(IntPtr fp, Object o, Object t, EventArgs e)
+   at System.Web.Util.CalliEventHandlerDelegateProxy.Callback(Object sender, EventArgs e)
+   at System.Web.UI.Control.OnLoad(EventArgs e)
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   --- End of inner exception stack trace ---
+   at System.Web.UI.Page.HandleError(Exception e)
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   at System.Web.UI.Page.ProcessRequest(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   at System.Web.UI.Page.ProcessRequest()
+   at System.Web.UI.Page.ProcessRequestWithNoAssert(HttpContext context)
+   at System.Web.UI.Page.ProcessRequest(HttpContext context)
+   at ASP.ui_page_myzone_aspx.ProcessRequest(HttpContext context) in c:\Windows\Microsoft.NET\Framework\v2.0.50727\Temporary ASP.NET Files\simpleservings\50605a42\75e306da\App_Web_laobatej.0.cs:line 0
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+2017-03-30 14:13:50,331 [  8] ERROR AppManager [(null)] SimpleServings application error: Exception of type 'System.Web.HttpUnhandledException' was thrown.
+location: http://localhost:1949/SimpleServings/UI/Page/myzone.aspx?Control=ManageCategoriesandTags
+
+System.Web.HttpUnhandledException: Exception of type 'System.Web.HttpUnhandledException' was thrown. ---> System.IndexOutOfRangeException: RemovedOn
+   at System.Data.ProviderBase.FieldNameLookup.GetOrdinal(String fieldName)
+   at System.Data.SqlClient.SqlDataReader.GetOrdinal(String name)
+   at System.Data.SqlClient.SqlDataReader.get_Item(String name)
+   at SimpleServingsLibrary.Shared.ManageCategoriesandTags.PopCategoriesandTags(SqlDataReader dr) in c:\TFS\DFTA\SimpleServingsLibrary\SimpleServings.Shared\BLL\ManageCategoriesandTags.cs:line 57
+   at SimpleServingsLibrary.Shared.ManageCategoriesandTags.GetTagsByCategoryID(Int32 CategoryID) in c:\TFS\DFTA\SimpleServingsLibrary\SimpleServings.Shared\BLL\ManageCategoriesandTags.cs:line 71
+   at SimpleServings.UI.UDC.SimpleServings.Setting.ManageCategoriesandTags.PopTags() in c:\TFS\DFTA\SimpleServings\SimpleServings\SimpleServings\UI\UDC\SimpleServings\Setting\ManageCategoriesandTags.ascx.cs:line 53
+   at SimpleServings.UI.UDC.SimpleServings.Setting.ManageCategoriesandTags.Page_Load(Object sender, EventArgs e) in c:\TFS\DFTA\SimpleServings\SimpleServings\SimpleServings\UI\UDC\SimpleServings\Setting\ManageCategoriesandTags.ascx.cs:line 16
+   at System.Web.Util.CalliHelper.EventArgFunctionCaller(IntPtr fp, Object o, Object t, EventArgs e)
+   at System.Web.Util.CalliEventHandlerDelegateProxy.Callback(Object sender, EventArgs e)
+   at System.Web.UI.Control.OnLoad(EventArgs e)
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   --- End of inner exception stack trace ---
+   at System.Web.UI.Page.HandleError(Exception e)
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   at System.Web.UI.Page.ProcessRequest(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   at System.Web.UI.Page.ProcessRequest()
+   at System.Web.UI.Page.ProcessRequestWithNoAssert(HttpContext context)
+   at System.Web.UI.Page.ProcessRequest(HttpContext context)
+   at ASP.ui_page_myzone_aspx.ProcessRequest(HttpContext context) in c:\Windows\Microsoft.NET\Framework\v2.0.50727\Temporary ASP.NET Files\simpleservings\50605a42\75e306da\App_Web_laobatej.0.cs:line 0
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+2017-03-30 14:13:55,500 [  8] ERROR AppManager [(null)] SimpleServings application error: Exception of type 'System.Web.HttpUnhandledException' was thrown.
+location: http://localhost:1949/SimpleServings/UI/Page/myzone.aspx?Control=ManageCategoriesandTags
+
+System.Web.HttpUnhandledException: Exception of type 'System.Web.HttpUnhandledException' was thrown. ---> System.IndexOutOfRangeException: RemovedOn
+   at System.Data.ProviderBase.FieldNameLookup.GetOrdinal(String fieldName)
+   at System.Data.SqlClient.SqlDataReader.GetOrdinal(String name)
+   at System.Data.SqlClient.SqlDataReader.get_Item(String name)
+   at SimpleServingsLibrary.Shared.ManageCategoriesandTags.PopCategoriesandTags(SqlDataReader dr) in c:\TFS\DFTA\SimpleServingsLibrary\SimpleServings.Shared\BLL\ManageCategoriesandTags.cs:line 57
+   at SimpleServingsLibrary.Shared.ManageCategoriesandTags.GetTagsByCategoryID(Int32 CategoryID) in c:\TFS\DFTA\SimpleServingsLibrary\SimpleServings.Shared\BLL\ManageCategoriesandTags.cs:line 71
+   at SimpleServings.UI.UDC.SimpleServings.Setting.ManageCategoriesandTags.PopTags() in c:\TFS\DFTA\SimpleServings\SimpleServings\SimpleServings\UI\UDC\SimpleServings\Setting\ManageCategoriesandTags.ascx.cs:line 53
+   at SimpleServings.UI.UDC.SimpleServings.Setting.ManageCategoriesandTags.Page_Load(Object sender, EventArgs e) in c:\TFS\DFTA\SimpleServings\SimpleServings\SimpleServings\UI\UDC\SimpleServings\Setting\ManageCategoriesandTags.ascx.cs:line 16
+   at System.Web.Util.CalliHelper.EventArgFunctionCaller(IntPtr fp, Object o, Object t, EventArgs e)
+   at System.Web.Util.CalliEventHandlerDelegateProxy.Callback(Object sender, EventArgs e)
+   at System.Web.UI.Control.OnLoad(EventArgs e)
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   --- End of inner exception stack trace ---
+   at System.Web.UI.Page.HandleError(Exception e)
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   at System.Web.UI.Page.ProcessRequest(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   at System.Web.UI.Page.ProcessRequest()
+   at System.Web.UI.Page.ProcessRequestWithNoAssert(HttpContext context)
+   at System.Web.UI.Page.ProcessRequest(HttpContext context)
+   at ASP.ui_page_myzone_aspx.ProcessRequest(HttpContext context) in c:\Windows\Microsoft.NET\Framework\v2.0.50727\Temporary ASP.NET Files\simpleservings\50605a42\75e306da\App_Web_laobatej.0.cs:line 0
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+2017-03-30 14:14:25,424 [ 10] ERROR AppManager [(null)] SimpleServings application error: Exception of type 'System.Web.HttpUnhandledException' was thrown.
+location: http://localhost:1949/SimpleServings/UI/Page/myzone.aspx?Control=ManageCategoriesandTags
+
+System.Web.HttpUnhandledException: Exception of type 'System.Web.HttpUnhandledException' was thrown. ---> System.InvalidOperationException: Invalid attempt to call MetaData when reader is closed.
+   at System.Data.SqlClient.SqlDataReader.get_MetaData()
+   at System.Data.SqlClient.SqlDataReader.GetOrdinal(String name)
+   at System.Data.SqlClient.SqlDataReader.get_Item(String name)
+   at SimpleServingsLibrary.Shared.ManageCategoriesandTags.PopCategoriesandTags(SqlDataReader dr) in c:\TFS\DFTA\SimpleServingsLibrary\SimpleServings.Shared\BLL\ManageCategoriesandTags.cs:line 54
+   at SimpleServingsLibrary.Shared.ManageCategoriesandTags.GetTagsByCategoryID(Int32 CategoryID) in c:\TFS\DFTA\SimpleServingsLibrary\SimpleServings.Shared\BLL\ManageCategoriesandTags.cs:line 71
+   at SimpleServings.UI.UDC.SimpleServings.Setting.ManageCategoriesandTags.PopTags() in c:\TFS\DFTA\SimpleServings\SimpleServings\SimpleServings\UI\UDC\SimpleServings\Setting\ManageCategoriesandTags.ascx.cs:line 53
+   at SimpleServings.UI.UDC.SimpleServings.Setting.ManageCategoriesandTags.Page_Load(Object sender, EventArgs e) in c:\TFS\DFTA\SimpleServings\SimpleServings\SimpleServings\UI\UDC\SimpleServings\Setting\ManageCategoriesandTags.ascx.cs:line 16
+   at System.Web.Util.CalliHelper.EventArgFunctionCaller(IntPtr fp, Object o, Object t, EventArgs e)
+   at System.Web.Util.CalliEventHandlerDelegateProxy.Callback(Object sender, EventArgs e)
+   at System.Web.UI.Control.OnLoad(EventArgs e)
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   --- End of inner exception stack trace ---
+   at System.Web.UI.Page.HandleError(Exception e)
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   at System.Web.UI.Page.ProcessRequest(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   at System.Web.UI.Page.ProcessRequest()
+   at System.Web.UI.Page.ProcessRequestWithNoAssert(HttpContext context)
+   at System.Web.UI.Page.ProcessRequest(HttpContext context)
+   at ASP.ui_page_myzone_aspx.ProcessRequest(HttpContext context) in c:\Windows\Microsoft.NET\Framework\v2.0.50727\Temporary ASP.NET Files\simpleservings\50605a42\75e306da\App_Web_laobatej.0.cs:line 0
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+2017-03-30 14:14:47,818 [  6] ERROR AppManager [(null)] SimpleServings application error: Exception of type 'System.Web.HttpUnhandledException' was thrown.
+location: http://localhost:1949/SimpleServings/UI/Page/myzone.aspx?Control=ManageCategoriesandTags
+
+System.Web.HttpUnhandledException: Exception of type 'System.Web.HttpUnhandledException' was thrown. ---> System.IndexOutOfRangeException: RemovedOn
+   at System.Data.ProviderBase.FieldNameLookup.GetOrdinal(String fieldName)
+   at System.Data.SqlClient.SqlDataReader.GetOrdinal(String name)
+   at System.Data.SqlClient.SqlDataReader.get_Item(String name)
+   at SimpleServingsLibrary.Shared.ManageCategoriesandTags.PopCategoriesandTags(SqlDataReader dr) in c:\TFS\DFTA\SimpleServingsLibrary\SimpleServings.Shared\BLL\ManageCategoriesandTags.cs:line 57
+   at SimpleServingsLibrary.Shared.ManageCategoriesandTags.GetTagsByCategoryID(Int32 CategoryID) in c:\TFS\DFTA\SimpleServingsLibrary\SimpleServings.Shared\BLL\ManageCategoriesandTags.cs:line 71
+   at SimpleServings.UI.UDC.SimpleServings.Setting.ManageCategoriesandTags.PopTags() in c:\TFS\DFTA\SimpleServings\SimpleServings\SimpleServings\UI\UDC\SimpleServings\Setting\ManageCategoriesandTags.ascx.cs:line 53
+   at SimpleServings.UI.UDC.SimpleServings.Setting.ManageCategoriesandTags.Page_Load(Object sender, EventArgs e) in c:\TFS\DFTA\SimpleServings\SimpleServings\SimpleServings\UI\UDC\SimpleServings\Setting\ManageCategoriesandTags.ascx.cs:line 16
+   at System.Web.Util.CalliHelper.EventArgFunctionCaller(IntPtr fp, Object o, Object t, EventArgs e)
+   at System.Web.Util.CalliEventHandlerDelegateProxy.Callback(Object sender, EventArgs e)
+   at System.Web.UI.Control.OnLoad(EventArgs e)
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   --- End of inner exception stack trace ---
+   at System.Web.UI.Page.HandleError(Exception e)
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   at System.Web.UI.Page.ProcessRequest(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   at System.Web.UI.Page.ProcessRequest()
+   at System.Web.UI.Page.ProcessRequestWithNoAssert(HttpContext context)
+   at System.Web.UI.Page.ProcessRequest(HttpContext context)
+   at ASP.ui_page_myzone_aspx.ProcessRequest(HttpContext context) in c:\Windows\Microsoft.NET\Framework\v2.0.50727\Temporary ASP.NET Files\simpleservings\50605a42\75e306da\App_Web_laobatej.0.cs:line 0
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+2017-03-30 14:15:50,750 [  5] ERROR AppManager [(null)] SimpleServings application error: Exception of type 'System.Web.HttpUnhandledException' was thrown.
+location: http://localhost:1949/SimpleServings/UI/Page/myzone.aspx?Control=ManageCategoriesandTags
+
+System.Web.HttpUnhandledException: Exception of type 'System.Web.HttpUnhandledException' was thrown. ---> System.IndexOutOfRangeException: RemovedBy
+   at System.Data.ProviderBase.FieldNameLookup.GetOrdinal(String fieldName)
+   at System.Data.SqlClient.SqlDataReader.GetOrdinal(String name)
+   at System.Data.SqlClient.SqlDataReader.get_Item(String name)
+   at SimpleServingsLibrary.Shared.ManageCategoriesandTags.PopCategoriesandTags(SqlDataReader dr) in c:\TFS\DFTA\SimpleServingsLibrary\SimpleServings.Shared\BLL\ManageCategoriesandTags.cs:line 58
+   at SimpleServingsLibrary.Shared.ManageCategoriesandTags.GetTagsByCategoryID(Int32 CategoryID) in c:\TFS\DFTA\SimpleServingsLibrary\SimpleServings.Shared\BLL\ManageCategoriesandTags.cs:line 71
+   at SimpleServings.UI.UDC.SimpleServings.Setting.ManageCategoriesandTags.PopTags() in c:\TFS\DFTA\SimpleServings\SimpleServings\SimpleServings\UI\UDC\SimpleServings\Setting\ManageCategoriesandTags.ascx.cs:line 53
+   at SimpleServings.UI.UDC.SimpleServings.Setting.ManageCategoriesandTags.Page_Load(Object sender, EventArgs e) in c:\TFS\DFTA\SimpleServings\SimpleServings\SimpleServings\UI\UDC\SimpleServings\Setting\ManageCategoriesandTags.ascx.cs:line 16
+   at System.Web.Util.CalliHelper.EventArgFunctionCaller(IntPtr fp, Object o, Object t, EventArgs e)
+   at System.Web.Util.CalliEventHandlerDelegateProxy.Callback(Object sender, EventArgs e)
+   at System.Web.UI.Control.OnLoad(EventArgs e)
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   --- End of inner exception stack trace ---
+   at System.Web.UI.Page.HandleError(Exception e)
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   at System.Web.UI.Page.ProcessRequest(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   at System.Web.UI.Page.ProcessRequest()
+   at System.Web.UI.Page.ProcessRequestWithNoAssert(HttpContext context)
+   at System.Web.UI.Page.ProcessRequest(HttpContext context)
+   at ASP.ui_page_myzone_aspx.ProcessRequest(HttpContext context) in c:\Windows\Microsoft.NET\Framework\v2.0.50727\Temporary ASP.NET Files\simpleservings\50605a42\75e306da\App_Web_laobatej.0.cs:line 0
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+2017-03-30 14:18:12,274 [  5] ERROR AppManager [(null)] SimpleServings application error: Exception of type 'System.Web.HttpUnhandledException' was thrown.
+location: http://localhost:1949/SimpleServings/UI/Page/myzone.aspx?Control=ManageCategoriesandTags
+
+System.Web.HttpUnhandledException: Exception of type 'System.Web.HttpUnhandledException' was thrown. ---> System.NullReferenceException: Object reference not set to an instance of an object.
+   at SimpleServings.UI.UDC.SimpleServings.Setting.ManageCategoriesandTags.PopTags() in c:\TFS\DFTA\SimpleServings\SimpleServings\SimpleServings\UI\UDC\SimpleServings\Setting\ManageCategoriesandTags.ascx.cs:line 58
+   at SimpleServings.UI.UDC.SimpleServings.Setting.ManageCategoriesandTags.Page_Load(Object sender, EventArgs e) in c:\TFS\DFTA\SimpleServings\SimpleServings\SimpleServings\UI\UDC\SimpleServings\Setting\ManageCategoriesandTags.ascx.cs:line 16
+   at System.Web.Util.CalliHelper.EventArgFunctionCaller(IntPtr fp, Object o, Object t, EventArgs e)
+   at System.Web.Util.CalliEventHandlerDelegateProxy.Callback(Object sender, EventArgs e)
+   at System.Web.UI.Control.OnLoad(EventArgs e)
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   --- End of inner exception stack trace ---
+   at System.Web.UI.Page.HandleError(Exception e)
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   at System.Web.UI.Page.ProcessRequest(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   at System.Web.UI.Page.ProcessRequest()
+   at System.Web.UI.Page.ProcessRequestWithNoAssert(HttpContext context)
+   at System.Web.UI.Page.ProcessRequest(HttpContext context)
+   at ASP.ui_page_myzone_aspx.ProcessRequest(HttpContext context) in c:\Windows\Microsoft.NET\Framework\v2.0.50727\Temporary ASP.NET Files\simpleservings\50605a42\75e306da\App_Web_laobatej.0.cs:line 0
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+2017-03-30 14:18:53,429 [  1] INFO  AppManager [(null)] SimpleServings started.
+2017-03-30 14:19:09,374 [  7] INFO  AppManager [(null)] (landingPage.aspx) - Redirecting to Login.aspx 
+Request Type: LogInOut 
+SessionId: 
+2017-03-30 14:19:16,138 [  8] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: t3hzv2451a35gqfch0warvvk
+2017-03-30 14:21:43,305 [  7] ERROR AppManager [(null)] SimpleServings application error: Exception of type 'System.Web.HttpUnhandledException' was thrown.
+location: http://localhost:1949/SimpleServings/UI/Page/myzone.aspx?Control=ManageCategoriesandTags
+
+System.Web.HttpUnhandledException: Exception of type 'System.Web.HttpUnhandledException' was thrown. ---> System.IndexOutOfRangeException: RemovedOn
+   at System.Data.ProviderBase.FieldNameLookup.GetOrdinal(String fieldName)
+   at System.Data.SqlClient.SqlDataReader.GetOrdinal(String name)
+   at System.Data.SqlClient.SqlDataReader.get_Item(String name)
+   at SimpleServingsLibrary.Shared.ManageCategoriesandTags.PopCategoriesandTags(SqlDataReader dr) in c:\TFS\DFTA\SimpleServingsLibrary\SimpleServings.Shared\BLL\ManageCategoriesandTags.cs:line 57
+   at SimpleServingsLibrary.Shared.ManageCategoriesandTags.GetTagsByCategoryID(Int32 CategoryID) in c:\TFS\DFTA\SimpleServingsLibrary\SimpleServings.Shared\BLL\ManageCategoriesandTags.cs:line 71
+   at SimpleServings.UI.UDC.SimpleServings.Setting.ManageCategoriesandTags.PopTags() in c:\TFS\DFTA\SimpleServings\SimpleServings\SimpleServings\UI\UDC\SimpleServings\Setting\ManageCategoriesandTags.ascx.cs:line 53
+   at SimpleServings.UI.UDC.SimpleServings.Setting.ManageCategoriesandTags.Page_Load(Object sender, EventArgs e) in c:\TFS\DFTA\SimpleServings\SimpleServings\SimpleServings\UI\UDC\SimpleServings\Setting\ManageCategoriesandTags.ascx.cs:line 16
+   at System.Web.Util.CalliHelper.EventArgFunctionCaller(IntPtr fp, Object o, Object t, EventArgs e)
+   at System.Web.Util.CalliEventHandlerDelegateProxy.Callback(Object sender, EventArgs e)
+   at System.Web.UI.Control.OnLoad(EventArgs e)
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   --- End of inner exception stack trace ---
+   at System.Web.UI.Page.HandleError(Exception e)
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   at System.Web.UI.Page.ProcessRequest(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   at System.Web.UI.Page.ProcessRequest()
+   at System.Web.UI.Page.ProcessRequestWithNoAssert(HttpContext context)
+   at System.Web.UI.Page.ProcessRequest(HttpContext context)
+   at ASP.ui_page_myzone_aspx.ProcessRequest(HttpContext context) in c:\Windows\Microsoft.NET\Framework\v2.0.50727\Temporary ASP.NET Files\simpleservings\50605a42\75e306da\App_Web_laobatej.0.cs:line 0
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+2017-03-30 14:22:01,118 [  1] INFO  AppManager [(null)] SimpleServings started.
+2017-03-30 14:22:35,310 [  6] INFO  AppManager [(null)] (landingPage.aspx) - Redirecting to Login.aspx 
+Request Type: LogInOut 
+SessionId: 
+2017-03-30 14:22:43,300 [  6] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: vvojow45kck5byu2xopkgims
+2017-03-30 14:24:31,885 [  8] ERROR AppManager [(null)] SimpleServings application error: Exception of type 'System.Web.HttpUnhandledException' was thrown.
+location: http://localhost:1949/SimpleServings/UI/Page/myzone.aspx?Control=ManageCategoriesandTags
+
+System.Web.HttpUnhandledException: Exception of type 'System.Web.HttpUnhandledException' was thrown. ---> System.InvalidOperationException: Invalid attempt to call MetaData when reader is closed.
+   at System.Data.SqlClient.SqlDataReader.get_MetaData()
+   at System.Data.SqlClient.SqlDataReader.GetOrdinal(String name)
+   at System.Data.SqlClient.SqlDataReader.get_Item(String name)
+   at SimpleServingsLibrary.Shared.ManageCategoriesandTags.PopCategoriesandTags(SqlDataReader dr) in c:\TFS\DFTA\SimpleServingsLibrary\SimpleServings.Shared\BLL\ManageCategoriesandTags.cs:line 55
+   at SimpleServingsLibrary.Shared.ManageCategoriesandTags.GetTagsByCategoryID(Int32 CategoryID) in c:\TFS\DFTA\SimpleServingsLibrary\SimpleServings.Shared\BLL\ManageCategoriesandTags.cs:line 71
+   at SimpleServings.UI.UDC.SimpleServings.Setting.ManageCategoriesandTags.PopTags() in c:\TFS\DFTA\SimpleServings\SimpleServings\SimpleServings\UI\UDC\SimpleServings\Setting\ManageCategoriesandTags.ascx.cs:line 53
+   at SimpleServings.UI.UDC.SimpleServings.Setting.ManageCategoriesandTags.Page_Load(Object sender, EventArgs e) in c:\TFS\DFTA\SimpleServings\SimpleServings\SimpleServings\UI\UDC\SimpleServings\Setting\ManageCategoriesandTags.ascx.cs:line 16
+   at System.Web.Util.CalliHelper.EventArgFunctionCaller(IntPtr fp, Object o, Object t, EventArgs e)
+   at System.Web.Util.CalliEventHandlerDelegateProxy.Callback(Object sender, EventArgs e)
+   at System.Web.UI.Control.OnLoad(EventArgs e)
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   --- End of inner exception stack trace ---
+   at System.Web.UI.Page.HandleError(Exception e)
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   at System.Web.UI.Page.ProcessRequest(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   at System.Web.UI.Page.ProcessRequest()
+   at System.Web.UI.Page.ProcessRequestWithNoAssert(HttpContext context)
+   at System.Web.UI.Page.ProcessRequest(HttpContext context)
+   at ASP.ui_page_myzone_aspx.ProcessRequest(HttpContext context) in c:\Windows\Microsoft.NET\Framework\v2.0.50727\Temporary ASP.NET Files\simpleservings\50605a42\75e306da\App_Web_dtne4oad.2.cs:line 0
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+2017-03-30 14:25:00,176 [  1] INFO  AppManager [(null)] SimpleServings started.
+2017-03-30 14:25:02,883 [  5] INFO  AppManager [(null)] (landingPage.aspx) - Redirecting to Login.aspx 
+Request Type: LogInOut 
+SessionId: 
+2017-03-30 14:25:08,931 [  7] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: vp1ykf55jkhosc55hx5fpwbm
+2017-03-30 14:25:32,329 [  6] ERROR AppManager [(null)] SimpleServings application error: Exception of type 'System.Web.HttpUnhandledException' was thrown.
+location: http://localhost:1949/SimpleServings/UI/Page/myzone.aspx?Control=ManageCategoriesandTags
+
+System.Web.HttpUnhandledException: Exception of type 'System.Web.HttpUnhandledException' was thrown. ---> System.IndexOutOfRangeException: RemovedOn
+   at System.Data.ProviderBase.FieldNameLookup.GetOrdinal(String fieldName)
+   at System.Data.SqlClient.SqlDataReader.GetOrdinal(String name)
+   at System.Data.SqlClient.SqlDataReader.get_Item(String name)
+   at SimpleServingsLibrary.Shared.ManageCategoriesandTags.PopCategoriesandTags(SqlDataReader dr) in c:\TFS\DFTA\SimpleServingsLibrary\SimpleServings.Shared\BLL\ManageCategoriesandTags.cs:line 57
+   at SimpleServingsLibrary.Shared.ManageCategoriesandTags.GetTagsByCategoryID(Int32 CategoryID) in c:\TFS\DFTA\SimpleServingsLibrary\SimpleServings.Shared\BLL\ManageCategoriesandTags.cs:line 71
+   at SimpleServings.UI.UDC.SimpleServings.Setting.ManageCategoriesandTags.PopTags() in c:\TFS\DFTA\SimpleServings\SimpleServings\SimpleServings\UI\UDC\SimpleServings\Setting\ManageCategoriesandTags.ascx.cs:line 53
+   at SimpleServings.UI.UDC.SimpleServings.Setting.ManageCategoriesandTags.Page_Load(Object sender, EventArgs e) in c:\TFS\DFTA\SimpleServings\SimpleServings\SimpleServings\UI\UDC\SimpleServings\Setting\ManageCategoriesandTags.ascx.cs:line 16
+   at System.Web.Util.CalliHelper.EventArgFunctionCaller(IntPtr fp, Object o, Object t, EventArgs e)
+   at System.Web.Util.CalliEventHandlerDelegateProxy.Callback(Object sender, EventArgs e)
+   at System.Web.UI.Control.OnLoad(EventArgs e)
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   --- End of inner exception stack trace ---
+   at System.Web.UI.Page.HandleError(Exception e)
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   at System.Web.UI.Page.ProcessRequest(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   at System.Web.UI.Page.ProcessRequest()
+   at System.Web.UI.Page.ProcessRequestWithNoAssert(HttpContext context)
+   at System.Web.UI.Page.ProcessRequest(HttpContext context)
+   at ASP.ui_page_myzone_aspx.ProcessRequest(HttpContext context) in c:\Windows\Microsoft.NET\Framework\v2.0.50727\Temporary ASP.NET Files\simpleservings\50605a42\75e306da\App_Web_dtne4oad.2.cs:line 0
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+2017-03-30 14:26:01,972 [  1] INFO  AppManager [(null)] SimpleServings started.
+2017-03-30 14:26:12,235 [  6] INFO  AppManager [(null)] (landingPage.aspx) - Redirecting to Login.aspx 
+Request Type: LogInOut 
+SessionId: 
+2017-03-30 14:26:20,013 [  7] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: bdghmzryv0mib1bcegsdxt45
+2017-03-30 14:26:58,807 [  7] ERROR AppManager [(null)] SimpleServings application error: Exception of type 'System.Web.HttpUnhandledException' was thrown.
+location: http://localhost:1949/SimpleServings/UI/Page/myzone.aspx?Control=ManageCategoriesandTags
+
+System.Web.HttpUnhandledException: Exception of type 'System.Web.HttpUnhandledException' was thrown. ---> System.NullReferenceException: Object reference not set to an instance of an object.
+   at SimpleServings.UI.UDC.SimpleServings.Setting.ManageCategoriesandTags.PopTags() in c:\TFS\DFTA\SimpleServings\SimpleServings\SimpleServings\UI\UDC\SimpleServings\Setting\ManageCategoriesandTags.ascx.cs:line 58
+   at SimpleServings.UI.UDC.SimpleServings.Setting.ManageCategoriesandTags.Page_Load(Object sender, EventArgs e) in c:\TFS\DFTA\SimpleServings\SimpleServings\SimpleServings\UI\UDC\SimpleServings\Setting\ManageCategoriesandTags.ascx.cs:line 16
+   at System.Web.Util.CalliHelper.EventArgFunctionCaller(IntPtr fp, Object o, Object t, EventArgs e)
+   at System.Web.Util.CalliEventHandlerDelegateProxy.Callback(Object sender, EventArgs e)
+   at System.Web.UI.Control.OnLoad(EventArgs e)
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   --- End of inner exception stack trace ---
+   at System.Web.UI.Page.HandleError(Exception e)
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   at System.Web.UI.Page.ProcessRequest(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   at System.Web.UI.Page.ProcessRequest()
+   at System.Web.UI.Page.ProcessRequestWithNoAssert(HttpContext context)
+   at System.Web.UI.Page.ProcessRequest(HttpContext context)
+   at ASP.ui_page_myzone_aspx.ProcessRequest(HttpContext context) in c:\Windows\Microsoft.NET\Framework\v2.0.50727\Temporary ASP.NET Files\simpleservings\50605a42\75e306da\App_Web_18pymogz.5.cs:line 0
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+2017-03-30 14:27:35,097 [  1] INFO  AppManager [(null)] SimpleServings started.
+2017-03-30 14:27:53,465 [  7] INFO  AppManager [(null)] (landingPage.aspx) - Redirecting to Login.aspx 
+Request Type: LogInOut 
+SessionId: 
+2017-03-30 14:27:59,650 [  6] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: qbc1rhb5jvxbw4qasxxk0r45
+2017-03-30 14:42:52,250 [  1] INFO  AppManager [(null)] SimpleServings started.
+2017-03-30 14:42:57,513 [  5] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: lvgcstmvrf3ehq55vbbqo1e2
+2017-03-30 14:42:59,257 [  5] INFO  AppManager [(null)] (landingPage.aspx) - Request from http://localhost:1949/SimpleServings/UI/Page/ 
+Request Type: LogInOut 
+SessionId: lvgcstmvrf3ehq55vbbqo1e2
+2017-03-30 14:42:59,258 [  5] INFO  AppManager [(null)] (landingPage.aspx) - Redirecting to Login.aspx 
+Request Type: LogInOut 
+SessionId: lvgcstmvrf3ehq55vbbqo1e2
+2017-03-30 14:43:01,741 [  9] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: c4scihq2jg4say55sd03sc45
+2017-03-30 14:44:58,663 [  1] INFO  AppManager [(null)] SimpleServings started.
+2017-03-30 14:45:06,629 [  5] INFO  AppManager [(null)] (landingPage.aspx) - Request from http://localhost:1949/SimpleServings/UI/Page/myzone.aspx?Control=ManageCategoriesandTags 
+Request Type: LogInOut 
+SessionId: c4scihq2jg4say55sd03sc45
+2017-03-30 14:45:06,630 [  5] INFO  AppManager [(null)] (landingPage.aspx) - Redirecting to Login.aspx 
+Request Type: LogInOut 
+SessionId: c4scihq2jg4say55sd03sc45
+2017-03-30 14:46:01,055 [  8] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: uqcub2abofl2r43tnzmcy255
+2017-03-30 14:47:58,127 [ 11] INFO  AppManager [(null)] SimpleServings started.
+2017-03-30 14:48:05,467 [  6] INFO  AppManager [(null)] (landingPage.aspx) - Request from http://localhost:1949/SimpleServings/UI/Page/myzone.aspx?Control=ManageCategoriesandTags 
+Request Type: LogInOut 
+SessionId: uqcub2abofl2r43tnzmcy255
+2017-03-30 14:48:05,467 [  8] INFO  AppManager [(null)] (landingPage.aspx) - Request from http://localhost:1949/SimpleServings/UI/Page/myzone.aspx?Control=ManageCategoriesandTags 
+Request Type: LogInOut 
+SessionId: uqcub2abofl2r43tnzmcy255
+2017-03-30 14:48:05,468 [  6] INFO  AppManager [(null)] (landingPage.aspx) - Redirecting to Login.aspx 
+Request Type: LogInOut 
+SessionId: uqcub2abofl2r43tnzmcy255
+2017-03-30 14:48:05,468 [  8] INFO  AppManager [(null)] (landingPage.aspx) - Redirecting to Login.aspx 
+Request Type: LogInOut 
+SessionId: uqcub2abofl2r43tnzmcy255
+2017-03-30 14:48:17,553 [  7] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: f2bceofszlejxeuwnzo0d145
+2017-03-30 14:50:27,830 [  1] INFO  AppManager [(null)] SimpleServings started.
+2017-03-30 14:50:30,835 [  5] INFO  AppManager [(null)] (landingPage.aspx) - Redirecting to Login.aspx 
+Request Type: LogInOut 
+SessionId: 
+2017-03-30 14:50:37,904 [  5] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: rygmsx45u5j2qsihrj5vtq45
+2017-03-30 15:25:33,920 [  1] INFO  AppManager [(null)] SimpleServings started.
+2017-03-30 15:25:42,200 [  5] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: f2bceofszlejxeuwnzo0d145
+2017-03-30 15:25:51,089 [  8] INFO  AppManager [(null)] (landingPage.aspx) - Request from http://localhost:1949/SimpleServings/UI/Page/ 
+Request Type: LogInOut 
+SessionId: f2bceofszlejxeuwnzo0d145
+2017-03-30 15:25:51,090 [  8] INFO  AppManager [(null)] (landingPage.aspx) - Redirecting to Login.aspx 
+Request Type: LogInOut 
+SessionId: f2bceofszlejxeuwnzo0d145
+2017-03-30 15:25:53,627 [  6] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: oqnca5e5zlwseqra1vyvkxqq
+2017-03-30 15:26:05,114 [  8] INFO  AppManager [(null)] (landingPage.aspx) - Request from http://localhost:1949/SimpleServings/UI/Page/myzone.aspx?Control=ManageCategoriesandTags 
+Request Type: LogInOut 
+SessionId: oqnca5e5zlwseqra1vyvkxqq
+2017-03-30 15:26:05,115 [  8] INFO  AppManager [(null)] (landingPage.aspx) - Redirecting to Login.aspx 
+Request Type: LogInOut 
+SessionId: oqnca5e5zlwseqra1vyvkxqq
+2017-03-30 15:26:05,125 [  8] INFO  AppManager [(null)] (login.aspx) - Request from http://localhost:1949/SimpleServings/UI/Page/myzone.aspx?Control=ManageCategoriesandTags 
+SessionId: nslhbaj4oujnvpnsju0hjqyf
+2017-03-30 15:26:17,681 [  8] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: didyanejx04se155sisjuj55
+2017-03-30 15:26:23,762 [  6] INFO  AppManager [(null)] (landingPage.aspx) - Request from http://localhost:1949/SimpleServings/UI/Page/ 
+Request Type: LogInOut 
+SessionId: wmbadp45knlmy1550qcsyl55
+2017-03-30 15:26:23,763 [  6] INFO  AppManager [(null)] (landingPage.aspx) - Redirecting to Login.aspx 
+Request Type: LogInOut 
+SessionId: wmbadp45knlmy1550qcsyl55
+2017-03-30 15:26:23,772 [  7] INFO  AppManager [(null)] (login.aspx) - Request from http://localhost:1949/SimpleServings/UI/Page/ 
+SessionId: lx3vnq4531ymgjrx5hfsrs55
+2017-03-30 15:26:26,691 [  8] INFO  AppManager [(null)] (landingPage.aspx) - Clearing Session 
+Request Type:  
+SessionId: eyt55q45warogpivqglspwfa
+2017-03-30 15:26:26,710 [  5] INFO  AppManager [(null)] (landingPage.aspx) - New Session 
+Request Type:  
+SessionId: ncqpxd45m2dlc5zrge15pimq
+2017-03-30 15:26:26,891 [  7] INFO  AppManager [(null)] (login.aspx) - (cvais7773) - Login successful 
+SessionId: es3eyk344q4y2w45ajg1o4za
+2017-03-30 15:26:26,897 [  8] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: ncqpxd45m2dlc5zrge15pimq
+2017-03-30 15:28:21,023 [  1] INFO  AppManager [(null)] SimpleServings started.
+2017-03-30 15:28:37,604 [  7] INFO  AppManager [(null)] (landingPage.aspx) - Redirecting to Login.aspx 
+Request Type: LogInOut 
+SessionId: 
+2017-03-30 15:28:43,854 [  7] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: 03ac2guckjvecq550tiwjgbv
+2017-03-30 15:28:54,921 [  8] ERROR AppManager [(null)] SimpleServings application error: Exception of type 'System.Web.HttpUnhandledException' was thrown.
+location: http://localhost:1949/SimpleServings/UI/Page/myzone.aspx?Control=ManageCategoriesandTags
+
+System.Web.HttpUnhandledException: Exception of type 'System.Web.HttpUnhandledException' was thrown. ---> System.Exception: Procedure did not return a record!
+   at SimpleServingsLibrary.Shared.ManageCategoriesandTagsDB.GetTagsByCategoryID(Int32 CategoryID) in c:\TFS\DFTA\SimpleServingsLibrary\SimpleServings.Shared\DAL\ManageCategoriesandTagsDB.cs:line 59
+   at SimpleServingsLibrary.Shared.ManageCategoriesandTags.GetTagsByCategoryID(Int32 CategoryID) in c:\TFS\DFTA\SimpleServingsLibrary\SimpleServings.Shared\BLL\ManageCategoriesandTags.cs:line 71
+   at SimpleServings.UI.UDC.SimpleServings.Setting.ManageCategoriesandTags.PopTags() in c:\TFS\DFTA\SimpleServings\SimpleServings\SimpleServings\UI\UDC\SimpleServings\Setting\ManageCategoriesandTags.ascx.cs:line 66
+   at SimpleServings.UI.UDC.SimpleServings.Setting.ManageCategoriesandTags.cblTags_SelectedIndexChanged(Object sender, EventArgs e) in c:\TFS\DFTA\SimpleServings\SimpleServings\SimpleServings\UI\UDC\SimpleServings\Setting\ManageCategoriesandTags.ascx.cs:line 92
+   at System.Web.UI.WebControls.ListControl.OnSelectedIndexChanged(EventArgs e)
+   at System.Web.UI.WebControls.DropDownList.RaisePostDataChangedEvent()
+   at System.Web.UI.WebControls.DropDownList.System.Web.UI.IPostBackDataHandler.RaisePostDataChangedEvent()
+   at System.Web.UI.Page.RaiseChangedEvents()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   --- End of inner exception stack trace ---
+   at System.Web.UI.Page.HandleError(Exception e)
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   at System.Web.UI.Page.ProcessRequest(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   at System.Web.UI.Page.ProcessRequest()
+   at System.Web.UI.Page.ProcessRequestWithNoAssert(HttpContext context)
+   at System.Web.UI.Page.ProcessRequest(HttpContext context)
+   at ASP.ui_page_myzone_aspx.ProcessRequest(HttpContext context) in c:\Windows\Microsoft.NET\Framework\v2.0.50727\Temporary ASP.NET Files\simpleservings\50605a42\75e306da\App_Web_bcsfegcz.0.cs:line 0
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+2017-03-30 15:30:02,093 [  1] INFO  AppManager [(null)] SimpleServings started.
+2017-03-30 15:30:10,103 [  8] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: ncqpxd45m2dlc5zrge15pimq
+2017-03-30 15:30:13,529 [  6] INFO  AppManager [(null)] (landingPage.aspx) - Request from http://localhost:1949/SimpleServings/UI/Page/ 
+Request Type: LogInOut 
+SessionId: ncqpxd45m2dlc5zrge15pimq
+2017-03-30 15:30:13,530 [  6] INFO  AppManager [(null)] (landingPage.aspx) - Redirecting to Login.aspx 
+Request Type: LogInOut 
+SessionId: ncqpxd45m2dlc5zrge15pimq
+2017-03-30 15:30:17,066 [  7] INFO  AppManager [(null)] (login.aspx) - (cvais7773) - Login successful 
+SessionId: s2ruoi55nuuism551g3xq045
+2017-03-30 15:30:17,077 [  5] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: 3vmluei1w5gt5qqito0vqg45
+2017-03-30 15:40:26,488 [ 12] INFO  AppManager [(null)] SimpleServings started.
+2017-03-30 15:40:34,463 [  7] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: 3vmluei1w5gt5qqito0vqg45
+2017-03-30 15:40:34,466 [  5] INFO  AppManager [(null)] (landingPage.aspx) - Request from http://localhost:1949/SimpleServings/UI/Page/myzone.aspx?Control=ManageCategoriesandTags 
+Request Type: LogInOut 
+SessionId: 3vmluei1w5gt5qqito0vqg45
+2017-03-30 15:40:34,466 [  5] INFO  AppManager [(null)] (landingPage.aspx) - Redirecting to Login.aspx 
+Request Type: LogInOut 
+SessionId: 3vmluei1w5gt5qqito0vqg45
+2017-03-30 15:40:35,950 [  7] INFO  AppManager [(null)] (landingPage.aspx) - Request from http://localhost:1949/SimpleServings/UI/Page/ 
+Request Type: LogInOut 
+SessionId: 3vmluei1w5gt5qqito0vqg45
+2017-03-30 15:40:35,951 [  7] INFO  AppManager [(null)] (landingPage.aspx) - Redirecting to Login.aspx 
+Request Type: LogInOut 
+SessionId: 3vmluei1w5gt5qqito0vqg45
+2017-03-30 15:40:42,942 [  8] INFO  AppManager [(null)] (login.aspx) - (cvais7773) - Login successful 
+SessionId: 5gdnzvjhfwik4255b0iqftqr
+2017-03-30 15:40:42,949 [  7] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: cqlveb45cebgg5mbj3ckka45
+2017-03-30 15:41:54,582 [  1] INFO  AppManager [(null)] SimpleServings started.
+2017-03-30 15:42:19,067 [  5] INFO  AppManager [(null)] (landingPage.aspx) - Redirecting to Login.aspx 
+Request Type: LogInOut 
+SessionId: 
+2017-03-30 15:42:32,429 [  8] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: ef4jab45vhqeey45sv2qpj45
+2017-03-30 15:43:39,434 [  1] INFO  AppManager [(null)] SimpleServings started.
+2017-03-30 15:43:47,025 [  5] INFO  AppManager [(null)] (landingPage.aspx) - Request from http://localhost:1949/SimpleServings/UI/Page/myzone.aspx?Control=ManageCategoriesandTags 
+Request Type: LogInOut 
+SessionId: cqlveb45cebgg5mbj3ckka45
+2017-03-30 15:43:47,026 [  5] INFO  AppManager [(null)] (landingPage.aspx) - Redirecting to Login.aspx 
+Request Type: LogInOut 
+SessionId: cqlveb45cebgg5mbj3ckka45
+2017-03-30 15:44:02,902 [  5] INFO  AppManager [(null)] (login.aspx) - (cvais7773) - Login successful 
+SessionId: mwiziv2jodoskm55l0hxiiym
+2017-03-30 15:44:02,929 [  5] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: 01eddjbffbigjemnabk45pyc
+2017-03-30 16:06:21,990 [  1] INFO  AppManager [(null)] SimpleServings started.
+2017-03-30 16:06:35,824 [  8] INFO  AppManager [(null)] (landingPage.aspx) - Redirecting to Login.aspx 
+Request Type: LogInOut 
+SessionId: 
+2017-03-30 16:06:42,199 [  8] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: p5jgnp45sl0c2mfeqlmzj3em
+2017-03-30 16:08:06,224 [  7] ERROR AppManager [(null)] SimpleServings application error: Exception of type 'System.Web.HttpUnhandledException' was thrown.
+location: http://localhost:1949/SimpleServings/UI/Page/myzone.aspx?Control=ManageCategoriesandTags
+
+System.Web.HttpUnhandledException: Exception of type 'System.Web.HttpUnhandledException' was thrown. ---> System.Exception: Procedure or function 'Sp_SaveTagsForCategory' expects parameter '@StaffID', which was not supplied.
+   at SimpleServingsLibrary.Shared.ManageCategoriesandTagsDB.SaveTagsForCategory(Int32 CategoryID, List`1 Tags) in c:\TFS\DFTA\SimpleServingsLibrary\SimpleServings.Shared\DAL\ManageCategoriesandTagsDB.cs:line 96
+   at SimpleServingsLibrary.Shared.ManageCategoriesandTags.SaveTagsForCategory(Int32 CategoryID, List`1 Tags) in c:\TFS\DFTA\SimpleServingsLibrary\SimpleServings.Shared\BLL\ManageCategoriesandTags.cs:line 76
+   at SimpleServings.UI.UDC.SimpleServings.Setting.ManageCategoriesandTags.btnSave_Click(Object sender, EventArgs e) in c:\TFS\DFTA\SimpleServings\SimpleServings\SimpleServings\UI\UDC\SimpleServings\Setting\ManageCategoriesandTags.ascx.cs:line 82
+   at System.Web.UI.WebControls.Button.OnClick(EventArgs e)
+   at System.Web.UI.WebControls.Button.RaisePostBackEvent(String eventArgument)
+   at System.Web.UI.WebControls.Button.System.Web.UI.IPostBackEventHandler.RaisePostBackEvent(String eventArgument)
+   at System.Web.UI.Page.RaisePostBackEvent(IPostBackEventHandler sourceControl, String eventArgument)
+   at System.Web.UI.Page.RaisePostBackEvent(NameValueCollection postData)
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   --- End of inner exception stack trace ---
+   at System.Web.UI.Page.HandleError(Exception e)
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   at System.Web.UI.Page.ProcessRequest(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   at System.Web.UI.Page.ProcessRequest()
+   at System.Web.UI.Page.ProcessRequestWithNoAssert(HttpContext context)
+   at System.Web.UI.Page.ProcessRequest(HttpContext context)
+   at ASP.ui_page_myzone_aspx.ProcessRequest(HttpContext context) in c:\Windows\Microsoft.NET\Framework\v2.0.50727\Temporary ASP.NET Files\simpleservings\50605a42\75e306da\App_Web_0w3nv0nv.0.cs:line 0
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+2017-03-30 16:09:46,698 [  1] INFO  AppManager [(null)] SimpleServings started.
+2017-03-30 16:09:54,919 [  7] INFO  AppManager [(null)] (landingPage.aspx) - Request from http://localhost:1949/SimpleServings/UI/Page/myzone.aspx?Control=ManageCategoriesandTags 
+Request Type: LogInOut 
+SessionId: 01eddjbffbigjemnabk45pyc
+2017-03-30 16:09:54,920 [  7] INFO  AppManager [(null)] (landingPage.aspx) - Redirecting to Login.aspx 
+Request Type: LogInOut 
+SessionId: 01eddjbffbigjemnabk45pyc
+2017-03-30 16:09:57,896 [  7] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: faz250555dm0jcbwugzktvuo
+2017-03-30 16:13:14,256 [  1] INFO  AppManager [(null)] SimpleServings started.
+2017-03-30 16:13:22,027 [  6] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: faz250555dm0jcbwugzktvuo
+2017-03-30 16:13:24,160 [  6] INFO  AppManager [(null)] (landingPage.aspx) - Request from http://localhost:1949/SimpleServings/UI/Page/ 
+Request Type: LogInOut 
+SessionId: faz250555dm0jcbwugzktvuo
+2017-03-30 16:13:24,161 [  6] INFO  AppManager [(null)] (landingPage.aspx) - Redirecting to Login.aspx 
+Request Type: LogInOut 
+SessionId: faz250555dm0jcbwugzktvuo
+2017-03-30 16:13:27,052 [  7] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: x35cl455lanp3jqhv321bsqk
+2017-03-30 16:14:37,878 [ 13] INFO  AppManager [(null)] SimpleServings started.
+2017-03-30 16:14:45,675 [  7] INFO  AppManager [(null)] (landingPage.aspx) - Request from http://localhost:1949/SimpleServings/UI/Page/myzone.aspx?Control=ManageCategoriesandTags 
+Request Type: LogInOut 
+SessionId: x35cl455lanp3jqhv321bsqk
+2017-03-30 16:14:45,676 [  7] INFO  AppManager [(null)] (landingPage.aspx) - Redirecting to Login.aspx 
+Request Type: LogInOut 
+SessionId: x35cl455lanp3jqhv321bsqk
+2017-03-30 16:14:59,535 [  7] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: 45dzff3z5xcndyjbzvuxc5v5
+2017-03-30 16:19:44,057 [  7] INFO  AppManager [(null)] (Recipe.aspx) - Request from http://localhost:1949/SimpleServings/UI/Page/SimpleServings/Recipe/AddRecipe.aspx 
+SessionId: 45dzff3z5xcndyjbzvuxc5v5
+2017-03-30 16:22:50,595 [  8] INFO  AppManager [(null)] (landingPage.aspx) - Request from http://localhost:1949/SimpleServings/UI/Page/SimpleServings/Recipe/ViewRecipe.aspx?RecipeID=2865 
+Request Type: LogInOut 
+SessionId: 45dzff3z5xcndyjbzvuxc5v5
+2017-03-30 16:22:50,596 [  8] INFO  AppManager [(null)] (landingPage.aspx) - Redirecting to Login.aspx 
+Request Type: LogInOut 
+SessionId: 45dzff3z5xcndyjbzvuxc5v5
+2017-03-30 16:22:50,603 [  7] INFO  AppManager [(null)] (login.aspx) - Request from http://localhost:1949/SimpleServings/UI/Page/SimpleServings/Recipe/ViewRecipe.aspx?RecipeID=2865 
+SessionId: hudln1yag5iqo255cs2yyl3k
+2017-03-30 16:23:09,737 [  1] INFO  AppManager [(null)] SimpleServings started.
+2017-03-30 16:23:18,104 [  5] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: qhk4abq51veswh45e1q5eu55
+2017-03-30 17:23:04,555 [  6] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: qhk4abq51veswh45e1q5eu55
+2017-03-30 17:23:08,389 [  7] INFO  AppManager [(null)] (Recipe.aspx) - Request from http://localhost:1949/SimpleServings/UI/Page/ 
+SessionId: qhk4abq51veswh45e1q5eu55
+2017-03-30 17:23:08,715 [  5] INFO  AppManager [(null)] (Recipe.aspx) - Request from http://localhost:1949/SimpleServings/UI/Page/SimpleServings/Recipe/Recipe.aspx 
+SessionId: qhk4abq51veswh45e1q5eu55
+2017-03-30 17:31:52,268 [ 12] INFO  AppManager [(null)] SimpleServings started.
+2017-03-30 17:32:00,673 [  7] INFO  AppManager [(null)] (landingPage.aspx) - Request from http://localhost:1949/SimpleServings/UI/Page/SimpleServings/Recipe/AddRecipe.aspx 
+Request Type: LogInOut 
+SessionId: qhk4abq51veswh45e1q5eu55
+2017-03-30 17:32:00,674 [  7] INFO  AppManager [(null)] (landingPage.aspx) - Redirecting to Login.aspx 
+Request Type: LogInOut 
+SessionId: qhk4abq51veswh45e1q5eu55
+2017-03-30 17:32:03,843 [  8] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: 5lwbdg2rg35alb45gmeydg45
+2017-03-30 17:33:16,444 [ 12] INFO  AppManager [(null)] SimpleServings started.
+2017-03-30 17:33:24,544 [  6] INFO  AppManager [(null)] (landingPage.aspx) - Request from http://localhost:1949/SimpleServings/UI/Page/SimpleServings/Recipe/AddRecipe.aspx 
+Request Type: LogInOut 
+SessionId: 5lwbdg2rg35alb45gmeydg45
+2017-03-30 17:33:24,545 [  6] INFO  AppManager [(null)] (landingPage.aspx) - Redirecting to Login.aspx 
+Request Type: LogInOut 
+SessionId: 5lwbdg2rg35alb45gmeydg45
+2017-03-30 17:33:33,044 [  1] INFO  AppManager [(null)] SimpleServings started.
+2017-03-30 17:33:36,606 [  5] INFO  AppManager [(null)] (landingPage.aspx) - Redirecting to Login.aspx 
+Request Type: LogInOut 
+SessionId: 
+2017-03-30 17:33:43,956 [  8] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: 0vzlmsi3we33sxfkupm1xl55
+2017-03-30 17:34:38,596 [  1] INFO  AppManager [(null)] SimpleServings started.
+2017-03-30 17:34:46,557 [  7] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: 1cdida55h4tjb545kyfvjial
+2017-03-30 17:41:01,772 [ 11] INFO  AppManager [(null)] SimpleServings started.
+2017-03-30 17:41:10,026 [  7] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: 1cdida55h4tjb545kyfvjial
+2017-03-30 17:41:11,898 [  8] INFO  AppManager [(null)] (landingPage.aspx) - Request from http://localhost:1949/SimpleServings/UI/Page/ 
+Request Type: LogInOut 
+SessionId: 1cdida55h4tjb545kyfvjial
+2017-03-30 17:41:11,899 [  8] INFO  AppManager [(null)] (landingPage.aspx) - Redirecting to Login.aspx 
+Request Type: LogInOut 
+SessionId: 1cdida55h4tjb545kyfvjial
+2017-03-30 17:41:14,470 [  7] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: lyvjr355ccrahq55z4l5vnq3

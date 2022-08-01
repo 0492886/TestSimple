@@ -1,0 +1,160 @@
+2017-03-28 13:34:46,921 [  7] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: 12ugqczuk52tbtetyhdooymh
+2017-03-28 13:34:50,155 [  8] INFO  AppManager [(null)] (landingPage.aspx) - Request from http://localhost:1949/SimpleServings/UI/Page/ 
+Request Type: LogInOut 
+SessionId: bqhao345carqnoicjdn44n45
+2017-03-28 13:34:50,156 [  8] INFO  AppManager [(null)] (landingPage.aspx) - Redirecting to Login.aspx 
+Request Type: LogInOut 
+SessionId: bqhao345carqnoicjdn44n45
+2017-03-28 13:34:50,166 [  8] INFO  AppManager [(null)] (login.aspx) - Request from http://localhost:1949/SimpleServings/UI/Page/ 
+SessionId: xx0rlv55snl1sq55dpzb3zzz
+2017-03-28 13:34:52,621 [  7] INFO  AppManager [(null)] (landingPage.aspx) - Clearing Session 
+Request Type:  
+SessionId: p4rqhu55ggpgs545twcxyr45
+2017-03-28 13:34:52,632 [  5] INFO  AppManager [(null)] (landingPage.aspx) - New Session 
+Request Type:  
+SessionId: pvejexapkqifpu45t43lvf55
+2017-03-28 13:34:52,871 [  8] INFO  AppManager [(null)] (login.aspx) - (cvais7773) - Login successful 
+SessionId: jhyzktfqdte0rh45huvuqo45
+2017-03-28 13:34:52,882 [  8] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: pvejexapkqifpu45t43lvf55
+2017-03-28 13:34:54,059 [  5] INFO  AppManager [(null)] (Recipe.aspx) - Request from http://localhost:1949/SimpleServings/UI/Page/Home.aspx 
+SessionId: pvejexapkqifpu45t43lvf55
+2017-03-28 13:34:54,647 [  6] INFO  AppManager [(null)] (Recipe.aspx) - Request from http://localhost:1949/SimpleServings/UI/Page/SimpleServings/Recipe/Recipe.aspx 
+SessionId: pvejexapkqifpu45t43lvf55
+2017-03-28 14:05:37,364 [  9] INFO  AppManager [(null)] SimpleServings started.
+2017-03-28 14:05:47,684 [  7] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: pvejexapkqifpu45t43lvf55
+2017-03-28 14:05:49,195 [  7] INFO  AppManager [(null)] (landingPage.aspx) - Request from http://localhost:1949/SimpleServings/UI/Page/ 
+Request Type: LogInOut 
+SessionId: pvejexapkqifpu45t43lvf55
+2017-03-28 14:05:49,196 [  7] INFO  AppManager [(null)] (landingPage.aspx) - Redirecting to Login.aspx 
+Request Type: LogInOut 
+SessionId: pvejexapkqifpu45t43lvf55
+2017-03-28 14:05:51,909 [  7] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: dj2xka3ddd4avq55h3gbtw2z
+2017-03-28 14:16:02,086 [ 11] INFO  AppManager [(null)] SimpleServings started.
+2017-03-28 14:16:10,034 [  5] INFO  AppManager [(null)] (landingPage.aspx) - Request from http://localhost:1949/SimpleServings/UI/Page/SimpleServings/Recipe/EditRecipe.aspx?RecipeID=852 
+Request Type: LogInOut 
+SessionId: dj2xka3ddd4avq55h3gbtw2z
+2017-03-28 14:16:10,035 [  5] INFO  AppManager [(null)] (landingPage.aspx) - Redirecting to Login.aspx 
+Request Type: LogInOut 
+SessionId: dj2xka3ddd4avq55h3gbtw2z
+2017-03-28 14:16:14,447 [  8] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: ktmqzz45bppn2dmuxp2ah145
+2017-03-28 14:18:55,844 [  9] INFO  AppManager [(null)] SimpleServings started.
+2017-03-28 14:19:03,958 [  6] INFO  AppManager [(null)] (landingPage.aspx) - Request from http://localhost:1949/SimpleServings/UI/Page/myzone.aspx?Control=SettingsLinks 
+Request Type: LogInOut 
+SessionId: ktmqzz45bppn2dmuxp2ah145
+2017-03-28 14:19:03,959 [  6] INFO  AppManager [(null)] (landingPage.aspx) - Redirecting to Login.aspx 
+Request Type: LogInOut 
+SessionId: ktmqzz45bppn2dmuxp2ah145
+2017-03-28 14:19:12,720 [  7] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: f131dpnztqtxhfi3lmvulj55
+2017-03-28 14:20:48,081 [  8] ERROR AppManager [(null)] SimpleServings application error: Exception of type 'System.Web.HttpUnhandledException' was thrown.
+location: http://localhost:1949/SimpleServings/UI/Page/myzone.aspx?Control=ManageCategoriesandTags
+
+System.Web.HttpUnhandledException: Exception of type 'System.Web.HttpUnhandledException' was thrown. ---> System.InvalidCastException: Unable to cast object of type 'ASP.ui_udc_simpleservings_setting_managecategoriesandtags_ascx' to type 'SimpleServings.UI.UDC.SimpleServings.Setting.AddLink'.
+   at SimpleServings.UI.Page.MyZone.Page_Load(Object sender, EventArgs e) in c:\TFS\DFTA\SimpleServings\SimpleServings\SimpleServings\UI\Page\MyZone.aspx.cs:line 122
+   at System.Web.Util.CalliHelper.EventArgFunctionCaller(IntPtr fp, Object o, Object t, EventArgs e)
+   at System.Web.Util.CalliEventHandlerDelegateProxy.Callback(Object sender, EventArgs e)
+   at System.Web.UI.Control.OnLoad(EventArgs e)
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   --- End of inner exception stack trace ---
+   at System.Web.UI.Page.HandleError(Exception e)
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   at System.Web.UI.Page.ProcessRequest(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   at System.Web.UI.Page.ProcessRequest()
+   at System.Web.UI.Page.ProcessRequestWithNoAssert(HttpContext context)
+   at System.Web.UI.Page.ProcessRequest(HttpContext context)
+   at ASP.ui_page_myzone_aspx.ProcessRequest(HttpContext context) in c:\Windows\Microsoft.NET\Framework\v2.0.50727\Temporary ASP.NET Files\simpleservings\50605a42\75e306da\App_Web_vss8de5t.5.cs:line 0
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+2017-03-28 14:22:43,735 [  9] INFO  AppManager [(null)] SimpleServings started.
+2017-03-28 14:22:51,686 [  5] INFO  AppManager [(null)] (landingPage.aspx) - Redirecting to Login.aspx 
+Request Type: LogInOut 
+SessionId: f131dpnztqtxhfi3lmvulj55
+2017-03-28 14:23:17,996 [  7] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: uf5egx55neqgp4ehzppmpa55
+2017-03-28 14:27:59,857 [  9] INFO  AppManager [(null)] SimpleServings started.
+2017-03-28 14:28:07,399 [  8] INFO  AppManager [(null)] (landingPage.aspx) - Redirecting to Login.aspx 
+Request Type: LogInOut 
+SessionId: uf5egx55neqgp4ehzppmpa55
+2017-03-28 14:28:20,288 [  7] INFO  AppManager [(null)] (login.aspx) - (cvais7773) - Login successful 
+SessionId: qohmbubodgtjsi2w110qfdm3
+2017-03-28 14:28:20,317 [  7] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: qgiffpmyixlgcb453wu1ex55
+2017-03-28 14:33:21,365 [  9] INFO  AppManager [(null)] SimpleServings started.
+2017-03-28 14:33:24,004 [  5] INFO  AppManager [(null)] (landingPage.aspx) - Redirecting to Login.aspx 
+Request Type: LogInOut 
+SessionId: qgiffpmyixlgcb453wu1ex55
+2017-03-28 14:33:27,134 [  5] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: jlpuyg55fos3mw55bd2jtjzf
+2017-03-28 14:45:56,087 [  1] INFO  AppManager [(null)] SimpleServings started.
+2017-03-28 14:46:05,965 [  5] INFO  AppManager [(null)] (landingPage.aspx) - Redirecting to Login.aspx 
+Request Type: LogInOut 
+SessionId: 
+2017-03-28 14:46:08,697 [  6] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: zowvzz55czxfyyybzedtaryp
+2017-03-28 14:46:49,027 [  8] ERROR AppManager [(null)] SimpleServings application error: c:\TFS\DFTA\SimpleServings\SimpleServings\SimpleServings\UI\UDC\SimpleServings\Setting\ManageCategoriesandTags.ascx(35): error CS1061: 'ASP.ui_udc_simpleservings_setting_managecategoriesandtags_ascx' does not contain a definition for 'btnCancelClick' and no extension method 'btnCancelClick' accepting a first argument of type 'ASP.ui_udc_simpleservings_setting_managecategoriesandtags_ascx' could be found (are you missing a using directive or an assembly reference?)
+location: http://localhost:1949/SimpleServings/UI/Page/myzone.aspx?Control=ManageCategoriesandTags
+
+System.Web.HttpCompileException: c:\TFS\DFTA\SimpleServings\SimpleServings\SimpleServings\UI\UDC\SimpleServings\Setting\ManageCategoriesandTags.ascx(35): error CS1061: 'ASP.ui_udc_simpleservings_setting_managecategoriesandtags_ascx' does not contain a definition for 'btnCancelClick' and no extension method 'btnCancelClick' accepting a first argument of type 'ASP.ui_udc_simpleservings_setting_managecategoriesandtags_ascx' could be found (are you missing a using directive or an assembly reference?)
+   at System.Web.Compilation.BuildManager.PostProcessFoundBuildResult(BuildResult result, Boolean keyFromVPP, VirtualPath virtualPath)
+   at System.Web.Compilation.BuildManager.GetBuildResultFromCacheInternal(String cacheKey, Boolean keyFromVPP, VirtualPath virtualPath, Int64 hashCode)
+   at System.Web.Compilation.BuildManager.GetVPathBuildResultFromCacheInternal(VirtualPath virtualPath)
+   at System.Web.Compilation.BuildManager.GetVPathBuildResultInternal(VirtualPath virtualPath, Boolean noBuild, Boolean allowCrossApp, Boolean allowBuildInPrecompile)
+   at System.Web.Compilation.BuildManager.GetVPathBuildResultWithNoAssert(HttpContext context, VirtualPath virtualPath, Boolean noBuild, Boolean allowCrossApp, Boolean allowBuildInPrecompile)
+   at System.Web.Compilation.BuildManager.GetVPathBuildResult(HttpContext context, VirtualPath virtualPath, Boolean noBuild, Boolean allowCrossApp, Boolean allowBuildInPrecompile)
+   at System.Web.UI.TemplateControl.LoadControl(VirtualPath virtualPath)
+   at System.Web.UI.TemplateControl.LoadControl(String virtualPath)
+   at SimpleServings.UI.Page.MyZone.Page_Load(Object sender, EventArgs e) in c:\TFS\DFTA\SimpleServings\SimpleServings\SimpleServings\UI\Page\MyZone.aspx.cs:line 122
+   at System.Web.Util.CalliHelper.EventArgFunctionCaller(IntPtr fp, Object o, Object t, EventArgs e)
+   at System.Web.Util.CalliEventHandlerDelegateProxy.Callback(Object sender, EventArgs e)
+   at System.Web.UI.Control.OnLoad(EventArgs e)
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   at System.Web.UI.Page.ProcessRequest(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   at System.Web.UI.Page.ProcessRequest()
+   at System.Web.UI.Page.ProcessRequestWithNoAssert(HttpContext context)
+   at System.Web.UI.Page.ProcessRequest(HttpContext context)
+   at ASP.ui_page_myzone_aspx.ProcessRequest(HttpContext context) in c:\Windows\Microsoft.NET\Framework\v2.0.50727\Temporary ASP.NET Files\simpleservings\50605a42\75e306da\App_Web_eumnk828.6.cs:line 0
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+2017-03-28 14:47:32,171 [  5] ERROR AppManager [(null)] SimpleServings application error: The base class includes the field 'btnCancel', but its type (System.Web.UI.WebControls.Button) is not compatible with the type of control (System.Web.UI.HtmlControls.HtmlInputButton).
+location: http://localhost:1949/SimpleServings/UI/Page/myzone.aspx?Control=ManageCategoriesandTags
+
+System.Web.HttpParseException: The base class includes the field 'btnCancel', but its type (System.Web.UI.WebControls.Button) is not compatible with the type of control (System.Web.UI.HtmlControls.HtmlInputButton). ---> System.Web.HttpParseException: The base class includes the field 'btnCancel', but its type (System.Web.UI.WebControls.Button) is not compatible with the type of control (System.Web.UI.HtmlControls.HtmlInputButton).
+   at System.Web.Compilation.BaseTemplateCodeDomTreeGenerator.BuildFieldDeclaration(ControlBuilder builder)
+   at System.Web.Compilation.BaseTemplateCodeDomTreeGenerator.BuildSourceDataTreeFromBuilder(ControlBuilder builder, Boolean fInTemplate, Boolean topLevelControlInTemplate, PropertyEntry pse)
+   at System.Web.Compilation.BaseTemplateCodeDomTreeGenerator.BuildSourceDataTreeFromBuilder(ControlBuilder builder, Boolean fInTemplate, Boolean topLevelControlInTemplate, PropertyEntry pse)
+   at System.Web.Compilation.BaseTemplateCodeDomTreeGenerator.BuildSourceDataTreeFromBuilder(ControlBuilder builder, Boolean fInTemplate, Boolean topLevelControlInTemplate, PropertyEntry pse)
+   at System.Web.Compilation.TemplateControlCodeDomTreeGenerator.BuildMiscClassMembers()
+   at System.Web.Compilation.BaseCodeDomTreeGenerator.BuildSourceDataTree()
+   at System.Web.Compilation.BaseCodeDomTreeGenerator.GetCodeDomTree(CodeDomProvider codeDomProvider, StringResourceBuilder stringResourceBuilder, VirtualPath virtualPath)
+   at System.Web.Compilation.BaseTemplateBuildProvider.GenerateCode(AssemblyBuilder assemblyBuilder)
+   at System.Web.Compilation.AssemblyBuilder.AddBuildProvider(BuildProvider buildProvider)
+   --- End of inner exception stack trace ---
+   at System.Web.Compilation.AssemblyBuilder.AddBuildProvider(BuildProvider buildProvider)
+   at System.Web.Compilation.BuildProvidersCompiler.ProcessBuildProviders()
+   at System.Web.Compilation.BuildProvidersCompiler.PerformBuild()
+   at System.Web.Compilation.BuildManager.CompileWebFile(VirtualPath virtualPath)
+   at System.Web.Compilation.BuildManager.GetVPathBuildResultInternal(VirtualPath virtualPath, Boolean noBuild, Boolean allowCrossApp, Boolean allowBuildInPrecompile)
+   at System.Web.Compilation.BuildManager.GetVPathBuildResultWithNoAssert(HttpContext context, VirtualPath virtualPath, Boolean noBuild, Boolean allowCrossApp, Boolean allowBuildInPrecompile)
+   at System.Web.Compilation.BuildManager.GetVPathBuildResult(HttpContext context, VirtualPath virtualPath, Boolean noBuild, Boolean allowCrossApp, Boolean allowBuildInPrecompile)
+   at System.Web.UI.TemplateControl.LoadControl(VirtualPath virtualPath)
+   at System.Web.UI.TemplateControl.LoadControl(String virtualPath)
+   at SimpleServings.UI.Page.MyZone.Page_Load(Object sender, EventArgs e) in c:\TFS\DFTA\SimpleServings\SimpleServings\SimpleServings\UI\Page\MyZone.aspx.cs:line 122
+   at System.Web.Util.CalliHelper.EventArgFunctionCaller(IntPtr fp, Object o, Object t, EventArgs e)
+   at System.Web.Util.CalliEventHandlerDelegateProxy.Callback(Object sender, EventArgs e)
+   at System.Web.UI.Control.OnLoad(EventArgs e)
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   at System.Web.UI.Page.ProcessRequest(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   at System.Web.UI.Page.ProcessRequest()
+   at System.Web.UI.Page.ProcessRequestWithNoAssert(HttpContext context)
+   at System.Web.UI.Page.ProcessRequest(HttpContext context)
+   at ASP.ui_page_myzone_aspx.ProcessRequest(HttpContext context) in c:\Windows\Microsoft.NET\Framework\v2.0.50727\Temporary ASP.NET Files\simpleservings\50605a42\75e306da\App_Web_eumnk828.6.cs:line 0
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)

@@ -1,0 +1,46 @@
+2020-03-30 10:20:37,264 [  1] INFO  AppManager [(null)] SimpleServings started.
+2020-03-30 10:20:57,885 [ 10] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: de5icq3mebm1kibwc1b4nntw
+2020-03-30 13:18:43,448 [ 28] INFO  AppManager [(null)] SimpleServings started.
+2020-03-30 13:19:03,740 [ 42] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: caeancztxhwqt1wufhx1co5z
+2020-03-30 13:27:49,694 [ 56] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: caeancztxhwqt1wufhx1co5z
+2020-03-30 13:39:44,943 [ 56] INFO  AppManager [(null)] (landingPage.aspx) - Clearing Session 
+Request Type:  
+SessionId: 4mvyohytv2iix1wlchqoklyq
+2020-03-30 13:39:44,955 [ 60] INFO  AppManager [(null)] (landingPage.aspx) - New Session 
+Request Type:  
+SessionId: yu50qxietpwrdugv1jmya4rg
+2020-03-30 13:39:45,044 [ 42] INFO  AppManager [(null)] (login.aspx) - (JAlberg) - Login successful 
+SessionId: z54gjw5k3a2klpvrdssaelrq
+2020-03-30 13:39:45,051 [ 56] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: yu50qxietpwrdugv1jmya4rg
+2020-03-30 13:42:46,683 [ 60] INFO  AppManager [(null)] (landingPage.aspx) - Clearing Session 
+Request Type:  
+SessionId: 3p05nnrgzegsllvuwgs1vib0
+2020-03-30 13:42:46,694 [ 42] INFO  AppManager [(null)] (landingPage.aspx) - New Session 
+Request Type:  
+SessionId: kmbookmjgqkm3tquzlwkcsys
+2020-03-30 13:42:46,789 [ 56] INFO  AppManager [(null)] (login.aspx) - (JAlberg) - Login successful 
+SessionId: du2yewjs2j4zyh2ijeg01eb1
+2020-03-30 13:42:46,794 [ 42] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: kmbookmjgqkm3tquzlwkcsys
+2020-03-30 13:52:43,911 [ 17] INFO  AppManager [(null)] (landingPage.aspx) - Clearing Session 
+Request Type:  
+SessionId: zxfd3nvr1zsa0ucfyemvkzzx
+2020-03-30 13:52:43,937 [ 46] INFO  AppManager [(null)] (landingPage.aspx) - New Session 
+Request Type:  
+SessionId: mcps0c5josyr3bsfto5jvgu1
+2020-03-30 13:52:44,120 [ 49] INFO  AppManager [(null)] (login.aspx) - (JAlberg) - Login successful 
+SessionId: diprcvss5mbfvfewy3uxhkda
+2020-03-30 13:52:44,132 [ 46] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: mcps0c5josyr3bsfto5jvgu1
+2020-03-30 13:55:02,909 [ 17] INFO  AppManager [(null)] (landingPage.aspx) - Request from http://localhost:1949/SimpleServings/UI/Page/SimpleServings/Menu/AddMenu.aspx?MenuType=AddMenuUsingSample&MenuID=15233 
+Request Type: LogInOut 
+SessionId: mcps0c5josyr3bsfto5jvgu1
+2020-03-30 13:55:02,910 [ 17] INFO  AppManager [(null)] (landingPage.aspx) - Redirecting to Login.aspx 
+Request Type: LogInOut 
+SessionId: mcps0c5josyr3bsfto5jvgu1
+2020-03-30 13:55:02,917 [ 35] INFO  AppManager [(null)] (login.aspx) - Request from http://localhost:1949/SimpleServings/UI/Page/SimpleServings/Menu/AddMenu.aspx?MenuType=AddMenuUsingSample&MenuID=15233 
+SessionId: 55bnv52urji3y3kpbov3shdw

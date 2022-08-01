@@ -1,0 +1,242 @@
+2017-11-20 11:30:06,405 [  1] INFO  AppManager [(null)] SimpleServings started.
+2017-11-20 11:30:41,534 [  6] ERROR AppManager [(null)] btnLogin_Click failed: Incorrect username and/or password.
+2017-11-20 11:30:47,355 [  6] INFO  AppManager [(null)] (landingPage.aspx) - Clearing Session 
+Request Type:  
+SessionId: ef2hgg45mqdaoz45f5rid345
+2017-11-20 11:30:47,368 [  6] INFO  AppManager [(null)] (landingPage.aspx) - New Session 
+Request Type:  
+SessionId: anz220uqmyke34qrj1cw1q55
+2017-11-20 11:30:47,417 [  6] INFO  AppManager [(null)] (login.aspx) - (kpatel1) - Login successful 
+SessionId: anz220uqmyke34qrj1cw1q55
+2017-11-20 11:30:47,497 [  7] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: anz220uqmyke34qrj1cw1q55
+2017-11-20 11:31:15,611 [  7] INFO  AppManager [(null)] (landingPage.aspx) - Request from http://localhost:1949/SimpleServings/UI/Page/SimpleServings/Recipe/EditRecipe.aspx?RecipeID=852 
+Request Type: LogInOut 
+SessionId: anz220uqmyke34qrj1cw1q55
+2017-11-20 11:31:15,612 [  7] INFO  AppManager [(null)] (landingPage.aspx) - Redirecting to Login.aspx 
+Request Type: LogInOut 
+SessionId: anz220uqmyke34qrj1cw1q55
+2017-11-20 11:31:15,616 [  9] INFO  AppManager [(null)] (login.aspx) - Request from http://localhost:1949/SimpleServings/UI/Page/SimpleServings/Recipe/EditRecipe.aspx?RecipeID=852 
+SessionId: fi2rdbqxtiefcu55txyvayar
+2017-11-20 11:33:19,298 [  1] INFO  AppManager [(null)] SimpleServings started.
+2017-11-20 11:34:57,472 [  1] INFO  AppManager [(null)] SimpleServings started.
+2017-11-20 11:35:04,354 [  9] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: 0d1y0a45wb2p0l55l1yidgru
+2017-11-20 11:47:09,469 [  1] INFO  AppManager [(null)] SimpleServings started.
+2017-11-20 11:47:16,450 [  7] INFO  AppManager [(null)] (landingPage.aspx) - Request from http://localhost:1949/SimpleServings/UI/Page/SimpleServings/Recipe/EditRecipe.aspx?RecipeID=852 
+Request Type: LogInOut 
+SessionId: 0d1y0a45wb2p0l55l1yidgru
+2017-11-20 11:47:16,451 [  7] INFO  AppManager [(null)] (landingPage.aspx) - Redirecting to Login.aspx 
+Request Type: LogInOut 
+SessionId: 0d1y0a45wb2p0l55l1yidgru
+2017-11-20 11:48:08,015 [  8] ERROR AppManager [(null)] btnLogin_Click failed: Incorrect username and/or password.
+2017-11-20 11:48:13,642 [  6] INFO  AppManager [(null)] (landingPage.aspx) - Clearing Session 
+Request Type:  
+SessionId: hl5xngfosvr35sb4fvnwev55
+2017-11-20 11:48:13,669 [  9] INFO  AppManager [(null)] (landingPage.aspx) - New Session 
+Request Type:  
+SessionId: zf42l4551ajvsu45rwjl2dqz
+2017-11-20 11:48:13,706 [  8] INFO  AppManager [(null)] (login.aspx) - (kpatel1) - Login successful 
+SessionId: hl5xngfosvr35sb4fvnwev55
+2017-11-20 11:48:13,733 [  8] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: zf42l4551ajvsu45rwjl2dqz
+2017-11-20 11:50:08,466 [  1] INFO  AppManager [(null)] SimpleServings started.
+2017-11-20 11:50:23,295 [ 10] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: m3k51n45fwntvg55piqtxfy1
+2017-11-20 12:09:52,658 [  1] INFO  AppManager [(null)] SimpleServings started.
+2017-11-20 12:10:13,404 [  1] INFO  AppManager [(null)] SimpleServings started.
+2017-11-20 12:10:20,362 [  9] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: redggk45graqhhypguyckofb
+2017-11-20 12:10:35,608 [  8] ERROR AppManager [(null)] SimpleServings application error: Exception of type 'System.Web.HttpUnhandledException' was thrown.
+location: http://localhost:1949/SimpleServings/UI/Page/SimpleServings/Recipe/EditRecipe.aspx?RecipeID=852
+
+System.Web.HttpUnhandledException: Exception of type 'System.Web.HttpUnhandledException' was thrown. ---> System.NullReferenceException: Object reference not set to an instance of an object.
+   at SimpleServings.UI.UDC.SimpleServings.Recipe.AddEditRecipeSupplement.SaveSortOrder() in e:\SSDFTA\SimpleServings\SimpleServings\UI\UDC\SimpleServings\Recipe\AddEditRecipeSupplement.ascx.cs:line 130
+   at SimpleServings.UI.UDC.SimpleServings.Recipe.AddEditRecipeSupplement.lnkBtnSaveOrder_Click(Object sender, EventArgs e) in e:\SSDFTA\SimpleServings\SimpleServings\UI\UDC\SimpleServings\Recipe\AddEditRecipeSupplement.ascx.cs:line 317
+   at System.Web.UI.WebControls.LinkButton.OnClick(EventArgs e)
+   at System.Web.UI.WebControls.LinkButton.RaisePostBackEvent(String eventArgument)
+   at System.Web.UI.WebControls.LinkButton.System.Web.UI.IPostBackEventHandler.RaisePostBackEvent(String eventArgument)
+   at System.Web.UI.Page.RaisePostBackEvent(IPostBackEventHandler sourceControl, String eventArgument)
+   at System.Web.UI.Page.RaisePostBackEvent(NameValueCollection postData)
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   --- End of inner exception stack trace ---
+   at System.Web.UI.Page.HandleError(Exception e)
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   at System.Web.UI.Page.ProcessRequest(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   at System.Web.UI.Page.ProcessRequest()
+   at System.Web.UI.Page.ProcessRequestWithNoAssert(HttpContext context)
+   at System.Web.UI.Page.ProcessRequest(HttpContext context)
+   at ASP.ui_page_simpleservings_recipe_editrecipe_aspx.ProcessRequest(HttpContext context) in c:\Users\kpatel1\AppData\Local\Temp\Temporary ASP.NET Files\simpleservings\e52236ec\eef2180a\App_Web_uiacuwqp.8.cs:line 0
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+2017-11-20 18:46:17,064 [ 14] INFO  AppManager [(null)] SimpleServings started.
+2017-11-20 18:46:35,817 [  9] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: hfz3b5r3znlyrtrjrerzhrmm
+2017-11-20 18:55:36,384 [ 12] INFO  AppManager [(null)] SimpleServings started.
+2017-11-20 18:55:46,226 [  6] INFO  AppManager [(null)] (landingPage.aspx) - Request from http://localhost:1949/SimpleServings/UI/Page/SimpleServings/Recipe/EditRecipe.aspx?RecipeID=852 
+Request Type: LogInOut 
+SessionId: hfz3b5r3znlyrtrjrerzhrmm
+2017-11-20 18:55:46,227 [  6] INFO  AppManager [(null)] (landingPage.aspx) - Redirecting to Login.aspx 
+Request Type: LogInOut 
+SessionId: hfz3b5r3znlyrtrjrerzhrmm
+2017-11-20 19:30:14,291 [ 12] INFO  AppManager [(null)] SimpleServings started.
+2017-11-20 19:43:13,289 [ 12] INFO  AppManager [(null)] SimpleServings started.
+2017-11-20 23:01:44,681 [ 14] INFO  AppManager [(null)] SimpleServings started.
+2017-11-20 23:03:01,517 [  8] INFO  AppManager [(null)] (landingPage.aspx) - Clearing Session 
+Request Type:  
+SessionId: phdyjrq4fbcis0u5fbga0f45
+2017-11-20 23:03:01,561 [  8] INFO  AppManager [(null)] (landingPage.aspx) - New Session 
+Request Type:  
+SessionId: 2iltz545dd1clc55jjea0k55
+2017-11-20 23:03:51,076 [ 10] ERROR AppManager [(null)] btnLogin_Click failed: A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server)
+System.Data.SqlClient.SqlException: A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server)
+   at System.Data.ProviderBase.DbConnectionPool.GetConnection(DbConnection owningObject)
+   at System.Data.ProviderBase.DbConnectionFactory.GetConnection(DbConnection owningConnection)
+   at System.Data.ProviderBase.DbConnectionClosed.OpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory)
+   at System.Data.SqlClient.SqlConnection.Open()
+   at System.Data.ProviderBase.DbConnectionClosed.OpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory)
+   at System.Data.SqlClient.SqlConnection.Open()
+   at Microsoft.Practices.EnterpriseLibrary.Data.Database.OpenConnection()
+   at Microsoft.Practices.EnterpriseLibrary.Data.Database.ExecuteReader(DbCommand command)
+   at SimpleServingsLibrary.Shared.StaffDB.Authenticate(String userName) in e:\SSDFTA\SimpleServingsLibrary\SimpleServings.Shared\DAL\StaffDB.cs:line 400
+   at SimpleServingsLibrary.Shared.Staff.Authenticate(String userName) in e:\SSDFTA\SimpleServingsLibrary\SimpleServings.Shared\BLL\Staff.cs:line 611
+   at Microsoft.Practices.EnterpriseLibrary.Data.Database.OpenConnection()
+   at Microsoft.Practices.EnterpriseLibrary.Data.Database.ExecuteReader(DbCommand command)
+   at SimpleServingsLibrary.Shared.StaffDB.Authenticate(String userName) in e:\SSDFTA\SimpleServingsLibrary\SimpleServings.Shared\DAL\StaffDB.cs:line 400
+   at SimpleServingsLibrary.Shared.Staff.Authenticate(String userName) in e:\SSDFTA\SimpleServingsLibrary\SimpleServings.Shared\BLL\Staff.cs:line 611
+   at SimpleServings.UI.Page.login.btnLogin_Click(Object sender, EventArgs e) in e:\SSDFTA\SimpleServings\SimpleServings\UI\Page\login.aspx.cs:line 159
+2017-11-20 23:03:51,076 [  9] ERROR AppManager [(null)] btnLogin_Click failed: A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server)
+System.Data.SqlClient.SqlException: A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server)
+   at System.Data.ProviderBase.DbConnectionPool.GetConnection(DbConnection owningObject)
+   at System.Data.ProviderBase.DbConnectionFactory.GetConnection(DbConnection owningConnection)
+   at System.Data.ProviderBase.DbConnectionClosed.OpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory)
+   at System.Data.SqlClient.SqlConnection.Open()
+   at System.Data.ProviderBase.DbConnectionClosed.OpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory)
+   at System.Data.SqlClient.SqlConnection.Open()
+   at Microsoft.Practices.EnterpriseLibrary.Data.Database.OpenConnection()
+   at Microsoft.Practices.EnterpriseLibrary.Data.Database.ExecuteReader(DbCommand command)
+   at SimpleServingsLibrary.Shared.StaffDB.Authenticate(String userName) in e:\SSDFTA\SimpleServingsLibrary\SimpleServings.Shared\DAL\StaffDB.cs:line 400
+   at SimpleServingsLibrary.Shared.Staff.Authenticate(String userName) in e:\SSDFTA\SimpleServingsLibrary\SimpleServings.Shared\BLL\Staff.cs:line 611
+   at Microsoft.Practices.EnterpriseLibrary.Data.Database.OpenConnection()
+   at Microsoft.Practices.EnterpriseLibrary.Data.Database.ExecuteReader(DbCommand command)
+   at SimpleServingsLibrary.Shared.StaffDB.Authenticate(String userName) in e:\SSDFTA\SimpleServingsLibrary\SimpleServings.Shared\DAL\StaffDB.cs:line 400
+   at SimpleServingsLibrary.Shared.Staff.Authenticate(String userName) in e:\SSDFTA\SimpleServingsLibrary\SimpleServings.Shared\BLL\Staff.cs:line 611
+   at SimpleServings.UI.Page.login.btnLogin_Click(Object sender, EventArgs e) in e:\SSDFTA\SimpleServings\SimpleServings\UI\Page\login.aspx.cs:line 159
+2017-11-20 23:03:58,668 [  6] INFO  AppManager [(null)] (landingPage.aspx) - Clearing Session 
+Request Type:  
+SessionId: 5x0d1umld2umyp55lrviqtbz
+2017-11-20 23:03:58,692 [ 10] INFO  AppManager [(null)] (landingPage.aspx) - New Session 
+Request Type:  
+SessionId: w4xqig55eromtd45fnmq4j3a
+2017-11-20 23:04:13,249 [  6] ERROR AppManager [(null)] btnLogin_Click failed: Cannot open database "SimpleServings" requested by the login. The login failed.
+Login failed for user 'IntraNetuser'.
+System.Data.SqlClient.SqlException: Cannot open database "SimpleServings" requested by the login. The login failed.
+Login failed for user 'IntraNetuser'.
+   at System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj)
+   at System.Data.SqlClient.TdsParser.Run(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj)
+   at System.Data.SqlClient.SqlInternalConnectionTds.CompleteLogin(Boolean enlistOK)
+   at System.Data.SqlClient.SqlInternalConnectionTds.AttemptOneLogin(ServerInfo serverInfo, String newPassword, Boolean ignoreSniOpenTimeout, Int64 timerExpire, SqlConnection owningObject, Boolean withFailover)
+   at System.Data.SqlClient.SqlInternalConnectionTds.LoginNoFailover(String host, String newPassword, Boolean redirectedUserInstance, SqlConnection owningObject, SqlConnectionString connectionOptions, Int64 timerStart)
+   at System.Data.SqlClient.SqlInternalConnectionTds.OpenLoginEnlist(SqlConnection owningObject, SqlConnectionString connectionOptions, String newPassword, Boolean redirectedUserInstance)
+   at System.Data.SqlClient.SqlInternalConnectionTds..ctor(DbConnectionPoolIdentity identity, SqlConnectionString connectionOptions, Object providerInfo, String newPassword, SqlConnection owningObject, Boolean redirectedUserInstance)
+   at System.Data.SqlClient.SqlConnectionFactory.CreateConnection(DbConnectionOptions options, Object poolGroupProviderInfo, DbConnectionPool pool, DbConnection owningConnection)
+   at System.Data.ProviderBase.DbConnectionFactory.CreatePooledConnection(DbConnection owningConnection, DbConnectionPool pool, DbConnectionOptions options)
+   at System.Data.ProviderBase.DbConnectionPool.CreateObject(DbConnection owningObject)
+   at System.Data.ProviderBase.DbConnectionPool.UserCreateRequest(DbConnection owningObject)
+   at System.Data.ProviderBase.DbConnectionPool.GetConnection(DbConnection owningObject)
+   at System.Data.ProviderBase.DbConnectionFactory.GetConnection(DbConnection owningConnection)
+   at System.Data.ProviderBase.DbConnectionClosed.OpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory)
+   at System.Data.SqlClient.SqlConnection.Open()
+   at Microsoft.Practices.EnterpriseLibrary.Data.Database.OpenConnection()
+   at Microsoft.Practices.EnterpriseLibrary.Data.Database.ExecuteReader(DbCommand command)
+   at SimpleServingsLibrary.Shared.StaffDB.Authenticate(String userName) in e:\SSDFTA\SimpleServingsLibrary\SimpleServings.Shared\DAL\StaffDB.cs:line 400
+   at SimpleServingsLibrary.Shared.Staff.Authenticate(String userName) in e:\SSDFTA\SimpleServingsLibrary\SimpleServings.Shared\BLL\Staff.cs:line 611
+   at SimpleServings.UI.Page.login.btnLogin_Click(Object sender, EventArgs e) in e:\SSDFTA\SimpleServings\SimpleServings\UI\Page\login.aspx.cs:line 159
+2017-11-20 23:08:16,243 [  8] INFO  AppManager [(null)] (landingPage.aspx) - Clearing Session 
+Request Type:  
+SessionId: zkge0ruyhfcg2s55bs4mld45
+2017-11-20 23:08:16,285 [  8] INFO  AppManager [(null)] (landingPage.aspx) - New Session 
+Request Type:  
+SessionId: xivwz14510lmewn2mzidewym
+2017-11-20 23:08:16,694 [  8] INFO  AppManager [(null)] (login.aspx) - (kpatel1) - Login successful 
+SessionId: xivwz14510lmewn2mzidewym
+2017-11-20 23:08:16,755 [ 10] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: xivwz14510lmewn2mzidewym
+2017-11-20 23:10:17,678 [  1] INFO  AppManager [(null)] SimpleServings started.
+2017-11-20 23:10:41,507 [  1] INFO  AppManager [(null)] SimpleServings started.
+2017-11-20 23:11:10,007 [  9] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: xjaekkvgb2rbda55nc2bnijt
+2017-11-20 23:17:40,044 [  1] INFO  AppManager [(null)] SimpleServings started.
+2017-11-20 23:17:51,470 [  5] INFO  AppManager [(null)] (landingPage.aspx) - Request from http://localhost:1949/SimpleServings/UI/Page/SimpleServings/Recipe/EditRecipe.aspx?RecipeID=852 
+Request Type: LogInOut 
+SessionId: xjaekkvgb2rbda55nc2bnijt
+2017-11-20 23:17:51,471 [  5] INFO  AppManager [(null)] (landingPage.aspx) - Redirecting to Login.aspx 
+Request Type: LogInOut 
+SessionId: xjaekkvgb2rbda55nc2bnijt
+2017-11-20 23:34:15,930 [  1] INFO  AppManager [(null)] SimpleServings started.
+2017-11-20 23:34:38,261 [  7] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: subzlcb4huuztdelrbbjm5na
+2017-11-20 23:45:23,574 [  1] INFO  AppManager [(null)] SimpleServings started.
+2017-11-20 23:45:31,115 [  5] INFO  AppManager [(null)] (landingPage.aspx) - Request from http://localhost:1949/SimpleServings/UI/Page/SimpleServings/Recipe/EditRecipe.aspx?RecipeID=852 
+Request Type: LogInOut 
+SessionId: subzlcb4huuztdelrbbjm5na
+2017-11-20 23:45:31,116 [  5] INFO  AppManager [(null)] (landingPage.aspx) - Redirecting to Login.aspx 
+Request Type: LogInOut 
+SessionId: subzlcb4huuztdelrbbjm5na
+2017-11-20 23:45:42,742 [  7] ERROR AppManager [(null)] btnLogin_Click failed: Incorrect username and/or password.
+2017-11-20 23:45:48,586 [  7] INFO  AppManager [(null)] (landingPage.aspx) - Clearing Session 
+Request Type:  
+SessionId: 2nrijmnjl1rv3knsme1b0ujz
+2017-11-20 23:45:48,611 [  7] INFO  AppManager [(null)] (landingPage.aspx) - New Session 
+Request Type:  
+SessionId: stsajz2bzzogm0avkkaqey55
+2017-11-20 23:45:49,145 [  6] INFO  AppManager [(null)] (login.aspx) - (kpatel1) - Login successful 
+SessionId: 2nrijmnjl1rv3knsme1b0ujz
+2017-11-20 23:45:49,167 [  6] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: stsajz2bzzogm0avkkaqey55
+2017-11-20 23:45:58,006 [  5] INFO  AppManager [(null)] (landingPage.aspx) - Request from http://localhost:1949/SimpleServings/UI/Page/SimpleServings/Recipe/RecipeList.aspx 
+Request Type: LogInOut 
+SessionId: stsajz2bzzogm0avkkaqey55
+2017-11-20 23:45:58,006 [  5] INFO  AppManager [(null)] (landingPage.aspx) - Redirecting to Login.aspx 
+Request Type: LogInOut 
+SessionId: stsajz2bzzogm0avkkaqey55
+2017-11-20 23:45:58,011 [  5] INFO  AppManager [(null)] (login.aspx) - Request from http://localhost:1949/SimpleServings/UI/Page/SimpleServings/Recipe/RecipeList.aspx 
+SessionId: yr03jz45wrtpc555klupvt3s
+2017-11-20 23:46:15,615 [  8] INFO  AppManager [(null)] (landingPage.aspx) - Clearing Session 
+Request Type:  
+SessionId: lfnt1sahjb5uxcv3uq1omh55
+2017-11-20 23:46:15,620 [  5] INFO  AppManager [(null)] (landingPage.aspx) - New Session 
+Request Type:  
+SessionId: q04zo155flelsxqgfx1m4j55
+2017-11-20 23:46:15,654 [  7] INFO  AppManager [(null)] (login.aspx) - (kpatel1) - Login successful 
+SessionId: 2nddxzj2gnethav0dhsrmy45
+2017-11-20 23:46:15,658 [  7] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: q04zo155flelsxqgfx1m4j55
+2017-11-20 23:49:55,167 [  1] INFO  AppManager [(null)] SimpleServings started.
+2017-11-20 23:50:02,626 [  8] INFO  AppManager [(null)] (landingPage.aspx) - Request from http://localhost:1949/SimpleServings/UI/Page/SimpleServings/Recipe/EditRecipe.aspx?RecipeID=852 
+Request Type: LogInOut 
+SessionId: q04zo155flelsxqgfx1m4j55
+2017-11-20 23:50:02,627 [  8] INFO  AppManager [(null)] (landingPage.aspx) - Redirecting to Login.aspx 
+Request Type: LogInOut 
+SessionId: q04zo155flelsxqgfx1m4j55
+2017-11-20 23:50:11,910 [  6] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: tbaz2i45ity0veu24unpmi45
+2017-11-20 23:50:31,131 [  1] INFO  AppManager [(null)] SimpleServings started.
+2017-11-20 23:50:31,514 [  7] INFO  AppManager [(null)] (landingPage.aspx) - Request from http://localhost:1949/SimpleServings/UI/Page/SimpleServings/Recipe/RecipeList.aspx 
+Request Type: LogInOut 
+SessionId: tbaz2i45ity0veu24unpmi45
+2017-11-20 23:50:31,515 [  7] INFO  AppManager [(null)] (landingPage.aspx) - Redirecting to Login.aspx 
+Request Type: LogInOut 
+SessionId: tbaz2i45ity0veu24unpmi45
+2017-11-20 23:50:39,814 [  7] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: hbud1j45dfrrbw55cvkwag45
+2017-11-20 23:53:35,732 [  1] INFO  AppManager [(null)] SimpleServings started.
+2017-11-20 23:53:42,974 [  7] INFO  AppManager [(null)] (landingPage.aspx) - Request from http://localhost:1949/SimpleServings/UI/Page/SimpleServings/Recipe/EditRecipe.aspx?RecipeID=852 
+Request Type: LogInOut 
+SessionId: hbud1j45dfrrbw55cvkwag45
+2017-11-20 23:53:42,975 [  7] INFO  AppManager [(null)] (landingPage.aspx) - Redirecting to Login.aspx 
+Request Type: LogInOut 
+SessionId: hbud1j45dfrrbw55cvkwag45
+2017-11-20 23:53:53,404 [  6] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: 1zp54bfq1eejruqxipov3q3n

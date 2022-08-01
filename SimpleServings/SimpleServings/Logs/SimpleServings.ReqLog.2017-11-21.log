@@ -1,0 +1,16 @@
+2017-11-21 00:01:26,692 [ 16] INFO  AppManager [(null)] SimpleServings started.
+2017-11-21 00:01:34,207 [  8] INFO  AppManager [(null)] (landingPage.aspx) - Request from http://localhost:1949/SimpleServings/UI/Page/SimpleServings/Recipe/EditRecipe.aspx?RecipeID=852 
+Request Type: LogInOut 
+SessionId: 1zp54bfq1eejruqxipov3q3n
+2017-11-21 00:01:34,208 [  8] INFO  AppManager [(null)] (landingPage.aspx) - Redirecting to Login.aspx 
+Request Type: LogInOut 
+SessionId: 1zp54bfq1eejruqxipov3q3n
+2017-11-21 00:01:48,606 [  8] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: lkvaya55c1vhuun5p0cb1045
+2017-11-21 00:06:12,434 [ 19] INFO  AppManager [(null)] SimpleServings started.
+2017-11-21 00:06:40,339 [  6] INFO  AppManager [(null)] (landingPage.aspx) - Request from http://localhost:1949/SimpleServings/UI/Page/SimpleServings/Recipe/ViewRecipe.aspx?RecipeID=852 
+Request Type: LogInOut 
+SessionId: lkvaya55c1vhuun5p0cb1045
+2017-11-21 00:06:40,340 [  6] INFO  AppManager [(null)] (landingPage.aspx) - Redirecting to Login.aspx 
+Request Type: LogInOut 
+SessionId: lkvaya55c1vhuun5p0cb1045

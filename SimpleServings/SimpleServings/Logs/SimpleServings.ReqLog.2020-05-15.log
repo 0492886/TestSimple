@@ -1,0 +1,33 @@
+2020-05-15 12:20:53,273 [  1] INFO  AppManager [(null)] SimpleServings started.
+2020-05-15 12:23:57,292 [ 11] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: 5jpbm15z5gvgtumhsvvxztm4
+2020-05-15 12:32:02,245 [ 24] INFO  AppManager [(null)] (landingPage.aspx) - Request from http://localhost:1949/SimpleServings/UI/Page/resources.aspx 
+Request Type: LogInOut 
+SessionId: 5jpbm15z5gvgtumhsvvxztm4
+2020-05-15 12:32:02,245 [ 24] INFO  AppManager [(null)] (landingPage.aspx) - Redirecting to Login.aspx 
+Request Type: LogInOut 
+SessionId: 5jpbm15z5gvgtumhsvvxztm4
+2020-05-15 12:32:02,266 [ 27] INFO  AppManager [(null)] (login.aspx) - Request from http://localhost:1949/SimpleServings/UI/Page/resources.aspx 
+SessionId: wvfxhruu2b30v3xzodmtgwij
+2020-05-15 12:32:09,419 [ 24] INFO  AppManager [(null)] (login.aspx) - Request from http://localhost:1949/SimpleServings/UI/Page/resources.aspx 
+SessionId: cnk1cugsvw3wf4yumvl1yh4u
+2020-05-15 12:32:17,824 [ 24] INFO  AppManager [(null)] (landingPage.aspx) - Clearing Session 
+Request Type:  
+SessionId: bhrb5azy32o3gebldzzepwua
+2020-05-15 12:32:17,840 [ 27] INFO  AppManager [(null)] (landingPage.aspx) - New Session 
+Request Type:  
+SessionId: zmdwksxztqwicguwx4kluzkr
+2020-05-15 12:32:17,878 [ 26] INFO  AppManager [(null)] (login.aspx) - (JAlberg) - Login successful 
+SessionId: r5cl41cvmrjb2qaifbxle0kr
+2020-05-15 12:32:17,878 [ 27] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: zmdwksxztqwicguwx4kluzkr
+2020-05-15 12:34:59,399 [ 51] INFO  AppManager [(null)] (landingPage.aspx) - Clearing Session 
+Request Type:  
+SessionId: gbr0f0twqry21e11sbu5vgrj
+2020-05-15 12:34:59,399 [ 44] INFO  AppManager [(null)] (landingPage.aspx) - New Session 
+Request Type:  
+SessionId: 0btau3elktwhwhjjoq4v431a
+2020-05-15 12:34:59,477 [ 45] INFO  AppManager [(null)] (login.aspx) - (JAlberg) - Login successful 
+SessionId: vko3ndyjankpgg4vl3oaylic
+2020-05-15 12:34:59,477 [ 44] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: 0btau3elktwhwhjjoq4v431a

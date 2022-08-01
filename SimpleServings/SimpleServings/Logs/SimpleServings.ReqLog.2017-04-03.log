@@ -1,0 +1,377 @@
+2017-04-03 10:49:59,277 [  5] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: lal2rv45bevozj30azoxja45
+2017-04-03 10:50:04,166 [  5] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: cxbnbwej2c51lmrvmlq4erm2
+2017-04-03 10:50:07,854 [  5] INFO  AppManager [(null)] (landingPage.aspx) - Request from http://localhost:1949/SimpleServings/UI/Page/ 
+Request Type: LogInOut 
+SessionId: kqnvhqu3atkqbf2ila2xy4aj
+2017-04-03 10:50:07,855 [  5] INFO  AppManager [(null)] (landingPage.aspx) - Redirecting to Login.aspx 
+Request Type: LogInOut 
+SessionId: kqnvhqu3atkqbf2ila2xy4aj
+2017-04-03 10:50:07,860 [  5] INFO  AppManager [(null)] (login.aspx) - Request from http://localhost:1949/SimpleServings/UI/Page/ 
+SessionId: tlvrfu45rkpecvbxingeatfx
+2017-04-03 10:50:10,369 [  5] INFO  AppManager [(null)] (landingPage.aspx) - Clearing Session 
+Request Type:  
+SessionId: eevxh2bidjx11hqs3fefcb45
+2017-04-03 10:50:10,384 [  5] INFO  AppManager [(null)] (landingPage.aspx) - New Session 
+Request Type:  
+SessionId: lud33n22ya3mow45thvidb3u
+2017-04-03 10:50:10,408 [  8] INFO  AppManager [(null)] (login.aspx) - (cvais7773) - Login successful 
+SessionId: bpw0l155xqynogi2jhha0ons
+2017-04-03 10:50:10,414 [  8] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: lud33n22ya3mow45thvidb3u
+2017-04-03 11:16:00,187 [ 11] INFO  AppManager [(null)] (Recipe.aspx) - Request from http://localhost:1949/SimpleServings/UI/Page/SimpleServings/Recipe/AddRecipe.aspx 
+SessionId: lud33n22ya3mow45thvidb3u
+2017-04-03 13:20:08,987 [  9] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: lud33n22ya3mow45thvidb3u
+2017-04-03 13:20:10,540 [  8] INFO  AppManager [(null)] (landingPage.aspx) - Request from http://localhost:1949/SimpleServings/UI/Page/Home.aspx 
+Request Type: LogInOut 
+SessionId: lud33n22ya3mow45thvidb3u
+2017-04-03 13:20:10,540 [  8] INFO  AppManager [(null)] (landingPage.aspx) - Redirecting to Login.aspx 
+Request Type: LogInOut 
+SessionId: lud33n22ya3mow45thvidb3u
+2017-04-03 13:20:10,547 [  8] INFO  AppManager [(null)] (login.aspx) - Request from http://localhost:1949/SimpleServings/UI/Page/Home.aspx 
+SessionId: iwmq4qrt4tsbuq455xpcbp45
+2017-04-03 13:20:13,043 [  8] INFO  AppManager [(null)] (landingPage.aspx) - Clearing Session 
+Request Type:  
+SessionId: fkuhy1ivn3spwmz04aq3vi45
+2017-04-03 13:20:13,060 [  5] INFO  AppManager [(null)] (landingPage.aspx) - New Session 
+Request Type:  
+SessionId: mqo3x0z31u00cnfb3vwjeszx
+2017-04-03 13:20:13,136 [  8] INFO  AppManager [(null)] (login.aspx) - (cvais7773) - Login successful 
+SessionId: wxdcu245r32hwzumj52ujlez
+2017-04-03 13:20:13,143 [  8] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: mqo3x0z31u00cnfb3vwjeszx
+2017-04-03 13:53:50,029 [  8] INFO  AppManager [(null)] (landingPage.aspx) - Request from http://localhost:1949/SimpleServings/UI/Page/Home.aspx 
+Request Type: LogInOut 
+SessionId: mqo3x0z31u00cnfb3vwjeszx
+2017-04-03 13:53:50,030 [  8] INFO  AppManager [(null)] (landingPage.aspx) - Redirecting to Login.aspx 
+Request Type: LogInOut 
+SessionId: mqo3x0z31u00cnfb3vwjeszx
+2017-04-03 13:53:50,039 [  8] INFO  AppManager [(null)] (login.aspx) - Request from http://localhost:1949/SimpleServings/UI/Page/Home.aspx 
+SessionId: 13sihr55v2eer3qpw2p5ft45
+2017-04-03 13:54:03,587 [  8] INFO  AppManager [(null)] (landingPage.aspx) - Clearing Session 
+Request Type:  
+SessionId: 4ygibm45xr3oz2ayblsz15vk
+2017-04-03 13:54:03,603 [  9] INFO  AppManager [(null)] (landingPage.aspx) - New Session 
+Request Type:  
+SessionId: kb345q45n5s2tb55muztsh45
+2017-04-03 13:54:03,646 [  8] INFO  AppManager [(null)] (login.aspx) - (cvais7773) - Login successful 
+SessionId: hljgzvzfxf3fym55fez0wrjb
+2017-04-03 13:54:03,665 [  8] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: kb345q45n5s2tb55muztsh45
+2017-04-03 13:59:21,313 [  1] INFO  AppManager [(null)] SimpleServings started.
+2017-04-03 13:59:23,599 [  5] INFO  AppManager [(null)] (landingPage.aspx) - Request from http://localhost:1949/SimpleServings/UI/Page/myzone.aspx?Control=ManageCategoriesandTags 
+Request Type: LogInOut 
+SessionId: kb345q45n5s2tb55muztsh45
+2017-04-03 13:59:23,600 [  5] INFO  AppManager [(null)] (landingPage.aspx) - Redirecting to Login.aspx 
+Request Type: LogInOut 
+SessionId: kb345q45n5s2tb55muztsh45
+2017-04-03 13:59:53,662 [  8] INFO  AppManager [(null)] (landingPage.aspx) - Redirecting to Login.aspx 
+Request Type: LogInOut 
+SessionId: 
+2017-04-03 14:00:04,028 [  7] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: iji2yyix3cozbd553xq4kefq
+2017-04-03 14:10:46,767 [  1] INFO  AppManager [(null)] SimpleServings started.
+2017-04-03 14:10:57,110 [  5] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: bk32vg3fldqt4uvi4atrhm45
+2017-04-03 14:28:11,332 [  7] INFO  AppManager [(null)] (Recipe.aspx) - Request from http://localhost:1949/SimpleServings/UI/Page/myzone.aspx?Control=ManageCategoriesandTags 
+SessionId: bk32vg3fldqt4uvi4atrhm45
+2017-04-03 14:28:21,184 [  6] ERROR AppManager [(null)] SimpleServings application error: Exception of type 'System.Web.HttpUnhandledException' was thrown.
+location: http://localhost:1949/SimpleServings/UI/Page/SimpleServings/Recipe/AddRecipe.aspx
+
+System.Web.HttpUnhandledException: Exception of type 'System.Web.HttpUnhandledException' was thrown. ---> System.NullReferenceException: Object reference not set to an instance of an object.
+   at SimpleServings.UI.UDC.SimpleServings.Recipe.AddRecipe.cbCategories_SelectedIndexChanged(Object sender, EventArgs e) in c:\TFS\DFTA\SimpleServings\SimpleServings\SimpleServings\UI\UDC\SimpleServings\Recipe\AddRecipe.ascx.cs:line 464
+   at System.Web.UI.WebControls.ListControl.OnSelectedIndexChanged(EventArgs e)
+   at System.Web.UI.WebControls.CheckBoxList.RaisePostDataChangedEvent()
+   at System.Web.UI.WebControls.CheckBoxList.System.Web.UI.IPostBackDataHandler.RaisePostDataChangedEvent()
+   at System.Web.UI.Page.RaiseChangedEvents()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   --- End of inner exception stack trace ---
+   at System.Web.UI.Page.HandleError(Exception e)
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   at System.Web.UI.Page.ProcessRequest(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   at System.Web.UI.Page.ProcessRequest()
+   at System.Web.UI.Page.ProcessRequestWithNoAssert(HttpContext context)
+   at System.Web.UI.Page.ProcessRequest(HttpContext context)
+   at ASP.ui_page_simpleservings_recipe_addrecipe_aspx.ProcessRequest(HttpContext context) in c:\Windows\Microsoft.NET\Framework\v2.0.50727\Temporary ASP.NET Files\simpleservings\50605a42\75e306da\App_Web_w4-kwt6e.7.cs:line 0
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+2017-04-03 14:28:45,828 [  6] ERROR AppManager [(null)] SimpleServings application error: Exception of type 'System.Web.HttpUnhandledException' was thrown.
+location: http://localhost:1949/SimpleServings/UI/Page/SimpleServings/Recipe/AddRecipe.aspx
+
+System.Web.HttpUnhandledException: Exception of type 'System.Web.HttpUnhandledException' was thrown. ---> System.NullReferenceException: Object reference not set to an instance of an object.
+   at SimpleServings.UI.UDC.SimpleServings.Recipe.AddRecipe.cbCategories_SelectedIndexChanged(Object sender, EventArgs e) in c:\TFS\DFTA\SimpleServings\SimpleServings\SimpleServings\UI\UDC\SimpleServings\Recipe\AddRecipe.ascx.cs:line 464
+   at System.Web.UI.WebControls.ListControl.OnSelectedIndexChanged(EventArgs e)
+   at System.Web.UI.WebControls.CheckBoxList.RaisePostDataChangedEvent()
+   at System.Web.UI.WebControls.CheckBoxList.System.Web.UI.IPostBackDataHandler.RaisePostDataChangedEvent()
+   at System.Web.UI.Page.RaiseChangedEvents()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   --- End of inner exception stack trace ---
+   at System.Web.UI.Page.HandleError(Exception e)
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   at System.Web.UI.Page.ProcessRequest(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   at System.Web.UI.Page.ProcessRequest()
+   at System.Web.UI.Page.ProcessRequestWithNoAssert(HttpContext context)
+   at System.Web.UI.Page.ProcessRequest(HttpContext context)
+   at ASP.ui_page_simpleservings_recipe_addrecipe_aspx.ProcessRequest(HttpContext context) in c:\Windows\Microsoft.NET\Framework\v2.0.50727\Temporary ASP.NET Files\simpleservings\50605a42\75e306da\App_Web_w4-kwt6e.7.cs:line 0
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+2017-04-03 14:28:54,735 [  6] ERROR AppManager [(null)] SimpleServings application error: Exception of type 'System.Web.HttpUnhandledException' was thrown.
+location: http://localhost:1949/SimpleServings/UI/Page/SimpleServings/Recipe/AddRecipe.aspx
+
+System.Web.HttpUnhandledException: Exception of type 'System.Web.HttpUnhandledException' was thrown. ---> System.NullReferenceException: Object reference not set to an instance of an object.
+   at SimpleServings.UI.UDC.SimpleServings.Recipe.AddRecipe.cbCategories_SelectedIndexChanged(Object sender, EventArgs e) in c:\TFS\DFTA\SimpleServings\SimpleServings\SimpleServings\UI\UDC\SimpleServings\Recipe\AddRecipe.ascx.cs:line 464
+   at System.Web.UI.WebControls.ListControl.OnSelectedIndexChanged(EventArgs e)
+   at System.Web.UI.WebControls.CheckBoxList.RaisePostDataChangedEvent()
+   at System.Web.UI.WebControls.CheckBoxList.System.Web.UI.IPostBackDataHandler.RaisePostDataChangedEvent()
+   at System.Web.UI.Page.RaiseChangedEvents()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   --- End of inner exception stack trace ---
+   at System.Web.UI.Page.HandleError(Exception e)
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   at System.Web.UI.Page.ProcessRequest(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   at System.Web.UI.Page.ProcessRequest()
+   at System.Web.UI.Page.ProcessRequestWithNoAssert(HttpContext context)
+   at System.Web.UI.Page.ProcessRequest(HttpContext context)
+   at ASP.ui_page_simpleservings_recipe_addrecipe_aspx.ProcessRequest(HttpContext context) in c:\Windows\Microsoft.NET\Framework\v2.0.50727\Temporary ASP.NET Files\simpleservings\50605a42\75e306da\App_Web_w4-kwt6e.7.cs:line 0
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+2017-04-03 14:29:09,209 [  5] ERROR AppManager [(null)] SimpleServings application error: Exception of type 'System.Web.HttpUnhandledException' was thrown.
+location: http://localhost:1949/SimpleServings/UI/Page/myzone.aspx?Control=ManageCategoriesandTags
+
+System.Web.HttpUnhandledException: Exception of type 'System.Web.HttpUnhandledException' was thrown. ---> System.NullReferenceException: Object reference not set to an instance of an object.
+   at SimpleServings.UI.UDC.SimpleServings.Setting.ManageCategoriesandTags.PopTags() in c:\TFS\DFTA\SimpleServings\SimpleServings\SimpleServings\UI\UDC\SimpleServings\Setting\ManageCategoriesandTags.ascx.cs:line 68
+   at SimpleServings.UI.UDC.SimpleServings.Setting.ManageCategoriesandTags.Page_Load(Object sender, EventArgs e) in c:\TFS\DFTA\SimpleServings\SimpleServings\SimpleServings\UI\UDC\SimpleServings\Setting\ManageCategoriesandTags.ascx.cs:line 28
+   at System.Web.Util.CalliHelper.EventArgFunctionCaller(IntPtr fp, Object o, Object t, EventArgs e)
+   at System.Web.Util.CalliEventHandlerDelegateProxy.Callback(Object sender, EventArgs e)
+   at System.Web.UI.Control.OnLoad(EventArgs e)
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   --- End of inner exception stack trace ---
+   at System.Web.UI.Page.HandleError(Exception e)
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   at System.Web.UI.Page.ProcessRequest(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   at System.Web.UI.Page.ProcessRequest()
+   at System.Web.UI.Page.ProcessRequestWithNoAssert(HttpContext context)
+   at System.Web.UI.Page.ProcessRequest(HttpContext context)
+   at ASP.ui_page_myzone_aspx.ProcessRequest(HttpContext context) in c:\Windows\Microsoft.NET\Framework\v2.0.50727\Temporary ASP.NET Files\simpleservings\50605a42\75e306da\App_Web_ytrmq3vl.5.cs:line 0
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+2017-04-03 14:29:25,037 [  5] ERROR AppManager [(null)] SimpleServings application error: Exception of type 'System.Web.HttpUnhandledException' was thrown.
+location: http://localhost:1949/SimpleServings/UI/Page/myzone.aspx?Control=ManageCategoriesandTags
+
+System.Web.HttpUnhandledException: Exception of type 'System.Web.HttpUnhandledException' was thrown. ---> System.NullReferenceException: Object reference not set to an instance of an object.
+   at SimpleServings.UI.UDC.SimpleServings.Setting.ManageCategoriesandTags.PopTags() in c:\TFS\DFTA\SimpleServings\SimpleServings\SimpleServings\UI\UDC\SimpleServings\Setting\ManageCategoriesandTags.ascx.cs:line 68
+   at SimpleServings.UI.UDC.SimpleServings.Setting.ManageCategoriesandTags.Page_Load(Object sender, EventArgs e) in c:\TFS\DFTA\SimpleServings\SimpleServings\SimpleServings\UI\UDC\SimpleServings\Setting\ManageCategoriesandTags.ascx.cs:line 28
+   at System.Web.Util.CalliHelper.EventArgFunctionCaller(IntPtr fp, Object o, Object t, EventArgs e)
+   at System.Web.Util.CalliEventHandlerDelegateProxy.Callback(Object sender, EventArgs e)
+   at System.Web.UI.Control.OnLoad(EventArgs e)
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   --- End of inner exception stack trace ---
+   at System.Web.UI.Page.HandleError(Exception e)
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   at System.Web.UI.Page.ProcessRequest(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   at System.Web.UI.Page.ProcessRequest()
+   at System.Web.UI.Page.ProcessRequestWithNoAssert(HttpContext context)
+   at System.Web.UI.Page.ProcessRequest(HttpContext context)
+   at ASP.ui_page_myzone_aspx.ProcessRequest(HttpContext context) in c:\Windows\Microsoft.NET\Framework\v2.0.50727\Temporary ASP.NET Files\simpleservings\50605a42\75e306da\App_Web_ytrmq3vl.5.cs:line 0
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+2017-04-03 14:29:37,583 [  8] ERROR AppManager [(null)] SimpleServings application error: Exception of type 'System.Web.HttpUnhandledException' was thrown.
+location: http://localhost:1949/SimpleServings/UI/Page/myzone.aspx?Control=ManageCategoriesandTags
+
+System.Web.HttpUnhandledException: Exception of type 'System.Web.HttpUnhandledException' was thrown. ---> System.NullReferenceException: Object reference not set to an instance of an object.
+   at SimpleServings.UI.UDC.SimpleServings.Setting.ManageCategoriesandTags.PopTags() in c:\TFS\DFTA\SimpleServings\SimpleServings\SimpleServings\UI\UDC\SimpleServings\Setting\ManageCategoriesandTags.ascx.cs:line 68
+   at SimpleServings.UI.UDC.SimpleServings.Setting.ManageCategoriesandTags.Page_Load(Object sender, EventArgs e) in c:\TFS\DFTA\SimpleServings\SimpleServings\SimpleServings\UI\UDC\SimpleServings\Setting\ManageCategoriesandTags.ascx.cs:line 28
+   at System.Web.Util.CalliHelper.EventArgFunctionCaller(IntPtr fp, Object o, Object t, EventArgs e)
+   at System.Web.Util.CalliEventHandlerDelegateProxy.Callback(Object sender, EventArgs e)
+   at System.Web.UI.Control.OnLoad(EventArgs e)
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   --- End of inner exception stack trace ---
+   at System.Web.UI.Page.HandleError(Exception e)
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   at System.Web.UI.Page.ProcessRequest(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   at System.Web.UI.Page.ProcessRequest()
+   at System.Web.UI.Page.ProcessRequestWithNoAssert(HttpContext context)
+   at System.Web.UI.Page.ProcessRequest(HttpContext context)
+   at ASP.ui_page_myzone_aspx.ProcessRequest(HttpContext context) in c:\Windows\Microsoft.NET\Framework\v2.0.50727\Temporary ASP.NET Files\simpleservings\50605a42\75e306da\App_Web_ytrmq3vl.5.cs:line 0
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+2017-04-03 14:30:39,265 [  8] ERROR AppManager [(null)] SimpleServings application error: Exception of type 'System.Web.HttpUnhandledException' was thrown.
+location: http://localhost:1949/SimpleServings/UI/Page/SimpleServings/Recipe/AddRecipe.aspx
+
+System.Web.HttpUnhandledException: Exception of type 'System.Web.HttpUnhandledException' was thrown. ---> System.NullReferenceException: Object reference not set to an instance of an object.
+   at SimpleServings.UI.UDC.SimpleServings.Recipe.AddRecipe.cbCategories_SelectedIndexChanged(Object sender, EventArgs e) in c:\TFS\DFTA\SimpleServings\SimpleServings\SimpleServings\UI\UDC\SimpleServings\Recipe\AddRecipe.ascx.cs:line 464
+   at System.Web.UI.WebControls.ListControl.OnSelectedIndexChanged(EventArgs e)
+   at System.Web.UI.WebControls.CheckBoxList.RaisePostDataChangedEvent()
+   at System.Web.UI.WebControls.CheckBoxList.System.Web.UI.IPostBackDataHandler.RaisePostDataChangedEvent()
+   at System.Web.UI.Page.RaiseChangedEvents()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   --- End of inner exception stack trace ---
+   at System.Web.UI.Page.HandleError(Exception e)
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   at System.Web.UI.Page.ProcessRequest(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   at System.Web.UI.Page.ProcessRequest()
+   at System.Web.UI.Page.ProcessRequestWithNoAssert(HttpContext context)
+   at System.Web.UI.Page.ProcessRequest(HttpContext context)
+   at ASP.ui_page_simpleservings_recipe_addrecipe_aspx.ProcessRequest(HttpContext context) in c:\Windows\Microsoft.NET\Framework\v2.0.50727\Temporary ASP.NET Files\simpleservings\50605a42\75e306da\App_Web_w4-kwt6e.7.cs:line 0
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+2017-04-03 14:38:41,701 [  9] INFO  AppManager [(null)] SimpleServings started.
+2017-04-03 14:38:49,775 [  6] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: bk32vg3fldqt4uvi4atrhm45
+2017-04-03 14:39:02,304 [  6] INFO  AppManager [(null)] (landingPage.aspx) - Request from http://localhost:1949/SimpleServings/UI/Page/ 
+Request Type: LogInOut 
+SessionId: bk32vg3fldqt4uvi4atrhm45
+2017-04-03 14:39:02,305 [  6] INFO  AppManager [(null)] (landingPage.aspx) - Redirecting to Login.aspx 
+Request Type: LogInOut 
+SessionId: bk32vg3fldqt4uvi4atrhm45
+2017-04-03 14:39:09,242 [  8] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: q3m113aubouacmukqnjwqvrd
+2017-04-03 14:40:40,650 [  9] INFO  AppManager [(null)] SimpleServings started.
+2017-04-03 14:40:48,301 [  6] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: q3m113aubouacmukqnjwqvrd
+2017-04-03 14:40:54,363 [  6] INFO  AppManager [(null)] (landingPage.aspx) - Request from http://localhost:1949/SimpleServings/UI/Page/ 
+Request Type: LogInOut 
+SessionId: q3m113aubouacmukqnjwqvrd
+2017-04-03 14:40:54,364 [  6] INFO  AppManager [(null)] (landingPage.aspx) - Redirecting to Login.aspx 
+Request Type: LogInOut 
+SessionId: q3m113aubouacmukqnjwqvrd
+2017-04-03 14:40:56,802 [  6] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: wmetsfeomgmmbz55qsfwi0ak
+2017-04-03 15:13:04,087 [  5] INFO  AppManager [(null)] (Recipe.aspx) - Request from http://localhost:1949/SimpleServings/UI/Page/myzone.aspx?Control=ManageCategoriesandTags 
+SessionId: wmetsfeomgmmbz55qsfwi0ak
+2017-04-03 15:23:07,324 [  8] INFO  AppManager [(null)] (Recipe.aspx) - Request from http://localhost:1949/SimpleServings/UI/Page/myzone.aspx?Control=ManageCategoriesandTags 
+SessionId: wmetsfeomgmmbz55qsfwi0ak
+2017-04-03 16:25:41,287 [  9] INFO  AppManager [(null)] SimpleServings started.
+2017-04-03 16:25:49,095 [  5] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: wmetsfeomgmmbz55qsfwi0ak
+2017-04-03 16:25:51,164 [  7] INFO  AppManager [(null)] (landingPage.aspx) - Request from http://localhost:1949/SimpleServings/UI/Page/ 
+Request Type: LogInOut 
+SessionId: wmetsfeomgmmbz55qsfwi0ak
+2017-04-03 16:25:51,165 [  7] INFO  AppManager [(null)] (landingPage.aspx) - Redirecting to Login.aspx 
+Request Type: LogInOut 
+SessionId: wmetsfeomgmmbz55qsfwi0ak
+2017-04-03 16:25:53,944 [  5] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: ojz5xd55dbem5j45af4dbmfa
+2017-04-03 16:26:01,074 [  5] INFO  AppManager [(null)] (Recipe.aspx) - Request from http://localhost:1949/SimpleServings/UI/Page/myzone.aspx?Control=ManageCategoriesandTags 
+SessionId: ojz5xd55dbem5j45af4dbmfa
+2017-04-03 16:26:01,365 [  6] INFO  AppManager [(null)] (Recipe.aspx) - Request from http://localhost:1949/SimpleServings/UI/Page/SimpleServings/Recipe/Recipe.aspx 
+SessionId: ojz5xd55dbem5j45af4dbmfa
+2017-04-03 16:27:47,475 [  6] INFO  AppManager [(null)] (Recipe.aspx) - Request from http://localhost:1949/SimpleServings/UI/Page/SimpleServings/Recipe/ViewRecipe.aspx?RecipeID=3729 
+SessionId: ojz5xd55dbem5j45af4dbmfa
+2017-04-03 16:27:49,289 [  6] INFO  AppManager [(null)] (landingPage.aspx) - Request from http://localhost:1949/SimpleServings/UI/Page/SimpleServings/Recipe/Recipe.aspx 
+Request Type: LogInOut 
+SessionId: ojz5xd55dbem5j45af4dbmfa
+2017-04-03 16:27:49,290 [  6] INFO  AppManager [(null)] (landingPage.aspx) - Redirecting to Login.aspx 
+Request Type: LogInOut 
+SessionId: ojz5xd55dbem5j45af4dbmfa
+2017-04-03 16:27:49,301 [  5] INFO  AppManager [(null)] (login.aspx) - Request from http://localhost:1949/SimpleServings/UI/Page/SimpleServings/Recipe/Recipe.aspx 
+SessionId: t4tznw45ewjqgx45r4qvsjib
+2017-04-03 16:28:14,968 [  1] INFO  AppManager [(null)] SimpleServings started.
+2017-04-03 16:28:17,948 [  5] INFO  AppManager [(null)] (landingPage.aspx) - Redirecting to Login.aspx 
+Request Type: LogInOut 
+SessionId: 
+2017-04-03 16:28:24,296 [  8] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: f5j5zif3jl4rvh45pkdv03up
+2017-04-03 16:31:18,180 [  1] INFO  AppManager [(null)] SimpleServings started.
+2017-04-03 16:31:29,097 [  8] INFO  AppManager [(null)] (landingPage.aspx) - Redirecting to Login.aspx 
+Request Type: LogInOut 
+SessionId: 
+2017-04-03 16:31:34,824 [  8] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: luiqds452ovpadeheh1jos45
+2017-04-03 16:40:34,222 [  5] INFO  AppManager [(null)] (landingPage.aspx) - Clearing Session 
+Request Type:  
+SessionId: oacqb3vyfg1y1e55pjz40n55
+2017-04-03 16:40:34,248 [  8] INFO  AppManager [(null)] (landingPage.aspx) - New Session 
+Request Type:  
+SessionId: akgjfd55jdndukbgwagsyy45
+2017-04-03 16:40:34,269 [  8] INFO  AppManager [(null)] (login.aspx) - (cvais7773) - Login successful 
+SessionId: 5ym3xj55sbdpna45rjg2nbnp
+2017-04-03 16:40:34,278 [  7] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: akgjfd55jdndukbgwagsyy45
+2017-04-03 17:32:58,870 [ 11] INFO  AppManager [(null)] SimpleServings started.
+2017-04-03 17:33:06,401 [  6] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: akgjfd55jdndukbgwagsyy45
+2017-04-03 17:33:07,927 [  5] INFO  AppManager [(null)] (landingPage.aspx) - Request from http://localhost:1949/SimpleServings/UI/Page/ 
+Request Type: LogInOut 
+SessionId: akgjfd55jdndukbgwagsyy45
+2017-04-03 17:33:07,929 [  5] INFO  AppManager [(null)] (landingPage.aspx) - Redirecting to Login.aspx 
+Request Type: LogInOut 
+SessionId: akgjfd55jdndukbgwagsyy45
+2017-04-03 17:33:12,198 [  5] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: 42w2ma553cxggfa5vix4kl55
+2017-04-03 17:33:49,633 [  1] INFO  AppManager [(null)] SimpleServings started.
+2017-04-03 17:33:53,352 [  5] INFO  AppManager [(null)] (landingPage.aspx) - Redirecting to Login.aspx 
+Request Type: LogInOut 
+SessionId: 
+2017-04-03 17:33:59,524 [  8] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: wh4sye55ql1p5b45oi3qbte1
+2017-04-03 17:35:11,245 [  1] INFO  AppManager [(null)] SimpleServings started.
+2017-04-03 17:35:15,374 [  5] INFO  AppManager [(null)] (landingPage.aspx) - Redirecting to Login.aspx 
+Request Type: LogInOut 
+SessionId: 
+2017-04-03 17:35:20,867 [  8] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: rczsts55nqpyoe55cgvfur55
+2017-04-03 17:39:21,421 [  1] INFO  AppManager [(null)] SimpleServings started.
+2017-04-03 17:39:32,460 [  7] INFO  AppManager [(null)] (landingPage.aspx) - Redirecting to Login.aspx 
+Request Type: LogInOut 
+SessionId: 
+2017-04-03 17:39:38,270 [  6] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: qexkng2ligmxpiyka4cdzw45
+2017-04-03 17:41:48,985 [  1] INFO  AppManager [(null)] SimpleServings started.
+2017-04-03 17:41:51,975 [  5] INFO  AppManager [(null)] (landingPage.aspx) - Redirecting to Login.aspx 
+Request Type: LogInOut 
+SessionId: 
+2017-04-03 17:41:57,259 [  7] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: xqq5i245avpihe454kcv5crn
+2017-04-03 17:45:49,484 [  1] INFO  AppManager [(null)] SimpleServings started.
+2017-04-03 17:45:57,171 [  9] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: 42w2ma553cxggfa5vix4kl55
+2017-04-03 17:45:58,578 [  7] INFO  AppManager [(null)] (landingPage.aspx) - Request from http://localhost:1949/SimpleServings/UI/Page/ 
+Request Type: LogInOut 
+SessionId: 42w2ma553cxggfa5vix4kl55
+2017-04-03 17:45:58,579 [  7] INFO  AppManager [(null)] (landingPage.aspx) - Redirecting to Login.aspx 
+Request Type: LogInOut 
+SessionId: 42w2ma553cxggfa5vix4kl55
+2017-04-03 17:46:05,961 [  9] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: 5chbse55pnsp3mui42l2j555
+2017-04-03 17:53:47,264 [  6] INFO  AppManager [(null)] SimpleServings started.
+2017-04-03 17:53:55,357 [  5] INFO  AppManager [(null)] (landingPage.aspx) - Request from http://localhost:1949/SimpleServings/UI/Page/SimpleServings/Recipe/EditRecipe.aspx?RecipeID=405 
+Request Type: LogInOut 
+SessionId: 5chbse55pnsp3mui42l2j555
+2017-04-03 17:53:55,359 [  5] INFO  AppManager [(null)] (landingPage.aspx) - Redirecting to Login.aspx 
+Request Type: LogInOut 
+SessionId: 5chbse55pnsp3mui42l2j555
+2017-04-03 17:53:58,515 [  7] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: jwke01mpq0vt0b2w30c1ixni
+2017-04-03 18:13:53,027 [  5] INFO  AppManager [(null)] (Recipe.aspx) - Request from http://localhost:1949/SimpleServings/UI/Page/SimpleServings/Recipe/ViewRecipe.aspx?RecipeID=3731 
+SessionId: jwke01mpq0vt0b2w30c1ixni
+2017-04-03 18:14:10,583 [  7] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: jwke01mpq0vt0b2w30c1ixni
+2017-04-03 18:14:12,004 [  5] INFO  AppManager [(null)] (landingPage.aspx) - Request from http://localhost:1949/SimpleServings/UI/Page/ 
+Request Type: LogInOut 
+SessionId: jwke01mpq0vt0b2w30c1ixni
+2017-04-03 18:14:12,005 [  5] INFO  AppManager [(null)] (landingPage.aspx) - Redirecting to Login.aspx 
+Request Type: LogInOut 
+SessionId: jwke01mpq0vt0b2w30c1ixni
+2017-04-03 18:14:12,015 [  9] INFO  AppManager [(null)] (login.aspx) - Request from http://localhost:1949/SimpleServings/UI/Page/ 
+SessionId: gwbzr2z1rjedaom5asxd1ei4

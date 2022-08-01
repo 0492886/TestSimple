@@ -1,0 +1,28 @@
+2021-11-04 11:04:14,760 [  1] INFO  AppManager [(null)] SimpleServings started.
+2021-11-04 11:04:51,325 [ 13] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: enxjqyg3uh10mgfvorx0ko51
+2021-11-04 11:05:20,635 [ 13] INFO  AppManager [(null)] (landingPage.aspx) - Request from http://localhost:1945/SimpleServings/UI/Page/SimpleServings/Menu/AddMenu.aspx?MenuType=AddMenuUsingSample 
+Request Type: LogInOut 
+SessionId: enxjqyg3uh10mgfvorx0ko51
+2021-11-04 11:05:20,636 [ 13] INFO  AppManager [(null)] (landingPage.aspx) - Redirecting to Login.aspx 
+Request Type: LogInOut 
+SessionId: enxjqyg3uh10mgfvorx0ko51
+2021-11-04 11:05:20,641 [ 18] INFO  AppManager [(null)] (login.aspx) - Request from http://localhost:1945/SimpleServings/UI/Page/SimpleServings/Menu/AddMenu.aspx?MenuType=AddMenuUsingSample 
+SessionId: au21yvpuh0j2uwab0dgzuwsu
+2021-11-04 11:05:35,358 [ 15] INFO  AppManager [(null)] (landingPage.aspx) - Clearing Session 
+Request Type:  
+SessionId: jjfgeczoteccjcxj5z2omgia
+2021-11-04 11:05:35,375 [ 18] INFO  AppManager [(null)] (landingPage.aspx) - New Session 
+Request Type:  
+SessionId: 0axwhewl3bztqx20zz3saomb
+2021-11-04 11:05:35,723 [ 13] ERROR AppManager [(null)] btnLogin_Click failed: Incorrect username and/or password.
+2021-11-04 11:05:54,022 [ 23] INFO  AppManager [(null)] (landingPage.aspx) - Clearing Session 
+Request Type:  
+SessionId: 0axwhewl3bztqx20zz3saomb
+2021-11-04 11:05:54,041 [ 14] INFO  AppManager [(null)] (landingPage.aspx) - New Session 
+Request Type:  
+SessionId: qzqia45ptd54hk5dbl5si40a
+2021-11-04 11:05:54,293 [ 13] INFO  AppManager [(null)] (login.aspx) - (shuli.gutmann) - Login successful 
+SessionId: i3rdbkl2l14fj2ukhibsbcdq
+2021-11-04 11:05:54,534 [ 15] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: qzqia45ptd54hk5dbl5si40a

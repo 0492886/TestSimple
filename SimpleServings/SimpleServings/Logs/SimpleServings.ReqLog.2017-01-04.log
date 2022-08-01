@@ -1,0 +1,338 @@
+2017-01-04 10:39:20,818 [  1] INFO  AppManager [(null)] SimpleServings started.
+2017-01-04 10:39:32,695 [  6] INFO  AppManager [(null)] (landingPage.aspx) - Redirecting to Login.aspx 
+Request Type: LogInOut 
+SessionId: 
+2017-01-04 10:39:43,179 [  5] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: 1wrclzfavwxaf4rz0lqowfey
+2017-01-04 10:43:40,806 [  8] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: quo0feqv0ospik55r12iab45
+2017-01-04 10:43:42,710 [  5] INFO  AppManager [(null)] (landingPage.aspx) - Request from http://localhost:1949/SimpleServings/ui/page/ 
+Request Type: LogInOut 
+SessionId: quo0feqv0ospik55r12iab45
+2017-01-04 10:43:42,711 [  5] INFO  AppManager [(null)] (landingPage.aspx) - Redirecting to Login.aspx 
+Request Type: LogInOut 
+SessionId: quo0feqv0ospik55r12iab45
+2017-01-04 10:43:42,727 [  6] INFO  AppManager [(null)] (login.aspx) - Request from http://localhost:1949/SimpleServings/ui/page/ 
+SessionId: t21kywiq2baawjbiuvpdyn45
+2017-01-04 10:43:46,207 [  6] INFO  AppManager [(null)] (landingPage.aspx) - Clearing Session 
+Request Type:  
+SessionId: cb245n455n55jk55ry4jv355
+2017-01-04 10:43:46,224 [  5] INFO  AppManager [(null)] (landingPage.aspx) - New Session 
+Request Type:  
+SessionId: i0jsfsmzlci4d4qy104loh45
+2017-01-04 10:43:46,237 [  6] INFO  AppManager [(null)] (login.aspx) - (cvais7773) - Login successful 
+SessionId: 53hfnxfxmg4qa1450tjoq320
+2017-01-04 10:43:46,257 [  8] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: i0jsfsmzlci4d4qy104loh45
+2017-01-04 11:21:04,773 [  9] INFO  AppManager [(null)] SimpleServings started.
+2017-01-04 11:21:15,178 [  8] INFO  AppManager [(null)] (landingPage.aspx) - Request from http://localhost:1949/SimpleServings/UI/Page/Home.aspx 
+Request Type: LogInOut 
+SessionId: i0jsfsmzlci4d4qy104loh45
+2017-01-04 11:21:15,178 [  8] INFO  AppManager [(null)] (landingPage.aspx) - Redirecting to Login.aspx 
+Request Type: LogInOut 
+SessionId: i0jsfsmzlci4d4qy104loh45
+2017-01-04 11:47:49,446 [  8] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: zfd52b45njescnnwe3oi3yjk
+2017-01-04 12:36:04,564 [  9] INFO  AppManager [(null)] SimpleServings started.
+2017-01-04 12:36:14,810 [  6] INFO  AppManager [(null)] (landingPage.aspx) - Request from http://localhost:1949/SimpleServings/UI/Page/Home.aspx 
+Request Type: LogInOut 
+SessionId: zfd52b45njescnnwe3oi3yjk
+2017-01-04 12:36:14,811 [  6] INFO  AppManager [(null)] (landingPage.aspx) - Redirecting to Login.aspx 
+Request Type: LogInOut 
+SessionId: zfd52b45njescnnwe3oi3yjk
+2017-01-04 12:55:08,674 [ 10] INFO  AppManager [(null)] SimpleServings started.
+2017-01-04 12:55:16,059 [  6] INFO  AppManager [(null)] (landingPage.aspx) - Request from http://localhost:1949/SimpleServings/UI/Page/SimpleServings/Menu/AddMenuUsingSampleMenu.aspx 
+Request Type: LogInOut 
+SessionId: 1wrclzfavwxaf4rz0lqowfey
+2017-01-04 12:55:16,060 [  6] INFO  AppManager [(null)] (landingPage.aspx) - Redirecting to Login.aspx 
+Request Type: LogInOut 
+SessionId: 1wrclzfavwxaf4rz0lqowfey
+2017-01-04 12:55:46,179 [  7] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: ok5gtb554netvrfvn25qgr55
+2017-01-04 12:55:55,086 [  8] ERROR AppManager [(null)] SimpleServings application error: c:\TFS\DFTA\SimpleServings\SimpleServings\SimpleServings\UI\Page\SimpleServings\Menu\AddMenuUsingSampleMenu.aspx(3): error CS0246: The type or namespace name 'AjaxControlToolKit' could not be found (are you missing a using directive or an assembly reference?)
+location: http://localhost:1949/SimpleServings/UI/Page/SimpleServings/Menu/AddMenuUsingSampleMenu.aspx
+
+System.Web.HttpCompileException: c:\TFS\DFTA\SimpleServings\SimpleServings\SimpleServings\UI\Page\SimpleServings\Menu\AddMenuUsingSampleMenu.aspx(3): error CS0246: The type or namespace name 'AjaxControlToolKit' could not be found (are you missing a using directive or an assembly reference?)
+   at System.Web.Compilation.BuildManager.CompileWebFile(VirtualPath virtualPath)
+   at System.Web.Compilation.BuildManager.GetVPathBuildResultInternal(VirtualPath virtualPath, Boolean noBuild, Boolean allowCrossApp, Boolean allowBuildInPrecompile)
+   at System.Web.Compilation.BuildManager.GetVPathBuildResultWithNoAssert(HttpContext context, VirtualPath virtualPath, Boolean noBuild, Boolean allowCrossApp, Boolean allowBuildInPrecompile)
+   at System.Web.Compilation.BuildManager.GetVirtualPathObjectFactory(VirtualPath virtualPath, HttpContext context, Boolean allowCrossApp, Boolean noAssert)
+   at System.Web.Compilation.BuildManager.CreateInstanceFromVirtualPath(VirtualPath virtualPath, Type requiredBaseType, HttpContext context, Boolean allowCrossApp, Boolean noAssert)
+   at System.Web.UI.PageHandlerFactory.GetHandlerHelper(HttpContext context, String requestType, VirtualPath virtualPath, String physicalPath)
+   at System.Web.UI.PageHandlerFactory.GetHandler(HttpContext context, String requestType, String virtualPath, String path)
+   at System.Web.HttpApplication.MaterializeHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+2017-01-04 12:57:38,703 [  8] ERROR AppManager [(null)] SimpleServings application error: Exception of type 'System.Web.HttpUnhandledException' was thrown.
+location: http://localhost:1949/SimpleServings/UI/Page/SimpleServings/Menu/AddMenuUsingSampleMenu.aspx
+
+System.Web.HttpUnhandledException: Exception of type 'System.Web.HttpUnhandledException' was thrown. ---> System.InvalidOperationException: The control with ID 'ajaxModalPopup' requires a ScriptManager on the page. The ScriptManager must appear before any controls that need it.
+   at System.Web.UI.ExtenderControl.get_ScriptManager()
+   at System.Web.UI.ExtenderControl.RegisterWithScriptManager()
+   at System.Web.UI.ExtenderControl.OnPreRender(EventArgs e)
+   at AjaxControlToolkit.ExtenderControlBase.OnPreRender(EventArgs e)
+   at System.Web.UI.Control.PreRenderRecursiveInternal()
+   at System.Web.UI.Control.PreRenderRecursiveInternal()
+   at System.Web.UI.Control.PreRenderRecursiveInternal()
+   at System.Web.UI.Control.PreRenderRecursiveInternal()
+   at System.Web.UI.Control.PreRenderRecursiveInternal()
+   at System.Web.UI.Control.PreRenderRecursiveInternal()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   --- End of inner exception stack trace ---
+   at System.Web.UI.Page.HandleError(Exception e)
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   at System.Web.UI.Page.ProcessRequest(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   at System.Web.UI.Page.ProcessRequest()
+   at System.Web.UI.Page.ProcessRequestWithNoAssert(HttpContext context)
+   at System.Web.UI.Page.ProcessRequest(HttpContext context)
+   at ASP.ui_page_simpleservings_menu_addmenuusingsamplemenu_aspx.ProcessRequest(HttpContext context) in c:\Windows\Microsoft.NET\Framework\v2.0.50727\Temporary ASP.NET Files\simpleservings\50605a42\75e306da\App_Web_jdj60isn.10.cs:line 0
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+2017-01-04 12:59:52,852 [  1] INFO  AppManager [(null)] SimpleServings started.
+2017-01-04 13:00:18,932 [  6] INFO  AppManager [(null)] (landingPage.aspx) - Redirecting to Login.aspx 
+Request Type: LogInOut 
+SessionId: 
+2017-01-04 13:00:26,485 [  5] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: za2yre550q4ivjyw1xqehn45
+2017-01-04 13:05:29,311 [  7] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: htqy2c4530siwx55vkeu02bo
+2017-01-04 13:05:30,659 [  5] INFO  AppManager [(null)] (landingPage.aspx) - Request from http://localhost:1949/SimpleServings/ui/page/ 
+Request Type: LogInOut 
+SessionId: i4jvjg55ny41nt45md3xngnp
+2017-01-04 13:05:30,660 [  5] INFO  AppManager [(null)] (landingPage.aspx) - Redirecting to Login.aspx 
+Request Type: LogInOut 
+SessionId: i4jvjg55ny41nt45md3xngnp
+2017-01-04 13:05:30,670 [  5] INFO  AppManager [(null)] (login.aspx) - Request from http://localhost:1949/SimpleServings/ui/page/ 
+SessionId: 2pk5hy45o12y1b55gorzd33o
+2017-01-04 13:05:33,312 [  8] INFO  AppManager [(null)] (landingPage.aspx) - Clearing Session 
+Request Type:  
+SessionId: m2vwbg550ysij22qbdumia55
+2017-01-04 13:05:33,327 [  6] INFO  AppManager [(null)] (landingPage.aspx) - New Session 
+Request Type:  
+SessionId: owfu0ain55vcobb5japt1h45
+2017-01-04 13:05:33,362 [  8] INFO  AppManager [(null)] (login.aspx) - (cvais7773) - Login successful 
+SessionId: w3sxofv0iu2vab45ji5bkyns
+2017-01-04 13:05:33,369 [  8] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: owfu0ain55vcobb5japt1h45
+2017-01-04 13:07:24,306 [  7] ERROR AppManager [(null)] SimpleServings application error: The file '/SimpleServings/UI/Page/SimpleServings/Menu/WebForm2.aspx' does not exist.
+location: http://localhost:1949/SimpleServings/UI/Page/SimpleServings/Menu/WebForm2.aspx
+
+System.Web.HttpException: The file '/SimpleServings/UI/Page/SimpleServings/Menu/WebForm2.aspx' does not exist.
+   at System.Web.UI.Util.CheckVirtualFileExists(VirtualPath virtualPath)
+   at System.Web.Compilation.BuildManager.GetVPathBuildResultInternal(VirtualPath virtualPath, Boolean noBuild, Boolean allowCrossApp, Boolean allowBuildInPrecompile)
+   at System.Web.Compilation.BuildManager.GetVPathBuildResultWithNoAssert(HttpContext context, VirtualPath virtualPath, Boolean noBuild, Boolean allowCrossApp, Boolean allowBuildInPrecompile)
+   at System.Web.Compilation.BuildManager.GetVirtualPathObjectFactory(VirtualPath virtualPath, HttpContext context, Boolean allowCrossApp, Boolean noAssert)
+   at System.Web.Compilation.BuildManager.CreateInstanceFromVirtualPath(VirtualPath virtualPath, Type requiredBaseType, HttpContext context, Boolean allowCrossApp, Boolean noAssert)
+   at System.Web.UI.PageHandlerFactory.GetHandlerHelper(HttpContext context, String requestType, VirtualPath virtualPath, String physicalPath)
+   at System.Web.UI.PageHandlerFactory.GetHandler(HttpContext context, String requestType, String virtualPath, String path)
+   at System.Web.HttpApplication.MaterializeHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+2017-01-04 13:10:48,536 [  6] ERROR AppManager [(null)] SimpleServings application error: The file '/SimpleServings/UI/Page/SimpleServings/Menu/WebForm2.aspx' does not exist.
+location: http://localhost:1949/SimpleServings/UI/Page/SimpleServings/Menu/WebForm2.aspx
+
+System.Web.HttpException: The file '/SimpleServings/UI/Page/SimpleServings/Menu/WebForm2.aspx' does not exist.
+   at System.Web.UI.Util.CheckVirtualFileExists(VirtualPath virtualPath)
+   at System.Web.Compilation.BuildManager.GetVPathBuildResultInternal(VirtualPath virtualPath, Boolean noBuild, Boolean allowCrossApp, Boolean allowBuildInPrecompile)
+   at System.Web.Compilation.BuildManager.GetVPathBuildResultWithNoAssert(HttpContext context, VirtualPath virtualPath, Boolean noBuild, Boolean allowCrossApp, Boolean allowBuildInPrecompile)
+   at System.Web.Compilation.BuildManager.GetVirtualPathObjectFactory(VirtualPath virtualPath, HttpContext context, Boolean allowCrossApp, Boolean noAssert)
+   at System.Web.Compilation.BuildManager.CreateInstanceFromVirtualPath(VirtualPath virtualPath, Type requiredBaseType, HttpContext context, Boolean allowCrossApp, Boolean noAssert)
+   at System.Web.UI.PageHandlerFactory.GetHandlerHelper(HttpContext context, String requestType, VirtualPath virtualPath, String physicalPath)
+   at System.Web.UI.PageHandlerFactory.GetHandler(HttpContext context, String requestType, String virtualPath, String path)
+   at System.Web.HttpApplication.MaterializeHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+2017-01-04 13:56:25,510 [  7] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: i3awoqr11rfh4045zthqetf2
+2017-01-04 13:56:31,585 [  8] ERROR AppManager [(null)] SimpleServings application error: The file '/SimpleServings/UI/Page/SimpleServings/Menu/WebForm2.aspx' does not exist.
+location: http://localhost:1949/SimpleServings/UI/Page/SimpleServings/Menu/WebForm2.aspx
+
+System.Web.HttpException: The file '/SimpleServings/UI/Page/SimpleServings/Menu/WebForm2.aspx' does not exist.
+   at System.Web.UI.Util.CheckVirtualFileExists(VirtualPath virtualPath)
+   at System.Web.Compilation.BuildManager.GetVPathBuildResultInternal(VirtualPath virtualPath, Boolean noBuild, Boolean allowCrossApp, Boolean allowBuildInPrecompile)
+   at System.Web.Compilation.BuildManager.GetVPathBuildResultWithNoAssert(HttpContext context, VirtualPath virtualPath, Boolean noBuild, Boolean allowCrossApp, Boolean allowBuildInPrecompile)
+   at System.Web.Compilation.BuildManager.GetVirtualPathObjectFactory(VirtualPath virtualPath, HttpContext context, Boolean allowCrossApp, Boolean noAssert)
+   at System.Web.Compilation.BuildManager.CreateInstanceFromVirtualPath(VirtualPath virtualPath, Type requiredBaseType, HttpContext context, Boolean allowCrossApp, Boolean noAssert)
+   at System.Web.UI.PageHandlerFactory.GetHandlerHelper(HttpContext context, String requestType, VirtualPath virtualPath, String physicalPath)
+   at System.Web.UI.PageHandlerFactory.GetHandler(HttpContext context, String requestType, String virtualPath, String path)
+   at System.Web.HttpApplication.MaterializeHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+2017-01-04 13:56:38,743 [  8] INFO  AppManager [(null)] (landingPage.aspx) - Request from http://localhost:1949/SimpleServings/UI/Page/SimpleServings/Menu/AddMenuUsingSampleMenu.aspx 
+Request Type: LogInOut 
+SessionId: vnr2hs45lrac0n45fgjhic24
+2017-01-04 13:56:38,744 [  8] INFO  AppManager [(null)] (landingPage.aspx) - Redirecting to Login.aspx 
+Request Type: LogInOut 
+SessionId: vnr2hs45lrac0n45fgjhic24
+2017-01-04 13:56:38,747 [  5] INFO  AppManager [(null)] (login.aspx) - Request from http://localhost:1949/SimpleServings/UI/Page/SimpleServings/Menu/AddMenuUsingSampleMenu.aspx 
+SessionId: itz1st55gsaixf554oxnyf45
+2017-01-04 13:56:42,337 [  7] ERROR AppManager [(null)] SimpleServings application error: The file '/SimpleServings/UI/Page/SimpleServings/Menu/WebForm2.aspx' does not exist.
+location: http://localhost:1949/SimpleServings/UI/Page/SimpleServings/Menu/WebForm2.aspx
+
+System.Web.HttpException: The file '/SimpleServings/UI/Page/SimpleServings/Menu/WebForm2.aspx' does not exist.
+   at System.Web.UI.Util.CheckVirtualFileExists(VirtualPath virtualPath)
+   at System.Web.Compilation.BuildManager.GetVPathBuildResultInternal(VirtualPath virtualPath, Boolean noBuild, Boolean allowCrossApp, Boolean allowBuildInPrecompile)
+   at System.Web.Compilation.BuildManager.GetVPathBuildResultWithNoAssert(HttpContext context, VirtualPath virtualPath, Boolean noBuild, Boolean allowCrossApp, Boolean allowBuildInPrecompile)
+   at System.Web.Compilation.BuildManager.GetVirtualPathObjectFactory(VirtualPath virtualPath, HttpContext context, Boolean allowCrossApp, Boolean noAssert)
+   at System.Web.Compilation.BuildManager.CreateInstanceFromVirtualPath(VirtualPath virtualPath, Type requiredBaseType, HttpContext context, Boolean allowCrossApp, Boolean noAssert)
+   at System.Web.UI.PageHandlerFactory.GetHandlerHelper(HttpContext context, String requestType, VirtualPath virtualPath, String physicalPath)
+   at System.Web.UI.PageHandlerFactory.GetHandler(HttpContext context, String requestType, String virtualPath, String path)
+   at System.Web.HttpApplication.MaterializeHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+2017-01-04 14:00:42,769 [  5] ERROR AppManager [(null)] SimpleServings application error: The file '/SimpleServings/UI/Page/SimpleServings/Menu/WebForm2.aspx' does not exist.
+location: http://localhost:1949/SimpleServings/UI/Page/SimpleServings/Menu/WebForm2.aspx
+
+System.Web.HttpException: The file '/SimpleServings/UI/Page/SimpleServings/Menu/WebForm2.aspx' does not exist.
+   at System.Web.UI.Util.CheckVirtualFileExists(VirtualPath virtualPath)
+   at System.Web.Compilation.BuildManager.GetVPathBuildResultInternal(VirtualPath virtualPath, Boolean noBuild, Boolean allowCrossApp, Boolean allowBuildInPrecompile)
+   at System.Web.Compilation.BuildManager.GetVPathBuildResultWithNoAssert(HttpContext context, VirtualPath virtualPath, Boolean noBuild, Boolean allowCrossApp, Boolean allowBuildInPrecompile)
+   at System.Web.Compilation.BuildManager.GetVirtualPathObjectFactory(VirtualPath virtualPath, HttpContext context, Boolean allowCrossApp, Boolean noAssert)
+   at System.Web.Compilation.BuildManager.CreateInstanceFromVirtualPath(VirtualPath virtualPath, Type requiredBaseType, HttpContext context, Boolean allowCrossApp, Boolean noAssert)
+   at System.Web.UI.PageHandlerFactory.GetHandlerHelper(HttpContext context, String requestType, VirtualPath virtualPath, String physicalPath)
+   at System.Web.UI.PageHandlerFactory.GetHandler(HttpContext context, String requestType, String virtualPath, String path)
+   at System.Web.HttpApplication.MaterializeHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+2017-01-04 14:01:01,715 [  7] INFO  AppManager [(null)] (landingPage.aspx) - Request from http://localhost:1949/SimpleServings/UI/Page/SimpleServings/Menu/AddMenuUsingSampleMenu.aspx 
+Request Type: LogInOut 
+SessionId: okzvbm55yrcmbl45yxtoez45
+2017-01-04 14:01:01,715 [  7] INFO  AppManager [(null)] (landingPage.aspx) - Redirecting to Login.aspx 
+Request Type: LogInOut 
+SessionId: okzvbm55yrcmbl45yxtoez45
+2017-01-04 14:01:01,720 [  7] INFO  AppManager [(null)] (login.aspx) - Request from http://localhost:1949/SimpleServings/UI/Page/SimpleServings/Menu/AddMenuUsingSampleMenu.aspx 
+SessionId: vaxzysbmetw4wjmkrdf2zd45
+2017-01-04 14:01:08,846 [  6] INFO  AppManager [(null)] (landingPage.aspx) - Clearing Session 
+Request Type:  
+SessionId: fr50mpjxdkche2eyze51l255
+2017-01-04 14:01:08,856 [  6] INFO  AppManager [(null)] (landingPage.aspx) - New Session 
+Request Type:  
+SessionId: labk224554htiy55iewagbvl
+2017-01-04 14:01:08,863 [  7] INFO  AppManager [(null)] (login.aspx) - (cvais7773) - Login successful 
+SessionId: lod1pgr3a0u5tg55ke4mh555
+2017-01-04 14:01:08,867 [  8] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: labk224554htiy55iewagbvl
+2017-01-04 14:17:24,297 [  7] INFO  AppManager [(null)] (landingPage.aspx) - Request from http://localhost:1949/SimpleServings/UI/Page/SimpleServings/Menu/MenuList.aspx?MenuType=MyMenus 
+Request Type: LogInOut 
+SessionId: owfu0ain55vcobb5japt1h45
+2017-01-04 14:17:24,298 [  7] INFO  AppManager [(null)] (landingPage.aspx) - Redirecting to Login.aspx 
+Request Type: LogInOut 
+SessionId: owfu0ain55vcobb5japt1h45
+2017-01-04 14:17:24,303 [  6] INFO  AppManager [(null)] (login.aspx) - Request from http://localhost:1949/SimpleServings/UI/Page/SimpleServings/Menu/MenuList.aspx?MenuType=MyMenus 
+SessionId: pmdyl2ej5ox4kcyinmhquv45
+2017-01-04 14:17:26,971 [  6] INFO  AppManager [(null)] (landingPage.aspx) - Clearing Session 
+Request Type:  
+SessionId: y4yb1055n0bdkyqzf1q1b0ry
+2017-01-04 14:17:26,990 [  8] INFO  AppManager [(null)] (landingPage.aspx) - New Session 
+Request Type:  
+SessionId: iuszmtq23zn1bz55uhhzwk55
+2017-01-04 14:17:27,011 [  7] INFO  AppManager [(null)] (login.aspx) - (cvais7773) - Login successful 
+SessionId: rvqrrbj0f3mfuwbvr3poqpbf
+2017-01-04 14:17:27,019 [  5] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: iuszmtq23zn1bz55uhhzwk55
+2017-01-04 15:05:01,203 [  6] INFO  AppManager [(null)] (landingPage.aspx) - Request from http://localhost:1949/SimpleServings/UI/Page/SimpleServings/Supplier/Contract.aspx?Action=Edit&ContractID=310 
+Request Type: LogInOut 
+SessionId: labk224554htiy55iewagbvl
+2017-01-04 15:05:01,204 [  6] INFO  AppManager [(null)] (landingPage.aspx) - Redirecting to Login.aspx 
+Request Type: LogInOut 
+SessionId: labk224554htiy55iewagbvl
+2017-01-04 15:05:01,208 [  6] INFO  AppManager [(null)] (login.aspx) - Request from http://localhost:1949/SimpleServings/UI/Page/SimpleServings/Supplier/Contract.aspx?Action=Edit&ContractID=310 
+SessionId: iu1ejs45jisn2t25h1ip2gah
+2017-01-04 15:05:07,973 [  6] INFO  AppManager [(null)] (landingPage.aspx) - Clearing Session 
+Request Type:  
+SessionId: wjkgz555eto54i45arz00055
+2017-01-04 15:05:07,982 [  7] INFO  AppManager [(null)] (landingPage.aspx) - New Session 
+Request Type:  
+SessionId: wm02fsevztuk4q3m2mvroh3c
+2017-01-04 15:05:07,992 [  8] INFO  AppManager [(null)] (login.aspx) - (cvais7773) - Login successful 
+SessionId: b0c52sbrui2kntqtkzcrdb45
+2017-01-04 15:05:07,996 [  8] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: wm02fsevztuk4q3m2mvroh3c
+2017-01-04 15:35:13,790 [  1] INFO  AppManager [(null)] SimpleServings started.
+2017-01-04 15:35:24,035 [  6] INFO  AppManager [(null)] (landingPage.aspx) - Redirecting to Login.aspx 
+Request Type: LogInOut 
+SessionId: 
+2017-01-04 15:35:34,119 [  8] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: u21pcezd12spr145t525dxfl
+2017-01-04 15:41:28,659 [  5] INFO  AppManager [(null)] (landingPage.aspx) - Request from http://localhost:1949/SimpleServings/UI/Page/SimpleServings/Menu/ViewMenu.aspx?MenuID=7243 
+Request Type: LogInOut 
+SessionId: wm02fsevztuk4q3m2mvroh3c
+2017-01-04 15:41:28,660 [  5] INFO  AppManager [(null)] (landingPage.aspx) - Redirecting to Login.aspx 
+Request Type: LogInOut 
+SessionId: wm02fsevztuk4q3m2mvroh3c
+2017-01-04 15:41:28,663 [  5] INFO  AppManager [(null)] (login.aspx) - Request from http://localhost:1949/SimpleServings/UI/Page/SimpleServings/Menu/ViewMenu.aspx?MenuID=7243 
+SessionId: b130tdiu35nwf05515zzhd45
+2017-01-04 15:41:35,612 [  6] INFO  AppManager [(null)] (landingPage.aspx) - Clearing Session 
+Request Type:  
+SessionId: qxnebm45jdvyuu3p5jdrijvr
+2017-01-04 15:41:35,617 [  5] ERROR AppManager [(null)] btnLogin_Click failed: Incorrect username and/or password.
+2017-01-04 15:41:35,619 [  5] INFO  AppManager [(null)] (landingPage.aspx) - New Session 
+Request Type:  
+SessionId: 012pur55hvfb21ukffabfg45
+2017-01-04 16:07:57,123 [  8] INFO  AppManager [(null)] (landingPage.aspx) - Clearing Session 
+Request Type:  
+SessionId: 012pur55hvfb21ukffabfg45
+2017-01-04 16:07:57,132 [  8] INFO  AppManager [(null)] (landingPage.aspx) - New Session 
+Request Type:  
+SessionId: sfjmfp2peq4psi551ltmynn0
+2017-01-04 16:07:57,648 [  5] INFO  AppManager [(null)] (login.aspx) - (cvais7773) - Login successful 
+SessionId: 012pur55hvfb21ukffabfg45
+2017-01-04 16:07:57,654 [  7] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: sfjmfp2peq4psi551ltmynn0
+2017-01-04 16:16:58,017 [ 11] INFO  AppManager [(null)] SimpleServings started.
+2017-01-04 16:17:08,276 [  6] INFO  AppManager [(null)] (landingPage.aspx) - Request from http://localhost:1949/SimpleServings/UI/Page/SimpleServings/Menu/ViewMenu.aspx?MenuID=7243 
+Request Type: LogInOut 
+SessionId: sfjmfp2peq4psi551ltmynn0
+2017-01-04 16:17:08,276 [  8] INFO  AppManager [(null)] (landingPage.aspx) - Request from http://localhost:1949/SimpleServings/UI/Page/SimpleServings/Menu/MenuList.aspx?MenuType=MyMenus 
+Request Type: LogInOut 
+SessionId: sfjmfp2peq4psi551ltmynn0
+2017-01-04 16:17:08,277 [  6] INFO  AppManager [(null)] (landingPage.aspx) - Redirecting to Login.aspx 
+Request Type: LogInOut 
+SessionId: sfjmfp2peq4psi551ltmynn0
+2017-01-04 16:17:08,277 [  8] INFO  AppManager [(null)] (landingPage.aspx) - Redirecting to Login.aspx 
+Request Type: LogInOut 
+SessionId: sfjmfp2peq4psi551ltmynn0
+2017-01-04 16:17:16,784 [  7] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: lqvbzwzavq2ei145nr5gcivf
+2017-01-04 16:17:19,556 [  5] ERROR AppManager [(null)] SimpleServings application error: The file '/SimpleServings/UI/Page/SimpleServings/Menu/WebForm2.aspx' does not exist.
+location: http://localhost:1949/SimpleServings/UI/Page/SimpleServings/Menu/WebForm2.aspx
+
+System.Web.HttpException: The file '/SimpleServings/UI/Page/SimpleServings/Menu/WebForm2.aspx' does not exist.
+   at System.Web.UI.Util.CheckVirtualFileExists(VirtualPath virtualPath)
+   at System.Web.Compilation.BuildManager.GetVPathBuildResultInternal(VirtualPath virtualPath, Boolean noBuild, Boolean allowCrossApp, Boolean allowBuildInPrecompile)
+   at System.Web.Compilation.BuildManager.GetVPathBuildResultWithNoAssert(HttpContext context, VirtualPath virtualPath, Boolean noBuild, Boolean allowCrossApp, Boolean allowBuildInPrecompile)
+   at System.Web.Compilation.BuildManager.GetVirtualPathObjectFactory(VirtualPath virtualPath, HttpContext context, Boolean allowCrossApp, Boolean noAssert)
+   at System.Web.Compilation.BuildManager.CreateInstanceFromVirtualPath(VirtualPath virtualPath, Type requiredBaseType, HttpContext context, Boolean allowCrossApp, Boolean noAssert)
+   at System.Web.UI.PageHandlerFactory.GetHandlerHelper(HttpContext context, String requestType, VirtualPath virtualPath, String physicalPath)
+   at System.Web.UI.PageHandlerFactory.GetHandler(HttpContext context, String requestType, String virtualPath, String path)
+   at System.Web.HttpApplication.MaterializeHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+2017-01-04 16:29:36,328 [  7] ERROR AppManager [(null)] SimpleServings application error: The file '/SimpleServings/UI/Page/SimpleServings/Menu/WebForm2.aspx' does not exist.
+location: http://localhost:1949/SimpleServings/UI/Page/SimpleServings/Menu/WebForm2.aspx
+
+System.Web.HttpException: The file '/SimpleServings/UI/Page/SimpleServings/Menu/WebForm2.aspx' does not exist.
+   at System.Web.UI.Util.CheckVirtualFileExists(VirtualPath virtualPath)
+   at System.Web.Compilation.BuildManager.GetVPathBuildResultInternal(VirtualPath virtualPath, Boolean noBuild, Boolean allowCrossApp, Boolean allowBuildInPrecompile)
+   at System.Web.Compilation.BuildManager.GetVPathBuildResultWithNoAssert(HttpContext context, VirtualPath virtualPath, Boolean noBuild, Boolean allowCrossApp, Boolean allowBuildInPrecompile)
+   at System.Web.Compilation.BuildManager.GetVirtualPathObjectFactory(VirtualPath virtualPath, HttpContext context, Boolean allowCrossApp, Boolean noAssert)
+   at System.Web.Compilation.BuildManager.CreateInstanceFromVirtualPath(VirtualPath virtualPath, Type requiredBaseType, HttpContext context, Boolean allowCrossApp, Boolean noAssert)
+   at System.Web.UI.PageHandlerFactory.GetHandlerHelper(HttpContext context, String requestType, VirtualPath virtualPath, String physicalPath)
+   at System.Web.UI.PageHandlerFactory.GetHandler(HttpContext context, String requestType, String virtualPath, String path)
+   at System.Web.HttpApplication.MaterializeHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+2017-01-04 16:41:09,384 [ 13] INFO  AppManager [(null)] SimpleServings started.
+2017-01-04 16:41:10,664 [  7] INFO  AppManager [(null)] (landingPage.aspx) - Request from http://localhost:1949/SimpleServings/UI/Page/SimpleServings/Menu/AddMenuUsingSampleMenu.aspx 
+Request Type: LogInOut 
+SessionId: lqvbzwzavq2ei145nr5gcivf
+2017-01-04 16:41:10,665 [  7] INFO  AppManager [(null)] (landingPage.aspx) - Redirecting to Login.aspx 
+Request Type: LogInOut 
+SessionId: lqvbzwzavq2ei145nr5gcivf
+2017-01-04 16:41:17,146 [  7] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: lf2bkubx1v5kn055amjzqp45
+2017-01-04 16:57:23,034 [  7] ERROR AppManager [(null)] SimpleServings application error: The file '/SimpleServings/UI/Page/SimpleServings/Menu/WebForm2.aspx' does not exist.
+location: http://localhost:1949/SimpleServings/UI/Page/SimpleServings/Menu/WebForm2.aspx
+
+System.Web.HttpException: The file '/SimpleServings/UI/Page/SimpleServings/Menu/WebForm2.aspx' does not exist.
+   at System.Web.UI.Util.CheckVirtualFileExists(VirtualPath virtualPath)
+   at System.Web.Compilation.BuildManager.GetVPathBuildResultInternal(VirtualPath virtualPath, Boolean noBuild, Boolean allowCrossApp, Boolean allowBuildInPrecompile)
+   at System.Web.Compilation.BuildManager.GetVPathBuildResultWithNoAssert(HttpContext context, VirtualPath virtualPath, Boolean noBuild, Boolean allowCrossApp, Boolean allowBuildInPrecompile)
+   at System.Web.Compilation.BuildManager.GetVirtualPathObjectFactory(VirtualPath virtualPath, HttpContext context, Boolean allowCrossApp, Boolean noAssert)
+   at System.Web.Compilation.BuildManager.CreateInstanceFromVirtualPath(VirtualPath virtualPath, Type requiredBaseType, HttpContext context, Boolean allowCrossApp, Boolean noAssert)
+   at System.Web.UI.PageHandlerFactory.GetHandlerHelper(HttpContext context, String requestType, VirtualPath virtualPath, String physicalPath)
+   at System.Web.UI.PageHandlerFactory.GetHandler(HttpContext context, String requestType, String virtualPath, String path)
+   at System.Web.HttpApplication.MaterializeHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)

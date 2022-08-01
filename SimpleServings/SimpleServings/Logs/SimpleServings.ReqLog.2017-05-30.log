@@ -1,0 +1,12 @@
+2017-05-30 17:20:47,144 [  1] INFO  AppManager [(null)] SimpleServings started.
+2017-05-30 17:21:42,108 [  8] INFO  AppManager [(null)] (landingPage.aspx) - Redirecting to Login.aspx 
+Request Type: LogInOut 
+SessionId: 
+2017-05-30 17:21:50,355 [  9] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: nalucbmejiiujl55ede2zb45
+2017-05-30 17:28:05,478 [  1] INFO  AppManager [(null)] SimpleServings started.
+2017-05-30 17:29:08,362 [  5] INFO  AppManager [(null)] (landingPage.aspx) - Redirecting to Login.aspx 
+Request Type: LogInOut 
+SessionId: 
+2017-05-30 17:29:16,943 [  5] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: v0h3c455bypjr545yoqod555

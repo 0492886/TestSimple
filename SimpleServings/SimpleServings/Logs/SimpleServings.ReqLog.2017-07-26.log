@@ -1,0 +1,30 @@
+2017-07-26 15:21:28,186 [  6] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: 22vxlreyyi11da55dhg0h155
+2017-07-26 15:22:46,954 [  7] INFO  AppManager [(null)] (landingPage.aspx) - Request from http://localhost:1949/SimpleServings/ui/page/ 
+Request Type: LogInOut 
+SessionId: h52kgt45z1wudlvfvscvia3b
+2017-07-26 15:22:46,955 [  7] INFO  AppManager [(null)] (landingPage.aspx) - Redirecting to Login.aspx 
+Request Type: LogInOut 
+SessionId: h52kgt45z1wudlvfvscvia3b
+2017-07-26 15:22:47,092 [  5] INFO  AppManager [(null)] (login.aspx) - Request from http://localhost:1949/SimpleServings/ui/page/ 
+SessionId: imlsdf553f44c13qi4ovkr55
+2017-07-26 15:22:50,107 [  7] INFO  AppManager [(null)] (landingPage.aspx) - Clearing Session 
+Request Type:  
+SessionId: 4cxkzcqwzjggxqii2jtwlh55
+2017-07-26 15:22:50,118 [  6] INFO  AppManager [(null)] (landingPage.aspx) - New Session 
+Request Type:  
+SessionId: 0txhzs3mxobznj55fvmxu155
+2017-07-26 15:22:50,171 [  5] INFO  AppManager [(null)] (login.aspx) - (cvais7773) - Login successful 
+SessionId: f513k5rfwz41qpmapjscady5
+2017-07-26 15:22:50,194 [  5] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: 0txhzs3mxobznj55fvmxu155
+2017-07-26 15:23:13,623 [  6] INFO  AppManager [(null)] (Recipe.aspx) - Request from http://localhost:1949/SimpleServings/UI/Page/Home.aspx 
+SessionId: 0txhzs3mxobznj55fvmxu155
+2017-07-26 15:23:39,327 [  5] INFO  AppManager [(null)] (Recipe.aspx) - Request from http://localhost:1949/SimpleServings/UI/Page/Home.aspx 
+SessionId: 0txhzs3mxobznj55fvmxu155
+2017-07-26 15:23:43,267 [  8] INFO  AppManager [(null)] (Recipe.aspx) - Request from http://localhost:1949/SimpleServings/UI/Page/Home.aspx 
+SessionId: 0txhzs3mxobznj55fvmxu155
+2017-07-26 15:24:06,789 [  6] INFO  AppManager [(null)] (Recipe.aspx) - Request from http://localhost:1949/SimpleServings/UI/Page/Home.aspx 
+SessionId: 0txhzs3mxobznj55fvmxu155
+2017-07-26 15:24:51,298 [  7] INFO  AppManager [(null)] (Recipe.aspx) - Request from http://localhost:1949/SimpleServings/UI/Page/Home.aspx 
+SessionId: 0txhzs3mxobznj55fvmxu155

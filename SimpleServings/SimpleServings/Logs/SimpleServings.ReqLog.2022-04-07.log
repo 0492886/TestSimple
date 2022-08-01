@@ -1,0 +1,31 @@
+2022-04-07 10:45:17,814 [ 48] INFO  AppManager [(null)] (landingPage.aspx) - Clearing Session 
+Request Type:  
+SessionId: xjc2xvhw4udy0wjfp23bhh4w
+2022-04-07 10:45:17,822 [  4] INFO  AppManager [(null)] (landingPage.aspx) - New Session 
+Request Type:  
+SessionId: 0unuifayvyx21gzid1nnyz0z
+2022-04-07 10:45:18,573 [  7] INFO  AppManager [(null)] (login.aspx) - (yossi.frolich) - Login successful 
+SessionId: u0q3etjzowpcptoykzg4c5hq
+2022-04-07 10:45:18,757 [  4] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: 0unuifayvyx21gzid1nnyz0z
+2022-04-07 12:31:05,646 [ 97] INFO  AppManager [(null)] SimpleServings started.
+2022-04-07 12:33:08,764 [ 29] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: ptvbem21nnruc2oj3zn2arsf
+2022-04-07 12:35:01,861 [ 69] INFO  AppManager [(null)] (landingPage.aspx) - Request from http://localhost:1945/SimpleServings/UI/Page/SimpleServings/Recipe/RecipeList.aspx 
+Request Type: LogInOut 
+SessionId: ptvbem21nnruc2oj3zn2arsf
+2022-04-07 12:35:01,861 [ 69] INFO  AppManager [(null)] (landingPage.aspx) - Redirecting to Login.aspx 
+Request Type: LogInOut 
+SessionId: ptvbem21nnruc2oj3zn2arsf
+2022-04-07 12:35:01,865 [113] INFO  AppManager [(null)] (login.aspx) - Request from http://localhost:1945/SimpleServings/UI/Page/SimpleServings/Recipe/RecipeList.aspx 
+SessionId: grevvsfp4w1p2nuc0uvgeqx0
+2022-04-07 12:35:11,707 [ 75] INFO  AppManager [(null)] (landingPage.aspx) - Clearing Session 
+Request Type:  
+SessionId: 20inxubgs0nz5g4uvfps0xod
+2022-04-07 12:35:11,714 [136] INFO  AppManager [(null)] (landingPage.aspx) - New Session 
+Request Type:  
+SessionId: zzkuta0kvdbimrpk4311yraf
+2022-04-07 12:35:11,992 [ 62] INFO  AppManager [(null)] (login.aspx) - (yossi.frolich) - Login successful 
+SessionId: krcvtsd1vpkt4xyzoq41ltaq
+2022-04-07 12:35:11,997 [ 90] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: zzkuta0kvdbimrpk4311yraf

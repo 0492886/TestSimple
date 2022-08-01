@@ -1,0 +1,12 @@
+2022-06-22 17:20:48,507 [  1] INFO  AppManager [(null)] SimpleServings started.
+2022-06-22 17:21:30,450 [  7] ERROR AppManager [(null)] btnLogin_Click failed: Incorrect username and/or password.
+2022-06-22 17:21:40,292 [  7] INFO  AppManager [(null)] (landingPage.aspx) - Clearing Session 
+Request Type:  
+SessionId: k4wbz2e2xl1irshuur40gumf
+2022-06-22 17:21:40,301 [  9] INFO  AppManager [(null)] (landingPage.aspx) - New Session 
+Request Type:  
+SessionId: 3wn2jbirpox2rbnn0dzvl0cp
+2022-06-22 17:21:40,731 [  8] INFO  AppManager [(null)] (login.aspx) - (Mli) - Login successful 
+SessionId: k4wbz2e2xl1irshuur40gumf
+2022-06-22 17:21:40,784 [  9] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: 3wn2jbirpox2rbnn0dzvl0cp

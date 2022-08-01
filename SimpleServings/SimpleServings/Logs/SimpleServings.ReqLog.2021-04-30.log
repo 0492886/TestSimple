@@ -1,0 +1,299 @@
+2021-04-30 09:36:31,549 [ 18] INFO  AppManager [(null)] (landingPage.aspx) - Clearing Session 
+Request Type:  
+SessionId: tdexayxluzawkczcg4jas4j4
+2021-04-30 09:36:32,803 [110] INFO  AppManager [(null)] (landingPage.aspx) - New Session 
+Request Type:  
+SessionId: cwgw4lk0pnxfyowpzxsl2i4u
+2021-04-30 09:36:35,799 [ 76] INFO  AppManager [(null)] (login.aspx) - (Mli) - Login successful 
+SessionId: ak1ciebuh0qpodhoezr5yggd
+2021-04-30 09:36:37,096 [ 18] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: cwgw4lk0pnxfyowpzxsl2i4u
+2021-04-30 09:47:12,075 [ 14] INFO  AppManager [(null)] (landingPage.aspx) - Clearing Session 
+Request Type:  
+SessionId: hsied1df5hn5pnx15keqqke1
+2021-04-30 09:47:12,229 [ 53] INFO  AppManager [(null)] (landingPage.aspx) - New Session 
+Request Type:  
+SessionId: e543tmv54jpcm5pybcb32dcj
+2021-04-30 09:47:12,267 [113] INFO  AppManager [(null)] (login.aspx) - (Mli) - Login successful 
+SessionId: yahh3rj5ydb0wn3kkx5ors5a
+2021-04-30 09:47:12,273 [107] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: e543tmv54jpcm5pybcb32dcj
+2021-04-30 09:56:23,338 [  1] INFO  AppManager [(null)] SimpleServings started.
+2021-04-30 09:57:10,684 [ 10] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: sz5zryfk2gieypwnagspksw1
+2021-04-30 10:07:08,433 [ 11] INFO  AppManager [(null)] (landingPage.aspx) - Clearing Session 
+Request Type:  
+SessionId: zfjj3yo5j2hlrqwnuppc1vm0
+2021-04-30 10:07:08,450 [ 25] INFO  AppManager [(null)] (landingPage.aspx) - New Session 
+Request Type:  
+SessionId: anq0xydimpsrumuazbthfgcd
+2021-04-30 10:07:09,050 [ 11] INFO  AppManager [(null)] (login.aspx) - (Mli) - Login successful 
+SessionId: 4s2oeijcjefiy30mfyxtv2qu
+2021-04-30 10:07:09,058 [ 41] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: anq0xydimpsrumuazbthfgcd
+2021-04-30 10:11:32,609 [ 25] INFO  AppManager [(null)] (landingPage.aspx) - Clearing Session 
+Request Type:  
+SessionId: xf2ybliytpsjrz3euvo5iwsl
+2021-04-30 10:11:32,625 [ 84] INFO  AppManager [(null)] (landingPage.aspx) - New Session 
+Request Type:  
+SessionId: mlmiy3t1ysmtgf0gcsenyzep
+2021-04-30 10:11:33,072 [ 39] INFO  AppManager [(null)] (login.aspx) - (Mli) - Login successful 
+SessionId: s15vqtktfqmm2msmkom3ql2q
+2021-04-30 10:11:33,079 [ 94] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: mlmiy3t1ysmtgf0gcsenyzep
+2021-04-30 10:18:37,172 [ 25] INFO  AppManager [(null)] (landingPage.aspx) - Clearing Session 
+Request Type:  
+SessionId: maxmkgpno52yrd30ycnmcxbc
+2021-04-30 10:18:37,188 [ 25] INFO  AppManager [(null)] (landingPage.aspx) - New Session 
+Request Type:  
+SessionId: wun4olxmo1ys0bdpzsbjvbcl
+2021-04-30 10:18:37,363 [119] INFO  AppManager [(null)] (login.aspx) - (Mli) - Login successful 
+SessionId: 3spxrugcpujbiddntocf4oal
+2021-04-30 10:18:37,523 [ 31] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: wun4olxmo1ys0bdpzsbjvbcl
+2021-04-30 14:04:19,885 [  1] INFO  AppManager [(null)] SimpleServings started.
+2021-04-30 14:05:38,650 [  9] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: yxzqw5nbeoxlojemwo3sulps
+2021-04-30 15:13:22,886 [ 17] INFO  AppManager [(null)] (landingPage.aspx) - Clearing Session 
+Request Type:  
+SessionId: vxoewxpy0wkt05zdgzmxb0s4
+2021-04-30 15:13:23,072 [ 95] INFO  AppManager [(null)] (landingPage.aspx) - New Session 
+Request Type:  
+SessionId: l5bnkbrbznbphbbw4kkx25uw
+2021-04-30 15:13:26,090 [101] INFO  AppManager [(null)] (login.aspx) - (Mli) - Login successful 
+SessionId: mnakh2nydl5savmbsmovnwvw
+2021-04-30 15:13:26,380 [  5] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: l5bnkbrbznbphbbw4kkx25uw
+2021-04-30 15:16:56,050 [ 74] INFO  AppManager [(null)] (landingPage.aspx) - Clearing Session 
+Request Type:  
+SessionId: 150texgzq4glioevaqv0wg0e
+2021-04-30 15:16:56,070 [ 99] INFO  AppManager [(null)] (landingPage.aspx) - New Session 
+Request Type:  
+SessionId: vtffqhrjvoywamxu5ejdimrw
+2021-04-30 15:16:56,406 [ 91] INFO  AppManager [(null)] (login.aspx) - (Mli) - Login successful 
+SessionId: ytmjunb0dgrj2yzp2pxczk50
+2021-04-30 15:16:56,411 [ 89] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: vtffqhrjvoywamxu5ejdimrw
+2021-04-30 16:25:09,926 [ 79] INFO  AppManager [(null)] SimpleServings started.
+2021-04-30 16:26:20,165 [ 33] INFO  AppManager [(null)] (login.aspx) - (Mli) - Login successful 
+SessionId: vgv34hy5kvjyb34e0qbgf4mt
+2021-04-30 16:26:20,310 [ 16] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: 4nogmkx3w5locgdtbhdhoojb
+2021-04-30 16:27:34,733 [ 43] ERROR AppManager [(null)] SimpleServings application error: e:\DFTA coding\SimpleServings\Assu_version\Ansu_4_20\SimpleServings\SimpleServings\UI\UDC\SimpleServings\Menu\ReplicateMenu.ascx(46): error CS1061: 'ASP.ui_udc_simpleservings_menu_replicatemenu_ascx' does not contain a definition for 'ddlMealType_SelectedIndexChanged' and no extension method 'ddlMealType_SelectedIndexChanged' accepting a first argument of type 'ASP.ui_udc_simpleservings_menu_replicatemenu_ascx' could be found (are you missing a using directive or an assembly reference?)
+location: http://localhost:1948/SimpleServings/UI/Page/SimpleServings/Menu/ReplicateMenu.aspx?MenuID=16257
+
+System.Web.HttpParseException (0x80004005): e:\DFTA coding\SimpleServings\Assu_version\Ansu_4_20\SimpleServings\SimpleServings\UI\UDC\SimpleServings\Menu\ReplicateMenu.ascx(46): error CS1061: 'ASP.ui_udc_simpleservings_menu_replicatemenu_ascx' does not contain a definition for 'ddlMealType_SelectedIndexChanged' and no extension method 'ddlMealType_SelectedIndexChanged' accepting a first argument of type 'ASP.ui_udc_simpleservings_menu_replicatemenu_ascx' could be found (are you missing a using directive or an assembly reference?) ---> System.Web.HttpCompileException (0x80004005): e:\DFTA coding\SimpleServings\Assu_version\Ansu_4_20\SimpleServings\SimpleServings\UI\UDC\SimpleServings\Menu\ReplicateMenu.ascx(46): error CS1061: 'ASP.ui_udc_simpleservings_menu_replicatemenu_ascx' does not contain a definition for 'ddlMealType_SelectedIndexChanged' and no extension method 'ddlMealType_SelectedIndexChanged' accepting a first argument of type 'ASP.ui_udc_simpleservings_menu_replicatemenu_ascx' could be found (are you missing a using directive or an assembly reference?)
+   at System.Web.Compilation.BuildManager.PostProcessFoundBuildResult(BuildResult result, Boolean keyFromVPP, VirtualPath virtualPath)
+   at System.Web.Compilation.BuildManager.GetBuildResultFromCacheInternal(String cacheKey, Boolean keyFromVPP, VirtualPath virtualPath, Int64 hashCode, Boolean ensureIsUpToDate)
+   at System.Web.Compilation.BuildManager.GetVPathBuildResultFromCacheInternal(VirtualPath virtualPath, Boolean ensureIsUpToDate)
+   at System.Web.Compilation.BuildManager.GetVPathBuildResultInternal(VirtualPath virtualPath, Boolean noBuild, Boolean allowCrossApp, Boolean allowBuildInPrecompile, Boolean throwIfNotFound, Boolean ensureIsUpToDate)
+   at System.Web.Compilation.BuildManager.GetVPathBuildResultWithNoAssert(HttpContext context, VirtualPath virtualPath, Boolean noBuild, Boolean allowCrossApp, Boolean allowBuildInPrecompile, Boolean throwIfNotFound, Boolean ensureIsUpToDate)
+   at System.Web.Compilation.BuildManager.GetVPathBuildResult(HttpContext context, VirtualPath virtualPath, Boolean noBuild, Boolean allowCrossApp, Boolean allowBuildInPrecompile, Boolean ensureIsUpToDate)
+   at System.Web.UI.BaseTemplateParser.GetReferencedType(VirtualPath virtualPath, Boolean allowNoCompile)
+   at System.Web.UI.BaseTemplateParser.GetUserControlType(VirtualPath virtualPath)
+   at System.Web.UI.MainTagNameToTypeMapper.ProcessUserControlRegistration(UserControlRegisterEntry ucRegisterEntry)
+   at System.Web.UI.BaseTemplateParser.ProcessDirective(String directiveName, IDictionary directive)
+   at System.Web.UI.TemplateControlParser.ProcessDirective(String directiveName, IDictionary directive)
+   at System.Web.UI.PageParser.ProcessDirective(String directiveName, IDictionary directive)
+   at System.Web.UI.TemplateParser.ParseStringInternal(String text, Encoding fileEncoding)
+   at System.Web.UI.TemplateParser.ProcessException(Exception ex)
+   at System.Web.UI.TemplateParser.ParseStringInternal(String text, Encoding fileEncoding)
+   at System.Web.UI.TemplateParser.ParseString(String text, VirtualPath virtualPath, Encoding fileEncoding)
+   at System.Web.UI.TemplateParser.ParseFile(String physicalPath, VirtualPath virtualPath)
+   at System.Web.UI.TemplateParser.ParseInternal()
+   at System.Web.UI.TemplateParser.Parse()
+   at System.Web.Compilation.BaseTemplateBuildProvider.get_CodeCompilerType()
+   at System.Web.Compilation.BuildProvider.GetCompilerTypeFromBuildProvider(BuildProvider buildProvider)
+   at System.Web.Compilation.BuildProvidersCompiler.ProcessBuildProviders()
+   at System.Web.Compilation.BuildProvidersCompiler.PerformBuild()
+   at System.Web.Compilation.BuildManager.CompileWebFile(VirtualPath virtualPath)
+   at System.Web.Compilation.BuildManager.GetVPathBuildResultInternal(VirtualPath virtualPath, Boolean noBuild, Boolean allowCrossApp, Boolean allowBuildInPrecompile, Boolean throwIfNotFound, Boolean ensureIsUpToDate)
+   at System.Web.Compilation.BuildManager.GetVPathBuildResultWithNoAssert(HttpContext context, VirtualPath virtualPath, Boolean noBuild, Boolean allowCrossApp, Boolean allowBuildInPrecompile, Boolean throwIfNotFound, Boolean ensureIsUpToDate)
+   at System.Web.Compilation.BuildManager.GetVirtualPathObjectFactory(VirtualPath virtualPath, HttpContext context, Boolean allowCrossApp, Boolean throwIfNotFound)
+   at System.Web.Compilation.BuildManager.CreateInstanceFromVirtualPath(VirtualPath virtualPath, Type requiredBaseType, HttpContext context, Boolean allowCrossApp)
+   at System.Web.UI.PageHandlerFactory.GetHandlerHelper(HttpContext context, String requestType, VirtualPath virtualPath, String physicalPath)
+   at System.Web.UI.PageHandlerFactory.GetHandler(HttpContext context, String requestType, String virtualPath, String path)
+   at System.Web.HttpApplication.MaterializeHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStepImpl(IExecutionStep step)
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+2021-04-30 16:29:47,459 [ 77] ERROR AppManager [(null)] SimpleServings application error: e:\DFTA coding\SimpleServings\Assu_version\Ansu_4_20\SimpleServings\SimpleServings\UI\UDC\SimpleServings\Menu\ReplicateMenu.ascx(46): error CS1061: 'ASP.ui_udc_simpleservings_menu_replicatemenu_ascx' does not contain a definition for 'ddlMealType_SelectedIndexChanged' and no extension method 'ddlMealType_SelectedIndexChanged' accepting a first argument of type 'ASP.ui_udc_simpleservings_menu_replicatemenu_ascx' could be found (are you missing a using directive or an assembly reference?)
+location: http://localhost:1948/SimpleServings/UI/Page/SimpleServings/Menu/ReplicateMenu.aspx?MenuID=16257
+
+System.Web.HttpParseException (0x80004005): e:\DFTA coding\SimpleServings\Assu_version\Ansu_4_20\SimpleServings\SimpleServings\UI\UDC\SimpleServings\Menu\ReplicateMenu.ascx(46): error CS1061: 'ASP.ui_udc_simpleservings_menu_replicatemenu_ascx' does not contain a definition for 'ddlMealType_SelectedIndexChanged' and no extension method 'ddlMealType_SelectedIndexChanged' accepting a first argument of type 'ASP.ui_udc_simpleservings_menu_replicatemenu_ascx' could be found (are you missing a using directive or an assembly reference?) ---> System.Web.HttpCompileException (0x80004005): e:\DFTA coding\SimpleServings\Assu_version\Ansu_4_20\SimpleServings\SimpleServings\UI\UDC\SimpleServings\Menu\ReplicateMenu.ascx(46): error CS1061: 'ASP.ui_udc_simpleservings_menu_replicatemenu_ascx' does not contain a definition for 'ddlMealType_SelectedIndexChanged' and no extension method 'ddlMealType_SelectedIndexChanged' accepting a first argument of type 'ASP.ui_udc_simpleservings_menu_replicatemenu_ascx' could be found (are you missing a using directive or an assembly reference?)
+   at System.Web.Compilation.BuildManager.PostProcessFoundBuildResult(BuildResult result, Boolean keyFromVPP, VirtualPath virtualPath)
+   at System.Web.Compilation.BuildManager.GetBuildResultFromCacheInternal(String cacheKey, Boolean keyFromVPP, VirtualPath virtualPath, Int64 hashCode, Boolean ensureIsUpToDate)
+   at System.Web.Compilation.BuildManager.GetVPathBuildResultFromCacheInternal(VirtualPath virtualPath, Boolean ensureIsUpToDate)
+   at System.Web.Compilation.BuildManager.GetVPathBuildResultInternal(VirtualPath virtualPath, Boolean noBuild, Boolean allowCrossApp, Boolean allowBuildInPrecompile, Boolean throwIfNotFound, Boolean ensureIsUpToDate)
+   at System.Web.Compilation.BuildManager.GetVPathBuildResultWithNoAssert(HttpContext context, VirtualPath virtualPath, Boolean noBuild, Boolean allowCrossApp, Boolean allowBuildInPrecompile, Boolean throwIfNotFound, Boolean ensureIsUpToDate)
+   at System.Web.Compilation.BuildManager.GetVPathBuildResult(HttpContext context, VirtualPath virtualPath, Boolean noBuild, Boolean allowCrossApp, Boolean allowBuildInPrecompile, Boolean ensureIsUpToDate)
+   at System.Web.UI.BaseTemplateParser.GetReferencedType(VirtualPath virtualPath, Boolean allowNoCompile)
+   at System.Web.UI.BaseTemplateParser.GetUserControlType(VirtualPath virtualPath)
+   at System.Web.UI.MainTagNameToTypeMapper.ProcessUserControlRegistration(UserControlRegisterEntry ucRegisterEntry)
+   at System.Web.UI.BaseTemplateParser.ProcessDirective(String directiveName, IDictionary directive)
+   at System.Web.UI.TemplateControlParser.ProcessDirective(String directiveName, IDictionary directive)
+   at System.Web.UI.PageParser.ProcessDirective(String directiveName, IDictionary directive)
+   at System.Web.UI.TemplateParser.ParseStringInternal(String text, Encoding fileEncoding)
+   at System.Web.UI.TemplateParser.ProcessException(Exception ex)
+   at System.Web.UI.TemplateParser.ParseStringInternal(String text, Encoding fileEncoding)
+   at System.Web.UI.TemplateParser.ParseString(String text, VirtualPath virtualPath, Encoding fileEncoding)
+   at System.Web.UI.TemplateParser.ParseFile(String physicalPath, VirtualPath virtualPath)
+   at System.Web.UI.TemplateParser.ParseInternal()
+   at System.Web.UI.TemplateParser.Parse()
+   at System.Web.Compilation.BaseTemplateBuildProvider.get_CodeCompilerType()
+   at System.Web.Compilation.BuildProvider.GetCompilerTypeFromBuildProvider(BuildProvider buildProvider)
+   at System.Web.Compilation.BuildProvidersCompiler.ProcessBuildProviders()
+   at System.Web.Compilation.BuildProvidersCompiler.PerformBuild()
+   at System.Web.Compilation.BuildManager.CompileWebFile(VirtualPath virtualPath)
+   at System.Web.Compilation.BuildManager.GetVPathBuildResultInternal(VirtualPath virtualPath, Boolean noBuild, Boolean allowCrossApp, Boolean allowBuildInPrecompile, Boolean throwIfNotFound, Boolean ensureIsUpToDate)
+   at System.Web.Compilation.BuildManager.GetVPathBuildResultWithNoAssert(HttpContext context, VirtualPath virtualPath, Boolean noBuild, Boolean allowCrossApp, Boolean allowBuildInPrecompile, Boolean throwIfNotFound, Boolean ensureIsUpToDate)
+   at System.Web.Compilation.BuildManager.GetVirtualPathObjectFactory(VirtualPath virtualPath, HttpContext context, Boolean allowCrossApp, Boolean throwIfNotFound)
+   at System.Web.Compilation.BuildManager.CreateInstanceFromVirtualPath(VirtualPath virtualPath, Type requiredBaseType, HttpContext context, Boolean allowCrossApp)
+   at System.Web.UI.PageHandlerFactory.GetHandlerHelper(HttpContext context, String requestType, VirtualPath virtualPath, String physicalPath)
+   at System.Web.UI.PageHandlerFactory.GetHandler(HttpContext context, String requestType, String virtualPath, String path)
+   at System.Web.HttpApplication.MaterializeHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStepImpl(IExecutionStep step)
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+2021-04-30 16:30:52,735 [ 20] INFO  AppManager [(null)] SimpleServings started.
+2021-04-30 16:52:39,302 [ 89] INFO  AppManager [(null)] (login.aspx) - (Mli) - Login successful 
+SessionId: kzchrvcydf5km5dz3sis100j
+2021-04-30 16:52:40,066 [ 64] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: kzchrvcydf5km5dz3sis100j
+2021-04-30 16:54:44,187 [ 99] ERROR AppManager [(null)] SimpleServings application error: Exception of type 'System.Web.HttpUnhandledException' was thrown.
+location: http://localhost:1948/SimpleServings/UI/Page/SimpleServings/Menu/ReplicateMenu.aspx?MenuID=16257
+
+System.Web.HttpUnhandledException (0x80004005): Exception of type 'System.Web.HttpUnhandledException' was thrown. ---> System.FormatException: Input string was not in a correct format.
+   at System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   at System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   at System.Convert.ToInt32(String value)
+   at SimpleServings.UI.UDC.SimpleServings.Menu.ReplicateMenu.PopDropDowns() in E:\DFTA coding\SimpleServings\Assu_version\Ansu_4_20\SimpleServings\SimpleServings\UI\UDC\SimpleServings\Menu\ReplicateMenu.ascx.cs:line 62
+   at SimpleServings.UI.UDC.SimpleServings.Menu.ReplicateMenu.Page_Load(Object sender, EventArgs e) in E:\DFTA coding\SimpleServings\Assu_version\Ansu_4_20\SimpleServings\SimpleServings\UI\UDC\SimpleServings\Menu\ReplicateMenu.ascx.cs:line 22
+   at System.Web.Util.CalliEventHandlerDelegateProxy.Callback(Object sender, EventArgs e)
+   at System.Web.UI.Control.OnLoad(EventArgs e)
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   at System.Web.UI.Page.HandleError(Exception e)
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   at System.Web.UI.Page.ProcessRequest(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   at System.Web.UI.Page.ProcessRequest()
+   at System.Web.UI.Page.ProcessRequestWithNoAssert(HttpContext context)
+   at System.Web.UI.Page.ProcessRequest(HttpContext context)
+   at ASP.ui_page_simpleservings_menu_replicatemenu_aspx.ProcessRequest(HttpContext context) in c:\Users\mali\AppData\Local\Temp\Temporary ASP.NET Files\simpleservings\c83455a8\f46284b5\App_Web_jk5wmvr5.3.cs:line 0
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStepImpl(IExecutionStep step)
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+2021-04-30 16:59:13,064 [ 59] INFO  AppManager [(null)] (landingPage.aspx) - Clearing Session 
+Request Type:  
+SessionId: fur5swmu2srfzu43vxdnr4x2
+2021-04-30 16:59:13,077 [ 63] INFO  AppManager [(null)] (landingPage.aspx) - New Session 
+Request Type:  
+SessionId: jc5ehk3euoth4afpgcfi4ncq
+2021-04-30 16:59:13,557 [ 71] INFO  AppManager [(null)] (login.aspx) - (Mli) - Login successful 
+SessionId: xidr40oqtgdtbeyvwyzreprn
+2021-04-30 16:59:13,687 [ 63] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: jc5ehk3euoth4afpgcfi4ncq
+2021-04-30 17:01:25,508 [ 80] ERROR AppManager [(null)] SimpleServings application error: Exception of type 'System.Web.HttpUnhandledException' was thrown.
+location: http://localhost:1948/SimpleServings/UI/Page/SimpleServings/Menu/ReplicateMenu.aspx?MenuID=16257
+
+System.Web.HttpUnhandledException (0x80004005): Exception of type 'System.Web.HttpUnhandledException' was thrown. ---> System.FormatException: Input string was not in a correct format.
+   at System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   at System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   at System.Convert.ToInt32(String value)
+   at SimpleServings.UI.UDC.SimpleServings.Menu.ReplicateMenu.PopDropDowns() in E:\DFTA coding\SimpleServings\Assu_version\Ansu_4_20\SimpleServings\SimpleServings\UI\UDC\SimpleServings\Menu\ReplicateMenu.ascx.cs:line 62
+   at SimpleServings.UI.UDC.SimpleServings.Menu.ReplicateMenu.Page_Load(Object sender, EventArgs e) in E:\DFTA coding\SimpleServings\Assu_version\Ansu_4_20\SimpleServings\SimpleServings\UI\UDC\SimpleServings\Menu\ReplicateMenu.ascx.cs:line 22
+   at System.Web.Util.CalliEventHandlerDelegateProxy.Callback(Object sender, EventArgs e)
+   at System.Web.UI.Control.OnLoad(EventArgs e)
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   at System.Web.UI.Page.HandleError(Exception e)
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   at System.Web.UI.Page.ProcessRequest(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   at System.Web.UI.Page.ProcessRequest()
+   at System.Web.UI.Page.ProcessRequestWithNoAssert(HttpContext context)
+   at System.Web.UI.Page.ProcessRequest(HttpContext context)
+   at ASP.ui_page_simpleservings_menu_replicatemenu_aspx.ProcessRequest(HttpContext context) in c:\Users\mali\AppData\Local\Temp\Temporary ASP.NET Files\simpleservings\c83455a8\f46284b5\App_Web_jk5wmvr5.3.cs:line 0
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStepImpl(IExecutionStep step)
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+2021-04-30 17:04:39,885 [ 59] INFO  AppManager [(null)] (landingPage.aspx) - Clearing Session 
+Request Type:  
+SessionId: hrrijqu00xfdzyea3k2nlwy5
+2021-04-30 17:04:40,300 [ 36] INFO  AppManager [(null)] (landingPage.aspx) - New Session 
+Request Type:  
+SessionId: isjfuw1fdxgcbjhvwqzhuumj
+2021-04-30 17:04:40,794 [ 95] INFO  AppManager [(null)] (login.aspx) - (Mli) - Login successful 
+SessionId: isjfuw1fdxgcbjhvwqzhuumj
+2021-04-30 17:04:40,980 [ 72] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: isjfuw1fdxgcbjhvwqzhuumj
+2021-04-30 17:11:20,416 [ 24] INFO  AppManager [(null)] SimpleServings started.
+2021-04-30 17:15:09,414 [ 33] INFO  AppManager [(null)] (login.aspx) - (Mli) - Login successful 
+SessionId: xwrt32ohf1tjry0eeuzftpn5
+2021-04-30 17:15:10,283 [ 70] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: xwrt32ohf1tjry0eeuzftpn5
+2021-04-30 17:22:18,490 [100] INFO  AppManager [(null)] SimpleServings started.
+2021-04-30 17:24:06,414 [ 72] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: ugydbyqwl5jj4fbwo2pi4vlg
+2021-04-30 17:32:26,791 [100] INFO  AppManager [(null)] SimpleServings started.
+2021-04-30 17:33:07,874 [ 46] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: fgb0gc5xptrnvfofeerausvf
+2021-04-30 17:41:01,934 [ 25] INFO  AppManager [(null)] SimpleServings started.
+2021-04-30 17:41:43,380 [ 65] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: 2kascqarzeklshoqaihkospv
+2021-04-30 21:18:35,602 [ 60] INFO  AppManager [(null)] (landingPage.aspx) - Clearing Session 
+Request Type:  
+SessionId: imtmrzx3z0qgysw5xmonufw3
+2021-04-30 21:18:35,636 [ 27] INFO  AppManager [(null)] (landingPage.aspx) - New Session 
+Request Type:  
+SessionId: gsj2xqkczidgdzywl4g0hkrz
+2021-04-30 21:18:36,476 [ 78] INFO  AppManager [(null)] (login.aspx) - (Mli) - Login successful 
+SessionId: uhaewiwocd412qizm5izcocr
+2021-04-30 21:18:36,876 [  5] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: gsj2xqkczidgdzywl4g0hkrz
+2021-04-30 21:28:00,861 [ 25] INFO  AppManager [(null)] SimpleServings started.
+2021-04-30 21:31:38,603 [ 60] INFO  AppManager [(null)] (login.aspx) - (Mli) - Login successful 
+SessionId: zwmh5hgvpmzrzl2e0l2iae5m
+2021-04-30 21:31:38,723 [140] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: zwmh5hgvpmzrzl2e0l2iae5m
+2021-04-30 21:43:16,740 [ 17] INFO  AppManager [(null)] SimpleServings started.
+2021-04-30 21:44:04,749 [128] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: qruas1bc2wdopajvskmx4bvo
+2021-04-30 22:31:14,606 [  1] INFO  AppManager [(null)] SimpleServings started.
+2021-04-30 22:31:46,125 [ 14] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: iuwp3nivp0sc5u0z0a4vhsri
+2021-04-30 22:35:48,909 [  1] INFO  AppManager [(null)] SimpleServings started.
+2021-04-30 22:36:33,572 [ 14] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: xgvygti4c5ixgzfddv3yoada
+2021-04-30 22:46:53,053 [ 74] INFO  AppManager [(null)] SimpleServings started.
+2021-04-30 22:47:37,326 [  9] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: kzqbdvwketnwsy5zx22r0lou
+2021-04-30 22:50:33,710 [ 49] INFO  AppManager [(null)] SimpleServings started.
+2021-04-30 22:51:11,745 [  9] INFO  AppManager [(null)] (login.aspx) - (Mli) - Login successful 
+SessionId: lngymlhb04emfeuujugmhhb2
+2021-04-30 22:51:11,771 [ 14] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: bllbtbmp1p0fqy2zcyzv32pw
+2021-04-30 23:09:38,667 [ 83] INFO  AppManager [(null)] SimpleServings started.
+2021-04-30 23:12:32,763 [ 29] INFO  AppManager [(null)] (login.aspx) - (Mli) - Login successful 
+SessionId: k2frkkgny5vrymskbz3yygdq
+2021-04-30 23:12:32,844 [ 75] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: grybiafsf15l3zge1j1uyta2
+2021-04-30 23:17:47,401 [ 74] INFO  AppManager [(null)] SimpleServings started.
+2021-04-30 23:18:26,575 [ 29] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: dibd4vl1uftumpisqjd2wbdl
+2021-04-30 23:19:45,681 [ 71] INFO  AppManager [(null)] SimpleServings started.
+2021-04-30 23:20:57,252 [ 69] INFO  AppManager [(null)] (login.aspx) - (Mli) - Login successful 
+SessionId: ucasimyooxemmhloyxjci1i0
+2021-04-30 23:20:57,312 [ 13] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: libp3xksx43ijakyoyqbdmqx
+2021-04-30 23:30:28,901 [ 24] INFO  AppManager [(null)] SimpleServings started.
+2021-04-30 23:31:01,962 [ 13] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: b32m1qzno2htmk0hqdvk3vdq
+2021-04-30 23:38:46,337 [ 64] INFO  AppManager [(null)] SimpleServings started.
+2021-04-30 23:39:52,080 [ 69] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: 0ic53vy4b4gs5fvuihojvyzo

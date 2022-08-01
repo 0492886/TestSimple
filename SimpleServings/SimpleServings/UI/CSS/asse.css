@@ -1,0 +1,266 @@
+/* CSS Document */
+/*question*/
+.quest-cont {border:dotted 1px #666; margin-bottom:5px;padding:12px 15px 15px 15px; background:#E7F3F5; color:#222;position:relative;}
+.quest-name {font:13px  Arial, Verdana, Helvetica, sans-serif;color:#003333;}
+.quecommt {font:11px Verdana, Arial, Helvetica, sans-serif ;color:#3f7d8a;line-height:17px;padding:4px;width:500px;}
+.commentQuestion {font:12px Verdana, Arial, Helvetica, sans-serif ;color:#755404; line-height:15px;}
+.btn {margin-top:10px;}
+.save_btn {border:1px solid #bbb; background:#777; padding:1px 3px;margin-top:5px; cursor:hand; font-weight:bold; font-size:11px; color:#fff;}
+
+
+/*publishedAssessment*/
+.spa {padding-left:7px;}
+.spalink a:link {color:Black; text-decoration:underline;padding-left:5px;}
+.spalink a:visited {color:Black; text-decoration:underline;padding-left:5px;}
+.spalink a:hover {color:#3f7d8a; text-decoration:underline;padding-left:5px;}
+.head { height:20px;background-color:#5c809b;color:White;font:bold 12px  Arial, Helvetica, sans-serif;
+	     text-align:left; }
+.row {height:20px;background-color:#E7F3F5;color:Black;font:12px  Arial, Helvetica, sans-serif;
+	     text-align:left; }
+.table_container{Width:860px; background:#D0DFE4 url(../Images/v2/table_conner_top2.gif) no-repeat;}
+.myzoneTableWidth {width:90%;}
+.quesdrp {float:left;}
+.check {border:solid 1px black;line-height:8px;}
+
+/*service plan type*/
+.econtainer {width:600px;padding-left:7px;}
+.container {padding:15px 10px 30px 20px;}
+.table-bg {border:1px dotted #666;padding:4px 4px; background:#E7F3F5; color:#222; font:12px Verdana, Arial, Helvetica, sans-serif; line-height:15px;}
+.addform {font:bold 24px Arial, sans-serif;color:#5d6363; line-height:25px;}
+.boxbg {border:1px dotted #666; background:#E7F3F5; color:#222; font:12px Verdana, Arial, Helvetica, sans-serif; 
+	padding-left:13px;padding-top:10px;padding-bottom:10px;padding-right:10px;line-height:15px;  margin-top:5px; margin-bottom:5px;}
+
+.boxlist{font: bold 11px Verdana, Arial, Helvetica, sans-serif; color:#52585c;}
+.boxlistthree { font: 11px Verdana, Arial, Helvetica, sans-serif; color:#52585c;} 
+.boxlisttwo {font: 12px Verdana, Arial, Helvetica, sans-serif; color:#025e78;}
+.boxlistfor {font: 11px Verdana, Arial, Helvetica, sans-serif; color:#025e78;}
+.spcheckli {font: 12px Verdana, Arial, Helvetica, sans-serif; color:#025e78;}
+.spcheckli input {float:left;}
+.code_btn {background-color:#708a92;border:solid 1px #557f8c;font: 500 12px Arial, verdana;color:White;width:60px;height:20px;margin-top:20px;}
+/*spaform*/
+.spali {font: 11px Verdana, Arial, Helvetica, sans-serif; color:#1d1d1d;}
+/*view/edit*/
+.hidden_msg {font: 12px  Arial, Helvetica, sans-serif;color:Red;}
+.publish_btn {border:1px solid #bbb; background:#777;margin-left:4px; padding:1px 3px; cursor:hand; font-weight:bold; font-size:11px; color:#fff;}
+.addedit_title {margin-bottom:5px;font-size:12px;font-weight:bold;color: Maroon;}
+.formtitle {font-weight:bold;font-size: 11px;display:block;color:#025e78;margin-bottom:5px}
+.medititle {font-weight:bold;font-size: 12px;display:block;color:green;margin-bottom:5px;}
+/*setting*/
+.codelist {font: 11px Verdana, Arial, Helvetica, sans-serif; color:#616002;}
+.codelisttwo {font: 12px Verdana, Arial, Helvetica, sans-serif; color:#025e78;}
+.code_btn {background-color:#708a92;border:solid 1px #557f8c;font: 500 12px Arial, verdana;color:White;width:60px;height:20px;margin-top:20px;}
+.code_close a {float:right;font-size:9px;}
+/*caseload*/
+.caselode_link {position:absolute;top:2px;right:20px;}
+.close {float:right;}
+a.close:link {background: transparent url(../Images/im/iC_close.gif) no-repeat;width:44px;height:10px;}
+a.close:hover {background: transparent url(../Images/im/iC_closeRO.gif) no-repeat;width:44px;height:10px;}
+.box_btn {border:1px solid #bbb; background:#71888b; padding:1px 3px;margin-top:-2px;margin-left:-4px;height:21px; cursor:hand; font-weight:bold; font-size:11px; color:#fff;}
+.tex_box {margin-top:-2px;margin-right:-6px;}
+.radio_btn {margin-right:-10px;position: relative;top:-4px;left:-6px;}
+.reacase {margin-top:15px;}
+.asctit {font: 12px Verdana, Arial, Helvetica, sans-serif; color:#52585c;}
+/*usergroup*/
+.rad_btn {font:bold 12px Arial, Helvetica, sans-serif;color:#52585c;margin-left:-1px;padding-left:0px}
+.rad_title {font:bold 14px Arial, Helvetica, sans-serif;color:#025e78;margin-left:-5px;padding-left:0px}
+.rad_list {font:12px Arial, Helvetica, sans-serif;color:#025e78}
+.ulink {padding-right:15px}
+/*common element*/
+td.staff { vertical-align: text-bottom;}
+hr.one {border: none; color: white;height: 1px; width:100%;}
+hr.two {border: none;border-top: 1px dashed Gray;height: 1px; width:100%;}
+
+/*faces links*/
+.lione { font:11px Arial, sans-serif;color:Gray;height: 26px; text-align:right;vertical-align:top;width: 130px;}
+.lithree { font:11px Arial, sans-serif;color:Gray;height: 26px;vertical-align:top;width: 130px;}
+.co {vertical-align:top;width:2px;}
+.litwo {font:11px Arial, sans-serif;width: 200px;}
+.staffwi_bgtwo {font:12px Arial, Helvetica, sans-serif;background:white;border:1px solid #cac8c8;width:650px;margin-bottom:5px;margin-left:10px;padding:12px 15px 15px 15px;}
+.txt {font:16px Arial, Helvetica, sans-serif;display:block;}
+/*notehistory*/
+.notex {font:12px Verdana, Arial, Helvetica, sans-serif;}
+.noli {text-align:left;color:#222; }
+.norem {width:70px;text-align:right;color:Red; font:12px Verdana, Arial, Helvetica, sans-serif;}
+/*StaffWiz--Sidebar*/
+.sidebg {margin-top:50px;padding-top:0;border:solid 1px black;}
+.sidebtn {padding:4px 3px 4px 3px;}
+.tewi {width:300px;}
+.sidelink {line-height:21px;width:150px;}
+/*casewiz*/
+td.dot {border-right:dotted 1px #cac8c8;}
+.het {margin-top:15px;} 
+.spell_btn {border:1px solid #81836c; background:#e1e1e1; padding:1px 3px;margin-top:5px; cursor:hand; font-weight:bold; font-size:11px; color:#3e4138;width:160px;}
+.labcase {font:13px Arial, Helvetica, sans-serif;}
+
+/*manage staff*/
+.edit_btn {border:1px solid #bbb; background:#777; padding:3px 10px 3px 10px; cursor:hand; font-weight:bold; font-size:11px; color:#fff;}
+
+
+/*EPU*/
+.tydat {position:absolute;top:2px;right:180px;}
+
+/*contact*/
+.labelposi {position:relative;}
+.contlabel {font: 12px  Arial, Helvetica, sans-serif;color:#025e78;width:550px;padding-bottom:15px;}
+.checkbox {font: 12px  Arial, Helvetica, sans-serif;color:red;float:right;position:relative;top:5px;}
+/*addresses*/
+.shownote {text-decoration:none;font-size:12px; color:#000;margin-left:25px;}
+/*Notes*/
+.notecontfont {color:green;font:11px arial, sans-serif; border-top:dotted 1px #adbcc5;padding-top:3px;width:450px;}
+
+/*my clients*/
+#link ul li {display:block;float:left;margin-right:17px;margin-bottom:10px;}
+#link ul A {DISPLAY: block;}
+.messone {font:14px Arial, Helvetica, sans-serif;line-height:30px}
+/*activity list*/
+.view {margin-top:5px;width:30px;padding:1px;color:#387186;}
+.view a:link {color:#1a414f; text-decoration:underline;}
+.email {font:12px Arial;color:#368395;margin-bottom:17px;padding-left:3px;}
+
+/*New Activity*/
+.topwrap {background: transparent url(../Imgs/setting/topwrapper.gif) no-repeat;
+	width:685px;height:20px;margin: 0px auto;margin-top: 20px;}
+.middlebg {background: transparent url(../Imgs/setting/main.gif) repeat-y;
+	width:685px;margin: 0px auto;margin-top:-5px;}
+.botmwrap {background: transparent url(../Imgs/setting/bomwrapper.gif) no-repeat;
+	 width:685px;height:7px;margin: 0px auto;margin-top:-5px;}
+.sepbox {padding-left:15px;padding-right:15px;padding-top:11px;color:#387186;}
+.atitle {background: transparent url(../Imgs/setting/titlebg.gif) repeat-x;
+	width:683px;height:24px;margin: 0px auto;padding-top:3px;}
+/*settings links*/
+#scontainer {margin-top:47px;margin-left:25px;padding-left:45px;width:490px;position:relative;}
+.main {float:left;}
+.side {float:right;}
+.set{margin-bottom:8px;}
+.asm {font:14px Arial,Helvetica, sans-serif;color:#3c8ea3; font-weight:bold; text-decoration:none;position:relative;top:-28px;left:4px;}
+.mc  {font:14px Arial,Helvetica, sans-serif;color:#3c8ea3; font-weight:bold;text-decoration:none;position:relative;top:-40px;left:4px;}
+.sp {font:14px Arial,Helvetica, sans-serif;color:#3c8ea3; font-weight:bold;text-decoration:none;position:relative;top:-28px;right:-2px;}
+.ug {font:14px Arial,Helvetica, sans-serif;color:#3c8ea3; font-weight:bold;text-decoration:none;position:relative;top:-36px;right:-2px;}
+.asmd {font:11px Arial,Helvetica, sans-serif;position:relative;top:-27px;left:69px;width:137px;}
+.mcd {font:11px Arial,Helvetica, sans-serif;position:relative;top:-38px;left:69px;width:137px;}
+.spd {font:11px Arial,Helvetica, sans-serif;position:relative;top:-27px;left:62px;width:137px;}
+.ugd {font:11px Arial,Helvetica, sans-serif;position:relative;top:-35px;left:62px;width:137px;}
+.spd a:link {color:#989ea0;text-decoration:none;}
+.asmd a:link {color:#989ea0;text-decoration:none;}
+.mcd a:link {color:#989ea0;text-decoration:none;}
+.ugd a:link {color:#989ea0;text-decoration:none;}
+.spd a:hover {color:#989ea0;text-decoration:none;}
+.asmd a:hover {color:#989ea0;text-decoration:none;}
+.mcd a:hover {color:#989ea0;text-decoration:none;}
+.ugd a:hover {color:#989ea0;text-decoration:none;}
+.spd a:visited {color:#989ea0;text-decoration:none;}
+.asmd a:visited {color:#989ea0;text-decoration:none;}
+.mcd a:visited {color:#989ea0;text-decoration:none;}
+.ugd a:visited {color:#989ea0;text-decoration:none;}
+
+/*sidebar in addUserGroup
+#usrep {margin-top:8px;margin-bottom:5px;}
+#usrep .SideBarTitles {font:bold 12px Arial, Helvetica, sans-serif;line-height:37px;color:#257f01;padding-top:0px;}
+#usrep ul {margin-top:10px; font:11px Arial, Helvetica, sans-serif;color:#52585c;}
+#usrep li{ list-style:none; }
+#usrep li a { text-decoration:none;color:#52585c;}
+#usrep li a:hover{border-bottom:1px dotted #52585c;color:#52585c;}
+#usrep .edit {margin-right:7px;font:12px Arial, Helvetica, sans-serif;color:#025e78;}
+div.siba ul {margin-top:10px;padding:0px;}
+div.siba ul li {list-style-type:none;}
+
+a.addlink {font:12px Arial, Helvetica, sans-serif;color:#025e78;color:#52585c;}
+*/
+
+
+/*my Queues*/
+.box {border:1px dotted #666; background:#E7F3F5; color:#222; font:12px Verdana, Arial, Helvetica, sans-serif; 
+padding:10px 10px 13px 10px;line-height:15px; margin-top:7px; margin-bottom:7px;}
+.page {color:#52585c; font:11px Verdana, Arial, Helvetica, sans-serif;float:right;padding-right:5px;}
+.rightwbtn {width:20px;height:17px;font-size:9px;padding-right:2px;float:right;}
+.leftbtn {width:20px;height:17px;font-size:9px;float:right;padding-right:5px;}
+.lowriwbtn {width:20px;height:17px;font-size:9px;padding-right:2px;float:right;}
+.lowletbtn {width:20px;height:17px;font-size:9px;float:right;padding-right:5px;}
+/*links*/
+.linksp {margin-right:15px;}
+.req {font-size:11px;color: #ff0000;}
+/*message*/
+.mes_cltinf {font: 12px  Arial, Helvetica, sans-serif;color:Red;margin-left:13px;}
+/*casegrid*/
+#cg {margin-top:3px;padding:4px; background-color:#c9d9de;color:black; font:11px Verdana, Arial, Helvetica, sans-serif;}
+.bor {width:100%;position:relative;}
+.cgaw td {border-bottom:solid 1px white;}
+
+.labcl {color:Green;font-size:15px;margin-bottom:6px;margin-left:8px;}
+.cgar {background-color:#f4fbf4;}
+.cgaw {background-color:#ecf4f7;}
+/*mydraft*/
+#v2main .myhasaweb_container .notebox {border:1px dotted #666; background:#E7F3F5; color:#222; font:12px Verdana, Arial, Helvetica, sans-serif; 
+padding:10px 10px 13px 10px;line-height:15px; margin-top:7px; margin-bottom:7px;}
+/*note*/
+#v2main .factors_container .notebox {border:1px dotted #666; background:#E7F3F5; color:#222; font:12px Verdana, Arial, Helvetica, sans-serif; 
+padding:10px 10px 13px 10px;line-height:15px; margin-top:7px; margin-bottom:7px;}
+#v2main .factors_container .container {width:820px;}
+/*clientGrid*/
+.CGtable {color:black; font:12px Verdana, Arial, Helvetica, sans-serif; padding:4px 0;border:solid 4px #D0DFE4;}
+/*formGrid*/
+.CGtable td {border-bottom:solid 1px white;}
+.rowsty span { text-align:center;font-size:12px; vertical-align:middle;}
+
+.litcount {margin-top:5px;margin-bottom:5px;margin-left:7px;}
+/*view individual*/
+.vieind .box {font:12px Arial, Helvetica, sans-serif;background:white;border:1px solid #cac8c8; min-height:500px;width:650px;margin-bottom:5px;margin-left:10px;padding:12px 15px 15px 15px;}
+.vieind .boxlist{ font:11px Arial, sans-serif;color:Gray;height: 26px;vertical-align:top;width: 130px;}
+.vieind .boxlisttwo {font:11px Arial, sans-serif;width: 200px;color:black;}
+
+/*message*/
+.mesone {font:18px Arial, Helvetica, sans-serif;color:Green;}
+/*separate view Basic Info*/
+.sevibi .box {font:12px Arial, Helvetica, sans-serif;background:white;border:1px solid #cac8c8; min-height:500px;width:780px;margin-bottom:5px;margin-left:4px;padding:12px 15px 15px 15px;}
+.sevibi .boxlist {font:11px Arial, sans-serif;color:Gray;height: 26px;vertical-align:top;}
+.sevibi .boxlisttwo {font:11px Arial, sans-serif;color:black;}
+.sevibi .yesbtn {height:10px;width:10px;font-size:3px;}
+.sevibi .CGtable {color:black; font:12px Verdana, Arial, Helvetica, sans-serif;padding:3px;border:solid 1px #cac8c8;}
+.sevibi .d_bluegreen {padding:3px; background-color:White;}
+.sevibi .myinfo{color:black; font:11px Verdana, Arial, Helvetica, sans-serif;background-color:white; }
+.sevibi .myinfo td{border-top:1px solid #cac8c8; width:100px;}
+
+
+/*dashboard and Settings*/
+.iconSpecMenu
+{
+	padding:40px 0px 0px 0px;}
+	
+.iconSpecMenu a:link,.iconSpecMenu:visited
+{
+	text-decoration:none;}
+
+.iconSpecMenu .iconSpecMenuSection	
+{
+	padding-right:75px;padding-bottom:60px;
+	position:relative;}
+
+.iconSpecMenu table	
+{
+	border-collapse:collapse;
+	border:none 0px;}
+	
+.iconSpecMenu table td.colm, 
+.iconSpecMenu table td 
+{
+	padding-left:75px;}
+	
+.iconSpecMenu a.iconSpecMenuImgLnk
+{
+	display:block;
+	height:50px;}
+
+.dco {font-size:11px;position:absolute;top:17px;left:74px;width:137px;color:#666;}
+.dco a:link{color:#666;}
+.ti {background: transparent url(../Imgs/setting/nobg.png) no-repeat;padding:11px 0px 10px 2px;height:13px;width:32px;text-align:center;display:block;position:absolute;left:30px;top:-6px;}
+.no {color:white;font:10px Verdana,Arial,Helvetica, sans-serif;}
+
+.cont a:link, 
+.cont a
+{
+	padding-left:8px;
+	font-size:14px;font-weight:900;
+	color:#3c8ea3; 
+	text-decoration:none;
+	position:relative;top:-50px;left:65px;}
+

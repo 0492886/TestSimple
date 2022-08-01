@@ -1,0 +1,178 @@
+2017-05-19 10:48:45,602 [  6] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: kidun155fnovdm45qlxfiy45
+2017-05-19 10:48:48,377 [  6] INFO  AppManager [(null)] (landingPage.aspx) - Request from http://localhost:1949/SimpleServings/UI/Page/ 
+Request Type: LogInOut 
+SessionId: qyf21w3mcatr1tm2ig2y0x55
+2017-05-19 10:48:48,378 [  6] INFO  AppManager [(null)] (landingPage.aspx) - Redirecting to Login.aspx 
+Request Type: LogInOut 
+SessionId: qyf21w3mcatr1tm2ig2y0x55
+2017-05-19 10:48:48,389 [  5] INFO  AppManager [(null)] (login.aspx) - Request from http://localhost:1949/SimpleServings/UI/Page/ 
+SessionId: qmcwyn55ajdmze55pp4lnc45
+2017-05-19 10:48:51,734 [  8] INFO  AppManager [(null)] (landingPage.aspx) - Clearing Session 
+Request Type:  
+SessionId: 0e52rf554h3zju553cz10qir
+2017-05-19 10:48:51,748 [  8] INFO  AppManager [(null)] (landingPage.aspx) - New Session 
+Request Type:  
+SessionId: ikbi1v55ys45fq55izqhtvud
+2017-05-19 10:48:51,856 [  6] INFO  AppManager [(null)] (login.aspx) - (cvais7773) - Login successful 
+SessionId: 3ps1drbe3j2qhb55aku0qxem
+2017-05-19 10:48:51,875 [  6] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: ikbi1v55ys45fq55izqhtvud
+2017-05-19 10:49:15,696 [  6] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: ikbi1v55ys45fq55izqhtvud
+2017-05-19 10:49:27,889 [  7] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: ikbi1v55ys45fq55izqhtvud
+2017-05-19 10:49:32,075 [  6] INFO  AppManager [(null)] (Recipe.aspx) - Request from http://localhost:1949/SimpleServings/UI/Page/Home.aspx 
+SessionId: ikbi1v55ys45fq55izqhtvud
+2017-05-19 10:49:35,502 [  8] INFO  AppManager [(null)] (Recipe.aspx) - Request from http://localhost:1949/SimpleServings/UI/Page/SimpleServings/Recipe/Recipe.aspx 
+SessionId: ikbi1v55ys45fq55izqhtvud
+2017-05-19 10:58:29,589 [  5] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: ikbi1v55ys45fq55izqhtvud
+2017-05-19 10:58:30,670 [  8] INFO  AppManager [(null)] (Recipe.aspx) - Request from http://localhost:1949/SimpleServings/UI/Page/ 
+SessionId: ikbi1v55ys45fq55izqhtvud
+2017-05-19 10:59:09,712 [  5] INFO  AppManager [(null)] (Recipe.aspx) - Request from http://localhost:1949/SimpleServings/UI/Page/SimpleServings/Recipe/Recipe.aspx 
+SessionId: ki3o5rqtfmosxn45ksrgyq3o
+2017-05-19 10:59:09,739 [  8] INFO  AppManager [(null)] (Recipe.aspx) - Request from http://localhost:1949/SimpleServings/UI/Page/SimpleServings/Recipe/Recipe.aspx 
+SessionId: 1cnvyczf0eabkl45gmutulvg
+2017-05-19 10:59:09,755 [  5] INFO  AppManager [(null)] (Recipe.aspx) - Request from http://localhost:1949/SimpleServings/UI/Page/SimpleServings/Recipe/Recipe.aspx 
+SessionId: ycp50ve5grmgrs45na15t5rj
+2017-05-19 11:00:58,882 [  7] INFO  AppManager [(null)] (Recipe.aspx) - Request from http://localhost:1949/SimpleServings/UI/Page/SimpleServings/Recipe/Recipe.aspx 
+SessionId: lbkwot3kefwqocyhxrrcf055
+2017-05-19 11:00:58,897 [  8] INFO  AppManager [(null)] (Recipe.aspx) - Request from http://localhost:1949/SimpleServings/UI/Page/SimpleServings/Recipe/Recipe.aspx 
+SessionId: v2ynyp55ji1wjv453okqioew
+2017-05-19 11:00:58,910 [  5] INFO  AppManager [(null)] (Recipe.aspx) - Request from http://localhost:1949/SimpleServings/UI/Page/SimpleServings/Recipe/Recipe.aspx 
+SessionId: 1iq5hi45uocdma45infczv55
+2017-05-19 11:09:26,279 [  8] INFO  AppManager [(null)] (Recipe.aspx) - Request from http://localhost:1949/SimpleServings/UI/Page/SimpleServings/Recipe/Recipe.aspx 
+SessionId: qsfm3x552e3x2u45o2ccys55
+2017-05-19 11:09:26,389 [  5] INFO  AppManager [(null)] (Recipe.aspx) - Request from http://localhost:1949/SimpleServings/UI/Page/SimpleServings/Recipe/Recipe.aspx 
+SessionId: udvzdy45smv020uyx2nsd3jz
+2017-05-19 11:09:26,404 [  5] INFO  AppManager [(null)] (Recipe.aspx) - Request from http://localhost:1949/SimpleServings/UI/Page/SimpleServings/Recipe/Recipe.aspx 
+SessionId: t3pqpx45d01dgijpvhstuq55
+2017-05-19 11:11:48,400 [  8] INFO  AppManager [(null)] (Recipe.aspx) - Request from http://localhost:1949/SimpleServings/UI/Page/SimpleServings/Recipe/Recipe.aspx 
+SessionId: nbywtwq30dk3db55hemawv45
+2017-05-19 11:11:48,414 [  8] INFO  AppManager [(null)] (Recipe.aspx) - Request from http://localhost:1949/SimpleServings/UI/Page/SimpleServings/Recipe/Recipe.aspx 
+SessionId: hrfaao45zlyfuuevgndp3455
+2017-05-19 11:11:48,432 [  8] INFO  AppManager [(null)] (Recipe.aspx) - Request from http://localhost:1949/SimpleServings/UI/Page/SimpleServings/Recipe/Recipe.aspx 
+SessionId: 5rch0qiddabdpcfnb0hc1j2m
+2017-05-19 11:11:56,921 [  8] INFO  AppManager [(null)] (landingPage.aspx) - Request from http://localhost:1949/SimpleServings/UI/Page/SimpleServings/Recipe/Recipe.aspx 
+Request Type: LogInOut 
+SessionId: 54f0larfh5glievo5bdwjc55
+2017-05-19 11:11:56,921 [  8] INFO  AppManager [(null)] (landingPage.aspx) - Redirecting to Login.aspx 
+Request Type: LogInOut 
+SessionId: 54f0larfh5glievo5bdwjc55
+2017-05-19 11:11:56,930 [  6] INFO  AppManager [(null)] (login.aspx) - Request from http://localhost:1949/SimpleServings/UI/Page/SimpleServings/Recipe/Recipe.aspx 
+SessionId: v3anc3rzae2wl2ujgio3ac55
+2017-05-19 11:12:00,948 [  8] INFO  AppManager [(null)] (login.aspx) - (cvais7773) - Login successful 
+SessionId: 0xzeyxfkojhsrb45omfqxl45
+2017-05-19 11:12:00,954 [  6] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: 5alvfszy5nasgkvx5mmnbw55
+2017-05-19 11:12:12,259 [  6] INFO  AppManager [(null)] (Recipe.aspx) - Request from http://localhost:1949/SimpleServings/UI/Page/SimpleServings/Menu/AddMenu.aspx?MenuType=AddMenuUsingSample 
+SessionId: 5alvfszy5nasgkvx5mmnbw55
+2017-05-19 11:12:12,521 [  7] INFO  AppManager [(null)] (Recipe.aspx) - Request from http://localhost:1949/SimpleServings/UI/Page/SimpleServings/Recipe/Recipe.aspx 
+SessionId: 5alvfszy5nasgkvx5mmnbw55
+2017-05-19 11:12:12,535 [  7] INFO  AppManager [(null)] (Recipe.aspx) - Request from http://localhost:1949/SimpleServings/UI/Page/SimpleServings/Recipe/Recipe.aspx 
+SessionId: 5alvfszy5nasgkvx5mmnbw55
+2017-05-19 11:12:12,547 [  7] INFO  AppManager [(null)] (Recipe.aspx) - Request from http://localhost:1949/SimpleServings/UI/Page/SimpleServings/Recipe/Recipe.aspx 
+SessionId: 5alvfszy5nasgkvx5mmnbw55
+2017-05-19 11:13:48,600 [  6] INFO  AppManager [(null)] (landingPage.aspx) - Request from http://localhost:1949/SimpleServings/UI/Page/SimpleServings/Recipe/Recipe.aspx 
+Request Type: LogInOut 
+SessionId: 15web0yitjhl2pmzugf3rnnk
+2017-05-19 11:13:48,601 [  6] INFO  AppManager [(null)] (landingPage.aspx) - Redirecting to Login.aspx 
+Request Type: LogInOut 
+SessionId: 15web0yitjhl2pmzugf3rnnk
+2017-05-19 11:13:48,604 [  7] INFO  AppManager [(null)] (login.aspx) - Request from http://localhost:1949/SimpleServings/UI/Page/SimpleServings/Recipe/Recipe.aspx 
+SessionId: 2ucj52adcrgank2410g1li45
+2017-05-19 11:14:09,527 [  8] INFO  AppManager [(null)] (landingPage.aspx) - Request from http://localhost:1949/SimpleServings/UI/Page/SimpleServings/Recipe/Recipe.aspx 
+Request Type: LogInOut 
+SessionId: sb1jqv2wkkje3cvisid3v345
+2017-05-19 11:14:09,528 [  8] INFO  AppManager [(null)] (landingPage.aspx) - Redirecting to Login.aspx 
+Request Type: LogInOut 
+SessionId: sb1jqv2wkkje3cvisid3v345
+2017-05-19 11:14:09,535 [  6] INFO  AppManager [(null)] (login.aspx) - Request from http://localhost:1949/SimpleServings/UI/Page/SimpleServings/Recipe/Recipe.aspx 
+SessionId: adykrtfakotnt4n10mvuv2mz
+2017-05-19 11:14:16,272 [  6] INFO  AppManager [(null)] (landingPage.aspx) - Clearing Session 
+Request Type:  
+SessionId: bizvmg450wpjklrykl2vep55
+2017-05-19 11:14:16,280 [  6] INFO  AppManager [(null)] (landingPage.aspx) - New Session 
+Request Type:  
+SessionId: bv0hf045l1jeur45dbxk0q34
+2017-05-19 11:14:16,291 [  5] INFO  AppManager [(null)] (login.aspx) - (cvais7773) - Login successful 
+SessionId: niaz3h45fzrihmzc5wkwpf21
+2017-05-19 11:14:16,294 [  6] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: bv0hf045l1jeur45dbxk0q34
+2017-05-19 11:14:19,138 [  6] INFO  AppManager [(null)] (Recipe.aspx) - Request from http://localhost:1949/SimpleServings/UI/Page/Home.aspx 
+SessionId: bv0hf045l1jeur45dbxk0q34
+2017-05-19 11:14:27,909 [  6] INFO  AppManager [(null)] (Recipe.aspx) - Request from http://localhost:1949/SimpleServings/UI/Page/SimpleServings/Menu/AddMenu.aspx?MenuType=AddMenu 
+SessionId: bv0hf045l1jeur45dbxk0q34
+2017-05-19 11:16:03,543 [  7] INFO  AppManager [(null)] (Recipe.aspx) - Request from http://localhost:1949/SimpleServings/UI/Page/SimpleServings/Recipe/Recipe.aspx 
+SessionId: 5alvfszy5nasgkvx5mmnbw55
+2017-05-19 11:16:03,561 [  7] INFO  AppManager [(null)] (Recipe.aspx) - Request from http://localhost:1949/SimpleServings/UI/Page/SimpleServings/Recipe/Recipe.aspx 
+SessionId: 5alvfszy5nasgkvx5mmnbw55
+2017-05-19 11:16:03,581 [  5] INFO  AppManager [(null)] (Recipe.aspx) - Request from http://localhost:1949/SimpleServings/UI/Page/SimpleServings/Recipe/Recipe.aspx 
+SessionId: 5alvfszy5nasgkvx5mmnbw55
+2017-05-19 11:16:12,035 [  6] INFO  AppManager [(null)] (Recipe.aspx) - Request from http://localhost:1949/SimpleServings/UI/Page/ 
+SessionId: ikbi1v55ys45fq55izqhtvud
+2017-05-19 11:16:48,544 [  8] INFO  AppManager [(null)] (Recipe.aspx) - Request from http://localhost:1949/SimpleServings/UI/Page/ 
+SessionId: ikbi1v55ys45fq55izqhtvud
+2017-05-19 11:16:58,513 [  5] INFO  AppManager [(null)] (Recipe.aspx) - Request from http://localhost:1949/SimpleServings/UI/Page/SimpleServings/Recipe/Recipe.aspx 
+SessionId: 5alvfszy5nasgkvx5mmnbw55
+2017-05-19 11:16:58,527 [  5] INFO  AppManager [(null)] (Recipe.aspx) - Request from http://localhost:1949/SimpleServings/UI/Page/SimpleServings/Recipe/Recipe.aspx 
+SessionId: 5alvfszy5nasgkvx5mmnbw55
+2017-05-19 11:16:58,539 [  8] INFO  AppManager [(null)] (Recipe.aspx) - Request from http://localhost:1949/SimpleServings/UI/Page/SimpleServings/Recipe/Recipe.aspx 
+SessionId: 5alvfszy5nasgkvx5mmnbw55
+2017-05-19 11:20:01,732 [  6] INFO  AppManager [(null)] (Recipe.aspx) - Request from http://localhost:1949/SimpleServings/UI/Page/ 
+SessionId: ikbi1v55ys45fq55izqhtvud
+2017-05-19 11:20:16,019 [  8] INFO  AppManager [(null)] (Recipe.aspx) - Request from http://localhost:1949/SimpleServings/UI/Page/SimpleServings/Recipe/Recipe.aspx 
+SessionId: 5alvfszy5nasgkvx5mmnbw55
+2017-05-19 11:20:16,044 [  8] INFO  AppManager [(null)] (Recipe.aspx) - Request from http://localhost:1949/SimpleServings/UI/Page/SimpleServings/Recipe/Recipe.aspx 
+SessionId: 5alvfszy5nasgkvx5mmnbw55
+2017-05-19 11:20:16,070 [  8] INFO  AppManager [(null)] (Recipe.aspx) - Request from http://localhost:1949/SimpleServings/UI/Page/SimpleServings/Recipe/Recipe.aspx 
+SessionId: 5alvfszy5nasgkvx5mmnbw55
+2017-05-19 11:21:55,532 [  7] INFO  AppManager [(null)] (Recipe.aspx) - Request from http://localhost:1949/SimpleServings/UI/Page/ 
+SessionId: ikbi1v55ys45fq55izqhtvud
+2017-05-19 11:34:17,237 [  8] INFO  AppManager [(null)] (Recipe.aspx) - Request from http://localhost:1949/SimpleServings/UI/Page/SimpleServings/Recipe/Recipe.aspx 
+SessionId: 5alvfszy5nasgkvx5mmnbw55
+2017-05-19 11:34:17,255 [  8] INFO  AppManager [(null)] (Recipe.aspx) - Request from http://localhost:1949/SimpleServings/UI/Page/SimpleServings/Recipe/Recipe.aspx 
+SessionId: 5alvfszy5nasgkvx5mmnbw55
+2017-05-19 11:34:17,269 [  8] INFO  AppManager [(null)] (Recipe.aspx) - Request from http://localhost:1949/SimpleServings/UI/Page/SimpleServings/Recipe/Recipe.aspx 
+SessionId: 5alvfszy5nasgkvx5mmnbw55
+2017-05-19 11:35:13,377 [  7] INFO  AppManager [(null)] (Recipe.aspx) - Request from http://localhost:1949/SimpleServings/UI/Page/SimpleServings/Recipe/Recipe.aspx 
+SessionId: 5alvfszy5nasgkvx5mmnbw55
+2017-05-19 11:35:13,396 [  7] INFO  AppManager [(null)] (Recipe.aspx) - Request from http://localhost:1949/SimpleServings/UI/Page/SimpleServings/Recipe/Recipe.aspx 
+SessionId: 5alvfszy5nasgkvx5mmnbw55
+2017-05-19 11:35:13,414 [  6] INFO  AppManager [(null)] (Recipe.aspx) - Request from http://localhost:1949/SimpleServings/UI/Page/SimpleServings/Recipe/Recipe.aspx 
+SessionId: 5alvfszy5nasgkvx5mmnbw55
+2017-05-19 11:46:46,037 [  8] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: yt0ih545jta3vgmz55mpun55
+2017-05-19 11:46:50,403 [  8] INFO  AppManager [(null)] (Recipe.aspx) - Request from http://localhost:1949/SimpleServings/UI/Page/ 
+SessionId: n5c1sjviwnqxlzbojygv3155
+2017-05-19 11:47:42,271 [  7] INFO  AppManager [(null)] (Recipe.aspx) - Request from http://localhost:1949/SimpleServings/UI/Page/SimpleServings/Recipe/Recipe.aspx 
+SessionId: 21g0yz45yfwamd55omhowb55
+2017-05-19 11:47:44,004 [  7] INFO  AppManager [(null)] (landingPage.aspx) - Request from http://localhost:1949/SimpleServings/UI/Page/SimpleServings/Recipe/Recipe.aspx 
+Request Type: LogInOut 
+SessionId: zyonc2jd5nhqip2x3no1sqfm
+2017-05-19 11:47:44,005 [  7] INFO  AppManager [(null)] (landingPage.aspx) - Redirecting to Login.aspx 
+Request Type: LogInOut 
+SessionId: zyonc2jd5nhqip2x3no1sqfm
+2017-05-19 11:47:44,009 [  8] INFO  AppManager [(null)] (login.aspx) - Request from http://localhost:1949/SimpleServings/UI/Page/SimpleServings/Recipe/Recipe.aspx 
+SessionId: cg3da455i5ffrbjenlly4dya
+2017-05-19 11:47:48,571 [  6] INFO  AppManager [(null)] (landingPage.aspx) - Clearing Session 
+Request Type:  
+SessionId: 4xbfbv45d2l34hjlci1ta255
+2017-05-19 11:47:48,588 [  8] INFO  AppManager [(null)] (landingPage.aspx) - New Session 
+Request Type:  
+SessionId: lwv3cw45murfcu553355n055
+2017-05-19 11:47:48,611 [  7] INFO  AppManager [(null)] (login.aspx) - (cvais7773) - Login successful 
+SessionId: uxwaaraouguiyb2c44emmc45
+2017-05-19 11:47:48,617 [  8] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: lwv3cw45murfcu553355n055
+2017-05-19 11:47:50,422 [  8] INFO  AppManager [(null)] (Recipe.aspx) - Request from http://localhost:1949/SimpleServings/UI/Page/Home.aspx 
+SessionId: lwv3cw45murfcu553355n055
+2017-05-19 11:53:13,082 [ 12] INFO  AppManager [(null)] SimpleServings started.
+2017-05-19 13:36:40,975 [  6] INFO  AppManager [(null)] (landingPage.aspx) - Redirecting to Login.aspx 
+Request Type: LogInOut 
+SessionId: 
+2017-05-19 13:36:43,986 [  6] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: idq2wk3arxqvfr45lodgob45
+2017-05-19 13:36:48,761 [  8] INFO  AppManager [(null)] (Recipe.aspx) - Request from http://localhost:1949/SimpleServings/UI/Page/Home.aspx 
+SessionId: idq2wk3arxqvfr45lodgob45

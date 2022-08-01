@@ -1,0 +1,166 @@
+2021-05-01 00:09:11,659 [  1] INFO  AppManager [(null)] SimpleServings started.
+2021-05-01 00:10:09,663 [ 13] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: 11klzd0ttb4d5tehgpzejpcs
+2021-05-01 00:27:05,121 [  1] INFO  AppManager [(null)] SimpleServings started.
+2021-05-01 00:28:44,974 [ 67] INFO  AppManager [(null)] (login.aspx) - (Mli) - Login successful 
+SessionId: q23cwvovdg1m321obytb3bf2
+2021-05-01 00:28:45,033 [ 92] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: lknpsmf5vsnbowui0kjcpomu
+2021-05-01 00:36:15,117 [ 21] INFO  AppManager [(null)] SimpleServings started.
+2021-05-01 00:37:47,567 [ 95] INFO  AppManager [(null)] (login.aspx) - (Mli) - Login successful 
+SessionId: a0r3cgazdhszicgqg0vyqtu1
+2021-05-01 00:37:47,607 [ 88] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: 1r3e13fmntwygbe2vhhbwgxz
+2021-05-01 01:19:39,778 [ 19] INFO  AppManager [(null)] (landingPage.aspx) - Clearing Session 
+Request Type:  
+SessionId: afuecrxjoq22lgimydfq3pxb
+2021-05-01 01:19:39,785 [ 90] INFO  AppManager [(null)] (landingPage.aspx) - New Session 
+Request Type:  
+SessionId: 1ud1wqjiqifigoyu4vcya2x3
+2021-05-01 01:19:40,592 [ 85] INFO  AppManager [(null)] (login.aspx) - (Mli) - Login successful 
+SessionId: c2zejlv4deru4lvko3s4hsrq
+2021-05-01 01:19:41,547 [ 17] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: 1ud1wqjiqifigoyu4vcya2x3
+2021-05-01 09:53:17,522 [  1] INFO  AppManager [(null)] SimpleServings started.
+2021-05-01 09:55:03,878 [ 16] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: 4tr5xfowendxpjihdtjyfdkb
+2021-05-01 09:56:04,845 [ 20] INFO  AppManager [(null)] (landingPage.aspx) - Clearing Session 
+Request Type:  
+SessionId: 4tr5xfowendxpjihdtjyfdkb
+2021-05-01 09:56:04,854 [ 21] INFO  AppManager [(null)] (landingPage.aspx) - New Session 
+Request Type:  
+SessionId: drpvinfybafrue5ahpyrstbf
+2021-05-01 09:56:05,041 [ 17] INFO  AppManager [(null)] (login.aspx) - (Mli) - Login successful 
+SessionId: mzleq3suddidtpiktxung2sc
+2021-05-01 09:56:05,061 [ 18] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: drpvinfybafrue5ahpyrstbf
+2021-05-01 10:12:07,263 [ 32] INFO  AppManager [(null)] SimpleServings started.
+2021-05-01 10:12:50,748 [ 22] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: 3tujk1xvzddrhqzvzuattxdr
+2021-05-01 10:23:38,632 [ 39] INFO  AppManager [(null)] SimpleServings started.
+2021-05-01 10:24:05,029 [ 30] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: ns2tthgf4rv3vbgxhwjdassz
+2021-05-01 10:24:23,537 [ 14] ERROR AppManager [(null)] SimpleServings application error: Exception of type 'System.Web.HttpUnhandledException' was thrown.
+location: http://localhost:1948/SimpleServings/UI/Page/SimpleServings/Menu/ReplicateMenu.aspx?MenuID=16257
+
+System.Web.HttpUnhandledException (0x80004005): Exception of type 'System.Web.HttpUnhandledException' was thrown. ---> System.Exception: Please Select at least one Contract!
+   at SimpleServings.UI.UDC.SimpleServings.Menu.ReplicateMenu.ReturnSelectedContracts() in E:\DFTA coding\SimpleServings\Assu_version\Ansu_4_20\SimpleServings\SimpleServings\UI\UDC\SimpleServings\Menu\ReplicateMenu.ascx.cs:line 280
+   at SimpleServings.UI.UDC.SimpleServings.Menu.ReplicateMenu.PopMenuName() in E:\DFTA coding\SimpleServings\Assu_version\Ansu_4_20\SimpleServings\SimpleServings\UI\UDC\SimpleServings\Menu\ReplicateMenu.ascx.cs:line 464
+   at SimpleServings.UI.UDC.SimpleServings.Menu.ReplicateMenu.Page_Load(Object sender, EventArgs e) in E:\DFTA coding\SimpleServings\Assu_version\Ansu_4_20\SimpleServings\SimpleServings\UI\UDC\SimpleServings\Menu\ReplicateMenu.ascx.cs:line 42
+   at System.Web.Util.CalliEventHandlerDelegateProxy.Callback(Object sender, EventArgs e)
+   at System.Web.UI.Control.OnLoad(EventArgs e)
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   at System.Web.UI.Page.HandleError(Exception e)
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   at System.Web.UI.Page.ProcessRequest(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   at System.Web.UI.Page.ProcessRequest()
+   at System.Web.UI.Page.ProcessRequestWithNoAssert(HttpContext context)
+   at System.Web.UI.Page.ProcessRequest(HttpContext context)
+   at ASP.ui_page_simpleservings_menu_replicatemenu_aspx.ProcessRequest(HttpContext context) in c:\Users\mali\AppData\Local\Temp\Temporary ASP.NET Files\simpleservings\c83455a8\f46284b5\App_Web_e3vwjltw.6.cs:line 0
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStepImpl(IExecutionStep step)
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+2021-05-01 10:25:23,992 [ 39] INFO  AppManager [(null)] SimpleServings started.
+2021-05-01 10:25:42,847 [ 14] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: tydmxj3c5uv2g5xhxg5lcyx2
+2021-05-01 10:26:54,919 [  1] INFO  AppManager [(null)] SimpleServings started.
+2021-05-01 10:27:16,735 [ 10] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: bxen1x30inzahomzm2lalmiy
+2021-05-01 10:28:56,571 [ 12] ERROR AppManager [(null)] SimpleServings application error: Exception of type 'System.Web.HttpUnhandledException' was thrown.
+location: http://localhost:1948/SimpleServings/UI/Page/SimpleServings/Menu/ReplicateMenu.aspx?MenuID=16257
+
+System.Web.HttpUnhandledException (0x80004005): Exception of type 'System.Web.HttpUnhandledException' was thrown. ---> System.Exception: Please Select at least one Contract!
+   at SimpleServings.UI.UDC.SimpleServings.Menu.ReplicateMenu.ReturnSelectedContracts() in E:\DFTA coding\SimpleServings\Assu_version\Ansu_4_20\SimpleServings\SimpleServings\UI\UDC\SimpleServings\Menu\ReplicateMenu.ascx.cs:line 280
+   at SimpleServings.UI.UDC.SimpleServings.Menu.ReplicateMenu.PopMenuName() in E:\DFTA coding\SimpleServings\Assu_version\Ansu_4_20\SimpleServings\SimpleServings\UI\UDC\SimpleServings\Menu\ReplicateMenu.ascx.cs:line 464
+   at SimpleServings.UI.UDC.SimpleServings.Menu.ReplicateMenu.Page_Load(Object sender, EventArgs e) in E:\DFTA coding\SimpleServings\Assu_version\Ansu_4_20\SimpleServings\SimpleServings\UI\UDC\SimpleServings\Menu\ReplicateMenu.ascx.cs:line 42
+   at System.Web.Util.CalliEventHandlerDelegateProxy.Callback(Object sender, EventArgs e)
+   at System.Web.UI.Control.OnLoad(EventArgs e)
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   at System.Web.UI.Page.HandleError(Exception e)
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   at System.Web.UI.Page.ProcessRequest(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   at System.Web.UI.Page.ProcessRequest()
+   at System.Web.UI.Page.ProcessRequestWithNoAssert(HttpContext context)
+   at System.Web.UI.Page.ProcessRequest(HttpContext context)
+   at ASP.ui_page_simpleservings_menu_replicatemenu_aspx.ProcessRequest(HttpContext context) in c:\Users\mali\AppData\Local\Temp\Temporary ASP.NET Files\simpleservings\c83455a8\f46284b5\App_Web_pk5ttije.8.cs:line 0
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStepImpl(IExecutionStep step)
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+2021-05-01 10:30:56,426 [  9] INFO  AppManager [(null)] (landingPage.aspx) - Clearing Session 
+Request Type:  
+SessionId: 4xxmbbiyzjr5chi1cbtbjudn
+2021-05-01 10:30:56,439 [ 26] INFO  AppManager [(null)] (landingPage.aspx) - New Session 
+Request Type:  
+SessionId: n5l5ea1w24uluxrtaayykfiu
+2021-05-01 10:30:56,616 [ 41] INFO  AppManager [(null)] (login.aspx) - (Mli) - Login successful 
+SessionId: e4qnjw4vvl2oqujlgacg0zpx
+2021-05-01 10:30:56,622 [ 34] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: n5l5ea1w24uluxrtaayykfiu
+2021-05-01 10:35:28,932 [  1] INFO  AppManager [(null)] SimpleServings started.
+2021-05-01 10:35:50,425 [ 57] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: uzzthxegiidzm2gxplc2wnlt
+2021-05-01 10:52:29,056 [  1] INFO  AppManager [(null)] SimpleServings started.
+2021-05-01 10:52:55,093 [ 66] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: 2ueulmavwcjwx1ys4sgee3vm
+2021-05-01 10:55:48,294 [ 43] INFO  AppManager [(null)] SimpleServings started.
+2021-05-01 11:01:14,083 [ 12] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: bufn2sag0zpid5lomzb1r3kx
+2021-05-01 11:02:38,322 [ 61] INFO  AppManager [(null)] (landingPage.aspx) - Clearing Session 
+Request Type:  
+SessionId: ccv5uhqhrm3ujmpewwoabhbh
+2021-05-01 11:02:38,336 [ 62] INFO  AppManager [(null)] (landingPage.aspx) - New Session 
+Request Type:  
+SessionId: a4gut0ocjhuaa0icnv13ik5v
+2021-05-01 11:02:38,512 [ 13] INFO  AppManager [(null)] (login.aspx) - (Mli) - Login successful 
+SessionId: baof1hw0nyuhtcwbzm2bbebc
+2021-05-01 11:02:38,516 [ 58] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: a4gut0ocjhuaa0icnv13ik5v
+2021-05-01 11:27:18,690 [114] INFO  AppManager [(null)] (landingPage.aspx) - Clearing Session 
+Request Type:  
+SessionId: xkspnhgbbtllbqhzd10xwwoj
+2021-05-01 11:27:18,703 [106] INFO  AppManager [(null)] (landingPage.aspx) - New Session 
+Request Type:  
+SessionId: vkjbehl1he1mn15243dgadf5
+2021-05-01 11:27:18,884 [ 17] INFO  AppManager [(null)] (login.aspx) - (Mli) - Login successful 
+SessionId: 22t0nvll4xq13suh5nlqluyo
+2021-05-01 11:27:18,890 [110] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: vkjbehl1he1mn15243dgadf5
+2021-05-01 11:29:02,224 [106] INFO  AppManager [(null)] (landingPage.aspx) - Clearing Session 
+Request Type:  
+SessionId: nj2hpbgsrvfpusxvjxneh2vn
+2021-05-01 11:29:02,235 [ 17] INFO  AppManager [(null)] (landingPage.aspx) - New Session 
+Request Type:  
+SessionId: gie5duue4fchpuxdyjggqzhh
+2021-05-01 11:29:02,410 [116] INFO  AppManager [(null)] (login.aspx) - (Mli) - Login successful 
+SessionId: vghw5tnbgpj12iqpw5l4bqdh
+2021-05-01 11:29:02,416 [109] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: gie5duue4fchpuxdyjggqzhh
+2021-05-01 11:56:10,175 [ 57] INFO  AppManager [(null)] SimpleServings started.
+2021-05-01 11:56:33,821 [ 44] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: apao5of0ijuyvrbgahe5jmfy
+2021-05-01 12:00:38,567 [  1] INFO  AppManager [(null)] SimpleServings started.
+2021-05-01 12:01:16,359 [ 20] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: a5c11euobuv2bpea3hx4ldaq
+2021-05-01 12:01:54,609 [  1] INFO  AppManager [(null)] SimpleServings started.
+2021-05-01 12:02:49,803 [ 13] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: jzgtjeggpwisibze3vs5y312
+2021-05-01 12:04:26,433 [ 10] INFO  AppManager [(null)] (landingPage.aspx) - Clearing Session 
+Request Type:  
+SessionId: 1snyswxazrhd3xhbjxsg1mhw
+2021-05-01 12:04:26,452 [ 14] INFO  AppManager [(null)] (landingPage.aspx) - New Session 
+Request Type:  
+SessionId: 3thomemf0ir2ht3ivj4mvpuq
+2021-05-01 12:04:26,656 [ 13] INFO  AppManager [(null)] (login.aspx) - (Mli) - Login successful 
+SessionId: biznpi0titzxr5bxppxwias4
+2021-05-01 12:04:26,663 [ 16] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: 3thomemf0ir2ht3ivj4mvpuq

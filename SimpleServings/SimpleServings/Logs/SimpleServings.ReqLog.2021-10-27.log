@@ -1,0 +1,325 @@
+2021-10-27 09:21:13,022 [  1] INFO  AppManager [(null)] SimpleServings started.
+2021-10-27 09:27:12,489 [ 31] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: sytmepnyywflcv2vj22qah3f
+2021-10-27 09:27:30,988 [ 36] INFO  AppManager [(null)] (Recipe.aspx) - Request from http://localhost:1945/SimpleServings/UI/Page/SimpleServings/Recipe/AddRecipe.aspx 
+SessionId: sytmepnyywflcv2vj22qah3f
+2021-10-27 09:27:30,996 [ 36] ERROR AppManager [(null)] SimpleServings application error: Exception of type 'System.Web.HttpUnhandledException' was thrown.
+location: http://localhost:1945/SimpleServings/UI/Page/SimpleServings/Recipe/Recipe.aspx
+
+System.Web.HttpUnhandledException (0x80004005): Exception of type 'System.Web.HttpUnhandledException' was thrown. ---> System.Exception: Object cannot be cast from DBNull to other types.
+   at SimpleServings.UI.Page.Recipe.PopCategoryandTags() in E:\DFTA coding\SimpleServings\SimpleServings_networkVersion_I_do\SimpleServing_Latest\Ansu_4_20\NewSimple\SimpleServings\SimpleServings\UI\Page\SimpleServings\Recipe\Recipe.aspx.cs:line 87
+   at SimpleServings.UI.Page.Recipe.Page_Load(Object sender, EventArgs e) in E:\DFTA coding\SimpleServings\SimpleServings_networkVersion_I_do\SimpleServing_Latest\Ansu_4_20\NewSimple\SimpleServings\SimpleServings\UI\Page\SimpleServings\Recipe\Recipe.aspx.cs:line 29
+   at System.Web.Util.CalliEventHandlerDelegateProxy.Callback(Object sender, EventArgs e)
+   at System.Web.UI.Control.OnLoad(EventArgs e)
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   at System.Web.UI.Page.HandleError(Exception e)
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   at System.Web.UI.Page.ProcessRequest(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   at System.Web.UI.Page.ProcessRequest()
+   at System.Web.UI.Page.ProcessRequestWithNoAssert(HttpContext context)
+   at System.Web.UI.Page.ProcessRequest(HttpContext context)
+   at ASP.ui_page_simpleservings_recipe_recipe_aspx.ProcessRequest(HttpContext context) in c:\Users\mali\AppData\Local\Temp\Temporary ASP.NET Files\simpleservings\7dcfb244\fadae239\App_Web_e1y43zaq.9.cs:line 0
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStepImpl(IExecutionStep step)
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+2021-10-27 09:30:15,858 [  1] INFO  AppManager [(null)] SimpleServings started.
+2021-10-27 09:30:34,602 [ 12] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: 122uefehyy1wi1m1qp1sruaw
+2021-10-27 09:30:39,304 [ 10] INFO  AppManager [(null)] (Recipe.aspx) - Request from http://localhost:1945/SimpleServings/UI/Page/Home.aspx 
+SessionId: 122uefehyy1wi1m1qp1sruaw
+2021-10-27 09:32:26,487 [ 10] ERROR AppManager [(null)] SimpleServings application error: Exception of type 'System.Web.HttpUnhandledException' was thrown.
+location: http://localhost:1945/SimpleServings/UI/Page/SimpleServings/Recipe/Recipe.aspx
+
+System.Web.HttpUnhandledException (0x80004005): Exception of type 'System.Web.HttpUnhandledException' was thrown. ---> System.Exception: Object cannot be cast from DBNull to other types.
+   at SimpleServings.UI.Page.Recipe.PopCategoryandTags() in E:\DFTA coding\SimpleServings\SimpleServings_networkVersion_I_do\SimpleServing_Latest\Ansu_4_20\NewSimple\SimpleServings\SimpleServings\UI\Page\SimpleServings\Recipe\Recipe.aspx.cs:line 87
+   at SimpleServings.UI.Page.Recipe.Page_Load(Object sender, EventArgs e) in E:\DFTA coding\SimpleServings\SimpleServings_networkVersion_I_do\SimpleServing_Latest\Ansu_4_20\NewSimple\SimpleServings\SimpleServings\UI\Page\SimpleServings\Recipe\Recipe.aspx.cs:line 29
+   at System.Web.Util.CalliEventHandlerDelegateProxy.Callback(Object sender, EventArgs e)
+   at System.Web.UI.Control.OnLoad(EventArgs e)
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   at System.Web.UI.Page.HandleError(Exception e)
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   at System.Web.UI.Page.ProcessRequest(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   at System.Web.UI.Page.ProcessRequest()
+   at System.Web.UI.Page.ProcessRequestWithNoAssert(HttpContext context)
+   at System.Web.UI.Page.ProcessRequest(HttpContext context)
+   at ASP.ui_page_simpleservings_recipe_recipe_aspx.ProcessRequest(HttpContext context) in c:\Users\mali\AppData\Local\Temp\Temporary ASP.NET Files\simpleservings\7dcfb244\fadae239\App_Web_e1y43zaq.9.cs:line 0
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStepImpl(IExecutionStep step)
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+2021-10-27 09:32:44,610 [ 10] INFO  AppManager [(null)] (landingPage.aspx) - Clearing Session 
+Request Type:  
+SessionId: dhlp0r4y1n0jeep3ttzxqvwm
+2021-10-27 09:32:44,665 [ 13] INFO  AppManager [(null)] (landingPage.aspx) - New Session 
+Request Type:  
+SessionId: jj4vhbmij5izofzmv3f02j2c
+2021-10-27 09:32:44,941 [ 12] INFO  AppManager [(null)] (login.aspx) - (Mli) - Login successful 
+SessionId: 0vnlj5ebwjnzdl4sd3hwtx00
+2021-10-27 09:32:44,962 [ 46] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: jj4vhbmij5izofzmv3f02j2c
+2021-10-27 09:32:49,017 [ 10] INFO  AppManager [(null)] (Recipe.aspx) - Request from http://localhost:1945/SimpleServings/UI/Page/Home.aspx 
+SessionId: jj4vhbmij5izofzmv3f02j2c
+2021-10-27 09:34:48,386 [ 10] ERROR AppManager [(null)] SimpleServings application error: Exception of type 'System.Web.HttpUnhandledException' was thrown.
+location: http://localhost:1945/SimpleServings/UI/Page/SimpleServings/Recipe/Recipe.aspx
+
+System.Web.HttpUnhandledException (0x80004005): Exception of type 'System.Web.HttpUnhandledException' was thrown. ---> System.Exception: Object cannot be cast from DBNull to other types.
+   at SimpleServings.UI.Page.Recipe.PopCategoryandTags() in E:\DFTA coding\SimpleServings\SimpleServings_networkVersion_I_do\SimpleServing_Latest\Ansu_4_20\NewSimple\SimpleServings\SimpleServings\UI\Page\SimpleServings\Recipe\Recipe.aspx.cs:line 87
+   at SimpleServings.UI.Page.Recipe.Page_Load(Object sender, EventArgs e) in E:\DFTA coding\SimpleServings\SimpleServings_networkVersion_I_do\SimpleServing_Latest\Ansu_4_20\NewSimple\SimpleServings\SimpleServings\UI\Page\SimpleServings\Recipe\Recipe.aspx.cs:line 29
+   at System.Web.Util.CalliEventHandlerDelegateProxy.Callback(Object sender, EventArgs e)
+   at System.Web.UI.Control.OnLoad(EventArgs e)
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   at System.Web.UI.Page.HandleError(Exception e)
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   at System.Web.UI.Page.ProcessRequest(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   at System.Web.UI.Page.ProcessRequest()
+   at System.Web.UI.Page.ProcessRequestWithNoAssert(HttpContext context)
+   at System.Web.UI.Page.ProcessRequest(HttpContext context)
+   at ASP.ui_page_simpleservings_recipe_recipe_aspx.ProcessRequest(HttpContext context) in c:\Users\mali\AppData\Local\Temp\Temporary ASP.NET Files\simpleservings\7dcfb244\fadae239\App_Web_e1y43zaq.9.cs:line 0
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStepImpl(IExecutionStep step)
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+2021-10-27 09:39:33,756 [ 78] INFO  AppManager [(null)] (landingPage.aspx) - Clearing Session 
+Request Type:  
+SessionId: w5xgsqwpxwgitg4ywh2b4amv
+2021-10-27 09:39:33,780 [ 84] INFO  AppManager [(null)] (landingPage.aspx) - New Session 
+Request Type:  
+SessionId: fucguontqqeraodgyw14fpy0
+2021-10-27 09:39:34,124 [ 70] INFO  AppManager [(null)] (login.aspx) - (Mli) - Login successful 
+SessionId: 4rrj2pnm5ai3whryxlzeitdn
+2021-10-27 09:39:34,139 [ 81] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: fucguontqqeraodgyw14fpy0
+2021-10-27 09:39:35,872 [ 85] INFO  AppManager [(null)] (Recipe.aspx) - Request from http://localhost:1945/SimpleServings/UI/Page/Home.aspx 
+SessionId: fucguontqqeraodgyw14fpy0
+2021-10-27 09:48:30,976 [116] INFO  AppManager [(null)] (landingPage.aspx) - Clearing Session 
+Request Type:  
+SessionId: doucsdabgsu3xvybcshmqk0e
+2021-10-27 09:48:30,998 [125] INFO  AppManager [(null)] (landingPage.aspx) - New Session 
+Request Type:  
+SessionId: byztfec4xyuvvr3hxtlqj3xg
+2021-10-27 09:48:31,653 [115] INFO  AppManager [(null)] (login.aspx) - (Mli) - Login successful 
+SessionId: yqtqi1nj55yrtp51ojwxgrmf
+2021-10-27 09:48:31,660 [110] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: byztfec4xyuvvr3hxtlqj3xg
+2021-10-27 10:00:34,777 [122] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: zxb41wlcc0vst5fjftsfgaqg
+2021-10-27 10:10:47,253 [ 67] INFO  AppManager [(null)] (landingPage.aspx) - Clearing Session 
+Request Type:  
+SessionId: 1xi54rtk1yokyro0mxef5nj1
+2021-10-27 10:10:47,271 [ 59] INFO  AppManager [(null)] (landingPage.aspx) - New Session 
+Request Type:  
+SessionId: 40o4jlodfffenptbpz3zpvtg
+2021-10-27 10:10:47,598 [ 65] INFO  AppManager [(null)] (login.aspx) - (Mli) - Login successful 
+SessionId: j0mbxgmvhih44ytsf1tzzslv
+2021-10-27 10:10:47,604 [ 54] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: 40o4jlodfffenptbpz3zpvtg
+2021-10-27 10:27:26,162 [ 88] INFO  AppManager [(null)] (landingPage.aspx) - Clearing Session 
+Request Type:  
+SessionId: ei5oz10xzaqi0zr2mnel2caj
+2021-10-27 10:27:26,174 [ 31] INFO  AppManager [(null)] (landingPage.aspx) - New Session 
+Request Type:  
+SessionId: yrbbnb05vt0mnyzs1mjg3nrd
+2021-10-27 10:27:26,450 [ 88] INFO  AppManager [(null)] (login.aspx) - (Mli) - Login successful 
+SessionId: fwgh5cboa3lzfieh1dkams2p
+2021-10-27 10:27:26,454 [ 40] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: yrbbnb05vt0mnyzs1mjg3nrd
+2021-10-27 10:28:04,002 [ 32] INFO  AppManager [(null)] (landingPage.aspx) - Clearing Session 
+Request Type:  
+SessionId: qofhev0riy20k4vhxmycir2x
+2021-10-27 10:28:04,014 [ 88] INFO  AppManager [(null)] (landingPage.aspx) - New Session 
+Request Type:  
+SessionId: devzxiwg55qdurqyopsf5kba
+2021-10-27 10:28:04,268 [ 95] INFO  AppManager [(null)] (login.aspx) - (Mli) - Login successful 
+SessionId: tjftiv54jgfkhon4rldzedjy
+2021-10-27 10:28:04,272 [ 64] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: devzxiwg55qdurqyopsf5kba
+2021-10-27 10:28:41,964 [  3] INFO  AppManager [(null)] SimpleServings started.
+2021-10-27 10:28:57,445 [ 64] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: bn0nlsgl2uz2idlrcdrxod4z
+2021-10-27 10:30:11,338 [ 32] INFO  AppManager [(null)] (landingPage.aspx) - Clearing Session 
+Request Type:  
+SessionId: cw23p5enlwkvyadgldluyf4d
+2021-10-27 10:30:11,353 [108] INFO  AppManager [(null)] (landingPage.aspx) - New Session 
+Request Type:  
+SessionId: hnfigsetanmbb0pqrmdhjr5a
+2021-10-27 10:30:11,588 [ 62] INFO  AppManager [(null)] (login.aspx) - (Mli) - Login successful 
+SessionId: uawqqzeemb0wfy0rbi03rlh2
+2021-10-27 10:30:11,596 [ 73] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: hnfigsetanmbb0pqrmdhjr5a
+2021-10-27 10:30:58,699 [ 64] INFO  AppManager [(null)] (landingPage.aspx) - Clearing Session 
+Request Type:  
+SessionId: ad1pjnubo5rs51eyps2pb4om
+2021-10-27 10:30:58,716 [108] INFO  AppManager [(null)] (landingPage.aspx) - New Session 
+Request Type:  
+SessionId: tfwsjtwd4z1fiw4bfbjhsvv3
+2021-10-27 10:30:58,955 [ 40] INFO  AppManager [(null)] (login.aspx) - (Mli) - Login successful 
+SessionId: hgqxg55r41fn0wntrwtqe2ei
+2021-10-27 10:30:58,959 [ 76] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: tfwsjtwd4z1fiw4bfbjhsvv3
+2021-10-27 10:31:35,740 [ 87] INFO  AppManager [(null)] SimpleServings started.
+2021-10-27 10:31:49,584 [ 32] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: zrfmkbcmj00tkskvyy1qzs4x
+2021-10-27 10:32:50,084 [ 31] INFO  AppManager [(null)] (landingPage.aspx) - Clearing Session 
+Request Type:  
+SessionId: gzzdzgfmfc3jfhk5xujgsav1
+2021-10-27 10:32:50,098 [ 62] INFO  AppManager [(null)] (landingPage.aspx) - New Session 
+Request Type:  
+SessionId: asroxsqadnzfw0vqbcahasq2
+2021-10-27 10:32:50,303 [ 64] INFO  AppManager [(null)] (login.aspx) - (Mli) - Login successful 
+SessionId: tszcngfjuauh2wg43rpm1fuk
+2021-10-27 10:32:50,310 [ 32] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: asroxsqadnzfw0vqbcahasq2
+2021-10-27 10:33:23,612 [ 32] INFO  AppManager [(null)] (landingPage.aspx) - Clearing Session 
+Request Type:  
+SessionId: ii055r1xtoyejfcsrvthkd2f
+2021-10-27 10:33:23,629 [ 41] INFO  AppManager [(null)] (landingPage.aspx) - New Session 
+Request Type:  
+SessionId: 3q2arkclmlphtarw3qqjzs42
+2021-10-27 10:33:23,881 [ 82] ERROR AppManager [(null)] btnLogin_Click failed: Incorrect username and/or password.
+2021-10-27 10:33:39,270 [ 69] INFO  AppManager [(null)] (landingPage.aspx) - Clearing Session 
+Request Type:  
+SessionId: 3q2arkclmlphtarw3qqjzs42
+2021-10-27 10:33:39,281 [ 76] INFO  AppManager [(null)] (landingPage.aspx) - New Session 
+Request Type:  
+SessionId: w5di44lmhncfrurkznegnkga
+2021-10-27 10:33:39,508 [ 41] INFO  AppManager [(null)] (login.aspx) - (Mli) - Login successful 
+SessionId: fug2qn1siq0zaewghjb0he2x
+2021-10-27 10:33:39,512 [ 72] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: w5di44lmhncfrurkznegnkga
+2021-10-27 10:34:48,348 [ 83] INFO  AppManager [(null)] SimpleServings started.
+2021-10-27 10:34:58,878 [ 41] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: dhyba52wzyrzh1dvntbxuy44
+2021-10-27 10:35:33,101 [ 41] INFO  AppManager [(null)] (landingPage.aspx) - Clearing Session 
+Request Type:  
+SessionId: ws5ou5qzhdikydnbyiqkplz4
+2021-10-27 10:35:33,115 [ 76] INFO  AppManager [(null)] (landingPage.aspx) - New Session 
+Request Type:  
+SessionId: mq3xj4xyjfdiatqv2rcbmsit
+2021-10-27 10:35:33,325 [ 69] INFO  AppManager [(null)] (login.aspx) - (Mli) - Login successful 
+SessionId: rc4vaal450xo3tpwwl1gfkhg
+2021-10-27 10:35:33,335 [ 62] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: mq3xj4xyjfdiatqv2rcbmsit
+2021-10-27 10:36:26,101 [109] INFO  AppManager [(null)] (landingPage.aspx) - Clearing Session 
+Request Type:  
+SessionId: vnd5vzzl5hltjfl3znsgfpp5
+2021-10-27 10:36:26,115 [ 61] INFO  AppManager [(null)] (landingPage.aspx) - New Session 
+Request Type:  
+SessionId: klspy2ea0cw35tvfzkfdzlz1
+2021-10-27 10:36:26,353 [ 70] INFO  AppManager [(null)] (login.aspx) - (Mli) - Login successful 
+SessionId: 3htx1tfxgkdvfbgdt0xkdbiw
+2021-10-27 10:36:26,358 [ 62] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: klspy2ea0cw35tvfzkfdzlz1
+2021-10-27 10:38:08,928 [ 31] INFO  AppManager [(null)] (landingPage.aspx) - Clearing Session 
+Request Type:  
+SessionId: zpih3cu0uf5drjgnbpycv251
+2021-10-27 10:38:08,941 [ 41] INFO  AppManager [(null)] (landingPage.aspx) - New Session 
+Request Type:  
+SessionId: zsytdk3r5zkttnau4il0ji3g
+2021-10-27 10:38:09,183 [ 31] INFO  AppManager [(null)] (login.aspx) - (Mli) - Login successful 
+SessionId: 1wxa1xilrmaestebnjlhmkun
+2021-10-27 10:38:09,188 [ 62] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: zsytdk3r5zkttnau4il0ji3g
+2021-10-27 10:39:35,077 [ 87] INFO  AppManager [(null)] SimpleServings started.
+2021-10-27 10:39:50,687 [ 82] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: wht0gri53r10uvhggah3xe1v
+2021-10-27 10:41:04,999 [ 96] INFO  AppManager [(null)] (landingPage.aspx) - Clearing Session 
+Request Type:  
+SessionId: ya2p4di3zxgpbhdto4dhripp
+2021-10-27 10:41:05,013 [112] INFO  AppManager [(null)] (landingPage.aspx) - New Session 
+Request Type:  
+SessionId: phcaqm5roj124imzbwxxns2k
+2021-10-27 10:41:05,366 [ 88] INFO  AppManager [(null)] (login.aspx) - (Mli) - Login successful 
+SessionId: zszjvbyjy5y054kj40ybtsqh
+2021-10-27 10:41:05,383 [ 82] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: phcaqm5roj124imzbwxxns2k
+2021-10-27 10:43:52,365 [ 83] INFO  AppManager [(null)] SimpleServings started.
+2021-10-27 10:44:11,589 [122] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: flplz2uvyeicyx1opect3us0
+2021-10-27 10:46:38,663 [135] INFO  AppManager [(null)] SimpleServings started.
+2021-10-27 10:47:00,799 [ 54] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: bcqa3m1u44u2tol5jqatwhgf
+2021-10-27 10:50:04,610 [ 87] INFO  AppManager [(null)] SimpleServings started.
+2021-10-27 10:50:11,429 [ 32] INFO  AppManager [(null)] (landingPage.aspx) - Request from http://localhost:1945/SimpleServings/UI/Page/SimpleServings/Menu/MenuList.aspx?MenuType=MyMenus 
+Request Type: LogInOut 
+SessionId: bcqa3m1u44u2tol5jqatwhgf
+2021-10-27 10:50:11,430 [ 32] INFO  AppManager [(null)] (landingPage.aspx) - Redirecting to Login.aspx 
+Request Type: LogInOut 
+SessionId: bcqa3m1u44u2tol5jqatwhgf
+2021-10-27 10:50:39,805 [ 78] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: bia2isza0a310c0w2nke0uhu
+2021-10-27 10:51:49,729 [ 83] INFO  AppManager [(null)] SimpleServings started.
+2021-10-27 10:51:54,819 [ 78] INFO  AppManager [(null)] (landingPage.aspx) - Request from http://localhost:1945/SimpleServings/UI/Page/Home.aspx 
+Request Type: LogInOut 
+SessionId: bia2isza0a310c0w2nke0uhu
+2021-10-27 10:51:54,819 [ 78] INFO  AppManager [(null)] (landingPage.aspx) - Redirecting to Login.aspx 
+Request Type: LogInOut 
+SessionId: bia2isza0a310c0w2nke0uhu
+2021-10-27 10:52:09,227 [ 72] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: iwqagiz3aycbjahv4fwxfs0f
+2021-10-27 10:57:08,871 [135] INFO  AppManager [(null)] SimpleServings started.
+2021-10-27 10:57:16,166 [ 64] INFO  AppManager [(null)] (landingPage.aspx) - Request from http://localhost:1945/SimpleServings/UI/Page/SimpleServings/Menu/MenuList.aspx?MenuType=MyMenus 
+Request Type: LogInOut 
+SessionId: iwqagiz3aycbjahv4fwxfs0f
+2021-10-27 10:57:16,167 [ 64] INFO  AppManager [(null)] (landingPage.aspx) - Redirecting to Login.aspx 
+Request Type: LogInOut 
+SessionId: iwqagiz3aycbjahv4fwxfs0f
+2021-10-27 10:57:28,873 [109] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: tpuve3zddcqaczeiv4uno23a
+2021-10-27 10:59:36,375 [127] INFO  AppManager [(null)] SimpleServings started.
+2021-10-27 10:59:40,999 [ 70] INFO  AppManager [(null)] (landingPage.aspx) - Request from http://localhost:1945/SimpleServings/UI/Page/SimpleServings/Menu/MenuList.aspx?MenuType=MyMenus 
+Request Type: LogInOut 
+SessionId: tpuve3zddcqaczeiv4uno23a
+2021-10-27 10:59:41,000 [ 70] INFO  AppManager [(null)] (landingPage.aspx) - Redirecting to Login.aspx 
+Request Type: LogInOut 
+SessionId: tpuve3zddcqaczeiv4uno23a
+2021-10-27 10:59:53,801 [ 78] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: hteynwytm2z040x113affefo
+2021-10-27 11:02:24,517 [ 81] INFO  AppManager [(null)] SimpleServings started.
+2021-10-27 11:02:38,578 [122] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: mvlmdhuzgqnu10ejrkgnwl10
+2021-10-27 11:02:44,749 [ 64] ERROR AppManager [(null)] SimpleServings application error: Type 'System.Web.UI.WebControls.HyperLinkField' does not have a public property named 'style'.
+location: http://localhost:1945/SimpleServings/UI/Page/SimpleServings/Menu/MenuList.aspx?MenuType=MyMenus
+
+System.Web.HttpParseException (0x80004005): Type 'System.Web.UI.WebControls.HyperLinkField' does not have a public property named 'style'. ---> System.Web.HttpParseException (0x80004005): Type 'System.Web.UI.WebControls.HyperLinkField' does not have a public property named 'style'. ---> System.Web.HttpException (0x80004005): Type 'System.Web.UI.WebControls.HyperLinkField' does not have a public property named 'style'.
+   at System.Web.UI.ControlBuilder.AddProperty(String filter, String name, String value, Boolean mainDirectiveMode)
+   at System.Web.UI.ControlBuilder.PreprocessAttribute(String filter, String attribname, String attribvalue, Boolean mainDirectiveMode, Int32 line, Int32 column)
+   at System.Web.UI.ControlBuilder.PreprocessAttributes(ParsedAttributeCollection attribs)
+   at System.Web.UI.ControlBuilder.Init(TemplateParser parser, ControlBuilder parentBuilder, Type type, String tagName, String id, IDictionary attribs)
+   at System.Web.UI.ControlBuilder.CreateBuilderFromType(TemplateParser parser, ControlBuilder parentBuilder, Type type, String tagName, String id, IDictionary attribs, Int32 line, String sourceFileName)
+   at System.Web.UI.ControlBuilder.CreateChildBuilder(String filter, String tagName, IDictionary attribs, TemplateParser parser, ControlBuilder parentBuilder, String id, Int32 line, VirtualPath virtualPath, Type& childType, Boolean defaultProperty)
+   at System.Web.UI.TemplateParser.ProcessBeginTag(Match match, String inputText)
+   at System.Web.UI.TemplateParser.ParseStringInternal(String text, Encoding fileEncoding)
+   at System.Web.UI.TemplateParser.ProcessException(Exception ex)
+   at System.Web.UI.TemplateParser.ParseStringInternal(String text, Encoding fileEncoding)
+   at System.Web.UI.TemplateParser.ParseString(String text, VirtualPath virtualPath, Encoding fileEncoding)
+   at System.Web.UI.TemplateParser.ProcessException(Exception ex)
+   at System.Web.UI.TemplateParser.ParseStringInternal(String text, Encoding fileEncoding)
+   at System.Web.UI.TemplateParser.ParseString(String text, VirtualPath virtualPath, Encoding fileEncoding)
+   at System.Web.UI.TemplateParser.ParseFile(String physicalPath, VirtualPath virtualPath)
+   at System.Web.UI.TemplateParser.ParseInternal()
+   at System.Web.UI.TemplateParser.Parse()
+   at System.Web.Compilation.BaseTemplateBuildProvider.get_CodeCompilerType()
+   at System.Web.Compilation.BuildProvider.GetCompilerTypeFromBuildProvider(BuildProvider buildProvider)
+   at System.Web.Compilation.BuildProvidersCompiler.ProcessBuildProviders()
+   at System.Web.Compilation.BuildProvidersCompiler.PerformBuild()
+   at System.Web.Compilation.BuildManager.CompileWebFile(VirtualPath virtualPath)
+   at System.Web.Compilation.BuildManager.GetVPathBuildResultInternal(VirtualPath virtualPath, Boolean noBuild, Boolean allowCrossApp, Boolean allowBuildInPrecompile, Boolean throwIfNotFound, Boolean ensureIsUpToDate)
+   at System.Web.Compilation.BuildManager.GetVPathBuildResultWithNoAssert(HttpContext context, VirtualPath virtualPath, Boolean noBuild, Boolean allowCrossApp, Boolean allowBuildInPrecompile, Boolean throwIfNotFound, Boolean ensureIsUpToDate)
+   at System.Web.Compilation.BuildManager.GetVirtualPathObjectFactory(VirtualPath virtualPath, HttpContext context, Boolean allowCrossApp, Boolean throwIfNotFound)
+   at System.Web.Compilation.BuildManager.CreateInstanceFromVirtualPath(VirtualPath virtualPath, Type requiredBaseType, HttpContext context, Boolean allowCrossApp)
+   at System.Web.UI.PageHandlerFactory.GetHandlerHelper(HttpContext context, String requestType, VirtualPath virtualPath, String physicalPath)
+   at System.Web.UI.PageHandlerFactory.GetHandler(HttpContext context, String requestType, String virtualPath, String path)
+   at System.Web.HttpApplication.MaterializeHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStepImpl(IExecutionStep step)
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+2021-10-27 11:05:08,158 [ 42] INFO  AppManager [(null)] (landingPage.aspx) - Clearing Session 
+Request Type:  
+SessionId: x3dcy35ts3vq4uwqcimdet3n
+2021-10-27 11:05:08,180 [ 76] INFO  AppManager [(null)] (landingPage.aspx) - New Session 
+Request Type:  
+SessionId: 0ewhi2yp5eesqv2l5o13ypuc
+2021-10-27 11:05:08,421 [ 42] INFO  AppManager [(null)] (login.aspx) - (Mli) - Login successful 
+SessionId: 1zxpl14wbjtiiscyviuc5lfw
+2021-10-27 11:05:08,426 [ 96] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: 0ewhi2yp5eesqv2l5o13ypuc

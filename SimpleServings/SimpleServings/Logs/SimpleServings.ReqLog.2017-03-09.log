@@ -1,0 +1,551 @@
+2017-03-09 11:14:49,638 [  6] INFO  AppManager [(null)] SimpleServings started.
+2017-03-09 11:17:52,183 [  8] INFO  AppManager [(null)] (landingPage.aspx) - Redirecting to Login.aspx 
+Request Type: LogInOut 
+SessionId: 
+2017-03-09 11:17:58,821 [  9] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: lfcu0z45tjnyk1z0q2dl0k55
+2017-03-09 13:23:07,979 [  8] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: lfcu0z45tjnyk1z0q2dl0k55
+2017-03-09 13:23:09,396 [  9] INFO  AppManager [(null)] (landingPage.aspx) - Request from http://localhost:1949/SimpleServings/UI/Page/ 
+Request Type: LogInOut 
+SessionId: lfcu0z45tjnyk1z0q2dl0k55
+2017-03-09 13:23:09,396 [  9] INFO  AppManager [(null)] (landingPage.aspx) - Redirecting to Login.aspx 
+Request Type: LogInOut 
+SessionId: lfcu0z45tjnyk1z0q2dl0k55
+2017-03-09 13:23:09,407 [  8] INFO  AppManager [(null)] (login.aspx) - Request from http://localhost:1949/SimpleServings/UI/Page/ 
+SessionId: otmaab45ayyqko55zh3m1i3f
+2017-03-09 13:23:11,926 [  8] INFO  AppManager [(null)] (landingPage.aspx) - Clearing Session 
+Request Type:  
+SessionId: crtnu1451432ltaaxz4e4cam
+2017-03-09 13:23:11,945 [  7] INFO  AppManager [(null)] (landingPage.aspx) - New Session 
+Request Type:  
+SessionId: aj3fh0acf4v5rh2t3leznl55
+2017-03-09 13:23:11,962 [  5] INFO  AppManager [(null)] (login.aspx) - (cvais7773) - Login successful 
+SessionId: 1isf24ypk30a0wrk3j3qzc45
+2017-03-09 13:23:11,969 [  5] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: aj3fh0acf4v5rh2t3leznl55
+2017-03-09 13:38:24,081 [  5] INFO  AppManager [(null)] (Recipe.aspx) - Request from http://localhost:1949/SimpleServings/UI/Page/SimpleServings/Recipe/ViewRecipe.aspx?RecipeID=3723 
+SessionId: aj3fh0acf4v5rh2t3leznl55
+2017-03-09 13:41:24,541 [  9] INFO  AppManager [(null)] (landingPage.aspx) - Request from http://localhost:1949/SimpleServings/UI/Page/SimpleServings/Recipe/RecipeList.aspx 
+Request Type: LogInOut 
+SessionId: aj3fh0acf4v5rh2t3leznl55
+2017-03-09 13:41:24,542 [  9] INFO  AppManager [(null)] (landingPage.aspx) - Redirecting to Login.aspx 
+Request Type: LogInOut 
+SessionId: aj3fh0acf4v5rh2t3leznl55
+2017-03-09 13:41:24,551 [  5] INFO  AppManager [(null)] (login.aspx) - Request from http://localhost:1949/SimpleServings/UI/Page/SimpleServings/Recipe/RecipeList.aspx 
+SessionId: gw3ycymly5kwg155s431g545
+2017-03-09 13:41:28,973 [  5] INFO  AppManager [(null)] (landingPage.aspx) - Clearing Session 
+Request Type:  
+SessionId: cg2vezvj2hfl3yqw1hf4glrh
+2017-03-09 13:41:28,990 [  5] INFO  AppManager [(null)] (landingPage.aspx) - New Session 
+Request Type:  
+SessionId: 1t4l22452mojp045lla2bg55
+2017-03-09 13:41:28,993 [  9] INFO  AppManager [(null)] (login.aspx) - (CatererOne) - Login successful 
+SessionId: kxkbh145nfp0j32xkqo0zu55
+2017-03-09 13:41:29,003 [  5] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: 1t4l22452mojp045lla2bg55
+2017-03-09 13:41:42,618 [  5] ERROR AppManager [(null)] SimpleServings application error: Exception of type 'System.Web.HttpUnhandledException' was thrown.
+location: http://localhost:1949/SimpleServings/UI/Page/SimpleServings/Recipe/RecipeList.aspx
+
+System.Web.HttpUnhandledException: Exception of type 'System.Web.HttpUnhandledException' was thrown. ---> System.InvalidOperationException: Failed to compare two elements in the array. ---> System.ArgumentException: At least one object must implement IComparable.
+   at System.Collections.Comparer.Compare(Object a, Object b)
+   at System.Collections.Generic.ObjectComparer`1.Compare(T x, T y)
+   at System.Collections.Generic.ArraySortHelper`1.SwapIfGreaterWithItems(T[] keys, IComparer`1 comparer, Int32 a, Int32 b)
+   at System.Collections.Generic.ArraySortHelper`1.QuickSort(T[] keys, Int32 left, Int32 right, IComparer`1 comparer)
+   at System.Collections.Generic.ArraySortHelper`1.Sort(T[] keys, Int32 index, Int32 length, IComparer`1 comparer)
+   --- End of inner exception stack trace ---
+   at System.Collections.Generic.ArraySortHelper`1.Sort(T[] keys, Int32 index, Int32 length, IComparer`1 comparer)
+   at System.Array.Sort[T](T[] array, Int32 index, Int32 length, IComparer`1 comparer)
+   at System.Collections.Generic.List`1.Sort(Int32 index, Int32 count, IComparer`1 comparer)
+   at System.Collections.Generic.List`1.Sort(IComparer`1 comparer)
+   at SimpleServings.UI.UDC.SimpleServings.Recipe.RecipeGrid.SortGridView(String sortExpression, SortDirection direction) in c:\TFS\DFTA\SimpleServings\SimpleServings\SimpleServings\UI\UDC\SimpleServings\Recipe\RecipeGrid.ascx.cs:line 178
+   at SimpleServings.UI.UDC.SimpleServings.Recipe.RecipeGrid.gvRecipes_Sorting(Object sender, GridViewSortEventArgs e) in c:\TFS\DFTA\SimpleServings\SimpleServings\SimpleServings\UI\UDC\SimpleServings\Recipe\RecipeGrid.ascx.cs:line 213
+   at System.Web.UI.WebControls.GridView.OnSorting(GridViewSortEventArgs e)
+   at System.Web.UI.WebControls.GridView.HandleSort(String sortExpression, SortDirection sortDirection)
+   at System.Web.UI.WebControls.GridView.HandleSort(String sortExpression)
+   at System.Web.UI.WebControls.GridView.HandleEvent(EventArgs e, Boolean causesValidation, String validationGroup)
+   at System.Web.UI.WebControls.GridView.RaisePostBackEvent(String eventArgument)
+   at System.Web.UI.WebControls.GridView.System.Web.UI.IPostBackEventHandler.RaisePostBackEvent(String eventArgument)
+   at System.Web.UI.Page.RaisePostBackEvent(IPostBackEventHandler sourceControl, String eventArgument)
+   at System.Web.UI.Page.RaisePostBackEvent(NameValueCollection postData)
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   --- End of inner exception stack trace ---
+   at System.Web.UI.Page.HandleError(Exception e)
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   at System.Web.UI.Page.ProcessRequest(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   at System.Web.UI.Page.ProcessRequest()
+   at System.Web.UI.Page.ProcessRequestWithNoAssert(HttpContext context)
+   at System.Web.UI.Page.ProcessRequest(HttpContext context)
+   at ASP.ui_page_simpleservings_recipe_recipelist_aspx.ProcessRequest(HttpContext context) in c:\Windows\Microsoft.NET\Framework\v2.0.50727\Temporary ASP.NET Files\simpleservings\50605a42\75e306da\App_Web_xmkyha11.2.cs:line 0
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+2017-03-09 13:44:12,335 [  1] INFO  AppManager [(null)] SimpleServings started.
+2017-03-09 13:44:18,208 [  5] INFO  AppManager [(null)] (landingPage.aspx) - Redirecting to Login.aspx 
+Request Type: LogInOut 
+SessionId: 
+2017-03-09 13:44:21,056 [  8] INFO  AppManager [(null)] (RecipeList.aspx) - Redirecting to Login.aspx 
+SessionId: 1t4l22452mojp045lla2bg55
+2017-03-09 13:44:21,069 [  7] INFO  AppManager [(null)] (landingPage.aspx) - Request from http://localhost:1949/SimpleServings/UI/Page/SimpleServings/Recipe/RecipeList.aspx 
+Request Type: LogInOut 
+SessionId: 1t4l22452mojp045lla2bg55
+2017-03-09 13:44:21,069 [  7] INFO  AppManager [(null)] (landingPage.aspx) - Redirecting to Login.aspx 
+Request Type: LogInOut 
+SessionId: 1t4l22452mojp045lla2bg55
+2017-03-09 13:44:25,408 [  8] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: czvpoufibmkkp545exipkojg
+2017-03-09 13:45:37,780 [  5] ERROR AppManager [(null)] SimpleServings application error: Exception of type 'System.Web.HttpUnhandledException' was thrown.
+location: http://localhost:1949/SimpleServings/UI/Page/SimpleServings/Recipe/RecipeList.aspx
+
+System.Web.HttpUnhandledException: Exception of type 'System.Web.HttpUnhandledException' was thrown. ---> System.InvalidOperationException: Failed to compare two elements in the array. ---> System.ArgumentException: At least one object must implement IComparable.
+   at System.Collections.Comparer.Compare(Object a, Object b)
+   at System.Collections.Generic.ObjectComparer`1.Compare(T x, T y)
+   at System.Collections.Generic.ArraySortHelper`1.SwapIfGreaterWithItems(T[] keys, IComparer`1 comparer, Int32 a, Int32 b)
+   at System.Collections.Generic.ArraySortHelper`1.QuickSort(T[] keys, Int32 left, Int32 right, IComparer`1 comparer)
+   at System.Collections.Generic.ArraySortHelper`1.Sort(T[] keys, Int32 index, Int32 length, IComparer`1 comparer)
+   --- End of inner exception stack trace ---
+   at System.Collections.Generic.ArraySortHelper`1.Sort(T[] keys, Int32 index, Int32 length, IComparer`1 comparer)
+   at System.Array.Sort[T](T[] array, Int32 index, Int32 length, IComparer`1 comparer)
+   at System.Collections.Generic.List`1.Sort(Int32 index, Int32 count, IComparer`1 comparer)
+   at System.Collections.Generic.List`1.Sort(IComparer`1 comparer)
+   at SimpleServings.UI.UDC.SimpleServings.Recipe.RecipeGrid.SortGridView(String sortExpression, SortDirection direction) in c:\TFS\DFTA\SimpleServings\SimpleServings\SimpleServings\UI\UDC\SimpleServings\Recipe\RecipeGrid.ascx.cs:line 178
+   at SimpleServings.UI.UDC.SimpleServings.Recipe.RecipeGrid.gvRecipes_Sorting(Object sender, GridViewSortEventArgs e) in c:\TFS\DFTA\SimpleServings\SimpleServings\SimpleServings\UI\UDC\SimpleServings\Recipe\RecipeGrid.ascx.cs:line 213
+   at System.Web.UI.WebControls.GridView.OnSorting(GridViewSortEventArgs e)
+   at System.Web.UI.WebControls.GridView.HandleSort(String sortExpression, SortDirection sortDirection)
+   at System.Web.UI.WebControls.GridView.HandleSort(String sortExpression)
+   at System.Web.UI.WebControls.GridView.HandleEvent(EventArgs e, Boolean causesValidation, String validationGroup)
+   at System.Web.UI.WebControls.GridView.RaisePostBackEvent(String eventArgument)
+   at System.Web.UI.WebControls.GridView.System.Web.UI.IPostBackEventHandler.RaisePostBackEvent(String eventArgument)
+   at System.Web.UI.Page.RaisePostBackEvent(IPostBackEventHandler sourceControl, String eventArgument)
+   at System.Web.UI.Page.RaisePostBackEvent(NameValueCollection postData)
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   --- End of inner exception stack trace ---
+   at System.Web.UI.Page.HandleError(Exception e)
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   at System.Web.UI.Page.ProcessRequest(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   at System.Web.UI.Page.ProcessRequest()
+   at System.Web.UI.Page.ProcessRequestWithNoAssert(HttpContext context)
+   at System.Web.UI.Page.ProcessRequest(HttpContext context)
+   at ASP.ui_page_simpleservings_recipe_recipelist_aspx.ProcessRequest(HttpContext context) in c:\Windows\Microsoft.NET\Framework\v2.0.50727\Temporary ASP.NET Files\simpleservings\50605a42\75e306da\App_Web_xmkyha11.2.cs:line 0
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+2017-03-09 13:45:43,666 [  1] INFO  AppManager [(null)] SimpleServings started.
+2017-03-09 13:45:48,353 [  5] INFO  AppManager [(null)] (RecipeList.aspx) - Redirecting to Login.aspx 
+SessionId: czvpoufibmkkp545exipkojg
+2017-03-09 13:45:49,716 [  5] INFO  AppManager [(null)] (landingPage.aspx) - Redirecting to Login.aspx 
+Request Type: LogInOut 
+SessionId: czvpoufibmkkp545exipkojg
+2017-03-09 13:45:52,477 [  7] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: uvr1tx45wamjzlindooffj23
+2017-03-09 13:51:52,632 [  1] INFO  AppManager [(null)] SimpleServings started.
+2017-03-09 13:52:08,468 [  9] INFO  AppManager [(null)] (landingPage.aspx) - Redirecting to Login.aspx 
+Request Type: LogInOut 
+SessionId: 
+2017-03-09 13:52:14,148 [  5] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: xnuo5ru00tebnq55po32s3rb
+2017-03-09 13:58:38,093 [  1] INFO  AppManager [(null)] SimpleServings started.
+2017-03-09 13:58:46,197 [  9] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: uvr1tx45wamjzlindooffj23
+2017-03-09 13:58:47,706 [  8] INFO  AppManager [(null)] (landingPage.aspx) - Request from http://localhost:1949/SimpleServings/UI/Page/ 
+Request Type: LogInOut 
+SessionId: uvr1tx45wamjzlindooffj23
+2017-03-09 13:58:47,707 [  8] INFO  AppManager [(null)] (landingPage.aspx) - Redirecting to Login.aspx 
+Request Type: LogInOut 
+SessionId: uvr1tx45wamjzlindooffj23
+2017-03-09 13:58:58,848 [  9] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: bty4hhibymq4sxaq1tdamwq4
+2017-03-09 13:59:11,251 [  7] INFO  AppManager [(null)] (landingPage.aspx) - Request from http://localhost:1949/SimpleServings/UI/Page/SimpleServings/Recipe/RecipeList.aspx 
+Request Type: LogInOut 
+SessionId: bty4hhibymq4sxaq1tdamwq4
+2017-03-09 13:59:11,251 [  7] INFO  AppManager [(null)] (landingPage.aspx) - Redirecting to Login.aspx 
+Request Type: LogInOut 
+SessionId: bty4hhibymq4sxaq1tdamwq4
+2017-03-09 13:59:11,260 [  7] INFO  AppManager [(null)] (login.aspx) - Request from http://localhost:1949/SimpleServings/UI/Page/SimpleServings/Recipe/RecipeList.aspx 
+SessionId: x3spq02iweunae55hsj4ycjw
+2017-03-09 14:02:47,570 [  7] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: yx2d0huju3wfkgmw234t4y55
+2017-03-09 14:02:51,481 [  7] INFO  AppManager [(null)] (landingPage.aspx) - Request from http://localhost:1949/SimpleServings/UI/Page/ 
+Request Type: LogInOut 
+SessionId: ikw4r1ncavcotknxwjzu3m45
+2017-03-09 14:02:51,482 [  7] INFO  AppManager [(null)] (landingPage.aspx) - Redirecting to Login.aspx 
+Request Type: LogInOut 
+SessionId: ikw4r1ncavcotknxwjzu3m45
+2017-03-09 14:02:51,491 [  5] INFO  AppManager [(null)] (login.aspx) - Request from http://localhost:1949/SimpleServings/UI/Page/ 
+SessionId: 2fgv2a45rmnqhl552gvqfs45
+2017-03-09 14:02:55,755 [  8] INFO  AppManager [(null)] (landingPage.aspx) - Clearing Session 
+Request Type:  
+SessionId: aibopy45xm2g5355allc4g45
+2017-03-09 14:02:55,770 [  7] INFO  AppManager [(null)] (landingPage.aspx) - New Session 
+Request Type:  
+SessionId: tidygs55nqn1ir454sdbcbmd
+2017-03-09 14:02:55,786 [  8] INFO  AppManager [(null)] (login.aspx) - (cvais7773) - Login successful 
+SessionId: 3yizxkrskrnqrd552phe3355
+2017-03-09 14:02:55,793 [  7] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: tidygs55nqn1ir454sdbcbmd
+2017-03-09 14:05:19,199 [  7] INFO  AppManager [(null)] (landingPage.aspx) - Request from http://localhost:1949/SimpleServings/UI/Page/SimpleServings/Recipe/RecipeList.aspx 
+Request Type: LogInOut 
+SessionId: tidygs55nqn1ir454sdbcbmd
+2017-03-09 14:05:19,200 [  7] INFO  AppManager [(null)] (landingPage.aspx) - Redirecting to Login.aspx 
+Request Type: LogInOut 
+SessionId: tidygs55nqn1ir454sdbcbmd
+2017-03-09 14:05:19,210 [  8] INFO  AppManager [(null)] (login.aspx) - Request from http://localhost:1949/SimpleServings/UI/Page/SimpleServings/Recipe/RecipeList.aspx 
+SessionId: w2i1v2ybqen20r451q2qln45
+2017-03-09 14:05:21,921 [  8] INFO  AppManager [(null)] (landingPage.aspx) - Clearing Session 
+Request Type:  
+SessionId: rdjttn45wzcok055vafrue55
+2017-03-09 14:05:21,941 [  8] INFO  AppManager [(null)] (landingPage.aspx) - New Session 
+Request Type:  
+SessionId: pirkmp55xewhvg45ghws5m55
+2017-03-09 14:05:21,944 [  5] INFO  AppManager [(null)] (login.aspx) - (CatererOne) - Login successful 
+SessionId: rvurym45kljstk45yupgkheb
+2017-03-09 14:05:21,954 [  5] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: pirkmp55xewhvg45ghws5m55
+2017-03-09 14:05:44,801 [  7] INFO  AppManager [(null)] (landingPage.aspx) - Request from http://localhost:1949/SimpleServings/UI/Page/SimpleServings/Recipe/RecipeList.aspx 
+Request Type: LogInOut 
+SessionId: pirkmp55xewhvg45ghws5m55
+2017-03-09 14:05:44,802 [  7] INFO  AppManager [(null)] (landingPage.aspx) - Redirecting to Login.aspx 
+Request Type: LogInOut 
+SessionId: pirkmp55xewhvg45ghws5m55
+2017-03-09 14:05:44,811 [  8] INFO  AppManager [(null)] (login.aspx) - Request from http://localhost:1949/SimpleServings/UI/Page/SimpleServings/Recipe/RecipeList.aspx 
+SessionId: v11plgesvlczff55g5wws3ig
+2017-03-09 14:05:48,587 [  7] INFO  AppManager [(null)] (landingPage.aspx) - Clearing Session 
+Request Type:  
+SessionId: 0xjrkviopuqtmijrqv2ojbzq
+2017-03-09 14:05:48,602 [  5] INFO  AppManager [(null)] (landingPage.aspx) - New Session 
+Request Type:  
+SessionId: jnll5q55cwv3bcrgtwfvfs45
+2017-03-09 14:05:48,606 [  7] INFO  AppManager [(null)] (login.aspx) - (cvais7773) - Login successful 
+SessionId: t3szmf202n4ebs55jnigvu45
+2017-03-09 14:05:48,620 [  7] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: jnll5q55cwv3bcrgtwfvfs45
+2017-03-09 14:07:23,785 [  5] INFO  AppManager [(null)] (Recipe.aspx) - Request from http://localhost:1949/SimpleServings/UI/Page/SimpleServings/Recipe/ViewRecipe.aspx?RecipeID=852 
+SessionId: jnll5q55cwv3bcrgtwfvfs45
+2017-03-09 14:21:33,915 [  9] INFO  AppManager [(null)] (landingPage.aspx) - Request from http://localhost:1949/SimpleServings/UI/Page/SimpleServings/Recipe/RecipeList.aspx 
+Request Type: LogInOut 
+SessionId: jnll5q55cwv3bcrgtwfvfs45
+2017-03-09 14:21:33,916 [  9] INFO  AppManager [(null)] (landingPage.aspx) - Redirecting to Login.aspx 
+Request Type: LogInOut 
+SessionId: jnll5q55cwv3bcrgtwfvfs45
+2017-03-09 14:21:33,926 [  7] INFO  AppManager [(null)] (login.aspx) - Request from http://localhost:1949/SimpleServings/UI/Page/SimpleServings/Recipe/RecipeList.aspx 
+SessionId: 2gml2umbgd5pph45ivpyhfrz
+2017-03-09 14:21:36,939 [  5] INFO  AppManager [(null)] (landingPage.aspx) - Clearing Session 
+Request Type:  
+SessionId: gp3fsmytw5slj355sm1l34im
+2017-03-09 14:21:36,954 [  7] INFO  AppManager [(null)] (landingPage.aspx) - New Session 
+Request Type:  
+SessionId: tesren55c2jz34jgrncaos45
+2017-03-09 14:21:36,961 [  9] INFO  AppManager [(null)] (login.aspx) - (CatererOne) - Login successful 
+SessionId: bdtzvtn5q3fcam55d0yab3zz
+2017-03-09 14:21:36,968 [  9] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: tesren55c2jz34jgrncaos45
+2017-03-09 14:22:19,564 [  7] INFO  AppManager [(null)] (landingPage.aspx) - Request from http://localhost:1949/SimpleServings/UI/Page/SimpleServings/Recipe/RecipeList.aspx 
+Request Type: LogInOut 
+SessionId: tesren55c2jz34jgrncaos45
+2017-03-09 14:22:19,565 [  7] INFO  AppManager [(null)] (landingPage.aspx) - Redirecting to Login.aspx 
+Request Type: LogInOut 
+SessionId: tesren55c2jz34jgrncaos45
+2017-03-09 14:22:19,574 [  8] INFO  AppManager [(null)] (login.aspx) - Request from http://localhost:1949/SimpleServings/UI/Page/SimpleServings/Recipe/RecipeList.aspx 
+SessionId: he0anamzackafdmmrntv2g45
+2017-03-09 14:22:22,805 [  7] INFO  AppManager [(null)] (landingPage.aspx) - Clearing Session 
+Request Type:  
+SessionId: ijmske555h5z0vfrfmsudd55
+2017-03-09 14:22:22,819 [  9] INFO  AppManager [(null)] (landingPage.aspx) - New Session 
+Request Type:  
+SessionId: h0kr0sfhtwyemb45yo4zkrjk
+2017-03-09 14:22:22,839 [  5] INFO  AppManager [(null)] (login.aspx) - (cvais7773) - Login successful 
+SessionId: and023a124x2apempizuse55
+2017-03-09 14:22:22,846 [  7] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: h0kr0sfhtwyemb45yo4zkrjk
+2017-03-09 14:26:05,005 [  9] INFO  AppManager [(null)] (landingPage.aspx) - Request from http://localhost:1949/SimpleServings/UI/Page/SimpleServings/Recipe/ViewRecipe.aspx?RecipeID=852 
+Request Type: LogInOut 
+SessionId: h0kr0sfhtwyemb45yo4zkrjk
+2017-03-09 14:26:05,006 [  9] INFO  AppManager [(null)] (landingPage.aspx) - Redirecting to Login.aspx 
+Request Type: LogInOut 
+SessionId: h0kr0sfhtwyemb45yo4zkrjk
+2017-03-09 14:26:05,015 [  9] INFO  AppManager [(null)] (login.aspx) - Request from http://localhost:1949/SimpleServings/UI/Page/SimpleServings/Recipe/ViewRecipe.aspx?RecipeID=852 
+SessionId: abq4v0ure5tlizqe24c4lajq
+2017-03-09 14:26:07,660 [  9] INFO  AppManager [(null)] (landingPage.aspx) - Clearing Session 
+Request Type:  
+SessionId: rrxbcr45bmubprfoqxnguh45
+2017-03-09 14:26:07,679 [  9] INFO  AppManager [(null)] (landingPage.aspx) - New Session 
+Request Type:  
+SessionId: iflxhj55cy5xlknojvx4ru45
+2017-03-09 14:26:07,682 [  8] INFO  AppManager [(null)] (login.aspx) - (CatererOne) - Login successful 
+SessionId: rsk0mubl3r3ttrahdac3smzf
+2017-03-09 14:26:07,694 [  9] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: iflxhj55cy5xlknojvx4ru45
+2017-03-09 14:26:19,588 [  9] INFO  AppManager [(null)] (landingPage.aspx) - Request from http://localhost:1949/SimpleServings/UI/Page/SimpleServings/Recipe/RecipeList.aspx 
+Request Type: LogInOut 
+SessionId: iflxhj55cy5xlknojvx4ru45
+2017-03-09 14:26:19,589 [  9] INFO  AppManager [(null)] (landingPage.aspx) - Redirecting to Login.aspx 
+Request Type: LogInOut 
+SessionId: iflxhj55cy5xlknojvx4ru45
+2017-03-09 14:26:19,599 [  8] INFO  AppManager [(null)] (login.aspx) - Request from http://localhost:1949/SimpleServings/UI/Page/SimpleServings/Recipe/RecipeList.aspx 
+SessionId: mnpucw3rwskpnm45f2pw0p45
+2017-03-09 14:26:22,661 [  8] INFO  AppManager [(null)] (landingPage.aspx) - Clearing Session 
+Request Type:  
+SessionId: 54hn2va5s3rnk0551lw3db45
+2017-03-09 14:26:22,677 [  9] INFO  AppManager [(null)] (landingPage.aspx) - New Session 
+Request Type:  
+SessionId: izc5ue45pku51qepe03liraw
+2017-03-09 14:26:22,682 [  7] INFO  AppManager [(null)] (login.aspx) - (cvais7773) - Login successful 
+SessionId: u5u3th3tvmsbj455abvlg355
+2017-03-09 14:26:22,693 [  9] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: izc5ue45pku51qepe03liraw
+2017-03-09 14:26:33,042 [  8] INFO  AppManager [(null)] (landingPage.aspx) - Request from http://localhost:1949/SimpleServings/UI/Page/SimpleServings/Recipe/RecipeList.aspx 
+Request Type: LogInOut 
+SessionId: izc5ue45pku51qepe03liraw
+2017-03-09 14:26:33,042 [  8] INFO  AppManager [(null)] (landingPage.aspx) - Redirecting to Login.aspx 
+Request Type: LogInOut 
+SessionId: izc5ue45pku51qepe03liraw
+2017-03-09 14:26:33,048 [  9] INFO  AppManager [(null)] (login.aspx) - Request from http://localhost:1949/SimpleServings/UI/Page/SimpleServings/Recipe/RecipeList.aspx 
+SessionId: s4zveo453r2fhz55mmkroy55
+2017-03-09 14:26:35,581 [  9] INFO  AppManager [(null)] (landingPage.aspx) - Clearing Session 
+Request Type:  
+SessionId: dokex155wsalkg55iqurzjvx
+2017-03-09 14:26:35,595 [  9] INFO  AppManager [(null)] (landingPage.aspx) - New Session 
+Request Type:  
+SessionId: e1yoceutbyb1rd454ixaywqb
+2017-03-09 14:26:35,604 [  7] INFO  AppManager [(null)] (login.aspx) - (cvais7773) - Login successful 
+SessionId: z1unrgfn33tdgw45pgsag455
+2017-03-09 14:26:35,612 [  7] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: e1yoceutbyb1rd454ixaywqb
+2017-03-09 14:27:47,258 [  9] INFO  AppManager [(null)] (landingPage.aspx) - Request from http://localhost:1949/SimpleServings/UI/Page/MyZone.aspx?Control=EditUserGroup&UserGroupID=5 
+Request Type: LogInOut 
+SessionId: e1yoceutbyb1rd454ixaywqb
+2017-03-09 14:27:47,259 [  9] INFO  AppManager [(null)] (landingPage.aspx) - Redirecting to Login.aspx 
+Request Type: LogInOut 
+SessionId: e1yoceutbyb1rd454ixaywqb
+2017-03-09 14:27:47,269 [  7] INFO  AppManager [(null)] (login.aspx) - Request from http://localhost:1949/SimpleServings/UI/Page/MyZone.aspx?Control=EditUserGroup&UserGroupID=5 
+SessionId: lmtgdj55sr5ryl22gyvqyluw
+2017-03-09 14:27:50,217 [  9] INFO  AppManager [(null)] (landingPage.aspx) - Clearing Session 
+Request Type:  
+SessionId: g3t0hk55kuwh0g5504mczuui
+2017-03-09 14:27:50,232 [  7] INFO  AppManager [(null)] (landingPage.aspx) - New Session 
+Request Type:  
+SessionId: m0y1vs453dciyvakeobfgo45
+2017-03-09 14:27:50,247 [  9] INFO  AppManager [(null)] (login.aspx) - (CatererOne) - Login successful 
+SessionId: j4mhyb45vq2q01zykjc1kd45
+2017-03-09 14:27:50,255 [  9] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: m0y1vs453dciyvakeobfgo45
+2017-03-09 14:30:26,966 [  5] INFO  AppManager [(null)] (landingPage.aspx) - Request from http://localhost:1949/SimpleServings/UI/Page/myzone.aspx?Control=UserGroup 
+Request Type: LogInOut 
+SessionId: m0y1vs453dciyvakeobfgo45
+2017-03-09 14:30:26,967 [  5] INFO  AppManager [(null)] (landingPage.aspx) - Redirecting to Login.aspx 
+Request Type: LogInOut 
+SessionId: m0y1vs453dciyvakeobfgo45
+2017-03-09 14:30:26,978 [  8] INFO  AppManager [(null)] (login.aspx) - Request from http://localhost:1949/SimpleServings/UI/Page/myzone.aspx?Control=UserGroup 
+SessionId: s0ivdq55tfuhh355lfor2245
+2017-03-09 14:30:29,789 [  9] INFO  AppManager [(null)] (landingPage.aspx) - Clearing Session 
+Request Type:  
+SessionId: rod3zercxhsb2hzkvlsism45
+2017-03-09 14:30:29,806 [  7] INFO  AppManager [(null)] (landingPage.aspx) - New Session 
+Request Type:  
+SessionId: rbg1atbrmqeoin55wbhfgcja
+2017-03-09 14:30:29,817 [  8] INFO  AppManager [(null)] (login.aspx) - (cvais7773) - Login successful 
+SessionId: o3a0lz45gif4wm55ftvyq42y
+2017-03-09 14:30:29,825 [  8] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: rbg1atbrmqeoin55wbhfgcja
+2017-03-09 14:31:23,482 [  7] INFO  AppManager [(null)] (landingPage.aspx) - Request from http://localhost:1949/SimpleServings/UI/Page/MyZone.aspx?Control=EditUserGroup&UserGroupID=5 
+Request Type: LogInOut 
+SessionId: rbg1atbrmqeoin55wbhfgcja
+2017-03-09 14:31:23,483 [  7] INFO  AppManager [(null)] (landingPage.aspx) - Redirecting to Login.aspx 
+Request Type: LogInOut 
+SessionId: rbg1atbrmqeoin55wbhfgcja
+2017-03-09 14:31:23,492 [  8] INFO  AppManager [(null)] (login.aspx) - Request from http://localhost:1949/SimpleServings/UI/Page/MyZone.aspx?Control=EditUserGroup&UserGroupID=5 
+SessionId: 4zmfu0nfxznrp1eepycuuw55
+2017-03-09 14:31:26,120 [  8] INFO  AppManager [(null)] (landingPage.aspx) - Clearing Session 
+Request Type:  
+SessionId: 10m1vzr1qv4ppzqnw5fkgp55
+2017-03-09 14:31:26,137 [  8] INFO  AppManager [(null)] (landingPage.aspx) - New Session 
+Request Type:  
+SessionId: zf35u1450vntxh45h3qur0b4
+2017-03-09 14:31:26,169 [  7] INFO  AppManager [(null)] (login.aspx) - (CatererOne) - Login successful 
+SessionId: v3xye3bkgmzefpzadryxigrm
+2017-03-09 14:31:26,175 [  7] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: zf35u1450vntxh45h3qur0b4
+2017-03-09 14:32:10,940 [  5] INFO  AppManager [(null)] (landingPage.aspx) - Request from http://localhost:1949/SimpleServings/UI/Page/SimpleServings/Recipe/AddRecipe.aspx 
+Request Type: LogInOut 
+SessionId: zf35u1450vntxh45h3qur0b4
+2017-03-09 14:32:10,941 [  5] INFO  AppManager [(null)] (landingPage.aspx) - Redirecting to Login.aspx 
+Request Type: LogInOut 
+SessionId: zf35u1450vntxh45h3qur0b4
+2017-03-09 14:32:10,950 [  9] INFO  AppManager [(null)] (login.aspx) - Request from http://localhost:1949/SimpleServings/UI/Page/SimpleServings/Recipe/AddRecipe.aspx 
+SessionId: o5h04h55s43mrb55ma4rmf55
+2017-03-09 14:32:26,467 [  7] INFO  AppManager [(null)] (landingPage.aspx) - Clearing Session 
+Request Type:  
+SessionId: jsqzmbefi1e3mozrvn50di55
+2017-03-09 14:32:26,484 [  7] INFO  AppManager [(null)] (login.aspx) - (cvais7773) - Login successful 
+SessionId: nsosvmmvwcflhyvbkeozr055
+2017-03-09 14:32:26,484 [  9] INFO  AppManager [(null)] (landingPage.aspx) - New Session 
+Request Type:  
+SessionId: rwsw5b55k21w3d55pye22jm3
+2017-03-09 14:32:26,494 [  7] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: rwsw5b55k21w3d55pye22jm3
+2017-03-09 14:34:43,481 [  5] INFO  AppManager [(null)] (Recipe.aspx) - Request from http://localhost:1949/SimpleServings/UI/Page/MyZone.aspx?Control=EditUserGroup&UserGroupID=7 
+SessionId: rwsw5b55k21w3d55pye22jm3
+2017-03-09 14:41:18,556 [ 11] INFO  AppManager [(null)] SimpleServings started.
+2017-03-09 14:41:18,743 [  7] INFO  AppManager [(null)] (Recipe.aspx) - Request from http://localhost:1949/SimpleServings/UI/Page/SimpleServings/Recipe/Recipe.aspx 
+SessionId: rwsw5b55k21w3d55pye22jm3
+2017-03-09 14:43:25,872 [  9] INFO  AppManager [(null)] (landingPage.aspx) - Request from http://localhost:1949/SimpleServings/UI/Page/SimpleServings/Recipe/Recipe.aspx 
+Request Type: LogInOut 
+SessionId: rwsw5b55k21w3d55pye22jm3
+2017-03-09 14:43:25,874 [  9] INFO  AppManager [(null)] (landingPage.aspx) - Redirecting to Login.aspx 
+Request Type: LogInOut 
+SessionId: rwsw5b55k21w3d55pye22jm3
+2017-03-09 14:43:28,824 [  8] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: ayccwv55phf03p453gyudt55
+2017-03-09 14:52:31,575 [  9] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: ivs0fzz0sffj0255j4o1wg55
+2017-03-09 14:52:33,423 [  7] INFO  AppManager [(null)] (landingPage.aspx) - Request from http://localhost:1949/SimpleServings/UI/Page/ 
+Request Type: LogInOut 
+SessionId: rmn25a55yhegsb455kgmuc55
+2017-03-09 14:52:33,424 [  7] INFO  AppManager [(null)] (landingPage.aspx) - Redirecting to Login.aspx 
+Request Type: LogInOut 
+SessionId: rmn25a55yhegsb455kgmuc55
+2017-03-09 14:52:33,466 [  9] INFO  AppManager [(null)] (login.aspx) - Request from http://localhost:1949/SimpleServings/UI/Page/ 
+SessionId: jbtop04542dx5z5542n3ytrs
+2017-03-09 14:52:38,314 [  5] INFO  AppManager [(null)] (login.aspx) - (cvais7773) - Login successful 
+SessionId: cgu3g055f3qsbr55n3i0z055
+2017-03-09 14:52:38,344 [  7] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: 1irqyc55sxgrdrfuqyjhbp2x
+2017-03-09 15:00:19,142 [  8] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: bb3nduydp1eaks45zyl5niqx
+2017-03-09 15:00:20,870 [  9] INFO  AppManager [(null)] (landingPage.aspx) - Request from http://localhost:1949/SimpleServings/UI/Page/ 
+Request Type: LogInOut 
+SessionId: wuroxw5530a1uh45qt1pp4ah
+2017-03-09 15:00:20,871 [  9] INFO  AppManager [(null)] (landingPage.aspx) - Redirecting to Login.aspx 
+Request Type: LogInOut 
+SessionId: wuroxw5530a1uh45qt1pp4ah
+2017-03-09 15:00:21,018 [  7] INFO  AppManager [(null)] (login.aspx) - Request from http://localhost:1949/SimpleServings/UI/Page/ 
+SessionId: lixtl145qmrhx0ydwme12d55
+2017-03-09 15:00:24,258 [  7] INFO  AppManager [(null)] (login.aspx) - (cvais7773) - Login successful 
+SessionId: rr1k3lyj3ujbb4qoa3pnsyng
+2017-03-09 15:00:24,265 [  9] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: wbh0chqnkvo2qk2qiaokbl55
+2017-03-09 15:25:42,487 [  6] INFO  AppManager [(null)] SimpleServings started.
+2017-03-09 15:26:14,275 [  8] INFO  AppManager [(null)] (landingPage.aspx) - Redirecting to Login.aspx 
+Request Type: LogInOut 
+SessionId: 
+2017-03-09 15:26:43,330 [  8] INFO  AppManager [(null)] (landingPage.aspx) - Request from http://localhost:1949/SimpleServings/UI/Page/SimpleServings/Recipe/ViewRecipe.aspx?RecipeID=3723 
+Request Type: LogInOut 
+SessionId: ayccwv55phf03p453gyudt55
+2017-03-09 15:26:43,331 [  8] INFO  AppManager [(null)] (landingPage.aspx) - Redirecting to Login.aspx 
+Request Type: LogInOut 
+SessionId: ayccwv55phf03p453gyudt55
+2017-03-09 15:26:43,337 [  7] INFO  AppManager [(null)] (login.aspx) - Request from http://localhost:1949/SimpleServings/UI/Page/SimpleServings/Recipe/ViewRecipe.aspx?RecipeID=3723 
+SessionId: kpqpbomwtyipm3550dofgt3v
+2017-03-09 15:26:46,915 [  5] INFO  AppManager [(null)] (landingPage.aspx) - Clearing Session 
+Request Type:  
+SessionId: 2a4mkl55g1kwng3lpriuyk45
+2017-03-09 15:26:46,934 [  7] INFO  AppManager [(null)] (landingPage.aspx) - New Session 
+Request Type:  
+SessionId: hjje1q55drwnq1uhkv5ugz3l
+2017-03-09 15:26:46,936 [  5] INFO  AppManager [(null)] (login.aspx) - (cvais7773) - Login successful 
+SessionId: tbwx0eyhbkuewq554gxol13b
+2017-03-09 15:26:46,943 [  5] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: hjje1q55drwnq1uhkv5ugz3l
+2017-03-09 15:27:10,919 [  5] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: rmps5bruwwno53bg0u0bdkzi
+2017-03-09 15:27:12,233 [  8] INFO  AppManager [(null)] (landingPage.aspx) - Request from http://localhost:1949/SimpleServings/ui/page/ 
+Request Type: LogInOut 
+SessionId: lqfhbu55jjz2jd55zuob0a45
+2017-03-09 15:27:12,233 [  8] INFO  AppManager [(null)] (landingPage.aspx) - Redirecting to Login.aspx 
+Request Type: LogInOut 
+SessionId: lqfhbu55jjz2jd55zuob0a45
+2017-03-09 15:27:12,237 [  8] INFO  AppManager [(null)] (login.aspx) - Request from http://localhost:1949/SimpleServings/ui/page/ 
+SessionId: f1vrzcmnskuhi3jovjlmnj45
+2017-03-09 15:27:18,799 [  5] INFO  AppManager [(null)] (landingPage.aspx) - Clearing Session 
+Request Type:  
+SessionId: a1qqr4rrwmpxe3exsnzn4155
+2017-03-09 15:27:18,805 [  7] INFO  AppManager [(null)] (landingPage.aspx) - New Session 
+Request Type:  
+SessionId: injh5k555lv3ojzut3lmep45
+2017-03-09 15:27:18,806 [  8] INFO  AppManager [(null)] (login.aspx) - (cvais7773) - Login successful 
+SessionId: lo2ttf45dn3v3pmibk3pgn55
+2017-03-09 15:27:18,812 [  7] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: injh5k555lv3ojzut3lmep45
+2017-03-09 16:09:43,899 [  8] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: hjje1q55drwnq1uhkv5ugz3l
+2017-03-09 16:10:02,996 [  9] INFO  AppManager [(null)] (landingPage.aspx) - Request from http://localhost:1949/SimpleServings/UI/Page/SimpleServings/Recipe/ViewRecipe.aspx?RecipeID=3723 
+Request Type: LogInOut 
+SessionId: hjje1q55drwnq1uhkv5ugz3l
+2017-03-09 16:10:02,997 [  9] INFO  AppManager [(null)] (landingPage.aspx) - Redirecting to Login.aspx 
+Request Type: LogInOut 
+SessionId: hjje1q55drwnq1uhkv5ugz3l
+2017-03-09 16:10:03,007 [  8] INFO  AppManager [(null)] (login.aspx) - Request from http://localhost:1949/SimpleServings/UI/Page/SimpleServings/Recipe/ViewRecipe.aspx?RecipeID=3723 
+SessionId: 3n24of3mueggiz550wgnfx45
+2017-03-09 16:10:39,526 [  8] INFO  AppManager [(null)] (landingPage.aspx) - Clearing Session 
+Request Type:  
+SessionId: u1mif245rnwzvcjk3s4fckm3
+2017-03-09 16:10:39,542 [  5] INFO  AppManager [(null)] (landingPage.aspx) - New Session 
+Request Type:  
+SessionId: ispdyp3xrevaezzds33usq45
+2017-03-09 16:10:39,558 [  8] INFO  AppManager [(null)] (login.aspx) - (EMullarkey) - Login successful 
+SessionId: e0akwq451i4coi45vtavv3mo
+2017-03-09 16:10:39,565 [  8] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: ispdyp3xrevaezzds33usq45
+2017-03-09 16:10:47,157 [  8] INFO  AppManager [(null)] (landingPage.aspx) - Request from http://localhost:1949/SimpleServings/UI/Page/SimpleServings/Recipe/ViewRecipe.aspx?RecipeID=3723 
+Request Type: LogInOut 
+SessionId: ispdyp3xrevaezzds33usq45
+2017-03-09 16:10:47,158 [  8] INFO  AppManager [(null)] (landingPage.aspx) - Redirecting to Login.aspx 
+Request Type: LogInOut 
+SessionId: ispdyp3xrevaezzds33usq45
+2017-03-09 16:10:47,167 [  9] INFO  AppManager [(null)] (login.aspx) - Request from http://localhost:1949/SimpleServings/UI/Page/SimpleServings/Recipe/ViewRecipe.aspx?RecipeID=3723 
+SessionId: lszsvoicvyeyj155lnwkqyr1
+2017-03-09 16:10:50,198 [  9] INFO  AppManager [(null)] (landingPage.aspx) - Clearing Session 
+Request Type:  
+SessionId: kpesftbum2hmxu45vqx553jz
+2017-03-09 16:10:50,211 [  9] INFO  AppManager [(null)] (landingPage.aspx) - New Session 
+Request Type:  
+SessionId: 20kpngyp4i2yed45fgamj055
+2017-03-09 16:10:50,226 [  8] INFO  AppManager [(null)] (login.aspx) - (CatererOne) - Login successful 
+SessionId: 5t4ruyrey50dir55uu5mi4uj
+2017-03-09 16:10:50,234 [  8] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: 20kpngyp4i2yed45fgamj055
+2017-03-09 16:12:33,333 [  6] INFO  AppManager [(null)] SimpleServings started.
+2017-03-09 16:12:40,523 [  8] INFO  AppManager [(null)] (landingPage.aspx) - Request from http://localhost:1949/SimpleServings/UI/Page/SimpleServings/Recipe/RecipeList.aspx 
+Request Type: LogInOut 
+SessionId: 20kpngyp4i2yed45fgamj055
+2017-03-09 16:12:40,524 [  8] INFO  AppManager [(null)] (landingPage.aspx) - Redirecting to Login.aspx 
+Request Type: LogInOut 
+SessionId: 20kpngyp4i2yed45fgamj055
+2017-03-09 16:12:45,087 [  8] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: ujbo1545jw0qqw45x0tgen55
+2017-03-09 16:13:37,171 [  7] INFO  AppManager [(null)] (landingPage.aspx) - Request from http://localhost:1949/SimpleServings/UI/Page/SimpleServings/Recipe/RecipeList.aspx 
+Request Type: LogInOut 
+SessionId: ujbo1545jw0qqw45x0tgen55
+2017-03-09 16:13:37,172 [  7] INFO  AppManager [(null)] (landingPage.aspx) - Redirecting to Login.aspx 
+Request Type: LogInOut 
+SessionId: ujbo1545jw0qqw45x0tgen55
+2017-03-09 16:13:37,181 [  7] INFO  AppManager [(null)] (login.aspx) - Request from http://localhost:1949/SimpleServings/UI/Page/SimpleServings/Recipe/RecipeList.aspx 
+SessionId: ytqqzfz233vyn2jaj0lot045
+2017-03-09 16:13:51,175 [  5] INFO  AppManager [(null)] (landingPage.aspx) - Clearing Session 
+Request Type:  
+SessionId: kl4eaky34djikw45k1tdhy3x
+2017-03-09 16:13:51,193 [  9] INFO  AppManager [(null)] (landingPage.aspx) - New Session 
+Request Type:  
+SessionId: wtmkfqnvzyinryns0dbdpfms
+2017-03-09 16:13:51,201 [  8] INFO  AppManager [(null)] (login.aspx) - (EMullarkey) - Login successful 
+SessionId: sfg30c55mf4o41a0ynrwqnnq
+2017-03-09 16:13:51,209 [  9] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: wtmkfqnvzyinryns0dbdpfms
+2017-03-09 16:15:02,271 [  9] INFO  AppManager [(null)] (landingPage.aspx) - Request from http://localhost:1949/SimpleServings/UI/Page/SimpleServings/Recipe/RecipeList.aspx 
+Request Type: LogInOut 
+SessionId: wtmkfqnvzyinryns0dbdpfms
+2017-03-09 16:15:02,272 [  9] INFO  AppManager [(null)] (landingPage.aspx) - Redirecting to Login.aspx 
+Request Type: LogInOut 
+SessionId: wtmkfqnvzyinryns0dbdpfms
+2017-03-09 16:15:02,282 [  9] INFO  AppManager [(null)] (login.aspx) - Request from http://localhost:1949/SimpleServings/UI/Page/SimpleServings/Recipe/RecipeList.aspx 
+SessionId: mltxm4af50k3uj451urmhk3v
+2017-03-09 16:15:05,166 [  8] INFO  AppManager [(null)] (landingPage.aspx) - Clearing Session 
+Request Type:  
+SessionId: gaplyu453vxs1u45xserdqj0
+2017-03-09 16:15:05,182 [  9] INFO  AppManager [(null)] (landingPage.aspx) - New Session 
+Request Type:  
+SessionId: 0yat4v55gazbt5issu1v5q45
+2017-03-09 16:15:05,187 [  8] INFO  AppManager [(null)] (login.aspx) - (cvais7773) - Login successful 
+SessionId: crtdknfeyasb5h551lihkd55
+2017-03-09 16:15:05,193 [  8] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: 0yat4v55gazbt5issu1v5q45
+2017-03-09 16:44:18,222 [  9] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: 0yat4v55gazbt5issu1v5q45

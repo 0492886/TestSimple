@@ -1,0 +1,54 @@
+2017-10-24 19:06:25,268 [  1] INFO  AppManager [(null)] SimpleServings started.
+2017-10-24 19:07:46,792 [  7] ERROR AppManager [(null)] btnLogin_Click failed: Object cannot be cast from DBNull to other types.
+System.InvalidCastException: Object cannot be cast from DBNull to other types.
+   at System.DBNull.System.IConvertible.ToInt32(IFormatProvider provider)
+   at System.Convert.ToInt32(Object value)
+   at SimpleServingsLibrary.Shared.Staff.PopStaff(SqlDataReader dr) in e:\SSDFTA\SimpleServingsLibrary\SimpleServings.Shared\BLL\Staff.cs:line 348
+   at SimpleServingsLibrary.Shared.Staff.GetStaffByUserName(String userName) in e:\SSDFTA\SimpleServingsLibrary\SimpleServings.Shared\BLL\Staff.cs:line 622
+   at SimpleServings.UI.Page.login.btnLogin_Click(Object sender, EventArgs e) in e:\SSDFTA\SimpleServings\SimpleServings\UI\Page\login.aspx.cs:line 161
+2017-10-24 19:08:31,736 [  7] INFO  AppManager [(null)] (landingPage.aspx) - Clearing Session 
+Request Type:  
+SessionId: mcm42e55cgtp0555uerlvi55
+2017-10-24 19:08:31,846 [  9] INFO  AppManager [(null)] (landingPage.aspx) - New Session 
+Request Type:  
+SessionId: t5slw3nso3030t55t5gcgo45
+2017-10-24 19:13:07,729 [  8] ERROR AppManager [(null)] btnLogin_Click failed: Object cannot be cast from DBNull to other types.
+System.InvalidCastException: Object cannot be cast from DBNull to other types.
+   at System.DBNull.System.IConvertible.ToInt32(IFormatProvider provider)
+   at System.Convert.ToInt32(Object value)
+   at SimpleServingsLibrary.Shared.Staff.PopStaff(SqlDataReader dr) in e:\SSDFTA\SimpleServingsLibrary\SimpleServings.Shared\BLL\Staff.cs:line 348
+   at SimpleServingsLibrary.Shared.Staff.GetStaffByUserName(String userName) in e:\SSDFTA\SimpleServingsLibrary\SimpleServings.Shared\BLL\Staff.cs:line 622
+   at SimpleServings.UI.Page.login.btnLogin_Click(Object sender, EventArgs e) in e:\SSDFTA\SimpleServings\SimpleServings\UI\Page\login.aspx.cs:line 161
+2017-10-24 19:13:07,794 [ 10] INFO  AppManager [(null)] (login.aspx) - (anthony.bonilla) - Login successful 
+SessionId: t5slw3nso3030t55t5gcgo45
+2017-10-24 19:13:08,200 [  9] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: t5slw3nso3030t55t5gcgo45
+2017-10-24 19:13:08,749 [  8] INFO  AppManager [(null)] (landingPage.aspx) - Clearing Session 
+Request Type:  
+SessionId: t5slw3nso3030t55t5gcgo45
+2017-10-24 19:13:17,937 [  8] INFO  AppManager [(null)] (landingPage.aspx) - Request from http://localhost:1949/SimpleServings/UI/Page/Home.aspx 
+Request Type: LogInOut 
+SessionId: t5slw3nso3030t55t5gcgo45
+2017-10-24 19:13:17,937 [  8] INFO  AppManager [(null)] (landingPage.aspx) - Redirecting to Login.aspx 
+Request Type: LogInOut 
+SessionId: t5slw3nso3030t55t5gcgo45
+2017-10-24 19:13:17,941 [ 10] INFO  AppManager [(null)] (login.aspx) - Request from http://localhost:1949/SimpleServings/UI/Page/Home.aspx 
+SessionId: yddpd3nvzngs0345ohbbdwjb
+2017-10-24 19:14:04,260 [  9] INFO  AppManager [(null)] (landingPage.aspx) - Clearing Session 
+Request Type:  
+SessionId: cqzhwu2bdbwhtd45xlwhye45
+2017-10-24 19:14:04,273 [ 10] INFO  AppManager [(null)] (landingPage.aspx) - New Session 
+Request Type:  
+SessionId: e3ec1szg1pezrqrullyvsx45
+2017-10-24 19:14:04,323 [  8] INFO  AppManager [(null)] (login.aspx) - (anthony.bonilla) - Login successful 
+SessionId: wuhoej450ehwq0qaw1t25wbq
+2017-10-24 19:14:04,333 [  7] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: e3ec1szg1pezrqrullyvsx45
+2017-10-24 19:14:29,107 [  8] INFO  AppManager [(null)] (landingPage.aspx) - Request from http://localhost:1949/SimpleServings/UI/Page/Home.aspx 
+Request Type: LogInOut 
+SessionId: e3ec1szg1pezrqrullyvsx45
+2017-10-24 19:14:29,108 [  8] INFO  AppManager [(null)] (landingPage.aspx) - Redirecting to Login.aspx 
+Request Type: LogInOut 
+SessionId: e3ec1szg1pezrqrullyvsx45
+2017-10-24 19:14:29,112 [ 10] INFO  AppManager [(null)] (login.aspx) - Request from http://localhost:1949/SimpleServings/UI/Page/Home.aspx 
+SessionId: 55w5ck55yvwzscywkj2zeh55

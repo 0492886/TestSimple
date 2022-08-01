@@ -1,0 +1,585 @@
+2021-05-17 13:32:33,056 [  1] INFO  AppManager [(null)] SimpleServings started.
+2021-05-17 13:32:48,642 [ 11] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: sphsnypxlckkldp34b54vkzu
+2021-05-17 13:41:22,608 [ 15] ERROR AppManager [(null)] SimpleServings application error: Exception of type 'System.Web.HttpUnhandledException' was thrown.
+location: http://localhost:1948/SimpleServings/UI/Page/SimpleServings/Recipe/AddRecipe.aspx
+
+System.Web.HttpUnhandledException (0x80004005): Exception of type 'System.Web.HttpUnhandledException' was thrown. ---> System.FormatException: Input string was not in a correct format.
+   at System.Number.ParseDouble(String value, NumberStyles options, NumberFormatInfo numfmt)
+   at System.Convert.ToDouble(String value)
+   at SimpleServings.UI.UDC.SimpleServings.Recipe.AddEditRecipeNutrition.getViewInfo(GridView GridView1, DataListItem item) in E:\DFTA coding\SimpleServings\SimpleServings_networkVersion\SimpleServing_Latest\Ansu_4_20\SimpleServings\SimpleServings\UI\UDC\SimpleServings\Recipe\AddEditRecipeNutrition.ascx.cs:line 304
+   at SimpleServings.UI.UDC.SimpleServings.Recipe.AddEditRecipeNutrition.conDataListItem(GridView tempGridView1) in E:\DFTA coding\SimpleServings\SimpleServings_networkVersion\SimpleServing_Latest\Ansu_4_20\SimpleServings\SimpleServings\UI\UDC\SimpleServings\Recipe\AddEditRecipeNutrition.ascx.cs:line 249
+   at SimpleServings.UI.UDC.SimpleServings.Recipe.AddEditRecipeNutrition.setGridView(String FilePath, DataTable dt) in E:\DFTA coding\SimpleServings\SimpleServings_networkVersion\SimpleServing_Latest\Ansu_4_20\SimpleServings\SimpleServings\UI\UDC\SimpleServings\Recipe\AddEditRecipeNutrition.ascx.cs:line 242
+   at SimpleServings.UI.UDC.SimpleServings.Recipe.AddEditRecipeNutrition.Import_To_Grid(String FilePath, String Extension) in E:\DFTA coding\SimpleServings\SimpleServings_networkVersion\SimpleServing_Latest\Ansu_4_20\SimpleServings\SimpleServings\UI\UDC\SimpleServings\Recipe\AddEditRecipeNutrition.ascx.cs:line 229
+   at SimpleServings.UI.UDC.SimpleServings.Recipe.AddEditRecipeNutrition.btnUpload_Click(Object sender, EventArgs e) in E:\DFTA coding\SimpleServings\SimpleServings_networkVersion\SimpleServing_Latest\Ansu_4_20\SimpleServings\SimpleServings\UI\UDC\SimpleServings\Recipe\AddEditRecipeNutrition.ascx.cs:line 171
+   at System.Web.UI.WebControls.Button.OnClick(EventArgs e)
+   at System.Web.UI.WebControls.Button.RaisePostBackEvent(String eventArgument)
+   at System.Web.UI.WebControls.Button.System.Web.UI.IPostBackEventHandler.RaisePostBackEvent(String eventArgument)
+   at System.Web.UI.Page.RaisePostBackEvent(IPostBackEventHandler sourceControl, String eventArgument)
+   at System.Web.UI.Page.RaisePostBackEvent(NameValueCollection postData)
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   at System.Web.UI.Page.HandleError(Exception e)
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   at System.Web.UI.Page.ProcessRequest(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   at System.Web.UI.Page.ProcessRequest()
+   at System.Web.UI.Page.ProcessRequestWithNoAssert(HttpContext context)
+   at System.Web.UI.Page.ProcessRequest(HttpContext context)
+   at ASP.ui_page_simpleservings_recipe_addrecipe_aspx.ProcessRequest(HttpContext context) in c:\Users\mali\AppData\Local\Temp\Temporary ASP.NET Files\simpleservings\64db465c\8b5e2e9d\App_Web_f110xdgq.10.cs:line 0
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStepImpl(IExecutionStep step)
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+2021-05-17 14:22:27,672 [  1] INFO  AppManager [(null)] SimpleServings started.
+2021-05-17 14:24:31,411 [ 10] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: s4by1qaopqmnpgjbs3kjvkb5
+2021-05-17 14:29:10,292 [  9] INFO  AppManager [(null)] (landingPage.aspx) - Clearing Session 
+Request Type:  
+SessionId: q2kcakqsfljkrdlstsfcxnia
+2021-05-17 14:29:10,310 [ 24] INFO  AppManager [(null)] (landingPage.aspx) - New Session 
+Request Type:  
+SessionId: kh4rezdr5kl3ur2xlurgxgfe
+2021-05-17 14:29:10,586 [ 10] INFO  AppManager [(null)] (login.aspx) - (Mli) - Login successful 
+SessionId: ufoysrhr22sku2mvl3xwfo3u
+2021-05-17 14:29:10,592 [ 61] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: kh4rezdr5kl3ur2xlurgxgfe
+2021-05-17 14:30:05,734 [  1] INFO  AppManager [(null)] SimpleServings started.
+2021-05-17 14:30:34,959 [ 15] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: aepniqkqgaqo3x4i1wdghhn2
+2021-05-17 15:35:38,925 [  9] INFO  AppManager [(null)] (landingPage.aspx) - Clearing Session 
+Request Type:  
+SessionId: yo0qporjwnzrmhfs4bpxcxy0
+2021-05-17 15:35:38,942 [  9] INFO  AppManager [(null)] (landingPage.aspx) - New Session 
+Request Type:  
+SessionId: voxzxf5tgaeju5sb1eazda44
+2021-05-17 15:35:39,224 [ 14] INFO  AppManager [(null)] (login.aspx) - (Mli) - Login successful 
+SessionId: elwfewcwqbnse5kceaumz1hh
+2021-05-17 15:35:39,230 [ 11] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: voxzxf5tgaeju5sb1eazda44
+2021-05-17 15:58:10,587 [ 11] ERROR AppManager [(null)] SimpleServings application error: Exception of type 'System.Web.HttpUnhandledException' was thrown.
+location: http://localhost:1948/SimpleServings/UI/Page/SimpleServings/Recipe/AddRecipe.aspx
+
+System.Web.HttpUnhandledException (0x80004005): Exception of type 'System.Web.HttpUnhandledException' was thrown. ---> System.FormatException: Input string was not in a correct format.
+   at System.Number.ParseDouble(String value, NumberStyles options, NumberFormatInfo numfmt)
+   at System.Convert.ToDouble(String value)
+   at SimpleServings.UI.UDC.SimpleServings.Recipe.AddEditRecipeNutrition.getViewInfo(GridView GridView1, DataListItem item) in E:\DFTA coding\SimpleServings\SimpleServings_networkVersion\SimpleServing_Latest\Ansu_4_20\SimpleServings\SimpleServings\UI\UDC\SimpleServings\Recipe\AddEditRecipeNutrition.ascx.cs:line 304
+   at SimpleServings.UI.UDC.SimpleServings.Recipe.AddEditRecipeNutrition.conDataListItem(GridView tempGridView1) in E:\DFTA coding\SimpleServings\SimpleServings_networkVersion\SimpleServing_Latest\Ansu_4_20\SimpleServings\SimpleServings\UI\UDC\SimpleServings\Recipe\AddEditRecipeNutrition.ascx.cs:line 249
+   at SimpleServings.UI.UDC.SimpleServings.Recipe.AddEditRecipeNutrition.setGridView(String FilePath, DataTable dt) in E:\DFTA coding\SimpleServings\SimpleServings_networkVersion\SimpleServing_Latest\Ansu_4_20\SimpleServings\SimpleServings\UI\UDC\SimpleServings\Recipe\AddEditRecipeNutrition.ascx.cs:line 242
+   at SimpleServings.UI.UDC.SimpleServings.Recipe.AddEditRecipeNutrition.Import_To_Grid(String FilePath, String Extension) in E:\DFTA coding\SimpleServings\SimpleServings_networkVersion\SimpleServing_Latest\Ansu_4_20\SimpleServings\SimpleServings\UI\UDC\SimpleServings\Recipe\AddEditRecipeNutrition.ascx.cs:line 229
+   at SimpleServings.UI.UDC.SimpleServings.Recipe.AddEditRecipeNutrition.btnUpload_Click(Object sender, EventArgs e) in E:\DFTA coding\SimpleServings\SimpleServings_networkVersion\SimpleServing_Latest\Ansu_4_20\SimpleServings\SimpleServings\UI\UDC\SimpleServings\Recipe\AddEditRecipeNutrition.ascx.cs:line 171
+   at System.Web.UI.WebControls.Button.OnClick(EventArgs e)
+   at System.Web.UI.WebControls.Button.RaisePostBackEvent(String eventArgument)
+   at System.Web.UI.WebControls.Button.System.Web.UI.IPostBackEventHandler.RaisePostBackEvent(String eventArgument)
+   at System.Web.UI.Page.RaisePostBackEvent(IPostBackEventHandler sourceControl, String eventArgument)
+   at System.Web.UI.Page.RaisePostBackEvent(NameValueCollection postData)
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   at System.Web.UI.Page.HandleError(Exception e)
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   at System.Web.UI.Page.ProcessRequest(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   at System.Web.UI.Page.ProcessRequest()
+   at System.Web.UI.Page.ProcessRequestWithNoAssert(HttpContext context)
+   at System.Web.UI.Page.ProcessRequest(HttpContext context)
+   at ASP.ui_page_simpleservings_recipe_addrecipe_aspx.ProcessRequest(HttpContext context) in c:\Users\mali\AppData\Local\Temp\Temporary ASP.NET Files\simpleservings\64db465c\8b5e2e9d\App_Web_f110xdgq.10.cs:line 0
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStepImpl(IExecutionStep step)
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+2021-05-17 16:03:53,337 [275] INFO  AppManager [(null)] (landingPage.aspx) - Clearing Session 
+Request Type:  
+SessionId: dxcl3vmxkqp5itrqe30tgnq5
+2021-05-17 16:03:53,351 [185] INFO  AppManager [(null)] (landingPage.aspx) - New Session 
+Request Type:  
+SessionId: rhz1sv5zbaq0rrfyaj1uk1gd
+2021-05-17 16:03:53,541 [263] INFO  AppManager [(null)] (login.aspx) - (Mli) - Login successful 
+SessionId: wanujl43wxzuuwps52zwqd45
+2021-05-17 16:03:53,599 [277] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: rhz1sv5zbaq0rrfyaj1uk1gd
+2021-05-17 16:04:15,526 [264] ERROR AppManager [(null)] SimpleServings application error: Exception of type 'System.Web.HttpUnhandledException' was thrown.
+location: http://localhost:1948/SimpleServings/UI/Page/SimpleServings/Recipe/AddRecipe.aspx
+
+System.Web.HttpUnhandledException (0x80004005): Exception of type 'System.Web.HttpUnhandledException' was thrown. ---> System.FormatException: Input string was not in a correct format.
+   at System.Number.ParseDouble(String value, NumberStyles options, NumberFormatInfo numfmt)
+   at System.Convert.ToDouble(String value)
+   at SimpleServings.UI.UDC.SimpleServings.Recipe.AddEditRecipeNutrition.getViewInfo(GridView GridView1, DataListItem item) in E:\DFTA coding\SimpleServings\SimpleServings_networkVersion\SimpleServing_Latest\Ansu_4_20\SimpleServings\SimpleServings\UI\UDC\SimpleServings\Recipe\AddEditRecipeNutrition.ascx.cs:line 304
+   at SimpleServings.UI.UDC.SimpleServings.Recipe.AddEditRecipeNutrition.conDataListItem(GridView tempGridView1) in E:\DFTA coding\SimpleServings\SimpleServings_networkVersion\SimpleServing_Latest\Ansu_4_20\SimpleServings\SimpleServings\UI\UDC\SimpleServings\Recipe\AddEditRecipeNutrition.ascx.cs:line 249
+   at SimpleServings.UI.UDC.SimpleServings.Recipe.AddEditRecipeNutrition.setGridView(String FilePath, DataTable dt) in E:\DFTA coding\SimpleServings\SimpleServings_networkVersion\SimpleServing_Latest\Ansu_4_20\SimpleServings\SimpleServings\UI\UDC\SimpleServings\Recipe\AddEditRecipeNutrition.ascx.cs:line 242
+   at SimpleServings.UI.UDC.SimpleServings.Recipe.AddEditRecipeNutrition.Import_To_Grid(String FilePath, String Extension) in E:\DFTA coding\SimpleServings\SimpleServings_networkVersion\SimpleServing_Latest\Ansu_4_20\SimpleServings\SimpleServings\UI\UDC\SimpleServings\Recipe\AddEditRecipeNutrition.ascx.cs:line 229
+   at SimpleServings.UI.UDC.SimpleServings.Recipe.AddEditRecipeNutrition.btnUpload_Click(Object sender, EventArgs e) in E:\DFTA coding\SimpleServings\SimpleServings_networkVersion\SimpleServing_Latest\Ansu_4_20\SimpleServings\SimpleServings\UI\UDC\SimpleServings\Recipe\AddEditRecipeNutrition.ascx.cs:line 171
+   at System.Web.UI.WebControls.Button.OnClick(EventArgs e)
+   at System.Web.UI.WebControls.Button.RaisePostBackEvent(String eventArgument)
+   at System.Web.UI.WebControls.Button.System.Web.UI.IPostBackEventHandler.RaisePostBackEvent(String eventArgument)
+   at System.Web.UI.Page.RaisePostBackEvent(IPostBackEventHandler sourceControl, String eventArgument)
+   at System.Web.UI.Page.RaisePostBackEvent(NameValueCollection postData)
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   at System.Web.UI.Page.HandleError(Exception e)
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   at System.Web.UI.Page.ProcessRequest(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   at System.Web.UI.Page.ProcessRequest()
+   at System.Web.UI.Page.ProcessRequestWithNoAssert(HttpContext context)
+   at System.Web.UI.Page.ProcessRequest(HttpContext context)
+   at ASP.ui_page_simpleservings_recipe_addrecipe_aspx.ProcessRequest(HttpContext context) in c:\Users\mali\AppData\Local\Temp\Temporary ASP.NET Files\simpleservings\64db465c\8b5e2e9d\App_Web_f110xdgq.10.cs:line 0
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStepImpl(IExecutionStep step)
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+2021-05-17 16:05:57,479 [ 11] INFO  AppManager [(null)] (landingPage.aspx) - Clearing Session 
+Request Type:  
+SessionId: 4g1owxhempckkhgoznx4t2w3
+2021-05-17 16:05:57,495 [252] INFO  AppManager [(null)] (landingPage.aspx) - New Session 
+Request Type:  
+SessionId: 3evuxzprn1pqbhwluvkak0ra
+2021-05-17 16:05:57,802 [185] INFO  AppManager [(null)] (login.aspx) - (Mli) - Login successful 
+SessionId: uddcpbbpdpzqirxz2lai4vyl
+2021-05-17 16:05:57,811 [290] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: 3evuxzprn1pqbhwluvkak0ra
+2021-05-17 16:12:21,964 [ 11] ERROR AppManager [(null)] SimpleServings application error: Exception of type 'System.Web.HttpUnhandledException' was thrown.
+location: http://localhost:1948/SimpleServings/UI/Page/SimpleServings/Recipe/AddRecipe.aspx
+
+System.Web.HttpUnhandledException (0x80004005): Exception of type 'System.Web.HttpUnhandledException' was thrown. ---> System.FormatException: Input string was not in a correct format.
+   at System.Number.ParseDouble(String value, NumberStyles options, NumberFormatInfo numfmt)
+   at System.Convert.ToDouble(String value)
+   at SimpleServings.UI.UDC.SimpleServings.Recipe.AddEditRecipeNutrition.getViewInfo(GridView GridView1, DataListItem item) in E:\DFTA coding\SimpleServings\SimpleServings_networkVersion\SimpleServing_Latest\Ansu_4_20\SimpleServings\SimpleServings\UI\UDC\SimpleServings\Recipe\AddEditRecipeNutrition.ascx.cs:line 304
+   at SimpleServings.UI.UDC.SimpleServings.Recipe.AddEditRecipeNutrition.conDataListItem(GridView tempGridView1) in E:\DFTA coding\SimpleServings\SimpleServings_networkVersion\SimpleServing_Latest\Ansu_4_20\SimpleServings\SimpleServings\UI\UDC\SimpleServings\Recipe\AddEditRecipeNutrition.ascx.cs:line 249
+   at SimpleServings.UI.UDC.SimpleServings.Recipe.AddEditRecipeNutrition.setGridView(String FilePath, DataTable dt) in E:\DFTA coding\SimpleServings\SimpleServings_networkVersion\SimpleServing_Latest\Ansu_4_20\SimpleServings\SimpleServings\UI\UDC\SimpleServings\Recipe\AddEditRecipeNutrition.ascx.cs:line 242
+   at SimpleServings.UI.UDC.SimpleServings.Recipe.AddEditRecipeNutrition.Import_To_Grid(String FilePath, String Extension) in E:\DFTA coding\SimpleServings\SimpleServings_networkVersion\SimpleServing_Latest\Ansu_4_20\SimpleServings\SimpleServings\UI\UDC\SimpleServings\Recipe\AddEditRecipeNutrition.ascx.cs:line 229
+   at SimpleServings.UI.UDC.SimpleServings.Recipe.AddEditRecipeNutrition.btnUpload_Click(Object sender, EventArgs e) in E:\DFTA coding\SimpleServings\SimpleServings_networkVersion\SimpleServing_Latest\Ansu_4_20\SimpleServings\SimpleServings\UI\UDC\SimpleServings\Recipe\AddEditRecipeNutrition.ascx.cs:line 171
+   at System.Web.UI.WebControls.Button.OnClick(EventArgs e)
+   at System.Web.UI.WebControls.Button.RaisePostBackEvent(String eventArgument)
+   at System.Web.UI.WebControls.Button.System.Web.UI.IPostBackEventHandler.RaisePostBackEvent(String eventArgument)
+   at System.Web.UI.Page.RaisePostBackEvent(IPostBackEventHandler sourceControl, String eventArgument)
+   at System.Web.UI.Page.RaisePostBackEvent(NameValueCollection postData)
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   at System.Web.UI.Page.HandleError(Exception e)
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   at System.Web.UI.Page.ProcessRequest(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   at System.Web.UI.Page.ProcessRequest()
+   at System.Web.UI.Page.ProcessRequestWithNoAssert(HttpContext context)
+   at System.Web.UI.Page.ProcessRequest(HttpContext context)
+   at ASP.ui_page_simpleservings_recipe_addrecipe_aspx.ProcessRequest(HttpContext context) in c:\Users\mali\AppData\Local\Temp\Temporary ASP.NET Files\simpleservings\64db465c\8b5e2e9d\App_Web_f110xdgq.10.cs:line 0
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStepImpl(IExecutionStep step)
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+2021-05-17 16:16:39,944 [ 11] INFO  AppManager [(null)] (landingPage.aspx) - Clearing Session 
+Request Type:  
+SessionId: qladt3m4th0gpuqbf2i2bbcc
+2021-05-17 16:16:39,957 [185] INFO  AppManager [(null)] (landingPage.aspx) - New Session 
+Request Type:  
+SessionId: nfmkygdiuzwhaxl0vlcawxg5
+2021-05-17 16:16:40,125 [ 11] INFO  AppManager [(null)] (login.aspx) - (Mli) - Login successful 
+SessionId: ajuyuuj0c5edbdwlnfw4nvm4
+2021-05-17 16:16:40,134 [167] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: nfmkygdiuzwhaxl0vlcawxg5
+2021-05-17 16:18:12,506 [  6] ERROR AppManager [(null)] SimpleServings application error: Exception of type 'System.Web.HttpUnhandledException' was thrown.
+location: http://localhost:1948/SimpleServings/UI/Page/SimpleServings/Recipe/AddRecipe.aspx
+
+System.Web.HttpUnhandledException (0x80004005): Exception of type 'System.Web.HttpUnhandledException' was thrown. ---> System.FormatException: Input string was not in a correct format.
+   at System.Number.ParseDouble(String value, NumberStyles options, NumberFormatInfo numfmt)
+   at System.Convert.ToDouble(String value)
+   at SimpleServings.UI.UDC.SimpleServings.Recipe.AddEditRecipeNutrition.getViewInfo(GridView GridView1, DataListItem item) in E:\DFTA coding\SimpleServings\SimpleServings_networkVersion\SimpleServing_Latest\Ansu_4_20\SimpleServings\SimpleServings\UI\UDC\SimpleServings\Recipe\AddEditRecipeNutrition.ascx.cs:line 304
+   at SimpleServings.UI.UDC.SimpleServings.Recipe.AddEditRecipeNutrition.conDataListItem(GridView tempGridView1) in E:\DFTA coding\SimpleServings\SimpleServings_networkVersion\SimpleServing_Latest\Ansu_4_20\SimpleServings\SimpleServings\UI\UDC\SimpleServings\Recipe\AddEditRecipeNutrition.ascx.cs:line 249
+   at SimpleServings.UI.UDC.SimpleServings.Recipe.AddEditRecipeNutrition.setGridView(String FilePath, DataTable dt) in E:\DFTA coding\SimpleServings\SimpleServings_networkVersion\SimpleServing_Latest\Ansu_4_20\SimpleServings\SimpleServings\UI\UDC\SimpleServings\Recipe\AddEditRecipeNutrition.ascx.cs:line 242
+   at SimpleServings.UI.UDC.SimpleServings.Recipe.AddEditRecipeNutrition.Import_To_Grid(String FilePath, String Extension) in E:\DFTA coding\SimpleServings\SimpleServings_networkVersion\SimpleServing_Latest\Ansu_4_20\SimpleServings\SimpleServings\UI\UDC\SimpleServings\Recipe\AddEditRecipeNutrition.ascx.cs:line 229
+   at SimpleServings.UI.UDC.SimpleServings.Recipe.AddEditRecipeNutrition.btnUpload_Click(Object sender, EventArgs e) in E:\DFTA coding\SimpleServings\SimpleServings_networkVersion\SimpleServing_Latest\Ansu_4_20\SimpleServings\SimpleServings\UI\UDC\SimpleServings\Recipe\AddEditRecipeNutrition.ascx.cs:line 171
+   at System.Web.UI.WebControls.Button.OnClick(EventArgs e)
+   at System.Web.UI.WebControls.Button.RaisePostBackEvent(String eventArgument)
+   at System.Web.UI.WebControls.Button.System.Web.UI.IPostBackEventHandler.RaisePostBackEvent(String eventArgument)
+   at System.Web.UI.Page.RaisePostBackEvent(IPostBackEventHandler sourceControl, String eventArgument)
+   at System.Web.UI.Page.RaisePostBackEvent(NameValueCollection postData)
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   at System.Web.UI.Page.HandleError(Exception e)
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   at System.Web.UI.Page.ProcessRequest(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   at System.Web.UI.Page.ProcessRequest()
+   at System.Web.UI.Page.ProcessRequestWithNoAssert(HttpContext context)
+   at System.Web.UI.Page.ProcessRequest(HttpContext context)
+   at ASP.ui_page_simpleservings_recipe_addrecipe_aspx.ProcessRequest(HttpContext context) in c:\Users\mali\AppData\Local\Temp\Temporary ASP.NET Files\simpleservings\64db465c\8b5e2e9d\App_Web_f110xdgq.10.cs:line 0
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStepImpl(IExecutionStep step)
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+2021-05-17 16:19:00,516 [ 11] INFO  AppManager [(null)] (landingPage.aspx) - Clearing Session 
+Request Type:  
+SessionId: 2ebxwvmjwdgjtn5dyzvt4npb
+2021-05-17 16:19:00,533 [286] INFO  AppManager [(null)] (landingPage.aspx) - New Session 
+Request Type:  
+SessionId: c3vdarbltne42zmuod4m3nhc
+2021-05-17 16:19:00,717 [ 11] INFO  AppManager [(null)] (login.aspx) - (Mli) - Login successful 
+SessionId: q0x5ebv2dcwocd0uhtmgf5dm
+2021-05-17 16:19:00,723 [219] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: c3vdarbltne42zmuod4m3nhc
+2021-05-17 16:24:25,173 [ 11] ERROR AppManager [(null)] SimpleServings application error: Exception of type 'System.Web.HttpUnhandledException' was thrown.
+location: http://localhost:1948/SimpleServings/UI/Page/SimpleServings/Recipe/AddRecipe.aspx
+
+System.Web.HttpUnhandledException (0x80004005): Exception of type 'System.Web.HttpUnhandledException' was thrown. ---> System.FormatException: Input string was not in a correct format.
+   at System.Number.ParseDouble(String value, NumberStyles options, NumberFormatInfo numfmt)
+   at System.Convert.ToDouble(String value)
+   at SimpleServings.UI.UDC.SimpleServings.Recipe.AddEditRecipeNutrition.getViewInfo(GridView GridView1, DataListItem item) in E:\DFTA coding\SimpleServings\SimpleServings_networkVersion\SimpleServing_Latest\Ansu_4_20\SimpleServings\SimpleServings\UI\UDC\SimpleServings\Recipe\AddEditRecipeNutrition.ascx.cs:line 304
+   at SimpleServings.UI.UDC.SimpleServings.Recipe.AddEditRecipeNutrition.conDataListItem(GridView tempGridView1) in E:\DFTA coding\SimpleServings\SimpleServings_networkVersion\SimpleServing_Latest\Ansu_4_20\SimpleServings\SimpleServings\UI\UDC\SimpleServings\Recipe\AddEditRecipeNutrition.ascx.cs:line 249
+   at SimpleServings.UI.UDC.SimpleServings.Recipe.AddEditRecipeNutrition.setGridView(String FilePath, DataTable dt) in E:\DFTA coding\SimpleServings\SimpleServings_networkVersion\SimpleServing_Latest\Ansu_4_20\SimpleServings\SimpleServings\UI\UDC\SimpleServings\Recipe\AddEditRecipeNutrition.ascx.cs:line 242
+   at SimpleServings.UI.UDC.SimpleServings.Recipe.AddEditRecipeNutrition.Import_To_Grid(String FilePath, String Extension) in E:\DFTA coding\SimpleServings\SimpleServings_networkVersion\SimpleServing_Latest\Ansu_4_20\SimpleServings\SimpleServings\UI\UDC\SimpleServings\Recipe\AddEditRecipeNutrition.ascx.cs:line 229
+   at SimpleServings.UI.UDC.SimpleServings.Recipe.AddEditRecipeNutrition.btnUpload_Click(Object sender, EventArgs e) in E:\DFTA coding\SimpleServings\SimpleServings_networkVersion\SimpleServing_Latest\Ansu_4_20\SimpleServings\SimpleServings\UI\UDC\SimpleServings\Recipe\AddEditRecipeNutrition.ascx.cs:line 171
+   at System.Web.UI.WebControls.Button.OnClick(EventArgs e)
+   at System.Web.UI.WebControls.Button.RaisePostBackEvent(String eventArgument)
+   at System.Web.UI.WebControls.Button.System.Web.UI.IPostBackEventHandler.RaisePostBackEvent(String eventArgument)
+   at System.Web.UI.Page.RaisePostBackEvent(IPostBackEventHandler sourceControl, String eventArgument)
+   at System.Web.UI.Page.RaisePostBackEvent(NameValueCollection postData)
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   at System.Web.UI.Page.HandleError(Exception e)
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   at System.Web.UI.Page.ProcessRequest(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   at System.Web.UI.Page.ProcessRequest()
+   at System.Web.UI.Page.ProcessRequestWithNoAssert(HttpContext context)
+   at System.Web.UI.Page.ProcessRequest(HttpContext context)
+   at ASP.ui_page_simpleservings_recipe_addrecipe_aspx.ProcessRequest(HttpContext context) in c:\Users\mali\AppData\Local\Temp\Temporary ASP.NET Files\simpleservings\64db465c\8b5e2e9d\App_Web_f110xdgq.10.cs:line 0
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStepImpl(IExecutionStep step)
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+2021-05-17 16:25:01,163 [ 11] INFO  AppManager [(null)] (landingPage.aspx) - Clearing Session 
+Request Type:  
+SessionId: fj3atcbulilgp53ygsnzg3o5
+2021-05-17 16:25:01,182 [286] INFO  AppManager [(null)] (landingPage.aspx) - New Session 
+Request Type:  
+SessionId: 3ldbco4j525nyrandos50hrc
+2021-05-17 16:25:01,353 [286] INFO  AppManager [(null)] (login.aspx) - (Mli) - Login successful 
+SessionId: zznuq1d43nl3rn2weh0h2neb
+2021-05-17 16:25:01,359 [231] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: 3ldbco4j525nyrandos50hrc
+2021-05-17 16:34:27,159 [231] INFO  AppManager [(null)] (landingPage.aspx) - Clearing Session 
+Request Type:  
+SessionId: giokjzb1uqap5pir5blpgl2v
+2021-05-17 16:34:27,175 [ 11] INFO  AppManager [(null)] (landingPage.aspx) - New Session 
+Request Type:  
+SessionId: 0oou434wyi3pfr4wvcvtvi25
+2021-05-17 16:34:27,354 [286] INFO  AppManager [(null)] (login.aspx) - (Mli) - Login successful 
+SessionId: jzw0a0ia0sgul0jsxx5bx01c
+2021-05-17 16:34:27,361 [107] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: 0oou434wyi3pfr4wvcvtvi25
+2021-05-17 16:37:32,229 [ 11] INFO  AppManager [(null)] (landingPage.aspx) - Clearing Session 
+Request Type:  
+SessionId: jg0fzuemem3fu4oc5z5wtrci
+2021-05-17 16:37:32,248 [114] INFO  AppManager [(null)] (landingPage.aspx) - New Session 
+Request Type:  
+SessionId: zwkcfespjkgq5vowussvbeab
+2021-05-17 16:37:32,544 [286] INFO  AppManager [(null)] (login.aspx) - (Mli) - Login successful 
+SessionId: ns1d4nni11nmfjdp5bbnncnj
+2021-05-17 16:37:32,556 [238] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: zwkcfespjkgq5vowussvbeab
+2021-05-17 16:39:13,219 [ 11] INFO  AppManager [(null)] (landingPage.aspx) - Clearing Session 
+Request Type:  
+SessionId: uyovkfuoz0qnifrzcupmoztr
+2021-05-17 16:39:13,233 [121] INFO  AppManager [(null)] (landingPage.aspx) - New Session 
+Request Type:  
+SessionId: 02spizadczdwykgl3hxjl230
+2021-05-17 16:39:13,434 [231] INFO  AppManager [(null)] (login.aspx) - (Mli) - Login successful 
+SessionId: ulvckhurju2yhmivt3ia2cls
+2021-05-17 16:39:13,441 [ 70] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: 02spizadczdwykgl3hxjl230
+2021-05-17 16:43:16,282 [ 11] INFO  AppManager [(null)] (landingPage.aspx) - Clearing Session 
+Request Type:  
+SessionId: zfd4wv2l5btx4w1lg0j5eznr
+2021-05-17 16:43:16,304 [121] INFO  AppManager [(null)] (landingPage.aspx) - New Session 
+Request Type:  
+SessionId: twpvnqsjv1fvuusxk4yczaw1
+2021-05-17 16:43:16,502 [231] INFO  AppManager [(null)] (login.aspx) - (Mli) - Login successful 
+SessionId: hkmuryhkwoowkkzub2255mvv
+2021-05-17 16:43:16,516 [ 84] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: twpvnqsjv1fvuusxk4yczaw1
+2021-05-17 16:44:46,693 [231] INFO  AppManager [(null)] (landingPage.aspx) - Clearing Session 
+Request Type:  
+SessionId: v33ixgar2wwppscsv4w05bgi
+2021-05-17 16:44:46,718 [ 68] INFO  AppManager [(null)] (landingPage.aspx) - New Session 
+Request Type:  
+SessionId: lpqsvdgxyhx5ztepig3ymn05
+2021-05-17 16:44:46,898 [ 74] INFO  AppManager [(null)] (login.aspx) - (Mli) - Login successful 
+SessionId: 4k5kl1re0sszmsmggpfv4tmz
+2021-05-17 16:44:46,906 [ 21] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: lpqsvdgxyhx5ztepig3ymn05
+2021-05-17 16:45:59,425 [ 11] INFO  AppManager [(null)] (landingPage.aspx) - Clearing Session 
+Request Type:  
+SessionId: xmhkyyx5skowqvf420wgl0s1
+2021-05-17 16:45:59,443 [121] INFO  AppManager [(null)] (landingPage.aspx) - New Session 
+Request Type:  
+SessionId: lx4voojvxcu0hpsgue3awqui
+2021-05-17 16:45:59,616 [231] INFO  AppManager [(null)] (login.aspx) - (Mli) - Login successful 
+SessionId: 1hnqeu20q3uiuxdd0fo2shfz
+2021-05-17 16:45:59,622 [ 41] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: lx4voojvxcu0hpsgue3awqui
+2021-05-17 16:46:20,402 [  1] INFO  AppManager [(null)] SimpleServings started.
+2021-05-17 16:46:44,957 [ 11] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: 1i3toec443wgsrvh140babr0
+2021-05-17 17:11:57,316 [ 11] INFO  AppManager [(null)] (landingPage.aspx) - Clearing Session 
+Request Type:  
+SessionId: gdbpe2b2wg2oq53undcseqlt
+2021-05-17 17:11:57,330 [101] INFO  AppManager [(null)] (landingPage.aspx) - New Session 
+Request Type:  
+SessionId: 3fqkkv15p3nobcvz5yphjueq
+2021-05-17 17:11:57,660 [106] INFO  AppManager [(null)] (login.aspx) - (Mli) - Login successful 
+SessionId: at1dehwtjr5i1bs4ie0rzahs
+2021-05-17 17:11:57,667 [ 10] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: 3fqkkv15p3nobcvz5yphjueq
+2021-05-17 17:22:30,510 [ 11] ERROR AppManager [(null)] SimpleServings application error: Exception of type 'System.Web.HttpUnhandledException' was thrown.
+location: http://localhost:1948/SimpleServings/UI/Page/SimpleServings/Recipe/AddRecipe.aspx
+
+System.Web.HttpUnhandledException (0x80004005): Exception of type 'System.Web.HttpUnhandledException' was thrown. ---> System.FormatException: Input string was not in a correct format.
+   at System.Number.ParseDouble(String value, NumberStyles options, NumberFormatInfo numfmt)
+   at System.Convert.ToDouble(String value)
+   at SimpleServings.UI.UDC.SimpleServings.Recipe.AddEditRecipeNutrition.getViewInfo(GridView GridView1, DataListItem item) in E:\DFTA coding\SimpleServings\SimpleServings_networkVersion\SimpleServing_Latest\Ansu_4_20\SimpleServings\SimpleServings\UI\UDC\SimpleServings\Recipe\AddEditRecipeNutrition.ascx.cs:line 304
+   at SimpleServings.UI.UDC.SimpleServings.Recipe.AddEditRecipeNutrition.conDataListItem(GridView tempGridView1) in E:\DFTA coding\SimpleServings\SimpleServings_networkVersion\SimpleServing_Latest\Ansu_4_20\SimpleServings\SimpleServings\UI\UDC\SimpleServings\Recipe\AddEditRecipeNutrition.ascx.cs:line 249
+   at SimpleServings.UI.UDC.SimpleServings.Recipe.AddEditRecipeNutrition.setGridView(String FilePath, DataTable dt) in E:\DFTA coding\SimpleServings\SimpleServings_networkVersion\SimpleServing_Latest\Ansu_4_20\SimpleServings\SimpleServings\UI\UDC\SimpleServings\Recipe\AddEditRecipeNutrition.ascx.cs:line 242
+   at SimpleServings.UI.UDC.SimpleServings.Recipe.AddEditRecipeNutrition.Import_To_Grid(String FilePath, String Extension) in E:\DFTA coding\SimpleServings\SimpleServings_networkVersion\SimpleServing_Latest\Ansu_4_20\SimpleServings\SimpleServings\UI\UDC\SimpleServings\Recipe\AddEditRecipeNutrition.ascx.cs:line 229
+   at SimpleServings.UI.UDC.SimpleServings.Recipe.AddEditRecipeNutrition.btnUpload_Click(Object sender, EventArgs e) in E:\DFTA coding\SimpleServings\SimpleServings_networkVersion\SimpleServing_Latest\Ansu_4_20\SimpleServings\SimpleServings\UI\UDC\SimpleServings\Recipe\AddEditRecipeNutrition.ascx.cs:line 171
+   at System.Web.UI.WebControls.Button.OnClick(EventArgs e)
+   at System.Web.UI.WebControls.Button.RaisePostBackEvent(String eventArgument)
+   at System.Web.UI.WebControls.Button.System.Web.UI.IPostBackEventHandler.RaisePostBackEvent(String eventArgument)
+   at System.Web.UI.Page.RaisePostBackEvent(IPostBackEventHandler sourceControl, String eventArgument)
+   at System.Web.UI.Page.RaisePostBackEvent(NameValueCollection postData)
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   at System.Web.UI.Page.HandleError(Exception e)
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   at System.Web.UI.Page.ProcessRequest(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   at System.Web.UI.Page.ProcessRequest()
+   at System.Web.UI.Page.ProcessRequestWithNoAssert(HttpContext context)
+   at System.Web.UI.Page.ProcessRequest(HttpContext context)
+   at ASP.ui_page_simpleservings_recipe_addrecipe_aspx.ProcessRequest(HttpContext context) in c:\Users\mali\AppData\Local\Temp\Temporary ASP.NET Files\simpleservings\64db465c\8b5e2e9d\App_Web_f110xdgq.10.cs:line 0
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStepImpl(IExecutionStep step)
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+2021-05-17 17:29:46,095 [150] INFO  AppManager [(null)] (landingPage.aspx) - Clearing Session 
+Request Type:  
+SessionId: yr0ci3opbx2ccxznheamlt2l
+2021-05-17 17:29:46,111 [149] INFO  AppManager [(null)] (landingPage.aspx) - New Session 
+Request Type:  
+SessionId: jsvvhnv0etx5xetf3odf0v0h
+2021-05-17 17:29:46,319 [139] INFO  AppManager [(null)] (login.aspx) - (Mli) - Login successful 
+SessionId: 5nylhxiid3f0ex3cqedg5hr4
+2021-05-17 17:29:46,337 [154] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: jsvvhnv0etx5xetf3odf0v0h
+2021-05-17 17:30:06,661 [141] ERROR AppManager [(null)] SimpleServings application error: Exception of type 'System.Web.HttpUnhandledException' was thrown.
+location: http://localhost:1948/SimpleServings/UI/Page/SimpleServings/Recipe/AddRecipe.aspx
+
+System.Web.HttpUnhandledException (0x80004005): Exception of type 'System.Web.HttpUnhandledException' was thrown. ---> System.FormatException: Input string was not in a correct format.
+   at System.Number.ParseDouble(String value, NumberStyles options, NumberFormatInfo numfmt)
+   at System.Convert.ToDouble(String value)
+   at SimpleServings.UI.UDC.SimpleServings.Recipe.AddEditRecipeNutrition.getViewInfo(GridView GridView1, DataListItem item) in E:\DFTA coding\SimpleServings\SimpleServings_networkVersion\SimpleServing_Latest\Ansu_4_20\SimpleServings\SimpleServings\UI\UDC\SimpleServings\Recipe\AddEditRecipeNutrition.ascx.cs:line 304
+   at SimpleServings.UI.UDC.SimpleServings.Recipe.AddEditRecipeNutrition.conDataListItem(GridView tempGridView1) in E:\DFTA coding\SimpleServings\SimpleServings_networkVersion\SimpleServing_Latest\Ansu_4_20\SimpleServings\SimpleServings\UI\UDC\SimpleServings\Recipe\AddEditRecipeNutrition.ascx.cs:line 249
+   at SimpleServings.UI.UDC.SimpleServings.Recipe.AddEditRecipeNutrition.setGridView(String FilePath, DataTable dt) in E:\DFTA coding\SimpleServings\SimpleServings_networkVersion\SimpleServing_Latest\Ansu_4_20\SimpleServings\SimpleServings\UI\UDC\SimpleServings\Recipe\AddEditRecipeNutrition.ascx.cs:line 242
+   at SimpleServings.UI.UDC.SimpleServings.Recipe.AddEditRecipeNutrition.Import_To_Grid(String FilePath, String Extension) in E:\DFTA coding\SimpleServings\SimpleServings_networkVersion\SimpleServing_Latest\Ansu_4_20\SimpleServings\SimpleServings\UI\UDC\SimpleServings\Recipe\AddEditRecipeNutrition.ascx.cs:line 229
+   at SimpleServings.UI.UDC.SimpleServings.Recipe.AddEditRecipeNutrition.btnUpload_Click(Object sender, EventArgs e) in E:\DFTA coding\SimpleServings\SimpleServings_networkVersion\SimpleServing_Latest\Ansu_4_20\SimpleServings\SimpleServings\UI\UDC\SimpleServings\Recipe\AddEditRecipeNutrition.ascx.cs:line 171
+   at System.Web.UI.WebControls.Button.OnClick(EventArgs e)
+   at System.Web.UI.WebControls.Button.RaisePostBackEvent(String eventArgument)
+   at System.Web.UI.WebControls.Button.System.Web.UI.IPostBackEventHandler.RaisePostBackEvent(String eventArgument)
+   at System.Web.UI.Page.RaisePostBackEvent(IPostBackEventHandler sourceControl, String eventArgument)
+   at System.Web.UI.Page.RaisePostBackEvent(NameValueCollection postData)
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   at System.Web.UI.Page.HandleError(Exception e)
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   at System.Web.UI.Page.ProcessRequest(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   at System.Web.UI.Page.ProcessRequest()
+   at System.Web.UI.Page.ProcessRequestWithNoAssert(HttpContext context)
+   at System.Web.UI.Page.ProcessRequest(HttpContext context)
+   at ASP.ui_page_simpleservings_recipe_addrecipe_aspx.ProcessRequest(HttpContext context) in c:\Users\mali\AppData\Local\Temp\Temporary ASP.NET Files\simpleservings\64db465c\8b5e2e9d\App_Web_f110xdgq.10.cs:line 0
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStepImpl(IExecutionStep step)
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+2021-05-17 17:31:18,298 [139] INFO  AppManager [(null)] (landingPage.aspx) - Clearing Session 
+Request Type:  
+SessionId: 20wfq0fngpdgt52jkwrsy40j
+2021-05-17 17:31:18,342 [149] INFO  AppManager [(null)] (landingPage.aspx) - New Session 
+Request Type:  
+SessionId: g5esxbavybtnsvfbtchyjxup
+2021-05-17 17:31:18,492 [163] INFO  AppManager [(null)] (login.aspx) - (Mli) - Login successful 
+SessionId: 5zkkieuz3brhddadzwc2lrgh
+2021-05-17 17:31:18,576 [161] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: g5esxbavybtnsvfbtchyjxup
+2021-05-17 17:58:57,669 [184] INFO  AppManager [(null)] (landingPage.aspx) - Clearing Session 
+Request Type:  
+SessionId: wwc1viezmfodnnmj1fa3yn4h
+2021-05-17 17:58:57,686 [177] INFO  AppManager [(null)] (landingPage.aspx) - New Session 
+Request Type:  
+SessionId: gae0w5zr0thpp1nl1p3sqkki
+2021-05-17 17:58:58,037 [168] INFO  AppManager [(null)] (login.aspx) - (Mli) - Login successful 
+SessionId: rwa0quzwryvoh1hsiztle4bi
+2021-05-17 17:58:58,042 [184] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: gae0w5zr0thpp1nl1p3sqkki
+2021-05-17 21:44:27,952 [168] ERROR AppManager [(null)] SimpleServings application error: Exception of type 'System.Web.HttpUnhandledException' was thrown.
+location: http://localhost:1948/SimpleServings/UI/Page/SimpleServings/Recipe/AddRecipe.aspx
+
+System.Web.HttpUnhandledException (0x80004005): Exception of type 'System.Web.HttpUnhandledException' was thrown. ---> System.IO.IOException: The process cannot access the file 'E:\DFTA coding\SimpleServings\SimpleServings_networkVersion\SimpleServing_Latest\Ansu_4_20\SimpleServings\SimpleServings\UI\Page\SimpleServings\Recipe\vtscjblh.za4.xls' because it is being used by another process.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.File.InternalDelete(String path, Boolean checkHost)
+   at System.IO.File.Delete(String path)
+   at SimpleServings.UI.UDC.SimpleServings.Recipe.AddEditRecipeNutrition.setGridView(String FilePath, DataTable dt) in E:\DFTA coding\SimpleServings\SimpleServings_networkVersion\SimpleServing_Latest\Ansu_4_20\SimpleServings\SimpleServings\UI\UDC\SimpleServings\Recipe\AddEditRecipeNutrition.ascx.cs:line 241
+   at SimpleServings.UI.UDC.SimpleServings.Recipe.AddEditRecipeNutrition.Import_To_Grid(String FilePath, String Extension) in E:\DFTA coding\SimpleServings\SimpleServings_networkVersion\SimpleServing_Latest\Ansu_4_20\SimpleServings\SimpleServings\UI\UDC\SimpleServings\Recipe\AddEditRecipeNutrition.ascx.cs:line 229
+   at SimpleServings.UI.UDC.SimpleServings.Recipe.AddEditRecipeNutrition.btnUpload_Click(Object sender, EventArgs e) in E:\DFTA coding\SimpleServings\SimpleServings_networkVersion\SimpleServing_Latest\Ansu_4_20\SimpleServings\SimpleServings\UI\UDC\SimpleServings\Recipe\AddEditRecipeNutrition.ascx.cs:line 171
+   at System.Web.UI.WebControls.Button.OnClick(EventArgs e)
+   at System.Web.UI.WebControls.Button.RaisePostBackEvent(String eventArgument)
+   at System.Web.UI.WebControls.Button.System.Web.UI.IPostBackEventHandler.RaisePostBackEvent(String eventArgument)
+   at System.Web.UI.Page.RaisePostBackEvent(IPostBackEventHandler sourceControl, String eventArgument)
+   at System.Web.UI.Page.RaisePostBackEvent(NameValueCollection postData)
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   at System.Web.UI.Page.HandleError(Exception e)
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   at System.Web.UI.Page.ProcessRequest(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   at System.Web.UI.Page.ProcessRequest()
+   at System.Web.UI.Page.ProcessRequestWithNoAssert(HttpContext context)
+   at System.Web.UI.Page.ProcessRequest(HttpContext context)
+   at ASP.ui_page_simpleservings_recipe_addrecipe_aspx.ProcessRequest(HttpContext context) in c:\Users\mali\AppData\Local\Temp\Temporary ASP.NET Files\simpleservings\64db465c\8b5e2e9d\App_Web_f110xdgq.10.cs:line 0
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStepImpl(IExecutionStep step)
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+2021-05-17 21:46:03,407 [168] INFO  AppManager [(null)] (landingPage.aspx) - Clearing Session 
+Request Type:  
+SessionId: 25rcvcf2c1dwugehksl2malf
+2021-05-17 21:46:03,414 [118] INFO  AppManager [(null)] (landingPage.aspx) - New Session 
+Request Type:  
+SessionId: udw0texqljmfqdauhjm3z54a
+2021-05-17 21:46:04,071 [177] INFO  AppManager [(null)] (login.aspx) - (Mli) - Login successful 
+SessionId: jz5as4kwotrffhbpu2pild3f
+2021-05-17 21:46:04,399 [195] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: udw0texqljmfqdauhjm3z54a
+2021-05-17 21:46:51,615 [  1] INFO  AppManager [(null)] SimpleServings started.
+2021-05-17 21:49:51,198 [ 12] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: ffqczcxz14ibiefjtrjj2vq3
+2021-05-17 21:50:14,288 [ 10] INFO  AppManager [(null)] (Recipe.aspx) - Request from http://localhost:1948/SimpleServings/UI/Page/Home.aspx 
+SessionId: ffqczcxz14ibiefjtrjj2vq3
+2021-05-17 21:50:50,442 [ 38] INFO  AppManager [(null)] (Recipe.aspx) - Request from http://localhost:1948/SimpleServings/UI/Page/SimpleServings/Recipe/Recipe.aspx 
+SessionId: ffqczcxz14ibiefjtrjj2vq3
+2021-05-17 21:51:17,955 [ 11] INFO  AppManager [(null)] (landingPage.aspx) - Clearing Session 
+Request Type:  
+SessionId: 0tnq53cxa1vqftkxmtpyqyfl
+2021-05-17 21:51:17,969 [ 15] INFO  AppManager [(null)] (landingPage.aspx) - New Session 
+Request Type:  
+SessionId: o52oamevwlqabn2bzjh4e0i0
+2021-05-17 21:51:18,143 [ 14] INFO  AppManager [(null)] (login.aspx) - (Mli) - Login successful 
+SessionId: rvjdqxd1yfj4epjdogogp2oh
+2021-05-17 21:51:18,150 [ 32] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: o52oamevwlqabn2bzjh4e0i0
+2021-05-17 22:34:37,169 [ 10] INFO  AppManager [(null)] (landingPage.aspx) - Clearing Session 
+Request Type:  
+SessionId: p4xgiunvkndktf22zpakjsbw
+2021-05-17 22:34:37,182 [124] INFO  AppManager [(null)] (landingPage.aspx) - New Session 
+Request Type:  
+SessionId: 1miwmfvzkfugr4yv1tz0etzj
+2021-05-17 22:34:37,515 [ 61] INFO  AppManager [(null)] (login.aspx) - (Mli) - Login successful 
+SessionId: kcaxpwo4bgwv4qh5zqk5vi1x
+2021-05-17 22:34:37,521 [ 12] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: 1miwmfvzkfugr4yv1tz0etzj
+2021-05-17 22:56:32,179 [ 10] INFO  AppManager [(null)] (landingPage.aspx) - Clearing Session 
+Request Type:  
+SessionId: cuvukcrzve4i3ljm1ni1n4u3
+2021-05-17 22:56:32,193 [ 52] INFO  AppManager [(null)] (landingPage.aspx) - New Session 
+Request Type:  
+SessionId: clwjz45snmhs01ghbm4psqov
+2021-05-17 22:56:32,488 [196] INFO  AppManager [(null)] (login.aspx) - (Mli) - Login successful 
+SessionId: r45jdg43kxl3mixobevp3piw
+2021-05-17 22:56:32,498 [ 52] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: clwjz45snmhs01ghbm4psqov
+2021-05-17 23:03:15,442 [ 10] INFO  AppManager [(null)] (landingPage.aspx) - Clearing Session 
+Request Type:  
+SessionId: we2tfxspgkbb44adnmuzgbbx
+2021-05-17 23:03:15,515 [196] INFO  AppManager [(null)] (landingPage.aspx) - New Session 
+Request Type:  
+SessionId: dynvawyv4ncg3jhastcwmbb1
+2021-05-17 23:03:15,698 [ 10] INFO  AppManager [(null)] (login.aspx) - (Mli) - Login successful 
+SessionId: flukznfuikrnuzjur4slvpbz
+2021-05-17 23:03:15,706 [169] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: dynvawyv4ncg3jhastcwmbb1
+2021-05-17 23:32:58,830 [ 10] INFO  AppManager [(null)] (landingPage.aspx) - Clearing Session 
+Request Type:  
+SessionId: ymqikkoqcxtslsvask3elvxf
+2021-05-17 23:32:58,841 [153] INFO  AppManager [(null)] (landingPage.aspx) - New Session 
+Request Type:  
+SessionId: vseo0vdqfw42cms2w5tnclhc
+2021-05-17 23:32:59,179 [196] INFO  AppManager [(null)] (login.aspx) - (Mli) - Login successful 
+SessionId: r54fzngwa4ltbdoijfbx4mdk
+2021-05-17 23:32:59,190 [107] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: vseo0vdqfw42cms2w5tnclhc
+2021-05-17 23:36:12,491 [ 10] ERROR AppManager [(null)] SimpleServings application error: Exception of type 'System.Web.HttpUnhandledException' was thrown.
+location: http://localhost:1948/SimpleServings/UI/Page/SimpleServings/Recipe/AddRecipe.aspx
+
+System.Web.HttpUnhandledException (0x80004005): Exception of type 'System.Web.HttpUnhandledException' was thrown. ---> System.FormatException: Input string was not in a correct format.
+   at System.Number.ParseDouble(String value, NumberStyles options, NumberFormatInfo numfmt)
+   at System.Convert.ToDouble(String value)
+   at SimpleServings.UI.UDC.SimpleServings.Recipe.AddEditRecipeNutrition.getViewInfo(GridView GridView1, DataListItem item) in E:\DFTA coding\SimpleServings\SimpleServings_networkVersion\SimpleServing_Latest\Ansu_4_20\SimpleServings\SimpleServings\UI\UDC\SimpleServings\Recipe\AddEditRecipeNutrition.ascx.cs:line 304
+   at SimpleServings.UI.UDC.SimpleServings.Recipe.AddEditRecipeNutrition.conDataListItem(GridView tempGridView1) in E:\DFTA coding\SimpleServings\SimpleServings_networkVersion\SimpleServing_Latest\Ansu_4_20\SimpleServings\SimpleServings\UI\UDC\SimpleServings\Recipe\AddEditRecipeNutrition.ascx.cs:line 249
+   at SimpleServings.UI.UDC.SimpleServings.Recipe.AddEditRecipeNutrition.setGridView(String FilePath, DataTable dt) in E:\DFTA coding\SimpleServings\SimpleServings_networkVersion\SimpleServing_Latest\Ansu_4_20\SimpleServings\SimpleServings\UI\UDC\SimpleServings\Recipe\AddEditRecipeNutrition.ascx.cs:line 242
+   at SimpleServings.UI.UDC.SimpleServings.Recipe.AddEditRecipeNutrition.Import_To_Grid(String FilePath, String Extension) in E:\DFTA coding\SimpleServings\SimpleServings_networkVersion\SimpleServing_Latest\Ansu_4_20\SimpleServings\SimpleServings\UI\UDC\SimpleServings\Recipe\AddEditRecipeNutrition.ascx.cs:line 229
+   at SimpleServings.UI.UDC.SimpleServings.Recipe.AddEditRecipeNutrition.btnUpload_Click(Object sender, EventArgs e) in E:\DFTA coding\SimpleServings\SimpleServings_networkVersion\SimpleServing_Latest\Ansu_4_20\SimpleServings\SimpleServings\UI\UDC\SimpleServings\Recipe\AddEditRecipeNutrition.ascx.cs:line 171
+   at System.Web.UI.WebControls.Button.OnClick(EventArgs e)
+   at System.Web.UI.WebControls.Button.RaisePostBackEvent(String eventArgument)
+   at System.Web.UI.WebControls.Button.System.Web.UI.IPostBackEventHandler.RaisePostBackEvent(String eventArgument)
+   at System.Web.UI.Page.RaisePostBackEvent(IPostBackEventHandler sourceControl, String eventArgument)
+   at System.Web.UI.Page.RaisePostBackEvent(NameValueCollection postData)
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   at System.Web.UI.Page.HandleError(Exception e)
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   at System.Web.UI.Page.ProcessRequest(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   at System.Web.UI.Page.ProcessRequest()
+   at System.Web.UI.Page.ProcessRequestWithNoAssert(HttpContext context)
+   at System.Web.UI.Page.ProcessRequest(HttpContext context)
+   at ASP.ui_page_simpleservings_recipe_addrecipe_aspx.ProcessRequest(HttpContext context) in c:\Users\mali\AppData\Local\Temp\Temporary ASP.NET Files\simpleservings\64db465c\8b5e2e9d\App_Web_f110xdgq.10.cs:line 0
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStepImpl(IExecutionStep step)
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+2021-05-17 23:37:50,719 [ 10] INFO  AppManager [(null)] (landingPage.aspx) - Clearing Session 
+Request Type:  
+SessionId: cc2tnd0hxdtesckyipioypgd
+2021-05-17 23:37:50,737 [ 16] INFO  AppManager [(null)] (landingPage.aspx) - New Session 
+Request Type:  
+SessionId: hd224likgjtxddeonpojyuld
+2021-05-17 23:37:51,018 [196] INFO  AppManager [(null)] (login.aspx) - (Mli) - Login successful 
+SessionId: usvjrblx4ug1hhxkrrzlthcf
+2021-05-17 23:37:51,028 [ 10] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: hd224likgjtxddeonpojyuld
+2021-05-17 23:43:57,450 [ 10] INFO  AppManager [(null)] (landingPage.aspx) - Clearing Session 
+Request Type:  
+SessionId: a4v5ogvlw4oobbh2feat1txs
+2021-05-17 23:43:57,479 [119] INFO  AppManager [(null)] (landingPage.aspx) - New Session 
+Request Type:  
+SessionId: rbb4sleipy22axcpl4hdj355
+2021-05-17 23:43:57,710 [ 16] INFO  AppManager [(null)] (login.aspx) - (Mli) - Login successful 
+SessionId: 3xamtbubux0dwgm0nmfray2s
+2021-05-17 23:43:57,718 [169] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: rbb4sleipy22axcpl4hdj355
+2021-05-17 23:53:03,809 [ 10] INFO  AppManager [(null)] (landingPage.aspx) - Clearing Session 
+Request Type:  
+SessionId: 1hvtptwn1cov2ptiww34tj5z
+2021-05-17 23:53:03,822 [ 10] INFO  AppManager [(null)] (landingPage.aspx) - New Session 
+Request Type:  
+SessionId: 21xdftoqkieobfki2pdxqhxh
+2021-05-17 23:53:04,073 [ 16] INFO  AppManager [(null)] (login.aspx) - (Mli) - Login successful 
+SessionId: g41x3nwxxjfgxokauy12xznj
+2021-05-17 23:53:04,079 [156] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: 21xdftoqkieobfki2pdxqhxh
+2021-05-17 23:53:35,932 [ 10] ERROR AppManager [(null)] SimpleServings application error: Exception of type 'System.Web.HttpUnhandledException' was thrown.
+location: http://localhost:1948/SimpleServings/UI/Page/SimpleServings/Recipe/AddRecipe.aspx
+
+System.Web.HttpUnhandledException (0x80004005): Exception of type 'System.Web.HttpUnhandledException' was thrown. ---> System.FormatException: Input string was not in a correct format.
+   at System.Number.ParseDouble(String value, NumberStyles options, NumberFormatInfo numfmt)
+   at System.Convert.ToDouble(String value)
+   at SimpleServings.UI.UDC.SimpleServings.Recipe.AddEditRecipeNutrition.getViewInfo(GridView GridView1, DataListItem item) in E:\DFTA coding\SimpleServings\SimpleServings_networkVersion\SimpleServing_Latest\Ansu_4_20\SimpleServings\SimpleServings\UI\UDC\SimpleServings\Recipe\AddEditRecipeNutrition.ascx.cs:line 304
+   at SimpleServings.UI.UDC.SimpleServings.Recipe.AddEditRecipeNutrition.conDataListItem(GridView tempGridView1) in E:\DFTA coding\SimpleServings\SimpleServings_networkVersion\SimpleServing_Latest\Ansu_4_20\SimpleServings\SimpleServings\UI\UDC\SimpleServings\Recipe\AddEditRecipeNutrition.ascx.cs:line 249
+   at SimpleServings.UI.UDC.SimpleServings.Recipe.AddEditRecipeNutrition.setGridView(String FilePath, DataTable dt) in E:\DFTA coding\SimpleServings\SimpleServings_networkVersion\SimpleServing_Latest\Ansu_4_20\SimpleServings\SimpleServings\UI\UDC\SimpleServings\Recipe\AddEditRecipeNutrition.ascx.cs:line 242
+   at SimpleServings.UI.UDC.SimpleServings.Recipe.AddEditRecipeNutrition.Import_To_Grid(String FilePath, String Extension) in E:\DFTA coding\SimpleServings\SimpleServings_networkVersion\SimpleServing_Latest\Ansu_4_20\SimpleServings\SimpleServings\UI\UDC\SimpleServings\Recipe\AddEditRecipeNutrition.ascx.cs:line 229
+   at SimpleServings.UI.UDC.SimpleServings.Recipe.AddEditRecipeNutrition.btnUpload_Click(Object sender, EventArgs e) in E:\DFTA coding\SimpleServings\SimpleServings_networkVersion\SimpleServing_Latest\Ansu_4_20\SimpleServings\SimpleServings\UI\UDC\SimpleServings\Recipe\AddEditRecipeNutrition.ascx.cs:line 171
+   at System.Web.UI.WebControls.Button.OnClick(EventArgs e)
+   at System.Web.UI.WebControls.Button.RaisePostBackEvent(String eventArgument)
+   at System.Web.UI.WebControls.Button.System.Web.UI.IPostBackEventHandler.RaisePostBackEvent(String eventArgument)
+   at System.Web.UI.Page.RaisePostBackEvent(IPostBackEventHandler sourceControl, String eventArgument)
+   at System.Web.UI.Page.RaisePostBackEvent(NameValueCollection postData)
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   at System.Web.UI.Page.HandleError(Exception e)
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   at System.Web.UI.Page.ProcessRequest(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   at System.Web.UI.Page.ProcessRequest()
+   at System.Web.UI.Page.ProcessRequestWithNoAssert(HttpContext context)
+   at System.Web.UI.Page.ProcessRequest(HttpContext context)
+   at ASP.ui_page_simpleservings_recipe_addrecipe_aspx.ProcessRequest(HttpContext context) in c:\Users\mali\AppData\Local\Temp\Temporary ASP.NET Files\simpleservings\64db465c\8b5e2e9d\App_Web_f110xdgq.10.cs:line 0
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStepImpl(IExecutionStep step)
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+2021-05-17 23:54:15,482 [ 10] INFO  AppManager [(null)] (landingPage.aspx) - Clearing Session 
+Request Type:  
+SessionId: unwfhfcqhlvudi1awahpvbog
+2021-05-17 23:54:15,684 [156] INFO  AppManager [(null)] (landingPage.aspx) - New Session 
+Request Type:  
+SessionId: qrp4r40y0ur2q3ibdxg1ztwi
+2021-05-17 23:54:15,816 [ 53] INFO  AppManager [(null)] (login.aspx) - (Mli) - Login successful 
+SessionId: n424jx0hu1ierotlv1cd2rvt
+2021-05-17 23:54:15,822 [ 76] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: qrp4r40y0ur2q3ibdxg1ztwi

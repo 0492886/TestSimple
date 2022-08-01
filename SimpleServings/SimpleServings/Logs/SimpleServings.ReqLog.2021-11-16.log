@@ -1,0 +1,24 @@
+2021-11-16 11:30:47,576 [  1] INFO  AppManager [(null)] SimpleServings started.
+2021-11-16 11:31:13,233 [ 22] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: rcyaiqkutweash2huzamgeex
+2021-11-16 11:31:36,289 [  3] INFO  AppManager [(null)] (landingPage.aspx) - Request from http://localhost:1945/SimpleServings/UI/Page/SimpleServings/Menu/AddMenu.aspx?MenuType=AddMenu 
+Request Type: LogInOut 
+SessionId: rcyaiqkutweash2huzamgeex
+2021-11-16 11:31:36,290 [  3] INFO  AppManager [(null)] (landingPage.aspx) - Redirecting to Login.aspx 
+Request Type: LogInOut 
+SessionId: rcyaiqkutweash2huzamgeex
+2021-11-16 11:31:36,297 [ 16] INFO  AppManager [(null)] (login.aspx) - Request from http://localhost:1945/SimpleServings/UI/Page/SimpleServings/Menu/AddMenu.aspx?MenuType=AddMenu 
+SessionId: u5fmjh0x4htomeqeptzjnfp0
+2021-11-16 11:31:47,614 [ 15] INFO  AppManager [(null)] (landingPage.aspx) - Clearing Session 
+Request Type:  
+SessionId: gtaqrnes15nifdopjynmh2dl
+2021-11-16 11:31:47,639 [ 21] INFO  AppManager [(null)] (landingPage.aspx) - New Session 
+Request Type:  
+SessionId: fjfs2cgcuzv3xej5ufoytlcn
+2021-11-16 11:31:47,863 [ 24] INFO  AppManager [(null)] (login.aspx) - (yossi.frolich) - Login successful 
+SessionId: gwil0qth0ko4m2kwk3icuyi1
+2021-11-16 11:31:47,868 [ 16] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: fjfs2cgcuzv3xej5ufoytlcn
+2021-11-16 15:32:21,282 [  1] INFO  AppManager [(null)] SimpleServings started.
+2021-11-16 15:32:44,720 [ 17] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: a2ubdopp3crieokn2b5awlzw

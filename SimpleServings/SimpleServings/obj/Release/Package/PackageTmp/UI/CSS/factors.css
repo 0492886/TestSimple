@@ -1,0 +1,308 @@
+/*only for client list*/
+
+/*factors*/
+#v2main .noteTable {border:1px dotted #666; padding:4px 4px; background:#E7F3F5; color:#222; font:12px Verdana, Arial, Helvetica, sans-serif; line-height:15px;}
+#v2main .noteTable .field{font: bold 11px Verdana, Arial, Helvetica, sans-serif; color:#555;}
+#v2main .noteTable td{vertical-align:top;}
+#v2main .medReport .noteTable img{width:145px; height:165px;}
+#v2main .medReport .noteTable a{text-decoration:none;}
+#v2main .noteTable2 { vertical-align:top; border:1px solid #666; padding:4px 4px; background:#EFFBFD; color:#222; font:12px Verdana, Arial, Helvetica, sans-serif; line-height:15px;}
+#v2main .noteTableFix {border:1px dotted #666; background:#E7F3F5; color:#333; font:12px Verdana, Arial, Helvetica, sans-serif; width:80%;}
+
+#v2main .StarNoteTable {clear:both; width:846px;border:1px solid #d9dada; padding:4px 7px; background:#d8e9ed; color:#222; font:12px Verdana, Arial, Helvetica, sans-serif; line-height:15px; margin-top:-3px;}
+#v2main .StarNoteTable td,#v2main .StarNoteTable2 td{vertical-align:top;}
+#v2main .StarNoteTable2 {border:1px solid #d9dada;padding:4px 4px; background:#EAF5F9; color:#222; font:12px Verdana, Arial, Helvetica, sans-serif; line-height:15px;}
+.nopermissionerror {margin:40px; font-family:Arial; font-size:13px; font-weight:900;}
+
+/*progress note*/
+#v2main .progessNote{border:1px dotted #666; padding:4px 5px; margin:0px; background:#E7F3F5; color:#222; font:12px Verdana, Arial, Helvetica, sans-serif; width:80%; line-height:18px;}
+#v2main .progessNote .noteHeader{background:#C5E3E8; font:bold 12px Arial, Helvetica, sans-serif;}
+#v2main .pNote a{padding:0px 7px; text-decoration:none; border-bottom:1px dotted #666;}
+#v2main .pnCurrent {background:url(../Images/orange_pointer.gif) 0px 4px no-repeat;}
+
+/*Lvg Arg*/
+#v2main .margin_gap {margin-left:35%;}
+
+/**/
+
+/*Imaging*/
+#v2main .form_warnNote{font: bold 11px Arial, Helvetica, sans-serif; color:red; background:#D0DFE4; padding:0 0 0 5px; margin:0 0 0 0px; display:block;}
+
+/**/
+
+/*HOUSING*/
+/*housing vacancy report*/
+#v2main .table_container{width:850px; padding:5px 5px 1px 5px; background:#D0DFE4 url(../Images/v2/table_conner_top2.gif) no-repeat; }
+#v2main .table_bottom_conner{background:url(../Images/v2/table_conner_bottom2.gif) no-repeat; height:5px;}
+#v2main .myinfo{color:black;  font:11px Verdana, Arial, Helvetica, sans-serif; background-color:#e3eef3; /*text-transform:lowercase;*/}
+#v2main .myinfo td{border-top:1px solid #fff; padding:5px 7px;}
+#v2main .myinfo2{color:black;  font:11px Verdana, Arial, Helvetica, sans-serif; background:white;}
+#v2main .myinfo2 td{border-top:1px solid #fff; padding:5px 7px;}
+/*faces-assessments*/
+.tabletop{width:789px; padding:5px 5px 1px 5px; background:#D0DFE4 url(../Images/v2/tableTop.gif) no-repeat; }
+.tablebot{background:url(../Images/v2/tablebott.gif) no-repeat; height:5px;}
+/*face assessments*/
+
+.myinfo{color:black;  font:11px Verdana, Arial, Helvetica, sans-serif; background-color:#e3eef3; /*text-transform:lowercase;*/}
+.myinfo td{border-top:1px solid #fff; padding:5px 7px;}
+.myinfo2{color:black;  font:11px Verdana, Arial, Helvetica, sans-serif; background:white;}
+.myinfo2 td{border-top:1px solid #fff; padding:5px 7px;}
+
+
+
+/*Application/Referal*/
+#v2main .separator, #mailingAddress .separator {border-bottom:1px dotted #777; width:98%;  height:20px;}
+
+/**/
+
+/*EPU REferral*/
+#v2main .noteTable3 {vertical-align:top; border:1px solid #666; padding:4px 2px;color:#222;}
+#v2main .noteTable3 th{background:#E0EBEF; font-weight:bold;}
+/**/
+
+/*Swipe History*/
+#v2main .missSwipes {float:left;}
+#v2main .legend {float:right;padding:0 1px 0 0; padding-bottom:10px;}
+#v2main .roster {clear:both; border-top:1px dotted #999; width:98%; padding-top:10px;}
+
+/**/
+
+#v2main .main_body {margin:0px; padding:0px; }
+/* MOD 
+#v2main .factors_container {padding:10px 0px 10px 10px ; margin:0; } */ 
+#v2main .factors_container {padding:0px; margin:0; }
+#v2main .factors_container p {margin:2px 0px; padding:0px;}
+#v2main .factors_container .gap {padding:0 15px;}
+#v2main div.client_label{text-align:right; padding:4px 20px;}
+#v2main div.client_label a{margin-right:10px; text-decoration:none; border-bottom:1px dotted #666;}
+
+#v2main .factors_container .modules{text-align:left; width:auto; font:12px Verdana, Arial, Helvetica, sans-serif; padding:0 10px 0 0; }
+#v2main .factors_container .modules .space {padding:10px 0 20px 0; text-align:left;}
+
+
+#v2main .factors_container .modules p {padding:2px 0;}
+#v2main .factors_container .modules table thead{font:bold 12px Verdana, Arial, Helvetica, sans-serif;color:#666;}
+
+/* If visual glitches placeback
+#v2main .section{ height:auto; margin:0px;  padding:0px;}*/
+
+#v2main .factors_tables{margin:20px 0;}
+#v2main .factors_container table input{border:none; font-size:12px; background:transparent;}
+
+/*factors tabs*/
+#v2main .tabs_navigation {width:901px;}
+#v2main .tabs_navigation ul{background:transparent;height:28px;padding:0px;margin:2px 0px 0px 0px;clear:both;}
+#v2main .tabs_navigation  ul li{float:left;background:url(../Images/v2/tabs/bTabs_bg.gif); list-style:none;}
+#v2main .tabs_navigation  ul li.current{background:url(../Images/v2/tabs/bTabs_bg2.gif); }
+#v2main .tabs_navigation ul li a {text-decoration:none; vertical-align:super; padding:0px 8px; color:#e67b0e; font: bold 11px verdana, Arial, Helvetica, sans-serif;letter-spacing: .5px;}
+#v2main .tabs_navigation ul li.current a {color:#fff;}
+
+/*MOD #v2main .sub_tabs ul {margin:-4px 0 0 -10px; padding:0px;background:#3C8EA3; width:900px; height:24px; } */
+#v2main .sub_tabs {width:901px;} /* IE6FIX */
+#v2main .sub_tabs ul {background:#e27b13;min-height:24px;height:auto !important;height:24px;padding:3px 0px;margin:0px; position:relative;top:-5px;}
+
+#v2main .sub_tabs ul .current{background:url(../imag/eromenu.gif) 2px 7px no-repeat;}
+#v2main .sub_tabs ul .current a{color:#333;}
+#v2main .sub_tabs ul li{display: -moz-inline-stack;
+        display: inline-block;
+        vertical-align: top;
+        zoom: 1;
+        *display:inline;margin:0 0 0 1px; padding-top:3px;padding-bottom:3px;list-style:none;width:auto;}
+#v2main .sub_tabs ul li a{ text-decoration:none;padding:5px 10px; color:#333; font-size:11px;}
+#v2main .sub_tabs ul li a span {padding-left:7px;}
+#v2main .sub_tabs ul li .no_border{border:none;}
+#v2main .sub_tabs ul li a:hover {color:#fff;}
+
+
+/*  Special Current Tab Classes*/
+
+#v2main .sub_tabs .liactivities ul li a .activitieslink,
+#v2main .sub_tabs .liaidtocontinue ul li a .aidtocontinuelink,
+#v2main .sub_tabs .liprogress ul li a .noteslink,
+#v2main .sub_tabs .libasicinfo ul li a .basiclink,
+#v2main .sub_tabs .lirecordmanagement ul li a .recordmanagementlink,
+#v2main .sub_tabs .liearlyresolution ul li a .earlyresolutionlink,
+#v2main .sub_tabs .liconference ul li a .conferencelink,
+#v2main .sub_tabs .lihearing ul li a .hearinglink,
+#v2main .sub_tabs .lilegalaction ul li a .legalactionlink,
+#v2main .sub_tabs .liriverarequest ul li a .riverarequestlink,
+#v2main .sub_tabs .licompliance ul li a .compliancelink,
+#v2main .sub_tabs .licompliance316G ul li a .compliance316Glink,
+#v2main .sub_tabs .licomplianceReferral ul li a .complianceReferrallink,
+
+#v2main .sub_tabs .navNQCS01 ul li a .CaseCompLink,
+#v2main .sub_tabs .navNQIN08 ul li a .MAHistLink,
+#v2main .sub_tabs .navNQCS3A ul li a .HistStuffInfoLink,
+#v2main .sub_tabs .navNQSDX1 ul li a .SDXInqLink,
+#v2main .sub_tabs .navNQCS6A ul li a .BenefitsIssuedLink,
+#v2main .sub_tabs .navNQCS02 ul li a .IndividualSummaryLink,
+#v2main .sub_tabs .navNQCS15 ul li a .AddressHistoryLink,
+#v2main .sub_tabs .navNQIN2A ul li a .ClientInfoLink,
+#v2main .sub_tabs .navNQIN2C ul li a .TransactionHistLink,
+#v2main .sub_tabs .navNQRF01 ul li a .RFICaseListLink
+{color:#fff;font-weight:100;background:url(../../imag/eromenu.gif) left 3px no-repeat;display:inline-block;}
+
+
+
+
+
+
+/*end factors tabs*/
+
+/*STARS Tabs*/
+#v2main .starTab ul{list-style:none; margin:0px; padding:0px; }
+#v2main .starTab img{margin-top:-2px;}
+#v2main .starTab  ul li{float:left; padding:0px; padding-top:2px; margin:0 0 0 0px; background:#fff url(../Images/v2/tabs/s_tabs_bg.jpg) repeat;}
+#v2main .starTab  ul .current{color:#000; background:#fff url(../Images/v2/tabs/s_tabs_bg2.jpg) repeat;}
+#v2main .starTab ul li a {text-decoration:none; padding:0px 12px 0px 1px; vertical-align:top; color:#444; font:11px verdana, Arial, Helvetica, sans-serif;}
+/*end STARS Tabs*/
+
+
+
+/*info_table*/
+.infoTable_container{width:91%;}
+.cinfo_table{}
+.tabTable { background:#FEFDFA  url(../Images/v2/info_table/tableBg.gif) top right repeat-y; padding:5px; font: 12px Verdana, Arial, Helvetica, sans-serif;    }
+.tabTable input {border:none; background:transparent;}
+.tabTable td {vertical-align:top;}
+.tabBottom{ text-align:right; height:20px; background: url(../Images/v2/info_table/bottomBg.gif) repeat;}
+.tabHeader{ background: url(../Images/v2/info_table/tabBg.gif) repeat; height:20px; }
+.tabName{float:left; font:bold 11px Verdana, Arial, Helvetica, sans-serif; line-height:15px; }
+.table_float_right{float:right;}
+.table_float_left {float:left; margin-left:15px;}
+.d_bluegreen{background:#D0DFE4; font-size:11px;}
+
+
+/*end factors*/
+
+/*EPUrestriction*/
+
+.restrict_info{margin:20px 0px 50px 0px; font-size:12px;}
+.restriction {margin:5px 0 30px 30px;}
+.restriction li{ padding:5px 0; font-size:11px; font-weight:bold; color:#666;}
+
+
+/*fix for EPU History*/
+h3{font: bold 13px Verdana, Arial, Helvetica, sans-serif; color:#336c71; margin:2px 0px; padding:15px 0px 0px 0px;}
+#v2main .noteTable6{border:1px solid #ccc; background:#fff; font:10px Verdana, Arial, Helvetica, sans-serif; color:#444; border-collapse:collapse;}
+#v2main .header6{background:#D0DFE4;font-size:11px;}
+#v2main .noteTable6 td {padding:2px 4px;}
+
+/*error handler*/
+.error_msg {padding:0 20px 0px 10px; margin:5px 0px;}
+
+
+/*end of only for client lists*/
+
+.socialDoc img{width:60%;}
+
+/*only for PrintToMail*/
+#mailingAdd {background:margin:0px;}
+#mailingAddress{margin:0px 20px;}
+#mailingAddress .tabName{float:none; margin:0px;}
+#mailingAddress td{padding:0px; font-size:12px; font-family:Tahoma;}
+#mailingAddress table{margin-bottom:20px;}
+.mailingChoice,#typeAddChoice{border:1px dotted #666; display:block; width:310px; margin:5px 10px 5px 0px; padding:10px; float:left;}
+#TypeAddChoice{float:none;position:relative; top:7px; left:120px; height:225px;}
+.solidBorder{border:1px solid #444; width:200px;} 
+#mailingAddress  .highLite{background:#3D8A9C; color:#fff; display:block; padding:2px 0px;}
+#mailingAddress .tabName{font-size:13px; padding:2px 0px;}
+#envelope{margin-top:20px;}
+#envelope div{float:left; height:240px;}
+#mailBody{background:#fff url(../../ui/Images/envelope/bg.gif) repeat-x;padding:10px;width:500px;}
+#mailBody p{padding:0px; margin:3px 0px 0px 0px; font-size:11px;}
+#mailBody #from{display:block;width:480px;height:80px;background:#fff url(../../ui/Images/envelope/stamp.gif) top right no-repeat;}
+#mailBody #receipient{background:#fff url(../../ui/Images/envelope/addressBg.gif) no-repeat; width:321px; height:82px;}
+#mailBody #receipient table{ position:relative; top:5px; left:20px; }
+#mailBody #receipient td{font-size:10px;}
+#otherChoice{margin-top:0px;}
+.mail_btn{float:right;}
+#typeAddChoice .wLink{text-decoration:none; color:#fff; font-size:11px; margin-left:45px;}
+#receipient p{font-size:9px; margin:1px 0 0 23px; position:relative; top:7px;}
+
+/*-----------------------------------new factors*/
+
+.container2 { padding-top: 5px;height:80px; padding-right: 0px;position:relative;}
+.Assess {border:1px dotted #666;width:600px;margin:10px 10px 10px 10px; padding:10px 10px 10px 10px; background:#E7F3F5; color:#222; font:12px Verdana, Arial, Helvetica, sans-serif; line-height:15px;}
+.closelink {margin-left:500px; color:Red; } 
+
+.links {padding-left:12px; text-decoration:underline; font-weight:bold; display:block; line-height:25px;}
+
+.noteTable {border:1px dotted #666; padding:4px 4px; background:#E7F3F5; color:#222; font:12px Verdana, Arial, Helvetica, sans-serif; line-height:15px;  margin-top:5px; margin-bottom:5px;}
+.noteTable .field{font: bold 11px Verdana, Arial, Helvetica, sans-serif; color:#555;}
+.noteTable td{vertical-align:top;}
+.notetxtbox {height:140px; width:400px;}
+.notebutton {display:inline-block;background-color:white;border:solid 1px #5c90a5;margin-top:10px;width:auto;}
+.notebuttonhv {display:inline-block;background-color:white;border:solid 1px green;margin-top:10px;}
+.remebutton {display:inline-block;margin-top:10px;background-color:white;border:solid 1px #5c90a5;}
+.deabutton {display:inline-block;margin-top:10px;background-color:white;border:solid 1px #5c90a5;}
+.caseidtitle {font-weight:bold; display:none;}
+.labelcaseid {margin:left:4px; display:none;}
+.smalldropdown {width:200px;}
+
+.btnright {float:right; width:165;margin-top:7px;}
+
+/* GRIDVIEW, AND DATAGRIDS. */
+
+.rowstyling {background-color:#f0f0f0;}
+.headstyling {background-color:#6090a0; font-weight:bold; color:#fff;}
+
+/*GRIDVIEW, AND DATAGRIDS. End here */
+/*---------------------------------------------VIEW INTERACTION*/
+#undertitle {position:relative;margin-top:15px;}
+
+.labsumm {font: 17px arial, sans-serif;}
+.linksrightlg { text-decoration:underline;font-size:12px;  display:block; margin-top:0px;margin-bottom:10px; float:right; margin-right:21px;}
+.subpagelinkrgt{float:right;text-decoration:underline;font-size:12px;margin-bottom:10px;}
+.chkbox {text-decoration:none;font-size:12px; color:#000;}
+
+.refreshnote { font:12px arial, sans-serif;background-color:#f1f8fc;
+	           color:#52585c;border:#adbcc5 1px;margin-left:15px;}
+.refreshnote1{ background-color:#6e787f;
+	           color:white;font-weight:bold;border:#2c666b 1px;float:right}
+
+
+
+.boxpadder {margin-top:25px;}
+
+.box .field{font: bold 11px Verdana, Arial, Helvetica, sans-serif; color:#555;}
+.viwelink {color:#688b9b;}
+.boxlist{font: bold 11px Verdana, Arial, Helvetica, sans-serif; color:#52585c;}
+.boxlisttwo {font: 11px Verdana, Arial, Helvetica, sans-serif; color:#025e78;}
+
+
+/*use this for red links in blue box*/.rmvlinksright, .rmvlinksright:link{color:Red; float:left; }
+hr {width:700px;float:left; margin-top:8px;
+  border: none;
+  background-color: #B4CBDF;
+  color: white;
+  height: 1px;
+}
+
+
+
+hr.line {border: none;color: white; width:100%;}
+hr.dotsline {border:dotted 1px #bbbebf;}
+.hr100 {margin-top:8px;border: none;color: white; width:100%;}
+.noteapp {margin-left:5px; margin-top:10px; }
+
+
+
+/*----------------addAddress*/
+
+.link {text-decoration:underline;font-size:12px;  display:block; margin-top:0px;margin-bottom:25px; float:right; margin-right:10px;}
+.closelinktwo {text-decoration:underline;font-size:12px; margin-left:340px;padding-bottom:10px;}
+.closelink {text-decoration:underline;font-size:12px;float:right; }
+.viewnote {font: bold 13px Verdana, Arial, Helvetica, sans-serif; color:#52585c;margin-top:20px;margin-left:10px;}
+.girdview td {border-bottom:solid 1px #dae6ea;}
+
+
+/*----------------casesearch*/
+.casetitle {font: bold 16px  Arial, Helvetica, sans-serif; color:#606161;
+	         margin-left:15px;margin-top:15px;}
+
+/*----------------servicePlan*/
+.print { text-align: left;}
+.border {border:solid 1px #CCCCCC;	}  
+.subtabproviderlist {width:10000px; color:Red; background-color:Purple;}
+

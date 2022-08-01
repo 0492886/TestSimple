@@ -1,0 +1,336 @@
+2022-05-07 11:07:54,363 [ 38] INFO  AppManager [(null)] SimpleServings started.
+2022-05-07 11:10:16,089 [ 17] ERROR AppManager [(null)] btnLogin_Click failed: Database 'CLIENTDB' is already open and can only have one user at a time.
+System.Data.SqlClient.SqlException (0x80131904): Database 'CLIENTDB' is already open and can only have one user at a time.
+   at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at System.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   at System.Data.SqlClient.SqlDataReader.get_MetaData()
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   at System.Data.Common.DbCommand.ExecuteReader(CommandBehavior behavior)
+   at Microsoft.Practices.EnterpriseLibrary.Data.Database.DoExecuteReader(DbCommand command, CommandBehavior cmdBehavior)
+   at Microsoft.Practices.EnterpriseLibrary.Data.Database.ExecuteReader(DbCommand command)
+   at SimpleServingsLibrary.Shared.StaffDB.GetStaffByEmail(String email) in E:\DFTA coding\SimpleServings\SimpleServings_networkVersion_I_do\SimpleServing_Latest\NewSimple\SimpleServingsLibrary\SimpleServings.Shared\DAL\StaffDB.cs:line 86
+   at SimpleServingsLibrary.Shared.Staff.GetUserNameByEmail(String email) in E:\DFTA coding\SimpleServings\SimpleServings_networkVersion_I_do\SimpleServing_Latest\NewSimple\SimpleServingsLibrary\SimpleServings.Shared\BLL\Staff.cs:line 522
+   at SimpleServings.UI.Page.login.btnLogin_Click(Object sender, EventArgs e) in E:\DFTA coding\SimpleServings\SimpleServings_networkVersion_I_do\SimpleServing_Latest\NewSimple\SimpleServings\SimpleServings\UI\Page\login.aspx.cs:line 154
+ClientConnectionId:45e1908c-5c36-48e2-b224-5546b6a8e4d9
+Error Number:924,State:1,Class:14
+2022-05-07 11:10:32,247 [ 71] INFO  AppManager [(null)] (landingPage.aspx) - Clearing Session 
+Request Type:  
+SessionId: oqg1f0az2emlpay2b0tp5xzq
+2022-05-07 11:10:32,255 [171] INFO  AppManager [(null)] (landingPage.aspx) - New Session 
+Request Type:  
+SessionId: ugoan2ajrephb33p2h032phs
+2022-05-07 11:10:34,269 [ 51] ERROR AppManager [(null)] btnLogin_Click failed: Database 'CLIENTDB' is already open and can only have one user at a time.
+System.Data.SqlClient.SqlException (0x80131904): Database 'CLIENTDB' is already open and can only have one user at a time.
+   at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at System.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   at System.Data.SqlClient.SqlDataReader.get_MetaData()
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   at System.Data.Common.DbCommand.ExecuteReader(CommandBehavior behavior)
+   at Microsoft.Practices.EnterpriseLibrary.Data.Database.DoExecuteReader(DbCommand command, CommandBehavior cmdBehavior)
+   at Microsoft.Practices.EnterpriseLibrary.Data.Database.ExecuteReader(DbCommand command)
+   at SimpleServingsLibrary.Shared.StaffDB.GetStaffByEmail(String email) in E:\DFTA coding\SimpleServings\SimpleServings_networkVersion_I_do\SimpleServing_Latest\NewSimple\SimpleServingsLibrary\SimpleServings.Shared\DAL\StaffDB.cs:line 86
+   at SimpleServingsLibrary.Shared.Staff.GetUserNameByEmail(String email) in E:\DFTA coding\SimpleServings\SimpleServings_networkVersion_I_do\SimpleServing_Latest\NewSimple\SimpleServingsLibrary\SimpleServings.Shared\BLL\Staff.cs:line 522
+   at SimpleServings.UI.Page.login.btnLogin_Click(Object sender, EventArgs e) in E:\DFTA coding\SimpleServings\SimpleServings_networkVersion_I_do\SimpleServing_Latest\NewSimple\SimpleServings\SimpleServings\UI\Page\login.aspx.cs:line 154
+ClientConnectionId:45e1908c-5c36-48e2-b224-5546b6a8e4d9
+Error Number:924,State:1,Class:14
+2022-05-07 11:11:57,353 [170] INFO  AppManager [(null)] SimpleServings started.
+2022-05-07 11:13:12,625 [ 17] ERROR AppManager [(null)] btnLogin_Click failed: Database 'CLIENTDB' is already open and can only have one user at a time.
+System.Data.SqlClient.SqlException (0x80131904): Database 'CLIENTDB' is already open and can only have one user at a time.
+   at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at System.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   at System.Data.SqlClient.SqlDataReader.get_MetaData()
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   at System.Data.Common.DbCommand.ExecuteReader(CommandBehavior behavior)
+   at Microsoft.Practices.EnterpriseLibrary.Data.Database.DoExecuteReader(DbCommand command, CommandBehavior cmdBehavior)
+   at Microsoft.Practices.EnterpriseLibrary.Data.Database.ExecuteReader(DbCommand command)
+   at SimpleServingsLibrary.Shared.StaffDB.GetStaffByEmail(String email) in E:\DFTA coding\SimpleServings\SimpleServings_networkVersion_I_do\SimpleServing_Latest\NewSimple\SimpleServingsLibrary\SimpleServings.Shared\DAL\StaffDB.cs:line 86
+   at SimpleServingsLibrary.Shared.Staff.GetUserNameByEmail(String email) in E:\DFTA coding\SimpleServings\SimpleServings_networkVersion_I_do\SimpleServing_Latest\NewSimple\SimpleServingsLibrary\SimpleServings.Shared\BLL\Staff.cs:line 522
+   at SimpleServings.UI.Page.login.btnLogin_Click(Object sender, EventArgs e) in E:\DFTA coding\SimpleServings\SimpleServings_networkVersion_I_do\SimpleServing_Latest\NewSimple\SimpleServings\SimpleServings\UI\Page\login.aspx.cs:line 154
+ClientConnectionId:7a884f21-8d89-4231-851d-139cd1e2ad92
+Error Number:924,State:1,Class:14
+2022-05-07 11:13:47,062 [ 12] INFO  AppManager [(null)] (landingPage.aspx) - Clearing Session 
+Request Type:  
+SessionId: ejyfsnsu3xkipbxnvcifbrnd
+2022-05-07 11:13:47,071 [184] INFO  AppManager [(null)] (landingPage.aspx) - New Session 
+Request Type:  
+SessionId: dq5bxy41kb1l5jlarlykhucm
+2022-05-07 11:13:49,082 [ 69] ERROR AppManager [(null)] btnLogin_Click failed: Database 'CLIENTDB' is already open and can only have one user at a time.
+System.Data.SqlClient.SqlException (0x80131904): Database 'CLIENTDB' is already open and can only have one user at a time.
+   at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at System.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   at System.Data.SqlClient.SqlDataReader.get_MetaData()
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   at System.Data.Common.DbCommand.ExecuteReader(CommandBehavior behavior)
+   at Microsoft.Practices.EnterpriseLibrary.Data.Database.DoExecuteReader(DbCommand command, CommandBehavior cmdBehavior)
+   at Microsoft.Practices.EnterpriseLibrary.Data.Database.ExecuteReader(DbCommand command)
+   at SimpleServingsLibrary.Shared.StaffDB.GetStaffByEmail(String email) in E:\DFTA coding\SimpleServings\SimpleServings_networkVersion_I_do\SimpleServing_Latest\NewSimple\SimpleServingsLibrary\SimpleServings.Shared\DAL\StaffDB.cs:line 86
+   at SimpleServingsLibrary.Shared.Staff.GetUserNameByEmail(String email) in E:\DFTA coding\SimpleServings\SimpleServings_networkVersion_I_do\SimpleServing_Latest\NewSimple\SimpleServingsLibrary\SimpleServings.Shared\BLL\Staff.cs:line 522
+   at SimpleServings.UI.Page.login.btnLogin_Click(Object sender, EventArgs e) in E:\DFTA coding\SimpleServings\SimpleServings_networkVersion_I_do\SimpleServing_Latest\NewSimple\SimpleServings\SimpleServings\UI\Page\login.aspx.cs:line 154
+ClientConnectionId:7a884f21-8d89-4231-851d-139cd1e2ad92
+Error Number:924,State:1,Class:14
+2022-05-07 11:30:47,783 [ 71] INFO  AppManager [(null)] (landingPage.aspx) - Clearing Session 
+Request Type:  
+SessionId: ozuax4ja1euuleqsn5tey25s
+2022-05-07 11:30:58,147 [174] INFO  AppManager [(null)] (landingPage.aspx) - New Session 
+Request Type:  
+SessionId: uh4kb302upbdskynjfkx4lim
+2022-05-07 11:31:24,077 [ 58] ERROR AppManager [(null)] btnLogin_Click failed: Database 'CLIENTDB' is already open and can only have one user at a time.
+System.Data.SqlClient.SqlException (0x80131904): Database 'CLIENTDB' is already open and can only have one user at a time.
+   at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at System.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   at System.Data.SqlClient.SqlDataReader.get_MetaData()
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   at System.Data.Common.DbCommand.ExecuteReader(CommandBehavior behavior)
+   at Microsoft.Practices.EnterpriseLibrary.Data.Database.DoExecuteReader(DbCommand command, CommandBehavior cmdBehavior)
+   at Microsoft.Practices.EnterpriseLibrary.Data.Database.ExecuteReader(DbCommand command)
+   at SimpleServingsLibrary.Shared.StaffDB.GetStaffByEmail(String email) in E:\DFTA coding\SimpleServings\SimpleServings_networkVersion_I_do\SimpleServing_Latest\NewSimple\SimpleServingsLibrary\SimpleServings.Shared\DAL\StaffDB.cs:line 86
+   at SimpleServingsLibrary.Shared.Staff.GetUserNameByEmail(String email) in E:\DFTA coding\SimpleServings\SimpleServings_networkVersion_I_do\SimpleServing_Latest\NewSimple\SimpleServingsLibrary\SimpleServings.Shared\BLL\Staff.cs:line 522
+   at SimpleServings.UI.Page.login.btnLogin_Click(Object sender, EventArgs e) in E:\DFTA coding\SimpleServings\SimpleServings_networkVersion_I_do\SimpleServing_Latest\NewSimple\SimpleServings\SimpleServings\UI\Page\login.aspx.cs:line 154
+ClientConnectionId:bdc4b39b-9d4b-43ac-9057-15fb128f9c8b
+Error Number:924,State:1,Class:14
+2022-05-07 11:31:57,371 [ 71] INFO  AppManager [(null)] (landingPage.aspx) - Clearing Session 
+Request Type:  
+SessionId: 2ouvh324z2lntwnkubri4a55
+2022-05-07 11:32:01,679 [ 58] INFO  AppManager [(null)] (landingPage.aspx) - New Session 
+Request Type:  
+SessionId: ats0e4isz3yjnzzbgkdei4o5
+2022-05-07 11:38:33,356 [ 17] INFO  AppManager [(null)] (login.aspx) - (Mli) - Login successful 
+SessionId: vi30ypdktgg5z1xo0rtta04r
+2022-05-07 11:38:48,946 [ 92] INFO  AppManager [(null)] (landingPage.aspx) - Clearing Session 
+Request Type:  
+SessionId: byasdyzglqyttw4mrzeaucol
+2022-05-07 11:38:48,952 [ 93] INFO  AppManager [(null)] (landingPage.aspx) - New Session 
+Request Type:  
+SessionId: wj505kfdtubkiecjt1kwhtqk
+2022-05-07 11:38:49,196 [ 56] INFO  AppManager [(null)] (login.aspx) - (Mli) - Login successful 
+SessionId: l45g5xsrvr53p5vbom5qrws5
+2022-05-07 11:38:49,223 [ 41] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: wj505kfdtubkiecjt1kwhtqk
+2022-05-07 11:50:33,876 [ 23] INFO  AppManager [(null)] (landingPage.aspx) - Clearing Session 
+Request Type:  
+SessionId: uwvwzq0q5qzd34yrd5xta2fm
+2022-05-07 11:50:40,750 [ 84] INFO  AppManager [(null)] (landingPage.aspx) - New Session 
+Request Type:  
+SessionId: ctonf3fg13u5syhjpbigqfku
+2022-05-07 11:50:41,558 [ 17] INFO  AppManager [(null)] (login.aspx) - (Mli) - Login successful 
+SessionId: oldcvusa4bahdrip3pld2qh4
+2022-05-07 11:51:02,759 [ 71] INFO  AppManager [(null)] (landingPage.aspx) - Clearing Session 
+Request Type:  
+SessionId: dfseygmhjt4hby5wjku3siml
+2022-05-07 11:51:02,769 [ 84] INFO  AppManager [(null)] (landingPage.aspx) - New Session 
+Request Type:  
+SessionId: 51pzi5vhbijkd0hoxvge44wp
+2022-05-07 11:51:03,019 [ 17] INFO  AppManager [(null)] (login.aspx) - (Mli) - Login successful 
+SessionId: ys4cknhb1dw0toyldmchwoig
+2022-05-07 11:51:03,041 [180] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: 51pzi5vhbijkd0hoxvge44wp
+2022-05-07 11:54:04,502 [  1] INFO  AppManager [(null)] SimpleServings started.
+2022-05-07 11:54:21,280 [ 12] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: vb5xdiemii5akcjakgdc2w5x
+2022-05-07 11:58:03,899 [ 49] INFO  AppManager [(null)] (landingPage.aspx) - Clearing Session 
+Request Type:  
+SessionId: zgwekil5f2dhfhkatmnelncw
+2022-05-07 11:58:03,908 [ 44] INFO  AppManager [(null)] (landingPage.aspx) - New Session 
+Request Type:  
+SessionId: i1p1iljjup3vhpjssqy1css0
+2022-05-07 11:58:04,172 [ 50] INFO  AppManager [(null)] (login.aspx) - (Mli) - Login successful 
+SessionId: 5pu0yg3sb52lmofwv4zeghfm
+2022-05-07 11:58:04,178 [ 43] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: i1p1iljjup3vhpjssqy1css0
+2022-05-07 11:59:23,984 [ 13] INFO  AppManager [(null)] (landingPage.aspx) - Clearing Session 
+Request Type:  
+SessionId: r4zg4txoeaksm2elcp4afxoy
+2022-05-07 11:59:23,994 [ 48] INFO  AppManager [(null)] (landingPage.aspx) - New Session 
+Request Type:  
+SessionId: leuc2h2bea3cji12pdw0ks3j
+2022-05-07 11:59:24,289 [ 43] INFO  AppManager [(null)] (login.aspx) - (Mli) - Login successful 
+SessionId: wizonxutfev1kda0cwzjze3p
+2022-05-07 11:59:24,311 [ 16] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: leuc2h2bea3cji12pdw0ks3j
+2022-05-07 12:25:45,764 [139] INFO  AppManager [(null)] (landingPage.aspx) - Clearing Session 
+Request Type:  
+SessionId: ag1ixzzy2nf4fr2oxtc23kz1
+2022-05-07 12:25:45,772 [ 25] INFO  AppManager [(null)] (landingPage.aspx) - New Session 
+Request Type:  
+SessionId: hnyo2iguakyc4ewacfnm3cnj
+2022-05-07 12:25:45,997 [ 86] INFO  AppManager [(null)] (login.aspx) - (Mli) - Login successful 
+SessionId: hswmxrsij5mqrsazkgs5oahi
+2022-05-07 12:25:46,001 [144] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: hnyo2iguakyc4ewacfnm3cnj
+2022-05-07 14:19:14,178 [  1] INFO  AppManager [(null)] SimpleServings started.
+2022-05-07 14:19:39,372 [ 12] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: kleg0eqsthimws1l0hkhhhak
+2022-05-07 14:20:52,996 [ 10] INFO  AppManager [(null)] (landingPage.aspx) - Clearing Session 
+Request Type:  
+SessionId: 1cciip0rggt2emrahf3xr3jt
+2022-05-07 14:20:53,005 [ 12] INFO  AppManager [(null)] (landingPage.aspx) - New Session 
+Request Type:  
+SessionId: be5s3g1o5g0rrluwcjr4o3sq
+2022-05-07 14:20:53,270 [ 11] INFO  AppManager [(null)] (login.aspx) - (Mli) - Login successful 
+SessionId: pgcq3llp4w0iieim1bzjnl0x
+2022-05-07 14:20:53,276 [ 14] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: be5s3g1o5g0rrluwcjr4o3sq
+2022-05-07 14:21:51,066 [ 32] INFO  AppManager [(null)] (landingPage.aspx) - Clearing Session 
+Request Type:  
+SessionId: pdch2q3oglbukpzc4ggmna5k
+2022-05-07 14:21:51,074 [ 20] INFO  AppManager [(null)] (landingPage.aspx) - New Session 
+Request Type:  
+SessionId: 4ouuqpvtxoabn1runcwkqqtu
+2022-05-07 14:21:51,260 [ 18] INFO  AppManager [(null)] (login.aspx) - (Mli) - Login successful 
+SessionId: tm21o0sknvlatbqrwv2mqlxa
+2022-05-07 14:21:51,264 [ 39] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: 4ouuqpvtxoabn1runcwkqqtu
+2022-05-07 14:25:23,762 [ 20] INFO  AppManager [(null)] (landingPage.aspx) - Clearing Session 
+Request Type:  
+SessionId: qrrvkf10und1wurlux1cf5un
+2022-05-07 14:25:23,771 [ 24] INFO  AppManager [(null)] (landingPage.aspx) - New Session 
+Request Type:  
+SessionId: 2kw3vvdxoz3xio1ulhutggxc
+2022-05-07 14:25:24,027 [ 18] INFO  AppManager [(null)] (login.aspx) - (Mli) - Login successful 
+SessionId: wc1vbjx4dxuzr4if1vigbn14
+2022-05-07 14:25:29,682 [ 10] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: 2kw3vvdxoz3xio1ulhutggxc
+2022-05-07 14:27:39,066 [ 10] INFO  AppManager [(null)] (landingPage.aspx) - Clearing Session 
+Request Type:  
+SessionId: cx25ccbi1w53bc4a53rrvtln
+2022-05-07 14:27:39,074 [ 20] INFO  AppManager [(null)] (landingPage.aspx) - New Session 
+Request Type:  
+SessionId: sonnnjmhwc2umotltrii5c4c
+2022-05-07 14:27:39,304 [ 11] INFO  AppManager [(null)] (login.aspx) - (Mli) - Login successful 
+SessionId: lthrqclcbxnvawmkytyd3vfh
+2022-05-07 14:27:39,310 [ 12] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: sonnnjmhwc2umotltrii5c4c
+2022-05-07 14:41:54,602 [ 11] INFO  AppManager [(null)] (landingPage.aspx) - Clearing Session 
+Request Type:  
+SessionId: tttna1af2jzfplvjvpnikpl5
+2022-05-07 14:41:54,611 [ 15] INFO  AppManager [(null)] (landingPage.aspx) - New Session 
+Request Type:  
+SessionId: wobzs22psqhwx2uwdlvab1mf
+2022-05-07 14:41:54,858 [ 48] INFO  AppManager [(null)] (login.aspx) - (Mli) - Login successful 
+SessionId: 5piuyre1txlpcvph1aeasb5j
+2022-05-07 14:41:54,865 [ 32] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: wobzs22psqhwx2uwdlvab1mf
+2022-05-07 14:47:53,084 [ 11] INFO  AppManager [(null)] (landingPage.aspx) - Clearing Session 
+Request Type:  
+SessionId: yhoghrdajxu3tjf4yxq1tio5
+2022-05-07 14:47:53,105 [ 99] INFO  AppManager [(null)] (landingPage.aspx) - New Session 
+Request Type:  
+SessionId: kzt4b3ey0ammj1sbquvilzs1
+2022-05-07 14:47:53,363 [ 28] INFO  AppManager [(null)] (login.aspx) - (Mli) - Login successful 
+SessionId: fgzt3kx102pyuvnnypz3djd5
+2022-05-07 14:47:53,371 [101] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: kzt4b3ey0ammj1sbquvilzs1
+2022-05-07 14:48:22,596 [  1] INFO  AppManager [(null)] SimpleServings started.
+2022-05-07 14:48:38,562 [ 11] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: p2lql4dt5sd4qyltbkjqfp3r
+2022-05-07 14:49:53,789 [  1] INFO  AppManager [(null)] SimpleServings started.
+2022-05-07 14:50:07,550 [ 13] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: jdtfxey5csrrr24ojq5qrep2
+2022-05-07 15:17:44,873 [ 34] INFO  AppManager [(null)] (landingPage.aspx) - Clearing Session 
+Request Type:  
+SessionId: h0gt00frluszhmothiv4pk5t
+2022-05-07 15:17:44,881 [122] INFO  AppManager [(null)] (landingPage.aspx) - New Session 
+Request Type:  
+SessionId: 4pqueym5uhnx5vwottytl1dn
+2022-05-07 15:17:45,501 [107] INFO  AppManager [(null)] (login.aspx) - (Mli) - Login successful 
+SessionId: q1gdj4moxvjw4rg14uv3l5wz
+2022-05-07 15:17:45,507 [ 25] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: 4pqueym5uhnx5vwottytl1dn
+2022-05-07 15:40:02,783 [ 46] INFO  AppManager [(null)] SimpleServings started.
+2022-05-07 15:40:24,236 [ 32] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: 0xyfp2duvlsb2hwdphg4cf23
+2022-05-07 15:42:38,658 [ 46] INFO  AppManager [(null)] SimpleServings started.
+2022-05-07 15:43:05,621 [ 37] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: wa44u4ymnzlesky3xpo1ptqi
+2022-05-07 15:44:57,911 [ 51] INFO  AppManager [(null)] (landingPage.aspx) - Clearing Session 
+Request Type:  
+SessionId: mjzimipixk2vu3pnadsxpo5q
+2022-05-07 15:44:57,918 [ 98] INFO  AppManager [(null)] (landingPage.aspx) - New Session 
+Request Type:  
+SessionId: cihn13yqf4uq0j3q4udwntra
+2022-05-07 15:44:58,171 [ 29] INFO  AppManager [(null)] (login.aspx) - (Mli) - Login successful 
+SessionId: av4niwdphrtzwtyp0fh2mqo0
+2022-05-07 15:44:58,176 [ 43] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: cihn13yqf4uq0j3q4udwntra
+2022-05-07 15:46:47,709 [120] INFO  AppManager [(null)] SimpleServings started.
+2022-05-07 15:47:07,582 [ 11] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: k0pufbjxxemlw1d1yayitvfx
+2022-05-07 15:53:49,247 [  1] INFO  AppManager [(null)] SimpleServings started.
+2022-05-07 15:54:05,709 [ 18] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: 5kedfozockpcjpyu2hlnd4cw
+2022-05-07 15:56:03,832 [ 17] INFO  AppManager [(null)] SimpleServings started.
+2022-05-07 15:56:24,476 [ 24] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: o5ywskirqrpmyi2lqzdu4su2
+2022-05-07 15:59:07,419 [  1] INFO  AppManager [(null)] SimpleServings started.
+2022-05-07 15:59:29,454 [  8] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: c5yrxsuekujikivqqayqjid5
+2022-05-07 16:01:47,972 [ 27] INFO  AppManager [(null)] SimpleServings started.
+2022-05-07 16:02:14,299 [  7] ERROR AppManager [(null)] btnLogin_Click failed: Incorrect username and/or password.
+2022-05-07 16:02:27,363 [ 26] INFO  AppManager [(null)] (landingPage.aspx) - Clearing Session 
+Request Type:  
+SessionId: arovbgi11p1kejcutkxhf3ji
+2022-05-07 16:02:27,369 [  8] INFO  AppManager [(null)] (landingPage.aspx) - New Session 
+Request Type:  
+SessionId: ggffrq4g0btheyitielyhf2o
+2022-05-07 16:02:27,606 [ 15] ERROR AppManager [(null)] btnLogin_Click failed: Incorrect username and/or password.
+2022-05-07 16:02:51,522 [ 11] INFO  AppManager [(null)] (landingPage.aspx) - Clearing Session 
+Request Type:  
+SessionId: nwim24tvwpdp54u1oqyemeq0
+2022-05-07 16:02:51,529 [ 12] INFO  AppManager [(null)] (landingPage.aspx) - New Session 
+Request Type:  
+SessionId: vctylcfaay0ivmnfrgn22zff
+2022-05-07 16:02:51,746 [ 11] ERROR AppManager [(null)] btnLogin_Click failed: Incorrect username and/or password.
+2022-05-07 16:03:27,274 [  7] INFO  AppManager [(null)] (landingPage.aspx) - Clearing Session 
+Request Type:  
+SessionId: vctylcfaay0ivmnfrgn22zff
+2022-05-07 16:03:27,283 [ 16] INFO  AppManager [(null)] (landingPage.aspx) - New Session 
+Request Type:  
+SessionId: njjjvzshwud0tlf3exybuqa4
+2022-05-07 16:03:27,500 [  9] ERROR AppManager [(null)] btnLogin_Click failed: Incorrect username and/or password.
+2022-05-07 16:12:19,241 [ 33] INFO  AppManager [(null)] (landingPage.aspx) - Clearing Session 
+Request Type:  
+SessionId: vvrpegyfh0fbbihrvukvore0
+2022-05-07 16:12:19,249 [  8] INFO  AppManager [(null)] (landingPage.aspx) - New Session 
+Request Type:  
+SessionId: 4jl1v4ti1ydi3fnsoxbnc1ep
+2022-05-07 16:12:19,483 [ 32] ERROR AppManager [(null)] btnLogin_Click failed: Incorrect username and/or password.

@@ -1,0 +1,43 @@
+2022-04-19 10:00:34,081 [ 14] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: ukudwnyxlbk2nfzw5ntpr1uk
+2022-04-19 16:13:34,362 [148] INFO  AppManager [(null)] SimpleServings started.
+2022-04-19 16:14:45,609 [156] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: ej432iq4uujec3gvuzihwzum
+2022-04-19 16:16:15,749 [139] INFO  AppManager [(null)] (landingPage.aspx) - Clearing Session 
+Request Type:  
+SessionId: 3dwuffgrxlocn5knggdni0pt
+2022-04-19 16:16:15,757 [198] INFO  AppManager [(null)] (landingPage.aspx) - New Session 
+Request Type:  
+SessionId: legj3nm0vrobypzvritxkyvf
+2022-04-19 16:16:15,991 [202] INFO  AppManager [(null)] (login.aspx) - (scott.deas) - Login successful 
+SessionId: db4z23r44ewisxw0tnrifgms
+2022-04-19 16:16:16,003 [ 36] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: legj3nm0vrobypzvritxkyvf
+2022-04-19 16:30:04,423 [186] INFO  AppManager [(null)] (landingPage.aspx) - Clearing Session 
+Request Type:  
+SessionId: ek22w3idqxzoe1mn2wge2wsv
+2022-04-19 16:30:04,431 [218] INFO  AppManager [(null)] (landingPage.aspx) - New Session 
+Request Type:  
+SessionId: zcb2ezaelhwq2ubn313sfi3d
+2022-04-19 16:30:04,655 [ 26] INFO  AppManager [(null)] (login.aspx) - (scott.deas) - Login successful 
+SessionId: bqtkqwkcavhlraeto5r4wwps
+2022-04-19 16:30:04,659 [132] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: zcb2ezaelhwq2ubn313sfi3d
+2022-04-19 17:03:28,263 [  7] INFO  AppManager [(null)] (landingPage.aspx) - Request from http://localhost:1945/SimpleServings/UI/Page/SimpleServings/Menu/MenuList.aspx?MenuType=MyMenus 
+Request Type: LogInOut 
+SessionId: zcb2ezaelhwq2ubn313sfi3d
+2022-04-19 17:03:28,264 [  7] INFO  AppManager [(null)] (landingPage.aspx) - Redirecting to Login.aspx 
+Request Type: LogInOut 
+SessionId: zcb2ezaelhwq2ubn313sfi3d
+2022-04-19 17:03:28,268 [166] INFO  AppManager [(null)] (login.aspx) - Request from http://localhost:1945/SimpleServings/UI/Page/SimpleServings/Menu/MenuList.aspx?MenuType=MyMenus 
+SessionId: doec1tnbvpwzem0j310dnxlx
+2022-04-19 17:03:56,913 [186] INFO  AppManager [(null)] (landingPage.aspx) - Clearing Session 
+Request Type:  
+SessionId: jbhhao4j5vm0fnvwmbalodjz
+2022-04-19 17:03:56,922 [143] INFO  AppManager [(null)] (landingPage.aspx) - New Session 
+Request Type:  
+SessionId: s0seph0gth0hz15lxrbry4ov
+2022-04-19 17:03:57,574 [171] INFO  AppManager [(null)] (login.aspx) - (scott.deas) - Login successful 
+SessionId: ydspjyslgwxraij13ipnwqla
+2022-04-19 17:03:57,579 [133] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: s0seph0gth0hz15lxrbry4ov

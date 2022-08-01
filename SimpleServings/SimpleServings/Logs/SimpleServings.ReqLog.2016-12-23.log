@@ -1,0 +1,137 @@
+2016-12-23 10:47:41,020 [  1] INFO  AppManager [(null)] SimpleServings started.
+2016-12-23 10:47:54,199 [  6] INFO  AppManager [(null)] (landingPage.aspx) - Redirecting to Login.aspx 
+Request Type: LogInOut 
+SessionId: 
+2016-12-23 10:48:01,812 [  8] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: tn4tooyjolwynx55c3ckjk3s
+2016-12-23 13:01:38,740 [  1] INFO  AppManager [(null)] SimpleServings started.
+2016-12-23 13:01:39,336 [  5] INFO  AppManager [(null)] (landingPage.aspx) - Redirecting to Login.aspx 
+Request Type: LogInOut 
+SessionId: 
+2016-12-23 13:01:46,731 [  6] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: tcqgix55is2bta45nzi2fk55
+2016-12-23 14:05:10,314 [  1] INFO  AppManager [(null)] SimpleServings started.
+2016-12-23 14:05:10,887 [  5] INFO  AppManager [(null)] (landingPage.aspx) - Redirecting to Login.aspx 
+Request Type: LogInOut 
+SessionId: 
+2016-12-23 14:05:21,764 [  8] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: mauubi3wjebthz45sz3toyr1
+2016-12-23 14:33:47,282 [  7] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: 2nd3zv45lxu2uoqelkrccqyp
+2016-12-23 14:33:48,926 [  8] INFO  AppManager [(null)] (landingPage.aspx) - Request from http://localhost:1949/SimpleServings/ui/page/ 
+Request Type: LogInOut 
+SessionId: qunt2ka1j1mfsi3jm3osuwfm
+2016-12-23 14:33:48,927 [  8] INFO  AppManager [(null)] (landingPage.aspx) - Redirecting to Login.aspx 
+Request Type: LogInOut 
+SessionId: qunt2ka1j1mfsi3jm3osuwfm
+2016-12-23 14:33:48,933 [  8] INFO  AppManager [(null)] (login.aspx) - Request from http://localhost:1949/SimpleServings/ui/page/ 
+SessionId: rstfzemzqsys3w45gzrpu12w
+2016-12-23 14:33:52,235 [  8] INFO  AppManager [(null)] (landingPage.aspx) - Clearing Session 
+Request Type:  
+SessionId: nbc1ia3y1insd155xvpfh5bo
+2016-12-23 14:33:52,250 [  7] INFO  AppManager [(null)] (landingPage.aspx) - New Session 
+Request Type:  
+SessionId: o25xvli5yslj5p45k0bvuz55
+2016-12-23 14:33:52,268 [  8] INFO  AppManager [(null)] (login.aspx) - (cvais7773) - Login successful 
+SessionId: txyin545cvyw1x55ah312pm5
+2016-12-23 14:33:52,274 [  8] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: o25xvli5yslj5p45k0bvuz55
+2016-12-23 14:46:05,088 [  5] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: jjdnl532btouxi3xzvygid55
+2016-12-23 14:46:06,231 [  5] INFO  AppManager [(null)] (landingPage.aspx) - Request from http://localhost:1949/SimpleServings/UI/Page/ 
+Request Type: LogInOut 
+SessionId: 3u1e3u55lzmexzmtvmc34d2q
+2016-12-23 14:46:06,231 [  5] INFO  AppManager [(null)] (landingPage.aspx) - Redirecting to Login.aspx 
+Request Type: LogInOut 
+SessionId: 3u1e3u55lzmexzmtvmc34d2q
+2016-12-23 14:46:06,235 [  6] INFO  AppManager [(null)] (login.aspx) - Request from http://localhost:1949/SimpleServings/UI/Page/ 
+SessionId: hmvdtlqffkijpt3y0ogbsl45
+2016-12-23 14:46:12,664 [  7] INFO  AppManager [(null)] (landingPage.aspx) - Clearing Session 
+Request Type:  
+SessionId: zsgygiq0abp2f1zmzzol0t45
+2016-12-23 14:46:12,671 [  8] INFO  AppManager [(null)] (landingPage.aspx) - New Session 
+Request Type:  
+SessionId: 5mxzjcrwtcrnmznntwwzu555
+2016-12-23 14:46:12,745 [  5] INFO  AppManager [(null)] (login.aspx) - (cvais7773) - Login successful 
+SessionId: 1wnv2q454jmvuhaotm3h3s45
+2016-12-23 14:46:12,748 [  5] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: 5mxzjcrwtcrnmznntwwzu555
+2016-12-23 15:11:01,874 [  6] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: h3riad551y4qyb55ekn3kp45
+2016-12-23 15:11:06,533 [  8] INFO  AppManager [(null)] (landingPage.aspx) - Request from http://localhost:1949/SimpleServings/UI/Page/ 
+Request Type: LogInOut 
+SessionId: 1ikzsjqoqvrnny55uvg4sirh
+2016-12-23 15:11:06,534 [  8] INFO  AppManager [(null)] (landingPage.aspx) - Redirecting to Login.aspx 
+Request Type: LogInOut 
+SessionId: 1ikzsjqoqvrnny55uvg4sirh
+2016-12-23 15:11:06,539 [  7] INFO  AppManager [(null)] (login.aspx) - Request from http://localhost:1949/SimpleServings/UI/Page/ 
+SessionId: iv45obfz04guaimsnqvxfsrm
+2016-12-23 15:11:12,296 [  5] INFO  AppManager [(null)] (landingPage.aspx) - Clearing Session 
+Request Type:  
+SessionId: iwdssb55zsrftxqbg02c44bm
+2016-12-23 15:11:12,307 [  6] INFO  AppManager [(null)] (landingPage.aspx) - New Session 
+Request Type:  
+SessionId: 2j01k5fsqne2do45cjoqed45
+2016-12-23 15:11:12,314 [  7] INFO  AppManager [(null)] (login.aspx) - (cvais7773) - Login successful 
+SessionId: v51hub455qmrer55wfs5bjzl
+2016-12-23 15:11:12,321 [  8] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: 2j01k5fsqne2do45cjoqed45
+2016-12-23 15:13:15,389 [  5] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: leteky45r5o2e4rvtxq3m245
+2016-12-23 15:13:16,966 [  5] INFO  AppManager [(null)] (landingPage.aspx) - Request from http://localhost:1949/SimpleServings/UI/Page/ 
+Request Type: LogInOut 
+SessionId: 122xmn45ifo2uv3ovhsr0122
+2016-12-23 15:13:16,966 [  5] INFO  AppManager [(null)] (landingPage.aspx) - Redirecting to Login.aspx 
+Request Type: LogInOut 
+SessionId: 122xmn45ifo2uv3ovhsr0122
+2016-12-23 15:13:16,971 [  5] INFO  AppManager [(null)] (login.aspx) - Request from http://localhost:1949/SimpleServings/UI/Page/ 
+SessionId: uysubz55k1tkrd45kyypiq55
+2016-12-23 15:13:23,507 [  5] INFO  AppManager [(null)] (landingPage.aspx) - Clearing Session 
+Request Type:  
+SessionId: 4nthry45m5ffeb55a5tfuc55
+2016-12-23 15:13:23,513 [  6] INFO  AppManager [(null)] (login.aspx) - (cvais7773) - Login successful 
+SessionId: ag1amb55jzwybr45ydkvhx55
+2016-12-23 15:13:23,520 [  6] INFO  AppManager [(null)] (landingPage.aspx) - New Session 
+Request Type:  
+SessionId: m0phfc454pyq5j55atxsh0yp
+2016-12-23 15:13:23,525 [  7] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: ymxhe355aehv2g45m01tft55
+2016-12-23 15:27:10,836 [  1] INFO  AppManager [(null)] SimpleServings started.
+2016-12-23 15:27:23,065 [  7] INFO  AppManager [(null)] (landingPage.aspx) - Redirecting to Login.aspx 
+Request Type: LogInOut 
+SessionId: 
+2016-12-23 15:27:29,963 [  8] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: aa2ne3551wbgni452l55jae0
+2016-12-23 16:19:59,372 [  1] INFO  AppManager [(null)] SimpleServings started.
+2016-12-23 16:20:02,554 [  5] INFO  AppManager [(null)] (landingPage.aspx) - Redirecting to Login.aspx 
+Request Type: LogInOut 
+SessionId: 
+2016-12-23 16:20:10,121 [  5] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: ngshia55mitzdn5542qyvram
+2016-12-23 16:34:34,380 [  1] INFO  AppManager [(null)] SimpleServings started.
+2016-12-23 16:34:53,823 [  5] INFO  AppManager [(null)] (landingPage.aspx) - Redirecting to Login.aspx 
+Request Type: LogInOut 
+SessionId: 
+2016-12-23 16:35:00,559 [  7] ERROR AppManager [(null)] btnLogin_Click failed: Incorrect username and/or password.
+2016-12-23 16:35:04,822 [  7] INFO  AppManager [(null)] (landingPage.aspx) - Clearing Session 
+Request Type:  
+SessionId: kv11sj45nnotwr55lcf2sm55
+2016-12-23 16:35:04,833 [  7] INFO  AppManager [(null)] (landingPage.aspx) - New Session 
+Request Type:  
+SessionId: tumkcpi2r2alep2cyxxv5xvs
+2016-12-23 16:35:05,465 [  8] INFO  AppManager [(null)] (login.aspx) - (cvais7773) - Login successful 
+SessionId: kv11sj45nnotwr55lcf2sm55
+2016-12-23 16:35:05,488 [  7] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: tumkcpi2r2alep2cyxxv5xvs
+2016-12-23 17:14:54,308 [  1] INFO  AppManager [(null)] SimpleServings started.
+2016-12-23 17:15:14,959 [  6] INFO  AppManager [(null)] (landingPage.aspx) - Redirecting to Login.aspx 
+Request Type: LogInOut 
+SessionId: 
+2016-12-23 17:15:23,561 [  5] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: o0mm2rv2jtgeg145zubjqvui
+2016-12-23 17:32:41,088 [  1] INFO  AppManager [(null)] SimpleServings started.
+2016-12-23 17:32:52,079 [  6] INFO  AppManager [(null)] (landingPage.aspx) - Redirecting to Login.aspx 
+Request Type: LogInOut 
+SessionId: 
+2016-12-23 17:32:59,071 [  6] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: pgm2sg3cych2p045t0nsqa55

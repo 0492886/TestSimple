@@ -1,0 +1,16 @@
+2021-11-08 08:54:24,669 [  1] INFO  AppManager [(null)] SimpleServings started.
+2021-11-08 08:55:12,306 [  8] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: ucq34x3yuasde41a1qo1crgo
+2021-11-08 08:56:22,713 [ 11] INFO  AppManager [(null)] (landingPage.aspx) - Clearing Session 
+Request Type:  
+SessionId: 13xdkmzagwjkib5f2hikmopa
+2021-11-08 08:56:22,724 [ 26] INFO  AppManager [(null)] (landingPage.aspx) - New Session 
+Request Type:  
+SessionId: vv2qpm1ywwkpnnbqzk1uppiu
+2021-11-08 08:56:22,995 [  8] INFO  AppManager [(null)] (login.aspx) - (npatel) - Login successful 
+SessionId: vvqv3ncff3mex5fmzxzxjwhk
+2021-11-08 08:56:23,002 [ 23] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: vv2qpm1ywwkpnnbqzk1uppiu
+2021-11-08 12:40:36,669 [  1] INFO  AppManager [(null)] SimpleServings started.
+2021-11-08 12:41:07,130 [ 15] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: 040ddb5mmzzoxpk30qcb4vc4

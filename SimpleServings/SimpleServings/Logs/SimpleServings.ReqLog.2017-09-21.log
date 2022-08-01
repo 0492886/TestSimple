@@ -1,0 +1,38 @@
+2017-09-21 10:24:46,774 [  1] INFO  AppManager [(null)] SimpleServings started.
+2017-09-21 10:25:15,971 [  8] ERROR AppManager [(null)] btnLogin_Click failed: Cannot open database "SimpleServings" requested by the login. The login failed.
+Login failed for user 'IntraNetuser'.
+System.Data.SqlClient.SqlException: Cannot open database "SimpleServings" requested by the login. The login failed.
+Login failed for user 'IntraNetuser'.
+   at System.Data.ProviderBase.DbConnectionPool.GetConnection(DbConnection owningObject)
+   at System.Data.ProviderBase.DbConnectionFactory.GetConnection(DbConnection owningConnection)
+   at System.Data.ProviderBase.DbConnectionClosed.OpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory)
+   at System.Data.SqlClient.SqlConnection.Open()
+   at Microsoft.Practices.EnterpriseLibrary.Data.Database.OpenConnection()
+   at Microsoft.Practices.EnterpriseLibrary.Data.Database.ExecuteReader(DbCommand command)
+   at SimpleServingsLibrary.Shared.StaffDB.Authenticate(String userName, String password) in e:\SSDFTA\SimpleServingsLibrary\SimpleServings.Shared\DAL\StaffDB.cs:line 384
+   at SimpleServingsLibrary.Shared.Staff.Authenticate(String userName, String password) in e:\SSDFTA\SimpleServingsLibrary\SimpleServings.Shared\BLL\Staff.cs:line 598
+   at SimpleServings.UI.Page.login.btnLogin_Click(Object sender, EventArgs e) in e:\SSDFTA\SimpleServings\SimpleServings\UI\Page\login.aspx.cs:line 154
+2017-09-21 10:47:57,197 [  1] INFO  AppManager [(null)] SimpleServings started.
+2017-09-21 10:48:15,199 [  8] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: gaba1g55zqkdca45lqwkms55
+2017-09-21 10:48:23,106 [  5] INFO  AppManager [(null)] (Recipe.aspx) - Request from http://localhost:1949/SimpleServings/UI/Page/Home.aspx 
+SessionId: gaba1g55zqkdca45lqwkms55
+2017-09-21 10:49:12,870 [  5] INFO  AppManager [(null)] (landingPage.aspx) - Request from http://localhost:1949/SimpleServings/UI/Page/SimpleServings/Menu/ViewMenu.aspx?MenuID=8450 
+Request Type: LogInOut 
+SessionId: gaba1g55zqkdca45lqwkms55
+2017-09-21 10:49:12,870 [  5] INFO  AppManager [(null)] (landingPage.aspx) - Redirecting to Login.aspx 
+Request Type: LogInOut 
+SessionId: gaba1g55zqkdca45lqwkms55
+2017-09-21 10:49:12,873 [  8] INFO  AppManager [(null)] (login.aspx) - Request from http://localhost:1949/SimpleServings/UI/Page/SimpleServings/Menu/ViewMenu.aspx?MenuID=8450 
+SessionId: mlcpg2jfmmegljqx4gfvc3qz
+2017-09-21 10:53:29,151 [  5] INFO  AppManager [(null)] (landingPage.aspx) - Clearing Session 
+Request Type:  
+SessionId: lxermpiksp22cb45azdhrwzj
+2017-09-21 10:53:29,164 [  6] INFO  AppManager [(null)] (login.aspx) - (JAlberg) - Login successful 
+SessionId: 3vvigt45cv4d0a551du4viin
+2017-09-21 10:53:29,173 [  6] INFO  AppManager [(null)] (landingPage.aspx) - New Session 
+Request Type:  
+SessionId: 2tqcd145lxuuz455ylxp5nmo
+2017-09-21 10:53:29,173 [  8] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: pih231nphj0l4m45vr5ebhyv
+2017-09-21 16:19:01,173 [ 12] INFO  AppManager [(null)] SimpleServings started.

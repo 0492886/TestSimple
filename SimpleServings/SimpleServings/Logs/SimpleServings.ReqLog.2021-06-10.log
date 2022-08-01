@@ -1,0 +1,23 @@
+2021-06-10 10:52:24,919 [ 73] INFO  AppManager [(null)] SimpleServings started.
+2021-06-10 10:53:32,206 [ 23] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: t4luz4gdhezybzro5g2gyasm
+2021-06-10 10:56:20,316 [ 44] INFO  AppManager [(null)] (Recipe.aspx) - Request from http://localhost:1948/SimpleServings/UI/Page/SimpleServings/Menu/AddMenu.aspx?MenuType=AddMenu 
+SessionId: t4luz4gdhezybzro5g2gyasm
+2021-06-10 11:03:53,088 [120] INFO  AppManager [(null)] (landingPage.aspx) - Clearing Session 
+Request Type:  
+SessionId: oh4pzvupvsizmu3ddmxtzx1k
+2021-06-10 11:03:53,106 [ 80] INFO  AppManager [(null)] (landingPage.aspx) - New Session 
+Request Type:  
+SessionId: 0yvp5apa5mjg3iloqj5nf55k
+2021-06-10 11:03:53,472 [112] INFO  AppManager [(null)] (login.aspx) - (Mli) - Login successful 
+SessionId: tnkaiktb0zbukk4g14tjw451
+2021-06-10 11:03:53,479 [ 13] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: 0yvp5apa5mjg3iloqj5nf55k
+2021-06-10 13:17:56,614 [  1] INFO  AppManager [(null)] SimpleServings started.
+2021-06-10 13:18:13,855 [ 20] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: okcbklu250onvw0a1v2o5f03
+2021-06-10 13:21:32,842 [  1] INFO  AppManager [(null)] SimpleServings started.
+2021-06-10 13:21:57,443 [ 20] INFO  AppManager [(null)] (login.aspx) - (Mli) - Login successful 
+SessionId: aqzuzi3ouwacz3fsu1ukfq4k
+2021-06-10 13:21:57,503 [ 13] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: y41arzveyojank4jwb4w2iow

@@ -1,0 +1,10 @@
+2017-06-16 11:07:00,211 [  8] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: be4s42uyj1jt2vwi205shyns
+2017-06-16 11:07:20,255 [  6] INFO  AppManager [(null)] (landingPage.aspx) - Request from http://localhost:1949/SimpleServings/UI/Page/ 
+Request Type: LogInOut 
+SessionId: be4s42uyj1jt2vwi205shyns
+2017-06-16 11:07:20,306 [  6] INFO  AppManager [(null)] (landingPage.aspx) - Redirecting to Login.aspx 
+Request Type: LogInOut 
+SessionId: be4s42uyj1jt2vwi205shyns
+2017-06-16 11:07:30,188 [  8] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: viy2mwiyppm2sd45pu3ebz45

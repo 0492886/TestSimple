@@ -1,0 +1,256 @@
+C:\TFS\DFTA\SimpleServingsLibrary\SimpleServings.RecipeSupplement\bin\Debug\SimpleServings.RecipeSupplement.dll
+C:\TFS\DFTA\SimpleServingsLibrary\SimpleServings.RecipeSupplement\bin\Debug\SimpleServings.RecipeSupplement.pdb
+C:\TFS\DFTA\SimpleServingsLibrary\SimpleServings.RecipeSupplement\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\TFS\DFTA\SimpleServingsLibrary\SimpleServings.RecipeSupplement\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+C:\TFS\DFTA\SimpleServingsLibrary\SimpleServings.RecipeSupplement\bin\Debug\SimpleServings.Shared.dll
+C:\TFS\DFTA\SimpleServingsLibrary\SimpleServings.RecipeSupplement\bin\Debug\Microsoft.Practices.ObjectBuilder.dll
+C:\TFS\DFTA\SimpleServingsLibrary\SimpleServings.RecipeSupplement\bin\Debug\SimpleServings.Shared.pdb
+C:\TFS\DFTA\SimpleServingsLibrary\SimpleServings.RecipeSupplement\obj\Debug\SimpleServings.RecipeSupplement.csprojResolveAssemblyReference.cache
+C:\TFS\DFTA\SimpleServingsLibrary\SimpleServings.RecipeSupplement\obj\Debug\SimpleServings.RecipeSupplement.dll
+C:\TFS\DFTA\SimpleServingsLibrary\SimpleServings.RecipeSupplement\obj\Debug\SimpleServings.RecipeSupplement.pdb
+C:\TFS\DFTA\SimpleServingsLibrary\SimpleServings.RecipeSupplement\bin\Debug\SimpleServings.Shared.xml
+E:\SSDFTA\SimpleServingsLibrary\SimpleServings.RecipeSupplement\bin\Debug\SimpleServings.RecipeSupplement.dll
+E:\SSDFTA\SimpleServingsLibrary\SimpleServings.RecipeSupplement\bin\Debug\SimpleServings.RecipeSupplement.pdb
+E:\SSDFTA\SimpleServingsLibrary\SimpleServings.RecipeSupplement\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+E:\SSDFTA\SimpleServingsLibrary\SimpleServings.RecipeSupplement\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+E:\SSDFTA\SimpleServingsLibrary\SimpleServings.RecipeSupplement\bin\Debug\Microsoft.Practices.ObjectBuilder.dll
+E:\SSDFTA\SimpleServingsLibrary\SimpleServings.RecipeSupplement\bin\Debug\SimpleServings.Shared.dll
+E:\SSDFTA\SimpleServingsLibrary\SimpleServings.RecipeSupplement\bin\Debug\SimpleServings.Shared.pdb
+E:\SSDFTA\SimpleServingsLibrary\SimpleServings.RecipeSupplement\obj\Debug\SimpleServings.RecipeSupplement.dll
+E:\SSDFTA\SimpleServingsLibrary\SimpleServings.RecipeSupplement\obj\Debug\SimpleServings.RecipeSupplement.pdb
+E:\SSDFTA\SimpleServingsLibrary\SimpleServings.RecipeSupplement\bin\Debug\SimpleServings.Shared.xml
+R:\SimpleServingsLibrary\SimpleServings.RecipeSupplement\bin\Debug\SimpleServings.RecipeSupplement.dll
+R:\SimpleServingsLibrary\SimpleServings.RecipeSupplement\bin\Debug\SimpleServings.RecipeSupplement.pdb
+R:\SimpleServingsLibrary\SimpleServings.RecipeSupplement\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+R:\SimpleServingsLibrary\SimpleServings.RecipeSupplement\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+R:\SimpleServingsLibrary\SimpleServings.RecipeSupplement\bin\Debug\Microsoft.Practices.ObjectBuilder.dll
+R:\SimpleServingsLibrary\SimpleServings.RecipeSupplement\bin\Debug\SimpleServings.Shared.dll
+R:\SimpleServingsLibrary\SimpleServings.RecipeSupplement\bin\Debug\SimpleServings.Shared.pdb
+R:\SimpleServingsLibrary\SimpleServings.RecipeSupplement\bin\Debug\SimpleServings.Shared.xml
+R:\SimpleServingsLibrary\SimpleServings.RecipeSupplement\obj\Debug\SimpleServings.RecipeSupplement.csprojResolveAssemblyReference.cache
+R:\SimpleServingsLibrary\SimpleServings.RecipeSupplement\obj\Debug\SimpleServings.RecipeSupplement.dll
+R:\SimpleServingsLibrary\SimpleServings.RecipeSupplement\obj\Debug\SimpleServings.RecipeSupplement.pdb
+E:\SSDFTA\SimpleServingsLibrary\SimpleServings.RecipeSupplement\obj\Debug\SimpleServings.RecipeSupplement.csprojAssemblyReference.cache
+E:\SSDFTA\SimpleServingsLibrary\SimpleServings.RecipeSupplement\obj\Debug\SimpleServings.RecipeSupplement.csproj.CoreCompileInputs.cache
+E:\SSDFTA\SimpleServingsLibrary\SimpleServings.RecipeSupplement\obj\Debug\SimpleServings.RecipeSupplement.csproj.CopyComplete
+G:\NewSimple\SimpleServingsLibrary\SimpleServings.RecipeSupplement\bin\Debug\SimpleServings.RecipeSupplement.dll
+G:\NewSimple\SimpleServingsLibrary\SimpleServings.RecipeSupplement\bin\Debug\SimpleServings.RecipeSupplement.pdb
+G:\NewSimple\SimpleServingsLibrary\SimpleServings.RecipeSupplement\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+G:\NewSimple\SimpleServingsLibrary\SimpleServings.RecipeSupplement\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+G:\NewSimple\SimpleServingsLibrary\SimpleServings.RecipeSupplement\bin\Debug\Microsoft.Practices.ObjectBuilder.dll
+G:\NewSimple\SimpleServingsLibrary\SimpleServings.RecipeSupplement\bin\Debug\SimpleServings.Shared.dll
+G:\NewSimple\SimpleServingsLibrary\SimpleServings.RecipeSupplement\bin\Debug\SimpleServings.Shared.pdb
+G:\NewSimple\SimpleServingsLibrary\SimpleServings.RecipeSupplement\bin\Debug\SimpleServings.Shared.xml
+G:\NewSimple\SimpleServingsLibrary\SimpleServings.RecipeSupplement\obj\Debug\SimpleServings.RecipeSupplement.csprojAssemblyReference.cache
+G:\NewSimple\SimpleServingsLibrary\SimpleServings.RecipeSupplement\obj\Debug\SimpleServings.RecipeSupplement.csproj.CoreCompileInputs.cache
+G:\NewSimple\SimpleServingsLibrary\SimpleServings.RecipeSupplement\obj\Debug\SimpleServings.RecipeSupplement.csproj.CopyComplete
+G:\NewSimple\SimpleServingsLibrary\SimpleServings.RecipeSupplement\obj\Debug\SimpleServings.RecipeSupplement.dll
+G:\NewSimple\SimpleServingsLibrary\SimpleServings.RecipeSupplement\obj\Debug\SimpleServings.RecipeSupplement.pdb
+C:\Users\araj\NewSimple\SimpleServingsLibrary\SimpleServings.RecipeSupplement\bin\Debug\SimpleServings.RecipeSupplement.dll
+C:\Users\araj\NewSimple\SimpleServingsLibrary\SimpleServings.RecipeSupplement\bin\Debug\SimpleServings.RecipeSupplement.pdb
+C:\Users\araj\NewSimple\SimpleServingsLibrary\SimpleServings.RecipeSupplement\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Users\araj\NewSimple\SimpleServingsLibrary\SimpleServings.RecipeSupplement\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+C:\Users\araj\NewSimple\SimpleServingsLibrary\SimpleServings.RecipeSupplement\bin\Debug\Microsoft.Practices.ObjectBuilder.dll
+C:\Users\araj\NewSimple\SimpleServingsLibrary\SimpleServings.RecipeSupplement\bin\Debug\SimpleServings.Shared.dll
+C:\Users\araj\NewSimple\SimpleServingsLibrary\SimpleServings.RecipeSupplement\bin\Debug\SimpleServings.Shared.pdb
+C:\Users\araj\NewSimple\SimpleServingsLibrary\SimpleServings.RecipeSupplement\bin\Debug\SimpleServings.Shared.xml
+C:\Users\araj\NewSimple\SimpleServingsLibrary\SimpleServings.RecipeSupplement\obj\Debug\SimpleServings.RecipeSupplement.csprojAssemblyReference.cache
+C:\Users\araj\NewSimple\SimpleServingsLibrary\SimpleServings.RecipeSupplement\obj\Debug\SimpleServings.RecipeSupplement.csproj.CoreCompileInputs.cache
+C:\Users\araj\NewSimple\SimpleServingsLibrary\SimpleServings.RecipeSupplement\obj\Debug\SimpleServings.RecipeSupplement.csproj.CopyComplete
+C:\Users\araj\NewSimple\SimpleServingsLibrary\SimpleServings.RecipeSupplement\obj\Debug\SimpleServings.RecipeSupplement.dll
+C:\Users\araj\NewSimple\SimpleServingsLibrary\SimpleServings.RecipeSupplement\obj\Debug\SimpleServings.RecipeSupplement.pdb
+E:\DFTA coding\SimpleServings\SimpleServing_Latest\NewSimple\SimpleServingsLibrary\SimpleServings.RecipeSupplement\bin\Debug\SimpleServings.RecipeSupplement.dll
+E:\DFTA coding\SimpleServings\SimpleServing_Latest\NewSimple\SimpleServingsLibrary\SimpleServings.RecipeSupplement\bin\Debug\SimpleServings.RecipeSupplement.pdb
+E:\DFTA coding\SimpleServings\SimpleServing_Latest\NewSimple\SimpleServingsLibrary\SimpleServings.RecipeSupplement\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+E:\DFTA coding\SimpleServings\SimpleServing_Latest\NewSimple\SimpleServingsLibrary\SimpleServings.RecipeSupplement\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+E:\DFTA coding\SimpleServings\SimpleServing_Latest\NewSimple\SimpleServingsLibrary\SimpleServings.RecipeSupplement\bin\Debug\Microsoft.Practices.ObjectBuilder.dll
+E:\DFTA coding\SimpleServings\SimpleServing_Latest\NewSimple\SimpleServingsLibrary\SimpleServings.RecipeSupplement\bin\Debug\SimpleServings.Shared.dll
+E:\DFTA coding\SimpleServings\SimpleServing_Latest\NewSimple\SimpleServingsLibrary\SimpleServings.RecipeSupplement\bin\Debug\SimpleServings.Shared.pdb
+E:\DFTA coding\SimpleServings\SimpleServing_Latest\NewSimple\SimpleServingsLibrary\SimpleServings.RecipeSupplement\bin\Debug\SimpleServings.Shared.xml
+E:\DFTA coding\SimpleServings\SimpleServing_Latest\NewSimple\SimpleServingsLibrary\SimpleServings.RecipeSupplement\obj\Debug\SimpleServings.RecipeSupplement.csprojAssemblyReference.cache
+E:\DFTA coding\SimpleServings\SimpleServing_Latest\NewSimple\SimpleServingsLibrary\SimpleServings.RecipeSupplement\obj\Debug\SimpleServings.RecipeSupplement.csproj.CoreCompileInputs.cache
+E:\DFTA coding\SimpleServings\SimpleServing_Latest\NewSimple\SimpleServingsLibrary\SimpleServings.RecipeSupplement\obj\Debug\SimpleServings.RecipeSupplement.csproj.CopyComplete
+E:\DFTA coding\SimpleServings\SimpleServing_Latest\NewSimple\SimpleServingsLibrary\SimpleServings.RecipeSupplement\obj\Debug\SimpleServings.RecipeSupplement.dll
+E:\DFTA coding\SimpleServings\SimpleServing_Latest\NewSimple\SimpleServingsLibrary\SimpleServings.RecipeSupplement\obj\Debug\SimpleServings.RecipeSupplement.pdb
+E:\DFTA coding\SimpleServings\SimpleServings_networkVersion\SimpleServing_Latest\NewSimple\SimpleServingsLibrary\SimpleServings.RecipeSupplement\bin\Debug\SimpleServings.RecipeSupplement.dll
+E:\DFTA coding\SimpleServings\SimpleServings_networkVersion\SimpleServing_Latest\NewSimple\SimpleServingsLibrary\SimpleServings.RecipeSupplement\bin\Debug\SimpleServings.RecipeSupplement.pdb
+E:\DFTA coding\SimpleServings\SimpleServings_networkVersion\SimpleServing_Latest\NewSimple\SimpleServingsLibrary\SimpleServings.RecipeSupplement\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+E:\DFTA coding\SimpleServings\SimpleServings_networkVersion\SimpleServing_Latest\NewSimple\SimpleServingsLibrary\SimpleServings.RecipeSupplement\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+E:\DFTA coding\SimpleServings\SimpleServings_networkVersion\SimpleServing_Latest\NewSimple\SimpleServingsLibrary\SimpleServings.RecipeSupplement\bin\Debug\Microsoft.Practices.ObjectBuilder.dll
+E:\DFTA coding\SimpleServings\SimpleServings_networkVersion\SimpleServing_Latest\NewSimple\SimpleServingsLibrary\SimpleServings.RecipeSupplement\bin\Debug\SimpleServings.Shared.dll
+E:\DFTA coding\SimpleServings\SimpleServings_networkVersion\SimpleServing_Latest\NewSimple\SimpleServingsLibrary\SimpleServings.RecipeSupplement\bin\Debug\SimpleServings.Shared.pdb
+E:\DFTA coding\SimpleServings\SimpleServings_networkVersion\SimpleServing_Latest\NewSimple\SimpleServingsLibrary\SimpleServings.RecipeSupplement\bin\Debug\SimpleServings.Shared.xml
+E:\DFTA coding\SimpleServings\SimpleServings_networkVersion\SimpleServing_Latest\NewSimple\SimpleServingsLibrary\SimpleServings.RecipeSupplement\obj\Debug\SimpleServings.RecipeSupplement.csprojAssemblyReference.cache
+E:\DFTA coding\SimpleServings\SimpleServings_networkVersion\SimpleServing_Latest\NewSimple\SimpleServingsLibrary\SimpleServings.RecipeSupplement\obj\Debug\SimpleServings.RecipeSupplement.csproj.CoreCompileInputs.cache
+E:\DFTA coding\SimpleServings\SimpleServings_networkVersion\SimpleServing_Latest\NewSimple\SimpleServingsLibrary\SimpleServings.RecipeSupplement\obj\Debug\SimpleServings.RecipeSupplement.csproj.CopyComplete
+E:\DFTA coding\SimpleServings\SimpleServings_networkVersion\SimpleServing_Latest\NewSimple\SimpleServingsLibrary\SimpleServings.RecipeSupplement\obj\Debug\SimpleServings.RecipeSupplement.dll
+E:\DFTA coding\SimpleServings\SimpleServings_networkVersion\SimpleServing_Latest\NewSimple\SimpleServingsLibrary\SimpleServings.RecipeSupplement\obj\Debug\SimpleServings.RecipeSupplement.pdb
+C:\Users\araj\latest\NewSimple\SimpleServingsLibrary\SimpleServings.RecipeSupplement\bin\Debug\SimpleServings.RecipeSupplement.dll
+C:\Users\araj\latest\NewSimple\SimpleServingsLibrary\SimpleServings.RecipeSupplement\bin\Debug\SimpleServings.RecipeSupplement.pdb
+C:\Users\araj\latest\NewSimple\SimpleServingsLibrary\SimpleServings.RecipeSupplement\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Users\araj\latest\NewSimple\SimpleServingsLibrary\SimpleServings.RecipeSupplement\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+C:\Users\araj\latest\NewSimple\SimpleServingsLibrary\SimpleServings.RecipeSupplement\bin\Debug\Microsoft.Practices.ObjectBuilder.dll
+C:\Users\araj\latest\NewSimple\SimpleServingsLibrary\SimpleServings.RecipeSupplement\bin\Debug\SimpleServings.Shared.dll
+C:\Users\araj\latest\NewSimple\SimpleServingsLibrary\SimpleServings.RecipeSupplement\bin\Debug\SimpleServings.Shared.pdb
+C:\Users\araj\latest\NewSimple\SimpleServingsLibrary\SimpleServings.RecipeSupplement\bin\Debug\SimpleServings.Shared.xml
+C:\Users\araj\latest\NewSimple\SimpleServingsLibrary\SimpleServings.RecipeSupplement\obj\Debug\SimpleServings.RecipeSupplement.csprojAssemblyReference.cache
+C:\Users\araj\latest\NewSimple\SimpleServingsLibrary\SimpleServings.RecipeSupplement\obj\Debug\SimpleServings.RecipeSupplement.csproj.CoreCompileInputs.cache
+C:\Users\araj\latest\NewSimple\SimpleServingsLibrary\SimpleServings.RecipeSupplement\obj\Debug\SimpleServings.RecipeSupplement.csproj.CopyComplete
+C:\Users\araj\latest\NewSimple\SimpleServingsLibrary\SimpleServings.RecipeSupplement\obj\Debug\SimpleServings.RecipeSupplement.dll
+C:\Users\araj\latest\NewSimple\SimpleServingsLibrary\SimpleServings.RecipeSupplement\obj\Debug\SimpleServings.RecipeSupplement.pdb
+W:\MIS\Ansu\03022021-Simple\NewSimple\SimpleServingsLibrary\SimpleServings.RecipeSupplement\bin\Debug\SimpleServings.RecipeSupplement.dll
+W:\MIS\Ansu\03022021-Simple\NewSimple\SimpleServingsLibrary\SimpleServings.RecipeSupplement\bin\Debug\SimpleServings.RecipeSupplement.pdb
+W:\MIS\Ansu\03022021-Simple\NewSimple\SimpleServingsLibrary\SimpleServings.RecipeSupplement\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+W:\MIS\Ansu\03022021-Simple\NewSimple\SimpleServingsLibrary\SimpleServings.RecipeSupplement\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+W:\MIS\Ansu\03022021-Simple\NewSimple\SimpleServingsLibrary\SimpleServings.RecipeSupplement\bin\Debug\Microsoft.Practices.ObjectBuilder.dll
+W:\MIS\Ansu\03022021-Simple\NewSimple\SimpleServingsLibrary\SimpleServings.RecipeSupplement\bin\Debug\SimpleServings.Shared.dll
+W:\MIS\Ansu\03022021-Simple\NewSimple\SimpleServingsLibrary\SimpleServings.RecipeSupplement\bin\Debug\SimpleServings.Shared.pdb
+W:\MIS\Ansu\03022021-Simple\NewSimple\SimpleServingsLibrary\SimpleServings.RecipeSupplement\bin\Debug\SimpleServings.Shared.xml
+W:\MIS\Ansu\03022021-Simple\NewSimple\SimpleServingsLibrary\SimpleServings.RecipeSupplement\obj\Debug\SimpleServings.RecipeSupplement.csprojAssemblyReference.cache
+W:\MIS\Ansu\03022021-Simple\NewSimple\SimpleServingsLibrary\SimpleServings.RecipeSupplement\obj\Debug\SimpleServings.RecipeSupplement.csproj.CoreCompileInputs.cache
+W:\MIS\Ansu\03022021-Simple\NewSimple\SimpleServingsLibrary\SimpleServings.RecipeSupplement\obj\Debug\SimpleServings.RecipeSupplement.csproj.CopyComplete
+W:\MIS\Ansu\03022021-Simple\NewSimple\SimpleServingsLibrary\SimpleServings.RecipeSupplement\obj\Debug\SimpleServings.RecipeSupplement.dll
+W:\MIS\Ansu\03022021-Simple\NewSimple\SimpleServingsLibrary\SimpleServings.RecipeSupplement\obj\Debug\SimpleServings.RecipeSupplement.pdb
+E:\DFTA coding\SimpleServings\Assu_version\NewSimple3_11\SimpleServingsLibrary\SimpleServings.RecipeSupplement\bin\Debug\SimpleServings.RecipeSupplement.dll
+E:\DFTA coding\SimpleServings\Assu_version\NewSimple3_11\SimpleServingsLibrary\SimpleServings.RecipeSupplement\bin\Debug\SimpleServings.RecipeSupplement.pdb
+E:\DFTA coding\SimpleServings\Assu_version\NewSimple3_11\SimpleServingsLibrary\SimpleServings.RecipeSupplement\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+E:\DFTA coding\SimpleServings\Assu_version\NewSimple3_11\SimpleServingsLibrary\SimpleServings.RecipeSupplement\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+E:\DFTA coding\SimpleServings\Assu_version\NewSimple3_11\SimpleServingsLibrary\SimpleServings.RecipeSupplement\bin\Debug\Microsoft.Practices.ObjectBuilder.dll
+E:\DFTA coding\SimpleServings\Assu_version\NewSimple3_11\SimpleServingsLibrary\SimpleServings.RecipeSupplement\bin\Debug\SimpleServings.Shared.dll
+E:\DFTA coding\SimpleServings\Assu_version\NewSimple3_11\SimpleServingsLibrary\SimpleServings.RecipeSupplement\bin\Debug\SimpleServings.Shared.pdb
+E:\DFTA coding\SimpleServings\Assu_version\NewSimple3_11\SimpleServingsLibrary\SimpleServings.RecipeSupplement\bin\Debug\SimpleServings.Shared.xml
+E:\DFTA coding\SimpleServings\Assu_version\NewSimple3_11\SimpleServingsLibrary\SimpleServings.RecipeSupplement\obj\Debug\SimpleServings.RecipeSupplement.csprojAssemblyReference.cache
+E:\DFTA coding\SimpleServings\Assu_version\NewSimple3_11\SimpleServingsLibrary\SimpleServings.RecipeSupplement\obj\Debug\SimpleServings.RecipeSupplement.csproj.CoreCompileInputs.cache
+E:\DFTA coding\SimpleServings\Assu_version\NewSimple3_11\SimpleServingsLibrary\SimpleServings.RecipeSupplement\obj\Debug\SimpleServings.RecipeSupplement.csproj.CopyComplete
+E:\DFTA coding\SimpleServings\Assu_version\NewSimple3_11\SimpleServingsLibrary\SimpleServings.RecipeSupplement\obj\Debug\SimpleServings.RecipeSupplement.dll
+E:\DFTA coding\SimpleServings\Assu_version\NewSimple3_11\SimpleServingsLibrary\SimpleServings.RecipeSupplement\obj\Debug\SimpleServings.RecipeSupplement.pdb
+E:\DFTA coding\SimpleServings\Assu_version\Ansu_3_16\SimpleServingsLibrary\SimpleServings.RecipeSupplement\bin\Debug\SimpleServings.RecipeSupplement.dll
+E:\DFTA coding\SimpleServings\Assu_version\Ansu_3_16\SimpleServingsLibrary\SimpleServings.RecipeSupplement\bin\Debug\SimpleServings.RecipeSupplement.pdb
+E:\DFTA coding\SimpleServings\Assu_version\Ansu_3_16\SimpleServingsLibrary\SimpleServings.RecipeSupplement\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+E:\DFTA coding\SimpleServings\Assu_version\Ansu_3_16\SimpleServingsLibrary\SimpleServings.RecipeSupplement\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+E:\DFTA coding\SimpleServings\Assu_version\Ansu_3_16\SimpleServingsLibrary\SimpleServings.RecipeSupplement\bin\Debug\Microsoft.Practices.ObjectBuilder.dll
+E:\DFTA coding\SimpleServings\Assu_version\Ansu_3_16\SimpleServingsLibrary\SimpleServings.RecipeSupplement\bin\Debug\SimpleServings.Shared.dll
+E:\DFTA coding\SimpleServings\Assu_version\Ansu_3_16\SimpleServingsLibrary\SimpleServings.RecipeSupplement\bin\Debug\SimpleServings.Shared.pdb
+E:\DFTA coding\SimpleServings\Assu_version\Ansu_3_16\SimpleServingsLibrary\SimpleServings.RecipeSupplement\bin\Debug\SimpleServings.Shared.xml
+E:\DFTA coding\SimpleServings\Assu_version\Ansu_3_16\SimpleServingsLibrary\SimpleServings.RecipeSupplement\obj\Debug\SimpleServings.RecipeSupplement.csprojAssemblyReference.cache
+E:\DFTA coding\SimpleServings\Assu_version\Ansu_3_16\SimpleServingsLibrary\SimpleServings.RecipeSupplement\obj\Debug\SimpleServings.RecipeSupplement.csproj.CoreCompileInputs.cache
+E:\DFTA coding\SimpleServings\Assu_version\Ansu_3_16\SimpleServingsLibrary\SimpleServings.RecipeSupplement\obj\Debug\SimpleServings.RecipeSupplement.csproj.CopyComplete
+E:\DFTA coding\SimpleServings\Assu_version\Ansu_3_16\SimpleServingsLibrary\SimpleServings.RecipeSupplement\obj\Debug\SimpleServings.RecipeSupplement.dll
+E:\DFTA coding\SimpleServings\Assu_version\Ansu_3_16\SimpleServingsLibrary\SimpleServings.RecipeSupplement\obj\Debug\SimpleServings.RecipeSupplement.pdb
+E:\DFTA coding\SimpleServings\Assu_version\Ansu_3_19\SimpleServingsLibrary\SimpleServings.RecipeSupplement\bin\Debug\SimpleServings.RecipeSupplement.dll
+E:\DFTA coding\SimpleServings\Assu_version\Ansu_3_19\SimpleServingsLibrary\SimpleServings.RecipeSupplement\bin\Debug\SimpleServings.RecipeSupplement.pdb
+E:\DFTA coding\SimpleServings\Assu_version\Ansu_3_19\SimpleServingsLibrary\SimpleServings.RecipeSupplement\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+E:\DFTA coding\SimpleServings\Assu_version\Ansu_3_19\SimpleServingsLibrary\SimpleServings.RecipeSupplement\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+E:\DFTA coding\SimpleServings\Assu_version\Ansu_3_19\SimpleServingsLibrary\SimpleServings.RecipeSupplement\bin\Debug\Microsoft.Practices.ObjectBuilder.dll
+E:\DFTA coding\SimpleServings\Assu_version\Ansu_3_19\SimpleServingsLibrary\SimpleServings.RecipeSupplement\bin\Debug\SimpleServings.Shared.dll
+E:\DFTA coding\SimpleServings\Assu_version\Ansu_3_19\SimpleServingsLibrary\SimpleServings.RecipeSupplement\bin\Debug\SimpleServings.Shared.pdb
+E:\DFTA coding\SimpleServings\Assu_version\Ansu_3_19\SimpleServingsLibrary\SimpleServings.RecipeSupplement\bin\Debug\SimpleServings.Shared.xml
+E:\DFTA coding\SimpleServings\Assu_version\Ansu_3_19\SimpleServingsLibrary\SimpleServings.RecipeSupplement\obj\Debug\SimpleServings.RecipeSupplement.csprojAssemblyReference.cache
+E:\DFTA coding\SimpleServings\Assu_version\Ansu_3_19\SimpleServingsLibrary\SimpleServings.RecipeSupplement\obj\Debug\SimpleServings.RecipeSupplement.csproj.CoreCompileInputs.cache
+E:\DFTA coding\SimpleServings\Assu_version\Ansu_3_19\SimpleServingsLibrary\SimpleServings.RecipeSupplement\obj\Debug\SimpleServings.RecipeSupplement.csproj.CopyComplete
+E:\DFTA coding\SimpleServings\Assu_version\Ansu_3_19\SimpleServingsLibrary\SimpleServings.RecipeSupplement\obj\Debug\SimpleServings.RecipeSupplement.dll
+E:\DFTA coding\SimpleServings\Assu_version\Ansu_3_19\SimpleServingsLibrary\SimpleServings.RecipeSupplement\obj\Debug\SimpleServings.RecipeSupplement.pdb
+C:\Users\araj\Simple Servings-New 03242021\03242021\NewSimple\SimpleServingsLibrary\SimpleServings.RecipeSupplement\bin\Debug\SimpleServings.RecipeSupplement.dll
+C:\Users\araj\Simple Servings-New 03242021\03242021\NewSimple\SimpleServingsLibrary\SimpleServings.RecipeSupplement\bin\Debug\SimpleServings.RecipeSupplement.pdb
+C:\Users\araj\Simple Servings-New 03242021\03242021\NewSimple\SimpleServingsLibrary\SimpleServings.RecipeSupplement\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Users\araj\Simple Servings-New 03242021\03242021\NewSimple\SimpleServingsLibrary\SimpleServings.RecipeSupplement\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+C:\Users\araj\Simple Servings-New 03242021\03242021\NewSimple\SimpleServingsLibrary\SimpleServings.RecipeSupplement\bin\Debug\Microsoft.Practices.ObjectBuilder.dll
+C:\Users\araj\Simple Servings-New 03242021\03242021\NewSimple\SimpleServingsLibrary\SimpleServings.RecipeSupplement\bin\Debug\SimpleServings.Shared.dll
+C:\Users\araj\Simple Servings-New 03242021\03242021\NewSimple\SimpleServingsLibrary\SimpleServings.RecipeSupplement\bin\Debug\SimpleServings.Shared.pdb
+C:\Users\araj\Simple Servings-New 03242021\03242021\NewSimple\SimpleServingsLibrary\SimpleServings.RecipeSupplement\bin\Debug\SimpleServings.Shared.xml
+C:\Users\araj\Simple Servings-New 03242021\03242021\NewSimple\SimpleServingsLibrary\SimpleServings.RecipeSupplement\obj\Debug\SimpleServings.RecipeSupplement.csprojAssemblyReference.cache
+C:\Users\araj\Simple Servings-New 03242021\03242021\NewSimple\SimpleServingsLibrary\SimpleServings.RecipeSupplement\obj\Debug\SimpleServings.RecipeSupplement.csproj.CoreCompileInputs.cache
+C:\Users\araj\Simple Servings-New 03242021\03242021\NewSimple\SimpleServingsLibrary\SimpleServings.RecipeSupplement\obj\Debug\SimpleServings.RecipeSupplement.csproj.CopyComplete
+C:\Users\araj\Simple Servings-New 03242021\03242021\NewSimple\SimpleServingsLibrary\SimpleServings.RecipeSupplement\obj\Debug\SimpleServings.RecipeSupplement.dll
+C:\Users\araj\Simple Servings-New 03242021\03242021\NewSimple\SimpleServingsLibrary\SimpleServings.RecipeSupplement\obj\Debug\SimpleServings.RecipeSupplement.pdb
+E:\DFTA coding\SimpleServings\Assu_version\Ansu_4_20\SimpleServingsLibrary\SimpleServings.RecipeSupplement\bin\Debug\SimpleServings.RecipeSupplement.dll
+E:\DFTA coding\SimpleServings\Assu_version\Ansu_4_20\SimpleServingsLibrary\SimpleServings.RecipeSupplement\bin\Debug\SimpleServings.RecipeSupplement.pdb
+E:\DFTA coding\SimpleServings\Assu_version\Ansu_4_20\SimpleServingsLibrary\SimpleServings.RecipeSupplement\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+E:\DFTA coding\SimpleServings\Assu_version\Ansu_4_20\SimpleServingsLibrary\SimpleServings.RecipeSupplement\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+E:\DFTA coding\SimpleServings\Assu_version\Ansu_4_20\SimpleServingsLibrary\SimpleServings.RecipeSupplement\bin\Debug\Microsoft.Practices.ObjectBuilder.dll
+E:\DFTA coding\SimpleServings\Assu_version\Ansu_4_20\SimpleServingsLibrary\SimpleServings.RecipeSupplement\bin\Debug\SimpleServings.Shared.dll
+E:\DFTA coding\SimpleServings\Assu_version\Ansu_4_20\SimpleServingsLibrary\SimpleServings.RecipeSupplement\bin\Debug\SimpleServings.Shared.pdb
+E:\DFTA coding\SimpleServings\Assu_version\Ansu_4_20\SimpleServingsLibrary\SimpleServings.RecipeSupplement\bin\Debug\SimpleServings.Shared.xml
+E:\DFTA coding\SimpleServings\Assu_version\Ansu_4_20\SimpleServingsLibrary\SimpleServings.RecipeSupplement\obj\Debug\SimpleServings.RecipeSupplement.csprojAssemblyReference.cache
+E:\DFTA coding\SimpleServings\Assu_version\Ansu_4_20\SimpleServingsLibrary\SimpleServings.RecipeSupplement\obj\Debug\SimpleServings.RecipeSupplement.csproj.CoreCompileInputs.cache
+E:\DFTA coding\SimpleServings\Assu_version\Ansu_4_20\SimpleServingsLibrary\SimpleServings.RecipeSupplement\obj\Debug\SimpleServings.RecipeSupplement.csproj.CopyComplete
+E:\DFTA coding\SimpleServings\Assu_version\Ansu_4_20\SimpleServingsLibrary\SimpleServings.RecipeSupplement\obj\Debug\SimpleServings.RecipeSupplement.dll
+E:\DFTA coding\SimpleServings\Assu_version\Ansu_4_20\SimpleServingsLibrary\SimpleServings.RecipeSupplement\obj\Debug\SimpleServings.RecipeSupplement.pdb
+E:\DFTA coding\SimpleServings\SimpleServings_networkVersion\SimpleServing_Latest\Ansu_4_20\SimpleServingsLibrary\SimpleServings.RecipeSupplement\bin\Debug\SimpleServings.RecipeSupplement.dll
+E:\DFTA coding\SimpleServings\SimpleServings_networkVersion\SimpleServing_Latest\Ansu_4_20\SimpleServingsLibrary\SimpleServings.RecipeSupplement\bin\Debug\SimpleServings.RecipeSupplement.pdb
+E:\DFTA coding\SimpleServings\SimpleServings_networkVersion\SimpleServing_Latest\Ansu_4_20\SimpleServingsLibrary\SimpleServings.RecipeSupplement\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+E:\DFTA coding\SimpleServings\SimpleServings_networkVersion\SimpleServing_Latest\Ansu_4_20\SimpleServingsLibrary\SimpleServings.RecipeSupplement\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+E:\DFTA coding\SimpleServings\SimpleServings_networkVersion\SimpleServing_Latest\Ansu_4_20\SimpleServingsLibrary\SimpleServings.RecipeSupplement\bin\Debug\Microsoft.Practices.ObjectBuilder.dll
+E:\DFTA coding\SimpleServings\SimpleServings_networkVersion\SimpleServing_Latest\Ansu_4_20\SimpleServingsLibrary\SimpleServings.RecipeSupplement\bin\Debug\SimpleServings.Shared.dll
+E:\DFTA coding\SimpleServings\SimpleServings_networkVersion\SimpleServing_Latest\Ansu_4_20\SimpleServingsLibrary\SimpleServings.RecipeSupplement\bin\Debug\SimpleServings.Shared.pdb
+E:\DFTA coding\SimpleServings\SimpleServings_networkVersion\SimpleServing_Latest\Ansu_4_20\SimpleServingsLibrary\SimpleServings.RecipeSupplement\bin\Debug\SimpleServings.Shared.xml
+E:\DFTA coding\SimpleServings\SimpleServings_networkVersion\SimpleServing_Latest\Ansu_4_20\SimpleServingsLibrary\SimpleServings.RecipeSupplement\obj\Debug\SimpleServings.RecipeSupplement.csprojAssemblyReference.cache
+E:\DFTA coding\SimpleServings\SimpleServings_networkVersion\SimpleServing_Latest\Ansu_4_20\SimpleServingsLibrary\SimpleServings.RecipeSupplement\obj\Debug\SimpleServings.RecipeSupplement.csproj.CoreCompileInputs.cache
+E:\DFTA coding\SimpleServings\SimpleServings_networkVersion\SimpleServing_Latest\Ansu_4_20\SimpleServingsLibrary\SimpleServings.RecipeSupplement\obj\Debug\SimpleServings.RecipeSupplement.csproj.CopyComplete
+E:\DFTA coding\SimpleServings\SimpleServings_networkVersion\SimpleServing_Latest\Ansu_4_20\SimpleServingsLibrary\SimpleServings.RecipeSupplement\obj\Debug\SimpleServings.RecipeSupplement.dll
+E:\DFTA coding\SimpleServings\SimpleServings_networkVersion\SimpleServing_Latest\Ansu_4_20\SimpleServingsLibrary\SimpleServings.RecipeSupplement\obj\Debug\SimpleServings.RecipeSupplement.pdb
+E:\DFTA coding\SimpleServings\SimpleServings_networkVersion_I_do\SimpleServing_Latest\Ansu_4_20\SimpleServingsLibrary\SimpleServings.RecipeSupplement\bin\Debug\SimpleServings.RecipeSupplement.dll
+E:\DFTA coding\SimpleServings\SimpleServings_networkVersion_I_do\SimpleServing_Latest\Ansu_4_20\SimpleServingsLibrary\SimpleServings.RecipeSupplement\bin\Debug\SimpleServings.RecipeSupplement.pdb
+E:\DFTA coding\SimpleServings\SimpleServings_networkVersion_I_do\SimpleServing_Latest\Ansu_4_20\SimpleServingsLibrary\SimpleServings.RecipeSupplement\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+E:\DFTA coding\SimpleServings\SimpleServings_networkVersion_I_do\SimpleServing_Latest\Ansu_4_20\SimpleServingsLibrary\SimpleServings.RecipeSupplement\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+E:\DFTA coding\SimpleServings\SimpleServings_networkVersion_I_do\SimpleServing_Latest\Ansu_4_20\SimpleServingsLibrary\SimpleServings.RecipeSupplement\bin\Debug\Microsoft.Practices.ObjectBuilder.dll
+E:\DFTA coding\SimpleServings\SimpleServings_networkVersion_I_do\SimpleServing_Latest\Ansu_4_20\SimpleServingsLibrary\SimpleServings.RecipeSupplement\bin\Debug\SimpleServings.Shared.dll
+E:\DFTA coding\SimpleServings\SimpleServings_networkVersion_I_do\SimpleServing_Latest\Ansu_4_20\SimpleServingsLibrary\SimpleServings.RecipeSupplement\bin\Debug\SimpleServings.Shared.pdb
+E:\DFTA coding\SimpleServings\SimpleServings_networkVersion_I_do\SimpleServing_Latest\Ansu_4_20\SimpleServingsLibrary\SimpleServings.RecipeSupplement\bin\Debug\SimpleServings.Shared.xml
+E:\DFTA coding\SimpleServings\SimpleServings_networkVersion_I_do\SimpleServing_Latest\Ansu_4_20\SimpleServingsLibrary\SimpleServings.RecipeSupplement\obj\Debug\SimpleServings.RecipeSupplement.csprojAssemblyReference.cache
+E:\DFTA coding\SimpleServings\SimpleServings_networkVersion_I_do\SimpleServing_Latest\Ansu_4_20\SimpleServingsLibrary\SimpleServings.RecipeSupplement\obj\Debug\SimpleServings.RecipeSupplement.csproj.CoreCompileInputs.cache
+E:\DFTA coding\SimpleServings\SimpleServings_networkVersion_I_do\SimpleServing_Latest\Ansu_4_20\SimpleServingsLibrary\SimpleServings.RecipeSupplement\obj\Debug\SimpleServings.RecipeSupplement.csproj.CopyComplete
+E:\DFTA coding\SimpleServings\SimpleServings_networkVersion_I_do\SimpleServing_Latest\Ansu_4_20\SimpleServingsLibrary\SimpleServings.RecipeSupplement\obj\Debug\SimpleServings.RecipeSupplement.dll
+E:\DFTA coding\SimpleServings\SimpleServings_networkVersion_I_do\SimpleServing_Latest\Ansu_4_20\SimpleServingsLibrary\SimpleServings.RecipeSupplement\obj\Debug\SimpleServings.RecipeSupplement.pdb
+E:\DFTA coding\SimpleServings\SimpleServings_networkVersion_I_do\SimpleServing_Latest\Ansu_4_20\NewSimple\SimpleServingsLibrary\SimpleServings.RecipeSupplement\bin\Debug\SimpleServings.RecipeSupplement.dll
+E:\DFTA coding\SimpleServings\SimpleServings_networkVersion_I_do\SimpleServing_Latest\Ansu_4_20\NewSimple\SimpleServingsLibrary\SimpleServings.RecipeSupplement\bin\Debug\SimpleServings.RecipeSupplement.pdb
+E:\DFTA coding\SimpleServings\SimpleServings_networkVersion_I_do\SimpleServing_Latest\Ansu_4_20\NewSimple\SimpleServingsLibrary\SimpleServings.RecipeSupplement\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+E:\DFTA coding\SimpleServings\SimpleServings_networkVersion_I_do\SimpleServing_Latest\Ansu_4_20\NewSimple\SimpleServingsLibrary\SimpleServings.RecipeSupplement\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+E:\DFTA coding\SimpleServings\SimpleServings_networkVersion_I_do\SimpleServing_Latest\Ansu_4_20\NewSimple\SimpleServingsLibrary\SimpleServings.RecipeSupplement\bin\Debug\Microsoft.Practices.ObjectBuilder.dll
+E:\DFTA coding\SimpleServings\SimpleServings_networkVersion_I_do\SimpleServing_Latest\Ansu_4_20\NewSimple\SimpleServingsLibrary\SimpleServings.RecipeSupplement\bin\Debug\SimpleServings.Shared.dll
+E:\DFTA coding\SimpleServings\SimpleServings_networkVersion_I_do\SimpleServing_Latest\Ansu_4_20\NewSimple\SimpleServingsLibrary\SimpleServings.RecipeSupplement\bin\Debug\SimpleServings.Shared.pdb
+E:\DFTA coding\SimpleServings\SimpleServings_networkVersion_I_do\SimpleServing_Latest\Ansu_4_20\NewSimple\SimpleServingsLibrary\SimpleServings.RecipeSupplement\bin\Debug\SimpleServings.Shared.xml
+E:\DFTA coding\SimpleServings\SimpleServings_networkVersion_I_do\SimpleServing_Latest\Ansu_4_20\NewSimple\SimpleServingsLibrary\SimpleServings.RecipeSupplement\obj\Debug\SimpleServings.RecipeSupplement.csprojAssemblyReference.cache
+E:\DFTA coding\SimpleServings\SimpleServings_networkVersion_I_do\SimpleServing_Latest\Ansu_4_20\NewSimple\SimpleServingsLibrary\SimpleServings.RecipeSupplement\obj\Debug\SimpleServings.RecipeSupplement.csproj.CoreCompileInputs.cache
+E:\DFTA coding\SimpleServings\SimpleServings_networkVersion_I_do\SimpleServing_Latest\Ansu_4_20\NewSimple\SimpleServingsLibrary\SimpleServings.RecipeSupplement\obj\Debug\SimpleServings.RecipeSupplement.csproj.CopyComplete
+E:\DFTA coding\SimpleServings\SimpleServings_networkVersion_I_do\SimpleServing_Latest\Ansu_4_20\NewSimple\SimpleServingsLibrary\SimpleServings.RecipeSupplement\obj\Debug\SimpleServings.RecipeSupplement.dll
+E:\DFTA coding\SimpleServings\SimpleServings_networkVersion_I_do\SimpleServing_Latest\Ansu_4_20\NewSimple\SimpleServingsLibrary\SimpleServings.RecipeSupplement\obj\Debug\SimpleServings.RecipeSupplement.pdb
+\\Dftasimpleserve\ssdfta\NewSimple\SimpleServingsLibrary\SimpleServings.RecipeSupplement\bin\Debug\SimpleServings.RecipeSupplement.dll
+\\Dftasimpleserve\ssdfta\NewSimple\SimpleServingsLibrary\SimpleServings.RecipeSupplement\bin\Debug\SimpleServings.RecipeSupplement.pdb
+\\Dftasimpleserve\ssdfta\NewSimple\SimpleServingsLibrary\SimpleServings.RecipeSupplement\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+\\Dftasimpleserve\ssdfta\NewSimple\SimpleServingsLibrary\SimpleServings.RecipeSupplement\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+\\Dftasimpleserve\ssdfta\NewSimple\SimpleServingsLibrary\SimpleServings.RecipeSupplement\bin\Debug\Microsoft.Practices.ObjectBuilder.dll
+\\Dftasimpleserve\ssdfta\NewSimple\SimpleServingsLibrary\SimpleServings.RecipeSupplement\bin\Debug\SimpleServings.Shared.dll
+\\Dftasimpleserve\ssdfta\NewSimple\SimpleServingsLibrary\SimpleServings.RecipeSupplement\bin\Debug\SimpleServings.Shared.pdb
+\\Dftasimpleserve\ssdfta\NewSimple\SimpleServingsLibrary\SimpleServings.RecipeSupplement\bin\Debug\SimpleServings.Shared.xml
+\\Dftasimpleserve\ssdfta\NewSimple\SimpleServingsLibrary\SimpleServings.RecipeSupplement\obj\Debug\SimpleServings.RecipeSupplement.dll
+\\Dftasimpleserve\ssdfta\NewSimple\SimpleServingsLibrary\SimpleServings.RecipeSupplement\obj\Debug\SimpleServings.RecipeSupplement.pdb
+\\Dftasimpleserve\SSDFTA\NewSimple\SimpleServingsLibrary\SimpleServings.RecipeSupplement\obj\Debug\SimpleServings.RecipeSupplement.csprojAssemblyReference.cache
+\\Dftasimpleserve\SSDFTA\NewSimple\SimpleServingsLibrary\SimpleServings.RecipeSupplement\obj\Debug\SimpleServings.RecipeSupplement.csproj.CoreCompileInputs.cache
+\\Dftasimpleserve\SSDFTA\NewSimple\SimpleServingsLibrary\SimpleServings.RecipeSupplement\obj\Debug\SimpleServings.RecipeSupplement.csproj.CopyComplete
+E:\DFTA coding\SimpleServings\SimpleServings_networkVersion_I_do\SimpleServing_Latest\NewSimple\SimpleServingsLibrary\SimpleServings.RecipeSupplement\bin\Debug\SimpleServings.RecipeSupplement.dll
+E:\DFTA coding\SimpleServings\SimpleServings_networkVersion_I_do\SimpleServing_Latest\NewSimple\SimpleServingsLibrary\SimpleServings.RecipeSupplement\bin\Debug\SimpleServings.RecipeSupplement.pdb
+E:\DFTA coding\SimpleServings\SimpleServings_networkVersion_I_do\SimpleServing_Latest\NewSimple\SimpleServingsLibrary\SimpleServings.RecipeSupplement\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+E:\DFTA coding\SimpleServings\SimpleServings_networkVersion_I_do\SimpleServing_Latest\NewSimple\SimpleServingsLibrary\SimpleServings.RecipeSupplement\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+E:\DFTA coding\SimpleServings\SimpleServings_networkVersion_I_do\SimpleServing_Latest\NewSimple\SimpleServingsLibrary\SimpleServings.RecipeSupplement\bin\Debug\Microsoft.Practices.ObjectBuilder.dll
+E:\DFTA coding\SimpleServings\SimpleServings_networkVersion_I_do\SimpleServing_Latest\NewSimple\SimpleServingsLibrary\SimpleServings.RecipeSupplement\bin\Debug\SimpleServings.Shared.dll
+E:\DFTA coding\SimpleServings\SimpleServings_networkVersion_I_do\SimpleServing_Latest\NewSimple\SimpleServingsLibrary\SimpleServings.RecipeSupplement\bin\Debug\SimpleServings.Shared.pdb
+E:\DFTA coding\SimpleServings\SimpleServings_networkVersion_I_do\SimpleServing_Latest\NewSimple\SimpleServingsLibrary\SimpleServings.RecipeSupplement\bin\Debug\SimpleServings.Shared.xml
+E:\DFTA coding\SimpleServings\SimpleServings_networkVersion_I_do\SimpleServing_Latest\NewSimple\SimpleServingsLibrary\SimpleServings.RecipeSupplement\obj\Debug\SimpleServings.RecipeSupplement.csprojAssemblyReference.cache
+E:\DFTA coding\SimpleServings\SimpleServings_networkVersion_I_do\SimpleServing_Latest\NewSimple\SimpleServingsLibrary\SimpleServings.RecipeSupplement\obj\Debug\SimpleServings.RecipeSupplement.csproj.CoreCompileInputs.cache
+E:\DFTA coding\SimpleServings\SimpleServings_networkVersion_I_do\SimpleServing_Latest\NewSimple\SimpleServingsLibrary\SimpleServings.RecipeSupplement\obj\Debug\SimpleServings.RecipeSupplement.csproj.CopyComplete
+E:\DFTA coding\SimpleServings\SimpleServings_networkVersion_I_do\SimpleServing_Latest\NewSimple\SimpleServingsLibrary\SimpleServings.RecipeSupplement\obj\Debug\SimpleServings.RecipeSupplement.dll
+E:\DFTA coding\SimpleServings\SimpleServings_networkVersion_I_do\SimpleServing_Latest\NewSimple\SimpleServingsLibrary\SimpleServings.RecipeSupplement\obj\Debug\SimpleServings.RecipeSupplement.pdb
+F:\DFTA coding\SimpleServings\SimpleServings_networkVersion_I_do\SimpleServing_Latest\NewSimple\SimpleServingsLibrary\SimpleServings.RecipeSupplement\bin\Debug\SimpleServings.RecipeSupplement.dll
+F:\DFTA coding\SimpleServings\SimpleServings_networkVersion_I_do\SimpleServing_Latest\NewSimple\SimpleServingsLibrary\SimpleServings.RecipeSupplement\bin\Debug\SimpleServings.RecipeSupplement.pdb
+F:\DFTA coding\SimpleServings\SimpleServings_networkVersion_I_do\SimpleServing_Latest\NewSimple\SimpleServingsLibrary\SimpleServings.RecipeSupplement\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+F:\DFTA coding\SimpleServings\SimpleServings_networkVersion_I_do\SimpleServing_Latest\NewSimple\SimpleServingsLibrary\SimpleServings.RecipeSupplement\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+F:\DFTA coding\SimpleServings\SimpleServings_networkVersion_I_do\SimpleServing_Latest\NewSimple\SimpleServingsLibrary\SimpleServings.RecipeSupplement\bin\Debug\Microsoft.Practices.ObjectBuilder.dll
+F:\DFTA coding\SimpleServings\SimpleServings_networkVersion_I_do\SimpleServing_Latest\NewSimple\SimpleServingsLibrary\SimpleServings.RecipeSupplement\bin\Debug\SimpleServings.Shared.dll
+F:\DFTA coding\SimpleServings\SimpleServings_networkVersion_I_do\SimpleServing_Latest\NewSimple\SimpleServingsLibrary\SimpleServings.RecipeSupplement\bin\Debug\SimpleServings.Shared.pdb
+F:\DFTA coding\SimpleServings\SimpleServings_networkVersion_I_do\SimpleServing_Latest\NewSimple\SimpleServingsLibrary\SimpleServings.RecipeSupplement\bin\Debug\SimpleServings.Shared.xml
+F:\DFTA coding\SimpleServings\SimpleServings_networkVersion_I_do\SimpleServing_Latest\NewSimple\SimpleServingsLibrary\SimpleServings.RecipeSupplement\obj\Debug\SimpleServings.RecipeSupplement.csproj.AssemblyReference.cache
+F:\DFTA coding\SimpleServings\SimpleServings_networkVersion_I_do\SimpleServing_Latest\NewSimple\SimpleServingsLibrary\SimpleServings.RecipeSupplement\obj\Debug\SimpleServings.RecipeSupplement.csproj.CoreCompileInputs.cache
+F:\DFTA coding\SimpleServings\SimpleServings_networkVersion_I_do\SimpleServing_Latest\NewSimple\SimpleServingsLibrary\SimpleServings.RecipeSupplement\obj\Debug\SimpleServings.RecipeSupplement.csproj.CopyComplete
+F:\DFTA coding\SimpleServings\SimpleServings_networkVersion_I_do\SimpleServing_Latest\NewSimple\SimpleServingsLibrary\SimpleServings.RecipeSupplement\obj\Debug\SimpleServings.RecipeSupplement.dll
+F:\DFTA coding\SimpleServings\SimpleServings_networkVersion_I_do\SimpleServing_Latest\NewSimple\SimpleServingsLibrary\SimpleServings.RecipeSupplement\obj\Debug\SimpleServings.RecipeSupplement.pdb

@@ -1,0 +1,264 @@
+2022-04-11 11:28:07,902 [  1] INFO  AppManager [(null)] SimpleServings started.
+2022-04-11 11:37:35,273 [ 23] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: 1v54aove3h1uqbdfmgnod5ip
+2022-04-11 11:37:44,521 [ 14] ERROR AppManager [(null)] SimpleServings application error: Exception of type 'System.Web.HttpUnhandledException' was thrown.
+location: http://localhost:1945/SimpleServings/UI/Page/SimpleServings/Recipe/RecipeList.aspx
+
+System.Web.HttpUnhandledException (0x80004005): Exception of type 'System.Web.HttpUnhandledException' was thrown. ---> System.Data.SqlClient.SqlException (0x80131904): Procedure or function 'Sp_Get_RecipesByStaffIDAndRecipeID' expects parameter '@staffID', which was not supplied.
+   at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at System.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   at System.Data.SqlClient.SqlDataReader.get_MetaData()
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   at System.Data.Common.DbCommand.ExecuteReader(CommandBehavior behavior)
+   at Microsoft.Practices.EnterpriseLibrary.Data.Database.DoExecuteReader(DbCommand command, CommandBehavior cmdBehavior)
+   at Microsoft.Practices.EnterpriseLibrary.Data.Database.ExecuteReader(DbCommand command)
+   at SimpleServingsLibrary.Recipe.RecipeDB.GetRecipesByStaffIDAndRecipeID(Int32 recipeID) in E:\DFTA coding\SimpleServings\SimpleServings_networkVersion_I_do\SimpleServing_Latest\NewSimple\SimpleServingsLibrary\SimpleServings.Recipe\DAL\RecipeDB.cs:line 200
+   at SimpleServingsLibrary.Recipe.Recipe.GetRecipesByStaffIDAndRecipeID(Int32 recipeID) in E:\DFTA coding\SimpleServings\SimpleServings_networkVersion_I_do\SimpleServing_Latest\NewSimple\SimpleServingsLibrary\SimpleServings.Recipe\BLL\Recipe.cs:line 312
+   at SimpleServings.UI.UDC.SimpleServings.Recipe.RecipeList.btnSearch_Click(Object sender, EventArgs e) in E:\DFTA coding\SimpleServings\SimpleServings_networkVersion_I_do\SimpleServing_Latest\NewSimple\SimpleServings\SimpleServings\UI\UDC\SimpleServings\Recipe\RecipeList.ascx.cs:line 132
+   at System.Web.UI.WebControls.Button.OnClick(EventArgs e)
+   at System.Web.UI.WebControls.Button.RaisePostBackEvent(String eventArgument)
+   at System.Web.UI.WebControls.Button.System.Web.UI.IPostBackEventHandler.RaisePostBackEvent(String eventArgument)
+   at System.Web.UI.Page.RaisePostBackEvent(IPostBackEventHandler sourceControl, String eventArgument)
+   at System.Web.UI.Page.RaisePostBackEvent(NameValueCollection postData)
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+ClientConnectionId:201739b0-df7a-4291-8628-b2491cbb5ab2
+Error Number:201,State:4,Class:16
+   at System.Web.UI.Page.HandleError(Exception e)
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   at System.Web.UI.Page.ProcessRequest(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   at System.Web.UI.Page.ProcessRequest()
+   at System.Web.UI.Page.ProcessRequestWithNoAssert(HttpContext context)
+   at System.Web.UI.Page.ProcessRequest(HttpContext context)
+   at ASP.ui_page_simpleservings_recipe_recipelist_aspx.ProcessRequest(HttpContext context) in c:\Users\mali\AppData\Local\Temp\Temporary ASP.NET Files\simpleservings\44eca0d1\fb0616b5\App_Web_reblhwhj.2.cs:line 0
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStepImpl(IExecutionStep step)
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+2022-04-11 11:50:40,287 [  1] INFO  AppManager [(null)] SimpleServings started.
+2022-04-11 11:52:14,545 [ 41] ERROR AppManager [(null)] btnLogin_Click failed: Incorrect username and/or password.
+2022-04-11 11:52:23,315 [ 57] INFO  AppManager [(null)] (landingPage.aspx) - Clearing Session 
+Request Type:  
+SessionId: 2g4j1y3qsse0cdpvqbhxwomt
+2022-04-11 11:52:23,320 [ 53] INFO  AppManager [(null)] (landingPage.aspx) - New Session 
+Request Type:  
+SessionId: blwoctl3gjqzcyl3x22wqjbq
+2022-04-11 11:52:23,565 [ 39] INFO  AppManager [(null)] (login.aspx) - (yossi.frolich) - Login successful 
+SessionId: bndps1pz5z4u21v3g4o501wx
+2022-04-11 11:52:23,606 [ 52] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: blwoctl3gjqzcyl3x22wqjbq
+2022-04-11 11:52:41,498 [ 57] ERROR AppManager [(null)] SimpleServings application error: Exception of type 'System.Web.HttpUnhandledException' was thrown.
+location: http://localhost:1945/SimpleServings/UI/Page/SimpleServings/Recipe/RecipeList.aspx
+
+System.Web.HttpUnhandledException (0x80004005): Exception of type 'System.Web.HttpUnhandledException' was thrown. ---> System.Exception: Get RecipesByStaffIDAndRecipeName did not return a record!
+   at SimpleServingsLibrary.Recipe.RecipeDB.GetRecipesByStaffIDAndRecipeID(Int32 recipeID, Int32 staffID) in E:\DFTA coding\SimpleServings\SimpleServings_networkVersion_I_do\SimpleServing_Latest\NewSimple\SimpleServingsLibrary\SimpleServings.Recipe\DAL\RecipeDB.cs:line 208
+   at SimpleServingsLibrary.Recipe.Recipe.GetRecipesByStaffIDAndRecipeID(Int32 recipeID, Int32 staffID) in E:\DFTA coding\SimpleServings\SimpleServings_networkVersion_I_do\SimpleServing_Latest\NewSimple\SimpleServingsLibrary\SimpleServings.Recipe\BLL\Recipe.cs:line 312
+   at SimpleServings.UI.UDC.SimpleServings.Recipe.RecipeList.btnSearch_Click(Object sender, EventArgs e) in E:\DFTA coding\SimpleServings\SimpleServings_networkVersion_I_do\SimpleServing_Latest\NewSimple\SimpleServings\SimpleServings\UI\UDC\SimpleServings\Recipe\RecipeList.ascx.cs:line 135
+   at System.Web.UI.WebControls.Button.OnClick(EventArgs e)
+   at System.Web.UI.WebControls.Button.RaisePostBackEvent(String eventArgument)
+   at System.Web.UI.WebControls.Button.System.Web.UI.IPostBackEventHandler.RaisePostBackEvent(String eventArgument)
+   at System.Web.UI.Page.RaisePostBackEvent(IPostBackEventHandler sourceControl, String eventArgument)
+   at System.Web.UI.Page.RaisePostBackEvent(NameValueCollection postData)
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   at System.Web.UI.Page.HandleError(Exception e)
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   at System.Web.UI.Page.ProcessRequest(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   at System.Web.UI.Page.ProcessRequest()
+   at System.Web.UI.Page.ProcessRequestWithNoAssert(HttpContext context)
+   at System.Web.UI.Page.ProcessRequest(HttpContext context)
+   at ASP.ui_page_simpleservings_recipe_recipelist_aspx.ProcessRequest(HttpContext context) in c:\Users\mali\AppData\Local\Temp\Temporary ASP.NET Files\simpleservings\44eca0d1\fb0616b5\App_Web_ybmz4yvm.0.cs:line 0
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStepImpl(IExecutionStep step)
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+2022-04-11 11:53:05,998 [ 30] ERROR AppManager [(null)] SimpleServings application error: Exception of type 'System.Web.HttpUnhandledException' was thrown.
+location: http://localhost:1945/SimpleServings/UI/Page/SimpleServings/Recipe/RecipeList.aspx
+
+System.Web.HttpUnhandledException (0x80004005): Exception of type 'System.Web.HttpUnhandledException' was thrown. ---> System.Exception: Get RecipesByStaffIDAndRecipeName did not return a record!
+   at SimpleServingsLibrary.Recipe.RecipeDB.GetRecipesByStaffIDAndRecipeID(Int32 recipeID, Int32 staffID) in E:\DFTA coding\SimpleServings\SimpleServings_networkVersion_I_do\SimpleServing_Latest\NewSimple\SimpleServingsLibrary\SimpleServings.Recipe\DAL\RecipeDB.cs:line 208
+   at SimpleServingsLibrary.Recipe.Recipe.GetRecipesByStaffIDAndRecipeID(Int32 recipeID, Int32 staffID) in E:\DFTA coding\SimpleServings\SimpleServings_networkVersion_I_do\SimpleServing_Latest\NewSimple\SimpleServingsLibrary\SimpleServings.Recipe\BLL\Recipe.cs:line 312
+   at SimpleServings.UI.UDC.SimpleServings.Recipe.RecipeList.btnSearch_Click(Object sender, EventArgs e) in E:\DFTA coding\SimpleServings\SimpleServings_networkVersion_I_do\SimpleServing_Latest\NewSimple\SimpleServings\SimpleServings\UI\UDC\SimpleServings\Recipe\RecipeList.ascx.cs:line 135
+   at System.Web.UI.WebControls.Button.OnClick(EventArgs e)
+   at System.Web.UI.WebControls.Button.RaisePostBackEvent(String eventArgument)
+   at System.Web.UI.WebControls.Button.System.Web.UI.IPostBackEventHandler.RaisePostBackEvent(String eventArgument)
+   at System.Web.UI.Page.RaisePostBackEvent(IPostBackEventHandler sourceControl, String eventArgument)
+   at System.Web.UI.Page.RaisePostBackEvent(NameValueCollection postData)
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   at System.Web.UI.Page.HandleError(Exception e)
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   at System.Web.UI.Page.ProcessRequest(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   at System.Web.UI.Page.ProcessRequest()
+   at System.Web.UI.Page.ProcessRequestWithNoAssert(HttpContext context)
+   at System.Web.UI.Page.ProcessRequest(HttpContext context)
+   at ASP.ui_page_simpleservings_recipe_recipelist_aspx.ProcessRequest(HttpContext context) in c:\Users\mali\AppData\Local\Temp\Temporary ASP.NET Files\simpleservings\44eca0d1\fb0616b5\App_Web_ybmz4yvm.0.cs:line 0
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStepImpl(IExecutionStep step)
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+2022-04-11 11:54:43,782 [ 42] INFO  AppManager [(null)] (landingPage.aspx) - Clearing Session 
+Request Type:  
+SessionId: d0uousbnaxdmc4y5hex4uz5w
+2022-04-11 11:54:43,789 [ 39] INFO  AppManager [(null)] (landingPage.aspx) - New Session 
+Request Type:  
+SessionId: ihe2emq45xp3c0rdrcjzdys5
+2022-04-11 11:54:44,125 [ 52] INFO  AppManager [(null)] (login.aspx) - (yossi.frolich) - Login successful 
+SessionId: 4fq1wv2p350ecu02wn4ikpkv
+2022-04-11 11:54:44,130 [ 30] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: ihe2emq45xp3c0rdrcjzdys5
+2022-04-11 11:54:50,309 [ 53] ERROR AppManager [(null)] SimpleServings application error: Exception of type 'System.Web.HttpUnhandledException' was thrown.
+location: http://localhost:1945/SimpleServings/UI/Page/SimpleServings/Recipe/RecipeList.aspx
+
+System.Web.HttpUnhandledException (0x80004005): Exception of type 'System.Web.HttpUnhandledException' was thrown. ---> System.Exception: Get RecipesByStaffIDAndRecipeName did not return a record!
+   at SimpleServingsLibrary.Recipe.RecipeDB.GetRecipesByStaffIDAndRecipeID(Int32 recipeID, Int32 staffID) in E:\DFTA coding\SimpleServings\SimpleServings_networkVersion_I_do\SimpleServing_Latest\NewSimple\SimpleServingsLibrary\SimpleServings.Recipe\DAL\RecipeDB.cs:line 208
+   at SimpleServingsLibrary.Recipe.Recipe.GetRecipesByStaffIDAndRecipeID(Int32 recipeID, Int32 staffID) in E:\DFTA coding\SimpleServings\SimpleServings_networkVersion_I_do\SimpleServing_Latest\NewSimple\SimpleServingsLibrary\SimpleServings.Recipe\BLL\Recipe.cs:line 312
+   at SimpleServings.UI.UDC.SimpleServings.Recipe.RecipeList.btnSearch_Click(Object sender, EventArgs e) in E:\DFTA coding\SimpleServings\SimpleServings_networkVersion_I_do\SimpleServing_Latest\NewSimple\SimpleServings\SimpleServings\UI\UDC\SimpleServings\Recipe\RecipeList.ascx.cs:line 135
+   at System.Web.UI.WebControls.Button.OnClick(EventArgs e)
+   at System.Web.UI.WebControls.Button.RaisePostBackEvent(String eventArgument)
+   at System.Web.UI.WebControls.Button.System.Web.UI.IPostBackEventHandler.RaisePostBackEvent(String eventArgument)
+   at System.Web.UI.Page.RaisePostBackEvent(IPostBackEventHandler sourceControl, String eventArgument)
+   at System.Web.UI.Page.RaisePostBackEvent(NameValueCollection postData)
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   at System.Web.UI.Page.HandleError(Exception e)
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   at System.Web.UI.Page.ProcessRequest(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   at System.Web.UI.Page.ProcessRequest()
+   at System.Web.UI.Page.ProcessRequestWithNoAssert(HttpContext context)
+   at System.Web.UI.Page.ProcessRequest(HttpContext context)
+   at ASP.ui_page_simpleservings_recipe_recipelist_aspx.ProcessRequest(HttpContext context) in c:\Users\mali\AppData\Local\Temp\Temporary ASP.NET Files\simpleservings\44eca0d1\fb0616b5\App_Web_ybmz4yvm.0.cs:line 0
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStepImpl(IExecutionStep step)
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+2022-04-11 11:58:31,721 [ 46] INFO  AppManager [(null)] SimpleServings started.
+2022-04-11 12:01:50,829 [ 43] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: kyhhmxus0awzllxxqtijazei
+2022-04-11 12:01:57,851 [ 42] ERROR AppManager [(null)] SimpleServings application error: Exception of type 'System.Web.HttpUnhandledException' was thrown.
+location: http://localhost:1945/SimpleServings/UI/Page/SimpleServings/Recipe/RecipeList.aspx
+
+System.Web.HttpUnhandledException (0x80004005): Exception of type 'System.Web.HttpUnhandledException' was thrown. ---> System.NullReferenceException: Object reference not set to an instance of an object.
+   at SimpleServingsLibrary.Recipe.Recipe.PopRecipes(SqlDataReader dr) in E:\DFTA coding\SimpleServings\SimpleServings_networkVersion_I_do\SimpleServing_Latest\NewSimple\SimpleServingsLibrary\SimpleServings.Recipe\BLL\Recipe.cs:line 155
+   at SimpleServingsLibrary.Recipe.Recipe.GetRecipesByStaffIDAndRecipeID(Int32 recipeID, Int32 staffID) in E:\DFTA coding\SimpleServings\SimpleServings_networkVersion_I_do\SimpleServing_Latest\NewSimple\SimpleServingsLibrary\SimpleServings.Recipe\BLL\Recipe.cs:line 312
+   at SimpleServings.UI.UDC.SimpleServings.Recipe.RecipeList.btnSearch_Click(Object sender, EventArgs e) in E:\DFTA coding\SimpleServings\SimpleServings_networkVersion_I_do\SimpleServing_Latest\NewSimple\SimpleServings\SimpleServings\UI\UDC\SimpleServings\Recipe\RecipeList.ascx.cs:line 135
+   at System.Web.UI.WebControls.Button.OnClick(EventArgs e)
+   at System.Web.UI.WebControls.Button.RaisePostBackEvent(String eventArgument)
+   at System.Web.UI.WebControls.Button.System.Web.UI.IPostBackEventHandler.RaisePostBackEvent(String eventArgument)
+   at System.Web.UI.Page.RaisePostBackEvent(IPostBackEventHandler sourceControl, String eventArgument)
+   at System.Web.UI.Page.RaisePostBackEvent(NameValueCollection postData)
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   at System.Web.UI.Page.HandleError(Exception e)
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   at System.Web.UI.Page.ProcessRequest(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   at System.Web.UI.Page.ProcessRequest()
+   at System.Web.UI.Page.ProcessRequestWithNoAssert(HttpContext context)
+   at System.Web.UI.Page.ProcessRequest(HttpContext context)
+   at ASP.ui_page_simpleservings_recipe_recipelist_aspx.ProcessRequest(HttpContext context) in c:\Users\mali\AppData\Local\Temp\Temporary ASP.NET Files\simpleservings\44eca0d1\fb0616b5\App_Web_j3ch0kqh.10.cs:line 0
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStepImpl(IExecutionStep step)
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+2022-04-11 12:04:22,856 [  1] INFO  AppManager [(null)] SimpleServings started.
+2022-04-11 12:06:29,634 [ 13] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: gmkuuudtqpxu42mhk25xlrhg
+2022-04-11 12:08:06,516 [ 11] INFO  AppManager [(null)] (landingPage.aspx) - Clearing Session 
+Request Type:  
+SessionId: hy35xbtzgdgewfhhdvg2j2ee
+2022-04-11 12:08:06,524 [ 11] INFO  AppManager [(null)] (landingPage.aspx) - New Session 
+Request Type:  
+SessionId: 2yxmnd3jgn2ttcqmsjf2p00p
+2022-04-11 12:08:06,879 [ 33] INFO  AppManager [(null)] (login.aspx) - (yossi.frolich) - Login successful 
+SessionId: r0ku22o2hdklkj0yvutxbisd
+2022-04-11 12:08:06,885 [ 35] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: 2yxmnd3jgn2ttcqmsjf2p00p
+2022-04-11 12:10:47,110 [ 11] ERROR AppManager [(null)] SimpleServings application error: Exception of type 'System.Web.HttpUnhandledException' was thrown.
+location: http://localhost:1945/SimpleServings/UI/Page/SimpleServings/Recipe/RecipeList.aspx
+
+System.Web.HttpUnhandledException (0x80004005): Exception of type 'System.Web.HttpUnhandledException' was thrown. ---> System.NullReferenceException: Object reference not set to an instance of an object.
+   at SimpleServingsLibrary.Recipe.Recipe.PopRecipes(SqlDataReader dr) in E:\DFTA coding\SimpleServings\SimpleServings_networkVersion_I_do\SimpleServing_Latest\NewSimple\SimpleServingsLibrary\SimpleServings.Recipe\BLL\Recipe.cs:line 155
+   at SimpleServingsLibrary.Recipe.Recipe.GetRecipesByStaffIDAndRecipeID(Int32 recipeID, Int32 staffID) in E:\DFTA coding\SimpleServings\SimpleServings_networkVersion_I_do\SimpleServing_Latest\NewSimple\SimpleServingsLibrary\SimpleServings.Recipe\BLL\Recipe.cs:line 312
+   at SimpleServings.UI.UDC.SimpleServings.Recipe.RecipeList.btnSearch_Click(Object sender, EventArgs e) in E:\DFTA coding\SimpleServings\SimpleServings_networkVersion_I_do\SimpleServing_Latest\NewSimple\SimpleServings\SimpleServings\UI\UDC\SimpleServings\Recipe\RecipeList.ascx.cs:line 135
+   at System.Web.UI.WebControls.Button.OnClick(EventArgs e)
+   at System.Web.UI.WebControls.Button.RaisePostBackEvent(String eventArgument)
+   at System.Web.UI.WebControls.Button.System.Web.UI.IPostBackEventHandler.RaisePostBackEvent(String eventArgument)
+   at System.Web.UI.Page.RaisePostBackEvent(IPostBackEventHandler sourceControl, String eventArgument)
+   at System.Web.UI.Page.RaisePostBackEvent(NameValueCollection postData)
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   at System.Web.UI.Page.HandleError(Exception e)
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   at System.Web.UI.Page.ProcessRequest(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   at System.Web.UI.Page.ProcessRequest()
+   at System.Web.UI.Page.ProcessRequestWithNoAssert(HttpContext context)
+   at System.Web.UI.Page.ProcessRequest(HttpContext context)
+   at ASP.ui_page_simpleservings_recipe_recipelist_aspx.ProcessRequest(HttpContext context) in c:\Users\mali\AppData\Local\Temp\Temporary ASP.NET Files\simpleservings\44eca0d1\fb0616b5\App_Web_j3ch0kqh.10.cs:line 0
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStepImpl(IExecutionStep step)
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+2022-04-11 12:15:22,037 [ 72] INFO  AppManager [(null)] SimpleServings started.
+2022-04-11 12:15:43,609 [ 46] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: sy1i5w504ipu1w0xialt0oee
+2022-04-11 12:20:32,800 [ 66] INFO  AppManager [(null)] SimpleServings started.
+2022-04-11 12:21:19,806 [ 51] ERROR AppManager [(null)] btnLogin_Click failed: The entry 'SimpleServingsCnnStr' has already been added. (E:\DFTA coding\SimpleServings\SimpleServings_networkVersion_I_do\SimpleServing_Latest\NewSimple\SimpleServings\SimpleServings\web.config line 29)
+System.Configuration.ConfigurationErrorsException: The entry 'SimpleServingsCnnStr' has already been added. (E:\DFTA coding\SimpleServings\SimpleServings_networkVersion_I_do\SimpleServing_Latest\NewSimple\SimpleServings\SimpleServings\web.config line 29)
+   at System.Configuration.BaseConfigurationRecord.EvaluateOne(String[] keys, SectionInput input, Boolean isTrusted, FactoryRecord factoryRecord, SectionRecord sectionRecord, Object parentResult)
+   at System.Configuration.BaseConfigurationRecord.Evaluate(FactoryRecord factoryRecord, SectionRecord sectionRecord, Object parentResult, Boolean getLkg, Boolean getRuntimeObject, Object& result, Object& resultRuntimeObject)
+   at System.Configuration.BaseConfigurationRecord.GetSectionRecursive(String configKey, Boolean getLkg, Boolean checkPermission, Boolean getRuntimeObject, Boolean requestIsHere, Object& result, Object& resultRuntimeObject)
+   at System.Configuration.BaseConfigurationRecord.GetSection(String configKey)
+   at System.Web.HttpContext.GetSection(String sectionName)
+   at System.Web.Configuration.HttpConfigurationSystem.GetSection(String sectionName)
+   at System.Web.Configuration.HttpConfigurationSystem.System.Configuration.Internal.IInternalConfigSystem.GetSection(String configKey)
+   at System.Configuration.ConfigurationManager.GetSection(String sectionName)
+   at Microsoft.Practices.EnterpriseLibrary.Common.Configuration.SystemConfigurationSourceImplementation.GetSection(String sectionName)
+   at Microsoft.Practices.EnterpriseLibrary.Common.Configuration.SystemConfigurationSource.GetSection(String sectionName)
+   at Microsoft.Practices.EnterpriseLibrary.Data.DatabaseConfigurationView.GetConnectionStringSettings(String name)
+   at Microsoft.Practices.EnterpriseLibrary.Data.DatabaseCustomFactory.CreateObject(IBuilderContext context, String name, IConfigurationSource configurationSource, ConfigurationReflectionCache reflectionCache)
+   at Microsoft.Practices.EnterpriseLibrary.Common.Configuration.ObjectBuilder.ConfiguredObjectStrategy.BuildUp(IBuilderContext context, Type t, Object existing, String id)
+   at Microsoft.Practices.ObjectBuilder.BuilderStrategy.BuildUp(IBuilderContext context, Type typeToBuild, Object existing, String idToBuild)
+   at Microsoft.Practices.ObjectBuilder.SingletonStrategy.BuildUp(IBuilderContext context, Type typeToBuild, Object existing, String idToBuild)
+   at Microsoft.Practices.ObjectBuilder.BuilderStrategy.BuildUp(IBuilderContext context, Type typeToBuild, Object existing, String idToBuild)
+   at Microsoft.Practices.EnterpriseLibrary.Common.Configuration.ObjectBuilder.ConfigurationNameMappingStrategy.BuildUp(IBuilderContext context, Type t, Object existing, String id)
+   at Microsoft.Practices.ObjectBuilder.BuilderBase`1.DoBuildUp(IReadWriteLocator locator, Type typeToBuild, String idToBuild, Object existing, PolicyList[] transientPolicies)
+   at Microsoft.Practices.ObjectBuilder.BuilderBase`1.BuildUp(IReadWriteLocator locator, Type typeToBuild, String idToBuild, Object existing, PolicyList[] transientPolicies)
+   at Microsoft.Practices.ObjectBuilder.BuilderBase`1.BuildUp[TTypeToBuild](IReadWriteLocator locator, String idToBuild, Object existing, PolicyList[] transientPolicies)
+   at Microsoft.Practices.EnterpriseLibrary.Common.Configuration.ObjectBuilder.EnterpriseLibraryFactory.BuildUp[T](IReadWriteLocator locator, String id, IConfigurationSource configurationSource)
+   at Microsoft.Practices.EnterpriseLibrary.Common.Configuration.ObjectBuilder.EnterpriseLibraryFactory.BuildUp[T](String id, IConfigurationSource configurationSource)
+   at Microsoft.Practices.EnterpriseLibrary.Common.Configuration.ObjectBuilder.NameTypeFactoryBase`1.Create(String name)
+   at Microsoft.Practices.EnterpriseLibrary.Data.DatabaseFactory.CreateDatabase(String name)
+   at SimpleServingsLibrary.Shared.StaffDB.GetStaffByEmail(String email) in E:\DFTA coding\SimpleServings\SimpleServings_networkVersion_I_do\SimpleServing_Latest\NewSimple\SimpleServingsLibrary\SimpleServings.Shared\DAL\StaffDB.cs:line 83
+   at SimpleServingsLibrary.Shared.Staff.GetUserNameByEmail(String email) in E:\DFTA coding\SimpleServings\SimpleServings_networkVersion_I_do\SimpleServing_Latest\NewSimple\SimpleServingsLibrary\SimpleServings.Shared\BLL\Staff.cs:line 522
+   at SimpleServings.UI.Page.login.btnLogin_Click(Object sender, EventArgs e) in E:\DFTA coding\SimpleServings\SimpleServings_networkVersion_I_do\SimpleServing_Latest\NewSimple\SimpleServings\SimpleServings\UI\Page\login.aspx.cs:line 154
+2022-04-11 12:22:28,355 [ 66] INFO  AppManager [(null)] SimpleServings started.
+2022-04-11 12:22:57,984 [ 48] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: im2kovjmgclnz21cyzhvgbun
+2022-04-11 12:26:45,312 [ 52] INFO  AppManager [(null)] SimpleServings started.
+2022-04-11 12:27:23,505 [ 52] INFO  AppManager [(null)] SimpleServings started.
+2022-04-11 12:27:24,900 [ 18] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: ctjdnd3zdgu2hoxoo22krl4j
+2022-04-11 12:27:49,881 [ 27] INFO  AppManager [(null)] (landingPage.aspx) - Request from http://localhost:1945/SimpleServings/UI/Page/SimpleServings/Recipe/RecipeList.aspx 
+Request Type: LogInOut 
+SessionId: ctjdnd3zdgu2hoxoo22krl4j
+2022-04-11 12:27:49,881 [ 27] INFO  AppManager [(null)] (landingPage.aspx) - Redirecting to Login.aspx 
+Request Type: LogInOut 
+SessionId: ctjdnd3zdgu2hoxoo22krl4j
+2022-04-11 12:27:49,885 [ 29] INFO  AppManager [(null)] (login.aspx) - Request from http://localhost:1945/SimpleServings/UI/Page/SimpleServings/Recipe/RecipeList.aspx 
+SessionId: di11wbmdrkovpvxh1bd550nw
+2022-04-11 12:28:02,382 [ 60] INFO  AppManager [(null)] (landingPage.aspx) - Clearing Session 
+Request Type:  
+SessionId: 5ykjvbuhuce5535n2gyvfav3
+2022-04-11 12:28:02,388 [ 39] INFO  AppManager [(null)] (landingPage.aspx) - New Session 
+Request Type:  
+SessionId: kpid2ajtxk0cza0f2ua5cr1r
+2022-04-11 12:28:02,755 [ 61] ERROR AppManager [(null)] btnLogin_Click failed: Incorrect username and/or password.
+2022-04-11 12:28:10,062 [ 29] INFO  AppManager [(null)] (landingPage.aspx) - Clearing Session 
+Request Type:  
+SessionId: kpid2ajtxk0cza0f2ua5cr1r
+2022-04-11 12:28:10,069 [ 42] INFO  AppManager [(null)] (landingPage.aspx) - New Session 
+Request Type:  
+SessionId: dubqwpk1tgy42a5hfplq4t1t
+2022-04-11 12:28:10,313 [ 39] INFO  AppManager [(null)] (login.aspx) - (Mli) - Login successful 
+SessionId: vwtkrkzj2azw4cr3bazw3cms
+2022-04-11 12:28:10,317 [ 47] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: dubqwpk1tgy42a5hfplq4t1t
+2022-04-11 17:25:50,837 [  1] INFO  AppManager [(null)] SimpleServings started.
+2022-04-11 17:26:11,466 [ 20] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: eqbgecfc4p4s3ncy1krd5rdo

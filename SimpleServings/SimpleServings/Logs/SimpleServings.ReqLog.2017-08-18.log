@@ -1,0 +1,54 @@
+2017-08-18 16:02:50,510 [  1] INFO  AppManager [(null)] SimpleServings started.
+2017-08-18 16:03:10,652 [  6] ERROR AppManager [(null)] btnLogin_Click failed: Cannot open database "SimpleServings" requested by the login. The login failed.
+Login failed for user 'IntraNetuser'.
+System.Data.SqlClient.SqlException: Cannot open database "SimpleServings" requested by the login. The login failed.
+Login failed for user 'IntraNetuser'.
+   at System.Data.ProviderBase.DbConnectionPool.GetConnection(DbConnection owningObject)
+   at System.Data.ProviderBase.DbConnectionFactory.GetConnection(DbConnection owningConnection)
+   at System.Data.ProviderBase.DbConnectionClosed.OpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory)
+   at System.Data.SqlClient.SqlConnection.Open()
+   at Microsoft.Practices.EnterpriseLibrary.Data.Database.OpenConnection()
+   at Microsoft.Practices.EnterpriseLibrary.Data.Database.ExecuteReader(DbCommand command)
+   at SimpleServingsLibrary.Shared.StaffDB.Authenticate(String userName, String password) in c:\TFS\DFTA\SimpleServingsLibrary\SimpleServings.Shared\DAL\StaffDB.cs:line 384
+   at SimpleServingsLibrary.Shared.Staff.Authenticate(String userName, String password) in c:\TFS\DFTA\SimpleServingsLibrary\SimpleServings.Shared\BLL\Staff.cs:line 598
+   at SimpleServings.UI.Page.login.btnLogin_Click(Object sender, EventArgs e) in c:\TFS\DFTA\SimpleServings\SimpleServings\SimpleServings\UI\Page\login.aspx.cs:line 154
+2017-08-18 16:05:15,293 [  6] INFO  AppManager [(null)] (landingPage.aspx) - Clearing Session 
+Request Type:  
+SessionId: iiq5ze45ty3aoweas14wpeam
+2017-08-18 16:05:15,308 [  5] INFO  AppManager [(null)] (landingPage.aspx) - New Session 
+Request Type:  
+SessionId: yu3scw55v4ybkqixtxmfsn55
+2017-08-18 16:05:15,365 [  7] INFO  AppManager [(null)] (login.aspx) - (JAlberg) - Login successful 
+SessionId: 0g0cajz4wk1khoa12x1o0o45
+2017-08-18 16:05:15,396 [  8] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: yu3scw55v4ybkqixtxmfsn55
+2017-08-18 16:06:01,520 [  5] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: yu3scw55v4ybkqixtxmfsn55
+2017-08-18 16:22:34,881 [  1] INFO  AppManager [(null)] SimpleServings started.
+2017-08-18 16:22:53,488 [  8] INFO  AppManager [(null)] (login.aspx) - (JAlberg) - Login successful 
+SessionId: kqw4zi45bhhz22vla40atp45
+2017-08-18 16:22:53,514 [  6] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: 0q5lxg4523ewufel0e0iij45
+2017-08-18 16:22:56,391 [  5] INFO  AppManager [(null)] (landingPage.aspx) - Request from http://localhost:1949/SimpleServings/UI/Page/Home.aspx 
+Request Type: LogInOut 
+SessionId: 0q5lxg4523ewufel0e0iij45
+2017-08-18 16:22:56,392 [  5] INFO  AppManager [(null)] (landingPage.aspx) - Redirecting to Login.aspx 
+Request Type: LogInOut 
+SessionId: 0q5lxg4523ewufel0e0iij45
+2017-08-18 16:22:56,398 [  6] INFO  AppManager [(null)] (login.aspx) - Request from http://localhost:1949/SimpleServings/UI/Page/Home.aspx 
+SessionId: lj5omxekfeaz4yqyogn5ymnj
+2017-08-18 16:47:49,123 [ 12] INFO  AppManager [(null)] SimpleServings started.
+2017-08-18 17:10:57,958 [ 13] INFO  AppManager [(null)] SimpleServings started.
+2017-08-18 17:37:25,389 [  1] INFO  AppManager [(null)] SimpleServings started.
+2017-08-18 17:37:55,473 [  7] INFO  AppManager [(null)] (login.aspx) - (JAlberg) - Login successful 
+SessionId: 3dboov5524lxjn5513mxjzmg
+2017-08-18 17:37:55,502 [  9] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: n0yarpr22pchjg222q1n4h55
+2017-08-18 17:38:36,258 [  8] INFO  AppManager [(null)] (landingPage.aspx) - Request from http://localhost:1949/SimpleServings/UI/Page/SimpleServings/Recipe/RecipeList.aspx 
+Request Type: LogInOut 
+SessionId: n0yarpr22pchjg222q1n4h55
+2017-08-18 17:38:36,259 [  8] INFO  AppManager [(null)] (landingPage.aspx) - Redirecting to Login.aspx 
+Request Type: LogInOut 
+SessionId: n0yarpr22pchjg222q1n4h55
+2017-08-18 17:38:36,263 [  9] INFO  AppManager [(null)] (login.aspx) - Request from http://localhost:1949/SimpleServings/UI/Page/SimpleServings/Recipe/RecipeList.aspx 
+SessionId: 3layqgzxypsoj2u3fso4pkvw

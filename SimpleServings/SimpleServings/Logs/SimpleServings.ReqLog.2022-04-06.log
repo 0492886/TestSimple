@@ -1,0 +1,190 @@
+2022-04-06 10:04:49,734 [  1] INFO  AppManager [(null)] SimpleServings started.
+2022-04-06 10:09:09,052 [ 14] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: dini25j3m0yyns1einhfc2gf
+2022-04-06 10:17:14,603 [  1] INFO  AppManager [(null)] SimpleServings started.
+2022-04-06 10:17:46,087 [ 11] ERROR AppManager [(null)] btnLogin_Click failed: Incorrect username and/or password.
+2022-04-06 10:17:57,410 [ 11] INFO  AppManager [(null)] (landingPage.aspx) - Clearing Session 
+Request Type:  
+SessionId: 1rjyuzxfmbasts3ecormam5d
+2022-04-06 10:17:57,420 [ 13] INFO  AppManager [(null)] (landingPage.aspx) - New Session 
+Request Type:  
+SessionId: 3cj3eqcdnqaxdlfopbck5jez
+2022-04-06 10:17:57,653 [ 12] INFO  AppManager [(null)] (login.aspx) - (mildred.moore) - Login successful 
+SessionId: 1iwmr4o40n2rcvm40t3rq2hx
+2022-04-06 10:17:57,692 [ 16] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: 3cj3eqcdnqaxdlfopbck5jez
+2022-04-06 10:18:54,323 [ 11] INFO  AppManager [(null)] (landingPage.aspx) - Clearing Session 
+Request Type:  
+SessionId: lbuvqj5r1yi4shucmt1tacls
+2022-04-06 10:18:54,333 [ 13] INFO  AppManager [(null)] (landingPage.aspx) - New Session 
+Request Type:  
+SessionId: grwskrifzc4fw0d4p3gaqdlv
+2022-04-06 10:18:54,553 [ 12] ERROR AppManager [(null)] btnLogin_Click failed: Incorrect username and/or password.
+2022-04-06 10:19:06,931 [ 11] INFO  AppManager [(null)] (landingPage.aspx) - Clearing Session 
+Request Type:  
+SessionId: grwskrifzc4fw0d4p3gaqdlv
+2022-04-06 10:19:06,938 [ 12] INFO  AppManager [(null)] (landingPage.aspx) - New Session 
+Request Type:  
+SessionId: ajolfdkmmwe0d1n1fsqzympm
+2022-04-06 10:19:07,195 [ 11] INFO  AppManager [(null)] (login.aspx) - (mildred.moore) - Login successful 
+SessionId: kkgnqtqcergi1axmbtoc0k2a
+2022-04-06 10:19:07,238 [ 14] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: ajolfdkmmwe0d1n1fsqzympm
+2022-04-06 10:39:45,510 [ 48] INFO  AppManager [(null)] (landingPage.aspx) - Clearing Session 
+Request Type:  
+SessionId: 1mwsb4v1puc01pwn0f13voqp
+2022-04-06 10:39:45,517 [ 35] INFO  AppManager [(null)] (landingPage.aspx) - New Session 
+Request Type:  
+SessionId: kcmnccmylxsc1datfeulxw3x
+2022-04-06 10:39:45,839 [ 40] INFO  AppManager [(null)] (login.aspx) - (mildred.moore) - Login successful 
+SessionId: uic355jo5gqifzt1mfpipjfg
+2022-04-06 10:39:45,845 [ 12] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: kcmnccmylxsc1datfeulxw3x
+2022-04-06 10:40:54,299 [ 26] INFO  AppManager [(null)] (landingPage.aspx) - Clearing Session 
+Request Type:  
+SessionId: cbxqg0wyzxczzybnnogq5fai
+2022-04-06 10:40:54,308 [ 46] INFO  AppManager [(null)] (landingPage.aspx) - New Session 
+Request Type:  
+SessionId: wiw3vvvbfcgl0yaie4rltsf4
+2022-04-06 10:40:54,570 [ 26] INFO  AppManager [(null)] (login.aspx) - (Mli) - Login successful 
+SessionId: hbtihugziziu0zl4ko03pc0j
+2022-04-06 10:40:54,575 [ 40] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: wiw3vvvbfcgl0yaie4rltsf4
+2022-04-06 10:49:06,529 [ 32] INFO  AppManager [(null)] (landingPage.aspx) - Clearing Session 
+Request Type:  
+SessionId: fn54vkxecgzwpsqw1arybzsc
+2022-04-06 10:49:06,546 [ 15] INFO  AppManager [(null)] (landingPage.aspx) - New Session 
+Request Type:  
+SessionId: n5gogxcfgo0bur5tcwuntb2o
+2022-04-06 10:49:06,799 [ 14] INFO  AppManager [(null)] (login.aspx) - (mildred.moore) - Login successful 
+SessionId: srcduz3ehplxry0oz1w5ourg
+2022-04-06 10:49:06,805 [ 31] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: n5gogxcfgo0bur5tcwuntb2o
+2022-04-06 11:00:08,321 [ 61] INFO  AppManager [(null)] (landingPage.aspx) - Clearing Session 
+Request Type:  
+SessionId: 5wl41w5tr0bhu4ya5klxfz0i
+2022-04-06 11:00:08,330 [102] INFO  AppManager [(null)] (landingPage.aspx) - New Session 
+Request Type:  
+SessionId: dgyve4hehsdu5ee5wdfj5ml4
+2022-04-06 11:00:08,555 [ 86] INFO  AppManager [(null)] (login.aspx) - (mildred.moore) - Login successful 
+SessionId: qgwsgd2xswga5fq0nvzffkws
+2022-04-06 11:00:08,575 [102] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: dgyve4hehsdu5ee5wdfj5ml4
+2022-04-06 11:01:13,889 [ 61] INFO  AppManager [(null)] (landingPage.aspx) - Clearing Session 
+Request Type:  
+SessionId: y4ha5pc5kwqotnyqcrnhpog1
+2022-04-06 11:01:13,898 [100] INFO  AppManager [(null)] (landingPage.aspx) - New Session 
+Request Type:  
+SessionId: wezlysavnfx3r2x1zeqsvlo0
+2022-04-06 11:01:14,147 [ 93] INFO  AppManager [(null)] (login.aspx) - (mildred.moore) - Login successful 
+SessionId: 5xvahihioljahycu3fdwbzny
+2022-04-06 11:01:14,197 [ 71] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: wezlysavnfx3r2x1zeqsvlo0
+2022-04-06 11:02:26,417 [ 61] INFO  AppManager [(null)] (landingPage.aspx) - Clearing Session 
+Request Type:  
+SessionId: 3rcuhx5al31010qcw0g5j4ae
+2022-04-06 11:02:26,426 [ 93] INFO  AppManager [(null)] (landingPage.aspx) - New Session 
+Request Type:  
+SessionId: qqawekym4avvvan0hl0dntwy
+2022-04-06 11:02:26,691 [ 61] ERROR AppManager [(null)] btnLogin_Click failed: Incorrect username and/or password.
+2022-04-06 11:02:41,247 [ 61] INFO  AppManager [(null)] (landingPage.aspx) - Clearing Session 
+Request Type:  
+SessionId: qqawekym4avvvan0hl0dntwy
+2022-04-06 11:02:41,255 [100] INFO  AppManager [(null)] (landingPage.aspx) - New Session 
+Request Type:  
+SessionId: poioc0e4fzchxasixflsjxds
+2022-04-06 11:02:41,522 [ 93] INFO  AppManager [(null)] (login.aspx) - (mildred.moore) - Login successful 
+SessionId: enkjn3scriy2llgue4snsgtb
+2022-04-06 11:02:41,527 [ 71] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: poioc0e4fzchxasixflsjxds
+2022-04-06 14:34:58,223 [ 85] INFO  AppManager [(null)] SimpleServings started.
+2022-04-06 14:36:07,171 [ 56] ERROR AppManager [(null)] btnLogin_Click failed: GetStaffByEmail did not return any record!
+System.Exception: GetStaffByEmail did not return any record!
+   at SimpleServingsLibrary.Shared.StaffDB.GetStaffByEmail(String email) in E:\DFTA coding\SimpleServings\SimpleServings_networkVersion_I_do\SimpleServing_Latest\NewSimple\SimpleServingsLibrary\SimpleServings.Shared\DAL\StaffDB.cs:line 93
+   at SimpleServingsLibrary.Shared.Staff.GetUserNameByEmail(String email) in E:\DFTA coding\SimpleServings\SimpleServings_networkVersion_I_do\SimpleServing_Latest\NewSimple\SimpleServingsLibrary\SimpleServings.Shared\BLL\Staff.cs:line 522
+   at SimpleServings.UI.Page.login.btnLogin_Click(Object sender, EventArgs e) in E:\DFTA coding\SimpleServings\SimpleServings_networkVersion_I_do\SimpleServing_Latest\NewSimple\SimpleServings\SimpleServings\UI\Page\login.aspx.cs:line 154
+2022-04-06 14:36:17,847 [ 70] INFO  AppManager [(null)] (landingPage.aspx) - Clearing Session 
+Request Type:  
+SessionId: equtwjaleblkfox15ige0n10
+2022-04-06 14:36:17,855 [132] INFO  AppManager [(null)] (landingPage.aspx) - New Session 
+Request Type:  
+SessionId: b5fx3tbmuh1swfm3wtwfyc1w
+2022-04-06 14:36:17,873 [ 37] ERROR AppManager [(null)] btnLogin_Click failed: GetStaffByEmail did not return any record!
+System.Exception: GetStaffByEmail did not return any record!
+   at SimpleServingsLibrary.Shared.StaffDB.GetStaffByEmail(String email) in E:\DFTA coding\SimpleServings\SimpleServings_networkVersion_I_do\SimpleServing_Latest\NewSimple\SimpleServingsLibrary\SimpleServings.Shared\DAL\StaffDB.cs:line 93
+   at SimpleServingsLibrary.Shared.Staff.GetUserNameByEmail(String email) in E:\DFTA coding\SimpleServings\SimpleServings_networkVersion_I_do\SimpleServing_Latest\NewSimple\SimpleServingsLibrary\SimpleServings.Shared\BLL\Staff.cs:line 522
+   at SimpleServings.UI.Page.login.btnLogin_Click(Object sender, EventArgs e) in E:\DFTA coding\SimpleServings\SimpleServings_networkVersion_I_do\SimpleServing_Latest\NewSimple\SimpleServings\SimpleServings\UI\Page\login.aspx.cs:line 154
+2022-04-06 14:37:34,840 [ 70] INFO  AppManager [(null)] (landingPage.aspx) - Clearing Session 
+Request Type:  
+SessionId: b5fx3tbmuh1swfm3wtwfyc1w
+2022-04-06 14:37:34,848 [ 37] INFO  AppManager [(null)] (landingPage.aspx) - New Session 
+Request Type:  
+SessionId: 2sju23fazimst0uxm4aqelfs
+2022-04-06 14:37:34,860 [ 70] ERROR AppManager [(null)] btnLogin_Click failed: GetStaffByEmail did not return any record!
+System.Exception: GetStaffByEmail did not return any record!
+   at SimpleServingsLibrary.Shared.StaffDB.GetStaffByEmail(String email) in E:\DFTA coding\SimpleServings\SimpleServings_networkVersion_I_do\SimpleServing_Latest\NewSimple\SimpleServingsLibrary\SimpleServings.Shared\DAL\StaffDB.cs:line 93
+   at SimpleServingsLibrary.Shared.Staff.GetUserNameByEmail(String email) in E:\DFTA coding\SimpleServings\SimpleServings_networkVersion_I_do\SimpleServing_Latest\NewSimple\SimpleServingsLibrary\SimpleServings.Shared\BLL\Staff.cs:line 522
+   at SimpleServings.UI.Page.login.btnLogin_Click(Object sender, EventArgs e) in E:\DFTA coding\SimpleServings\SimpleServings_networkVersion_I_do\SimpleServing_Latest\NewSimple\SimpleServings\SimpleServings\UI\Page\login.aspx.cs:line 154
+2022-04-06 14:49:40,962 [ 52] INFO  AppManager [(null)] (landingPage.aspx) - Clearing Session 
+Request Type:  
+SessionId: zdecnfmb5jdzzfbraavu2oiu
+2022-04-06 14:49:40,970 [ 75] INFO  AppManager [(null)] (landingPage.aspx) - New Session 
+Request Type:  
+SessionId: zpcgvavtuhfuk5qlsion1ifa
+2022-04-06 14:49:41,719 [ 27] INFO  AppManager [(null)] (login.aspx) - (billy.williams) - Login successful 
+SessionId: zuex0mdazq51llqrbhk5l4th
+2022-04-06 14:49:41,767 [ 94] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: zpcgvavtuhfuk5qlsion1ifa
+2022-04-06 14:49:52,946 [ 49] INFO  AppManager [(null)] (Recipe.aspx) - Request from http://localhost:1945/SimpleServings/UI/Page/Home.aspx 
+SessionId: zpcgvavtuhfuk5qlsion1ifa
+2022-04-06 14:55:53,290 [104] INFO  AppManager [(null)] (landingPage.aspx) - Clearing Session 
+Request Type:  
+SessionId: hrxts20hi0ubaqk3gmmxfuu1
+2022-04-06 14:55:53,300 [ 95] INFO  AppManager [(null)] (landingPage.aspx) - New Session 
+Request Type:  
+SessionId: 5th1kmyjd4kflv53cejmreuw
+2022-04-06 14:55:53,873 [104] INFO  AppManager [(null)] (login.aspx) - (billy.williams) - Login successful 
+SessionId: f3iwr2cm1cggzsifjnfdw5x2
+2022-04-06 14:55:53,879 [ 57] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: 5th1kmyjd4kflv53cejmreuw
+2022-04-06 16:51:15,505 [  7] INFO  AppManager [(null)] (landingPage.aspx) - Clearing Session 
+Request Type:  
+SessionId: gaydng1okbkmeuc2i1ssml11
+2022-04-06 16:51:15,515 [ 65] INFO  AppManager [(null)] (landingPage.aspx) - New Session 
+Request Type:  
+SessionId: 4pgp4jt34pxvjd20wuyar3wd
+2022-04-06 16:51:16,214 [108] INFO  AppManager [(null)] (login.aspx) - (billy.williams) - Login successful 
+SessionId: ou2mze51exrqvzebjmmunm3l
+2022-04-06 16:51:16,219 [ 80] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: 4pgp4jt34pxvjd20wuyar3wd
+2022-04-06 17:03:52,535 [ 35] INFO  AppManager [(null)] (landingPage.aspx) - Clearing Session 
+Request Type:  
+SessionId: 55c21qmvi0lpzjtwjhc03iou
+2022-04-06 17:03:52,542 [112] INFO  AppManager [(null)] (landingPage.aspx) - New Session 
+Request Type:  
+SessionId: n0b04m1n1fwjccrkxmauvazc
+2022-04-06 17:03:52,906 [ 84] ERROR AppManager [(null)] btnLogin_Click failed: Incorrect username and/or password.
+2022-04-06 17:04:07,767 [ 13] INFO  AppManager [(null)] (landingPage.aspx) - Clearing Session 
+Request Type:  
+SessionId: n0b04m1n1fwjccrkxmauvazc
+2022-04-06 17:04:07,776 [ 65] INFO  AppManager [(null)] (landingPage.aspx) - New Session 
+Request Type:  
+SessionId: g1v5ljn2swfai52zugqibbiu
+2022-04-06 17:04:08,035 [ 38] ERROR AppManager [(null)] btnLogin_Click failed: Incorrect username and/or password.
+2022-04-06 17:05:04,022 [ 65] INFO  AppManager [(null)] (landingPage.aspx) - Clearing Session 
+Request Type:  
+SessionId: g1v5ljn2swfai52zugqibbiu
+2022-04-06 17:05:04,030 [ 35] INFO  AppManager [(null)] (landingPage.aspx) - New Session 
+Request Type:  
+SessionId: srjmg3yw2kc41bevmfaa10dv
+2022-04-06 17:05:04,239 [109] ERROR AppManager [(null)] btnLogin_Click failed: Incorrect username and/or password.
+2022-04-06 17:05:23,863 [ 38] INFO  AppManager [(null)] (landingPage.aspx) - Clearing Session 
+Request Type:  
+SessionId: srjmg3yw2kc41bevmfaa10dv
+2022-04-06 17:05:23,872 [ 52] INFO  AppManager [(null)] (landingPage.aspx) - New Session 
+Request Type:  
+SessionId: lkbqd3qjdiippc5ggcxcazcu
+2022-04-06 17:05:24,096 [109] INFO  AppManager [(null)] (login.aspx) - (elysa.dinzes) - Login successful 
+SessionId: 13apah1q0pz5uj3ge54v1dyi
+2022-04-06 17:05:24,103 [ 65] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: lkbqd3qjdiippc5ggcxcazcu

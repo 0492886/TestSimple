@@ -1,0 +1,53 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>SimpleServings.Shared</name>
+    </assembly>
+    <members>
+        <member name="M:SimpleServingsLibrary.Shared.ManageCategoriesandTags.GetTagsByCategoryID(System.Int32)">
+            <summary>
+            Returns Associated Tags for the supplied Category ID
+            </summary>
+            <param name="CategoryID"></param>
+            <returns></returns>
+        </member>
+        <member name="M:SimpleServingsLibrary.Shared.ManageCategoriesandTags.SaveTagsForCategory(System.Int32,System.Collections.Generic.List{System.Int32},System.Int32)">
+            <summary>
+            Save Associated Tags for the supplied Category ID 
+            </summary>
+            <param name="CategoryID"></param>
+            <param name="Tags"></param>
+            <param name="StaffID"></param>
+        </member>
+        <member name="M:SimpleServingsLibrary.Shared.ProgressNote.GetProgressNotesByReferenceIDNoteType(System.Int32,System.Int32,System.Int32)">
+            <summary>
+            return a list of progress note by FairHearingID
+            </summary>
+            <param name="FairHearingID">The ID of Fair Hearing </param>
+            <param name="noteDescriptionLength">
+            The number of characters returned in each note, 
+            the whole note will return if its value less than or equal to 0
+            </param>
+            <returns>a list of progress notes</returns>
+        </member>
+        <member name="M:SimpleServingsLibrary.Shared.ProgressNote.GetDraftsByCreatedBy(System.Int32,System.Int32)">
+            <summary>
+            return a list of note drafts by FairHearingID
+            </summary>
+            <param name="FairHearingID">The ID of Fair Hearing</param>
+            <param name="noteDescriptionLength">
+            The number of characters returned in each note, 
+            the whole note will return if its value less than or equal to 0
+            </param>
+            <returns>a list of note drafts</returns>
+        </member>
+        <member name="M:SimpleServingsLibrary.Shared.Utility.GetDietTypeCodesByStaffID(System.Web.UI.WebControls.DropDownList,System.Int32,System.String)">
+            <summary>
+            Return diet types by staff ID 
+            </summary>
+            <param name="lst"></param>
+            <param name="staffID"></param>
+            <param name="oldValue"></param>
+        </member>
+    </members>
+</doc>

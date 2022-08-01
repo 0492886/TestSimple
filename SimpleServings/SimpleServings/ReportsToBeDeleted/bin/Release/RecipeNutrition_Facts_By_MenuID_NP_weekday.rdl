@@ -1,0 +1,438 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Report xmlns="http://schemas.microsoft.com/sqlserver/reporting/2008/01/reportdefinition" xmlns:rd="http://schemas.microsoft.com/SQLServer/reporting/reportdesigner">
+  <Body>
+    <ReportItems>
+      <Subreport Name="Subreport1">
+        <ReportName>RecipeNutrition_Facts_By_MenuID_NP_week</ReportName>
+        <Parameters>
+          <Parameter Name="MenuID">
+            <Value>=Parameters!MenuID.Value</Value>
+          </Parameter>
+          <Parameter Name="InputDte">
+            <Value>=Parameters!InputDte.Value</Value>
+          </Parameter>
+        </Parameters>
+        <Top>0.04042in</Top>
+        <Left>0.01958in</Left>
+        <Height>2.47917in</Height>
+        <Width>2.61458in</Width>
+        <Style>
+          <Border>
+            <Style>None</Style>
+          </Border>
+        </Style>
+      </Subreport>
+    </ReportItems>
+    <Height>2.76958in</Height>
+    <Style>
+      <Border>
+        <Style>None</Style>
+      </Border>
+    </Style>
+  </Body>
+  <Width>2.81126in</Width>
+  <Page>
+    <LeftMargin>1.5in</LeftMargin>
+    <RightMargin>0.11in</RightMargin>
+    <BottomMargin>0.21in</BottomMargin>
+    <Style />
+  </Page>
+  <AutoRefresh>0</AutoRefresh>
+  <DataSources>
+    <DataSource Name="SimpleServings">
+      <DataSourceReference>SimpleServings</DataSourceReference>
+      <rd:SecurityType>None</rd:SecurityType>
+      <rd:DataSourceID>dc2ad32f-446a-4891-a6b3-6b590c811b3d</rd:DataSourceID>
+    </DataSource>
+  </DataSources>
+  <DataSets>
+    <DataSet Name="DsNutrientFacts">
+      <Query>
+        <DataSourceName>SimpleServings</DataSourceName>
+        <QueryParameters>
+          <QueryParameter Name="@MenuID">
+            <Value>=Parameters!MenuID.Value</Value>
+          </QueryParameter>
+          <QueryParameter Name="@InputDte">
+            <Value>=Parameters!InputDte.Value</Value>
+          </QueryParameter>
+        </QueryParameters>
+        <CommandText>exec [dbo].[Sp_rptRecipeNutritionFacts_ByDate_NP]@MenuID ,@InputDte</CommandText>
+        <rd:UseGenericDesigner>true</rd:UseGenericDesigner>
+      </Query>
+      <Fields>
+        <Field Name="Orders">
+          <DataField>Orders</DataField>
+          <rd:TypeName>System.Int32</rd:TypeName>
+        </Field>
+        <Field Name="Value">
+          <DataField>Value</DataField>
+          <rd:TypeName>System.Double</rd:TypeName>
+        </Field>
+        <Field Name="RoundValue">
+          <DataField>RoundValue</DataField>
+          <rd:TypeName>System.Int32</rd:TypeName>
+        </Field>
+        <Field Name="IsActive">
+          <DataField>IsActive</DataField>
+          <rd:TypeName>System.Boolean</rd:TypeName>
+        </Field>
+        <Field Name="Percentage">
+          <DataField>Percentage</DataField>
+          <rd:TypeName>System.Int32</rd:TypeName>
+        </Field>
+        <Field Name="NutrientName">
+          <DataField>NutrientName</DataField>
+          <rd:TypeName>System.String</rd:TypeName>
+        </Field>
+        <Field Name="Unit">
+          <DataField>Unit</DataField>
+          <rd:TypeName>System.Int32</rd:TypeName>
+        </Field>
+        <Field Name="CodeDescription">
+          <DataField>CodeDescription</DataField>
+          <rd:TypeName>System.String</rd:TypeName>
+        </Field>
+        <Field Name="Display">
+          <DataField>Display</DataField>
+          <rd:TypeName>System.String</rd:TypeName>
+        </Field>
+        <Field Name="NutritionFactsOrder">
+          <DataField>NutritionFactsOrder</DataField>
+          <rd:TypeName>System.Int32</rd:TypeName>
+        </Field>
+      </Fields>
+    </DataSet>
+    <DataSet Name="DSVitaminA">
+      <Query>
+        <DataSourceName>SimpleServings</DataSourceName>
+        <QueryParameters>
+          <QueryParameter Name="@MenuID">
+            <Value>=Parameters!MenuID.Value</Value>
+          </QueryParameter>
+          <QueryParameter Name="@InputDte">
+            <Value>=Parameters!InputDte.Value</Value>
+          </QueryParameter>
+        </QueryParameters>
+        <CommandText>EXEC dbo.Sp_rptVitaminA_ByDate_NP @MenuID, @InputDte</CommandText>
+      </Query>
+      <Fields>
+        <Field Name="Orders">
+          <DataField>Orders</DataField>
+          <rd:TypeName>System.Int32</rd:TypeName>
+        </Field>
+        <Field Name="Value">
+          <DataField>Value</DataField>
+          <rd:TypeName>System.Double</rd:TypeName>
+        </Field>
+        <Field Name="roundValue">
+          <DataField>roundValue</DataField>
+          <rd:TypeName>System.Int32</rd:TypeName>
+        </Field>
+        <Field Name="IsActive">
+          <DataField>IsActive</DataField>
+          <rd:TypeName>System.Boolean</rd:TypeName>
+        </Field>
+        <Field Name="Percentage">
+          <DataField>Percentage</DataField>
+          <rd:TypeName>System.Int32</rd:TypeName>
+        </Field>
+        <Field Name="NutrientName">
+          <DataField>NutrientName</DataField>
+          <rd:TypeName>System.String</rd:TypeName>
+        </Field>
+        <Field Name="Unit">
+          <DataField>Unit</DataField>
+          <rd:TypeName>System.Int32</rd:TypeName>
+        </Field>
+        <Field Name="CodeDescription">
+          <DataField>CodeDescription</DataField>
+          <rd:TypeName>System.String</rd:TypeName>
+        </Field>
+        <Field Name="Display">
+          <DataField>Display</DataField>
+          <rd:TypeName>System.String</rd:TypeName>
+        </Field>
+        <Field Name="NutritionFactsOrder">
+          <DataField>NutritionFactsOrder</DataField>
+          <rd:TypeName>System.Int32</rd:TypeName>
+        </Field>
+      </Fields>
+    </DataSet>
+    <DataSet Name="DSVitaminC">
+      <Query>
+        <DataSourceName>SimpleServings</DataSourceName>
+        <QueryParameters>
+          <QueryParameter Name="@MenuID">
+            <Value>=Parameters!MenuID.Value</Value>
+          </QueryParameter>
+          <QueryParameter Name="@InputDte">
+            <Value>=Parameters!InputDte.Value</Value>
+          </QueryParameter>
+        </QueryParameters>
+        <CommandText>dbo.Sp_rptVitaminC_ByDate_NP @MenuID, @InputDte</CommandText>
+      </Query>
+      <Fields>
+        <Field Name="Orders">
+          <DataField>Orders</DataField>
+          <rd:TypeName>System.Int32</rd:TypeName>
+        </Field>
+        <Field Name="Value">
+          <DataField>Value</DataField>
+          <rd:TypeName>System.Double</rd:TypeName>
+        </Field>
+        <Field Name="roundValue">
+          <DataField>roundValue</DataField>
+          <rd:TypeName>System.Int32</rd:TypeName>
+        </Field>
+        <Field Name="IsActive">
+          <DataField>IsActive</DataField>
+          <rd:TypeName>System.Boolean</rd:TypeName>
+        </Field>
+        <Field Name="Percentage">
+          <DataField>Percentage</DataField>
+          <rd:TypeName>System.Int32</rd:TypeName>
+        </Field>
+        <Field Name="NutrientName">
+          <DataField>NutrientName</DataField>
+          <rd:TypeName>System.String</rd:TypeName>
+        </Field>
+        <Field Name="Unit">
+          <DataField>Unit</DataField>
+          <rd:TypeName>System.Int32</rd:TypeName>
+        </Field>
+        <Field Name="CodeDescription">
+          <DataField>CodeDescription</DataField>
+          <rd:TypeName>System.String</rd:TypeName>
+        </Field>
+        <Field Name="Display">
+          <DataField>Display</DataField>
+          <rd:TypeName>System.String</rd:TypeName>
+        </Field>
+        <Field Name="NutritionFactsOrder">
+          <DataField>NutritionFactsOrder</DataField>
+          <rd:TypeName>System.Int32</rd:TypeName>
+        </Field>
+      </Fields>
+    </DataSet>
+    <DataSet Name="DSCalcium">
+      <Query>
+        <DataSourceName>SimpleServings</DataSourceName>
+        <QueryParameters>
+          <QueryParameter Name="@MenuID">
+            <Value>=Parameters!MenuID.Value</Value>
+          </QueryParameter>
+          <QueryParameter Name="@InputDte">
+            <Value>=Parameters!InputDte.Value</Value>
+          </QueryParameter>
+        </QueryParameters>
+        <CommandText>EXEC dbo.Sp_rptCalcium_ByDate_NP @MenuID, @InputDte</CommandText>
+      </Query>
+      <Fields>
+        <Field Name="Orders">
+          <DataField>Orders</DataField>
+          <rd:TypeName>System.Int32</rd:TypeName>
+        </Field>
+        <Field Name="Value">
+          <DataField>Value</DataField>
+          <rd:TypeName>System.Double</rd:TypeName>
+        </Field>
+        <Field Name="RoundValue">
+          <DataField>RoundValue</DataField>
+          <rd:TypeName>System.Int32</rd:TypeName>
+        </Field>
+        <Field Name="IsActive">
+          <DataField>IsActive</DataField>
+          <rd:TypeName>System.Boolean</rd:TypeName>
+        </Field>
+        <Field Name="Percentage">
+          <DataField>Percentage</DataField>
+          <rd:TypeName>System.Int32</rd:TypeName>
+        </Field>
+        <Field Name="NutrientName">
+          <DataField>NutrientName</DataField>
+          <rd:TypeName>System.String</rd:TypeName>
+        </Field>
+        <Field Name="Unit">
+          <DataField>Unit</DataField>
+          <rd:TypeName>System.Int32</rd:TypeName>
+        </Field>
+        <Field Name="CodeDescription">
+          <DataField>CodeDescription</DataField>
+          <rd:TypeName>System.String</rd:TypeName>
+        </Field>
+        <Field Name="Display">
+          <DataField>Display</DataField>
+          <rd:TypeName>System.String</rd:TypeName>
+        </Field>
+        <Field Name="NutritionFactsOrder">
+          <DataField>NutritionFactsOrder</DataField>
+          <rd:TypeName>System.Int32</rd:TypeName>
+        </Field>
+      </Fields>
+    </DataSet>
+    <DataSet Name="DSIron">
+      <Query>
+        <DataSourceName>SimpleServings</DataSourceName>
+        <QueryParameters>
+          <QueryParameter Name="@MenuID">
+            <Value>=Parameters!MenuID.Value</Value>
+          </QueryParameter>
+          <QueryParameter Name="@InputDte">
+            <Value>=Parameters!InputDte.Value</Value>
+          </QueryParameter>
+        </QueryParameters>
+        <CommandText>EXEC dbo.Sp_rptIron_ByDate_NP @MenuID, @InputDte</CommandText>
+      </Query>
+      <Fields>
+        <Field Name="Orders">
+          <DataField>Orders</DataField>
+          <rd:TypeName>System.Int32</rd:TypeName>
+        </Field>
+        <Field Name="Value">
+          <DataField>Value</DataField>
+          <rd:TypeName>System.Double</rd:TypeName>
+        </Field>
+        <Field Name="roundValue">
+          <DataField>roundValue</DataField>
+          <rd:TypeName>System.Int32</rd:TypeName>
+        </Field>
+        <Field Name="IsActive">
+          <DataField>IsActive</DataField>
+          <rd:TypeName>System.Boolean</rd:TypeName>
+        </Field>
+        <Field Name="Percentage">
+          <DataField>Percentage</DataField>
+          <rd:TypeName>System.Int32</rd:TypeName>
+        </Field>
+        <Field Name="NutrientName">
+          <DataField>NutrientName</DataField>
+          <rd:TypeName>System.String</rd:TypeName>
+        </Field>
+        <Field Name="Unit">
+          <DataField>Unit</DataField>
+          <rd:TypeName>System.Int32</rd:TypeName>
+        </Field>
+        <Field Name="CodeDescription">
+          <DataField>CodeDescription</DataField>
+          <rd:TypeName>System.String</rd:TypeName>
+        </Field>
+        <Field Name="Display">
+          <DataField>Display</DataField>
+          <rd:TypeName>System.String</rd:TypeName>
+        </Field>
+        <Field Name="NutritionFactsOrder">
+          <DataField>NutritionFactsOrder</DataField>
+          <rd:TypeName>System.Int32</rd:TypeName>
+        </Field>
+      </Fields>
+    </DataSet>
+    <DataSet Name="DSCalories">
+      <Query>
+        <DataSourceName>SimpleServings</DataSourceName>
+        <QueryParameters>
+          <QueryParameter Name="@MenuID">
+            <Value>=Parameters!MenuID.Value</Value>
+          </QueryParameter>
+          <QueryParameter Name="@InputDte">
+            <Value>=Parameters!InputDte.Value</Value>
+          </QueryParameter>
+        </QueryParameters>
+        <CommandText>exec [dbo].[Sp_rptCalories_ByDate_NP] @MenuID, @InputDte</CommandText>
+      </Query>
+      <Fields>
+        <Field Name="Orders">
+          <DataField>Orders</DataField>
+          <rd:TypeName>System.Int32</rd:TypeName>
+        </Field>
+        <Field Name="Value">
+          <DataField>Value</DataField>
+          <rd:TypeName>System.Double</rd:TypeName>
+        </Field>
+        <Field Name="roundValue">
+          <DataField>roundValue</DataField>
+          <rd:TypeName>System.Int32</rd:TypeName>
+        </Field>
+        <Field Name="IsActive">
+          <DataField>IsActive</DataField>
+          <rd:TypeName>System.Boolean</rd:TypeName>
+        </Field>
+        <Field Name="Percentage">
+          <DataField>Percentage</DataField>
+          <rd:TypeName>System.Int32</rd:TypeName>
+        </Field>
+        <Field Name="NutrientName">
+          <DataField>NutrientName</DataField>
+          <rd:TypeName>System.String</rd:TypeName>
+        </Field>
+        <Field Name="Unit">
+          <DataField>Unit</DataField>
+          <rd:TypeName>System.Int32</rd:TypeName>
+        </Field>
+        <Field Name="CodeDescription">
+          <DataField>CodeDescription</DataField>
+          <rd:TypeName>System.String</rd:TypeName>
+        </Field>
+        <Field Name="Display">
+          <DataField>Display</DataField>
+          <rd:TypeName>System.String</rd:TypeName>
+        </Field>
+        <Field Name="NutritionFactsOrder">
+          <DataField>NutritionFactsOrder</DataField>
+          <rd:TypeName>System.Int32</rd:TypeName>
+        </Field>
+        <Field Name="TotalFat">
+          <DataField>TotalFat</DataField>
+          <rd:TypeName>System.Int32</rd:TypeName>
+        </Field>
+      </Fields>
+    </DataSet>
+    <DataSet Name="DataSet1">
+      <Query>
+        <DataSourceName>SimpleServings</DataSourceName>
+        <QueryParameters>
+          <QueryParameter Name="@MenuID">
+            <Value>=Parameters!MenuID.Value</Value>
+          </QueryParameter>
+          <QueryParameter Name="@InputDte">
+            <Value>=Parameters!InputDte.Value</Value>
+          </QueryParameter>
+        </QueryParameters>
+        <CommandType>StoredProcedure</CommandType>
+        <CommandText>Sp_Get_MenuAndWeekCycleByInputDate_ML</CommandText>
+      </Query>
+      <Fields>
+        <Field Name="WeekCycleID">
+          <DataField>WeekCycleID</DataField>
+          <rd:TypeName>System.Int32</rd:TypeName>
+        </Field>
+        <Field Name="weekofDay">
+          <DataField>weekofDay</DataField>
+          <rd:TypeName>System.String</rd:TypeName>
+        </Field>
+        <Field Name="combineRecipe">
+          <DataField>combineRecipe</DataField>
+          <rd:TypeName>System.String</rd:TypeName>
+        </Field>
+        <Field Name="inputDte">
+          <DataField>inputDte</DataField>
+          <rd:TypeName>System.String</rd:TypeName>
+        </Field>
+      </Fields>
+    </DataSet>
+  </DataSets>
+  <ReportParameters>
+    <ReportParameter Name="MenuID">
+      <DataType>String</DataType>
+      <Prompt>Menu ID</Prompt>
+    </ReportParameter>
+    <ReportParameter Name="InputDte">
+      <DataType>DateTime</DataType>
+      <Prompt>Print Nutrition Facts for (mm/dd/yyyy)</Prompt>
+    </ReportParameter>
+  </ReportParameters>
+  <Language>en-US</Language>
+  <ConsumeContainerWhitespace>true</ConsumeContainerWhitespace>
+  <rd:ReportUnitType>Inch</rd:ReportUnitType>
+  <rd:ReportID>deaf5595-aa3c-44de-a53c-94c75588f10d</rd:ReportID>
+</Report>

@@ -1,0 +1,47 @@
+2022-07-11 14:49:51,827 [  1] INFO  AppManager [(null)] SimpleServings started.
+2022-07-11 14:52:09,245 [ 20] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: kyoa5np31tdjbwssnbftmiuq
+2022-07-11 15:50:29,759 [ 62] INFO  AppManager [(null)] (landingPage.aspx) - Clearing Session 
+Request Type:  
+SessionId: q2q00wgsbur5xjleq2332jlq
+2022-07-11 15:50:29,766 [ 61] INFO  AppManager [(null)] (landingPage.aspx) - New Session 
+Request Type:  
+SessionId: gflz2nabnfuhvo11iwm02yyq
+2022-07-11 15:50:30,299 [ 29] INFO  AppManager [(null)] (login.aspx) - (Mli) - Login successful 
+SessionId: nrj220cw3ub4ybq5n2vxfh2r
+2022-07-11 15:50:30,330 [ 59] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: gflz2nabnfuhvo11iwm02yyq
+2022-07-11 16:01:06,607 [  1] INFO  AppManager [(null)] SimpleServings started.
+2022-07-11 16:02:20,830 [ 28] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: hspwgtz4ytpdfwylui2k2km1
+2022-07-11 16:09:57,745 [ 64] INFO  AppManager [(null)] (landingPage.aspx) - Clearing Session 
+Request Type:  
+SessionId: aloo33lapaas5in0kdhy1chm
+2022-07-11 16:09:57,752 [ 65] INFO  AppManager [(null)] (landingPage.aspx) - New Session 
+Request Type:  
+SessionId: i11xh0iw3fajd00og2cmpkjn
+2022-07-11 16:09:58,449 [ 70] INFO  AppManager [(null)] (login.aspx) - (Mli) - Login successful 
+SessionId: ae0afn0vc1wn2taos52e1xbz
+2022-07-11 16:09:58,453 [ 29] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: i11xh0iw3fajd00og2cmpkjn
+2022-07-11 16:34:17,392 [  1] INFO  AppManager [(null)] SimpleServings started.
+2022-07-11 16:35:01,770 [ 13] ERROR AppManager [(null)] btnLogin_Click failed: Incorrect username and/or password.
+2022-07-11 16:35:11,823 [  7] INFO  AppManager [(null)] (landingPage.aspx) - Clearing Session 
+Request Type:  
+SessionId: mxzak05qqlf3osauk2laf5vc
+2022-07-11 16:35:11,829 [ 15] INFO  AppManager [(null)] (landingPage.aspx) - New Session 
+Request Type:  
+SessionId: c1aqajzs0aw4eygcq3al3pig
+2022-07-11 16:35:12,085 [ 14] ERROR AppManager [(null)] btnLogin_Click failed: Incorrect username and/or password.
+2022-07-11 16:35:20,287 [ 12] INFO  AppManager [(null)] (landingPage.aspx) - Clearing Session 
+Request Type:  
+SessionId: c1aqajzs0aw4eygcq3al3pig
+2022-07-11 16:35:20,294 [ 19] INFO  AppManager [(null)] (landingPage.aspx) - New Session 
+Request Type:  
+SessionId: dfnhctqstiz1lm1bcwr5grxq
+2022-07-11 16:35:20,527 [ 15] INFO  AppManager [(null)] (login.aspx) - (hindy.chanales) - Login successful 
+SessionId: mshx2wtam20saartzmlgg4br
+2022-07-11 16:35:20,581 [ 18] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: dfnhctqstiz1lm1bcwr5grxq
+2022-07-11 16:35:26,834 [  7] INFO  AppManager [(null)] (Recipe.aspx) - Request from http://localhost:1946/SimpleServings/UI/Page/Home.aspx 
+SessionId: dfnhctqstiz1lm1bcwr5grxq

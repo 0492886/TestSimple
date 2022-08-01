@@ -1,0 +1,17 @@
+2016-11-28 13:22:44,110 [  1] INFO  AppManager [(null)] SimpleServings started.
+2016-11-28 13:22:54,820 [  8] INFO  AppManager [(null)] (landingPage.aspx) - Redirecting to Login.aspx 
+Request Type: LogInOut 
+SessionId: 
+2016-11-28 13:23:12,401 [ 10] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: e4pp4345ucxp5s55xayd0v55
+2016-11-28 13:23:26,643 [ 10] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: e4pp4345ucxp5s55xayd0v55
+2016-11-28 13:24:56,594 [  1] INFO  AppManager [(null)] SimpleServings started.
+2016-11-28 13:25:34,560 [ 11] INFO  AppManager [(null)] (landingPage.aspx) - Request from http://localhost:1949/SimpleServings/UI/Page/Home.aspx 
+Request Type: LogInOut 
+SessionId: e4pp4345ucxp5s55xayd0v55
+2016-11-28 13:25:34,562 [ 11] INFO  AppManager [(null)] (landingPage.aspx) - Redirecting to Login.aspx 
+Request Type: LogInOut 
+SessionId: e4pp4345ucxp5s55xayd0v55
+2016-11-28 13:25:44,958 [  6] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: fjx35a454eu5rz45xdriey55

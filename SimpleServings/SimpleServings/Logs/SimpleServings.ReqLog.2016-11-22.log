@@ -1,0 +1,6 @@
+2016-11-22 17:33:30,184 [  1] INFO  AppManager [(null)] SimpleServings started.
+2016-11-22 17:33:36,766 [  8] INFO  AppManager [(null)] (landingPage.aspx) - Redirecting to Login.aspx 
+Request Type: LogInOut 
+SessionId: 
+2016-11-22 17:33:55,822 [ 12] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: fpyfpe2fuusfdp55rsqwsm45

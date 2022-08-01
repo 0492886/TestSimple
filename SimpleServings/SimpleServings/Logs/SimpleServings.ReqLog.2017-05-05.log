@@ -1,0 +1,326 @@
+2017-05-05 12:56:38,736 [  9] INFO  AppManager [(null)] SimpleServings started.
+2017-05-05 12:57:27,318 [  6] INFO  AppManager [(null)] (landingPage.aspx) - Redirecting to Login.aspx 
+Request Type: LogInOut 
+SessionId: 
+2017-05-05 12:57:31,412 [  7] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: umn23455otucfa452hptvo55
+2017-05-05 12:58:05,937 [  6] INFO  AppManager [(null)] (landingPage.aspx) - Request from http://localhost:1949/SimpleServings/UI/Page/Home.aspx 
+Request Type: LogInOut 
+SessionId: tc4ahuux5v0s042aecs3lcrs
+2017-05-05 12:58:05,937 [  6] INFO  AppManager [(null)] (landingPage.aspx) - Redirecting to Login.aspx 
+Request Type: LogInOut 
+SessionId: tc4ahuux5v0s042aecs3lcrs
+2017-05-05 12:58:05,964 [  6] INFO  AppManager [(null)] (login.aspx) - Request from http://localhost:1949/SimpleServings/UI/Page/Home.aspx 
+SessionId: hcrihkbcmhnwzeb1qa5eipuw
+2017-05-05 12:58:08,920 [  5] INFO  AppManager [(null)] (landingPage.aspx) - Clearing Session 
+Request Type:  
+SessionId: fe1urtqectbj2nrdcnot2c45
+2017-05-05 12:58:08,937 [  6] INFO  AppManager [(null)] (landingPage.aspx) - New Session 
+Request Type:  
+SessionId: jkpruy45rpkwlmefyajpej55
+2017-05-05 12:58:08,957 [  6] INFO  AppManager [(null)] (login.aspx) - (cvais7773) - Login successful 
+SessionId: 0zf4zezjhqhwonehrwd35g45
+2017-05-05 12:58:08,962 [  8] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: r2utxh45ns23zl45vwebz155
+2017-05-05 12:58:12,075 [  6] INFO  AppManager [(null)] (landingPage.aspx) - Request from http://localhost:1949/SimpleServings/UI/Page/Home.aspx 
+Request Type: LogInOut 
+SessionId: ovyzdefmrzp20gzjx25ukqjn
+2017-05-05 12:58:12,075 [  6] INFO  AppManager [(null)] (landingPage.aspx) - Redirecting to Login.aspx 
+Request Type: LogInOut 
+SessionId: ovyzdefmrzp20gzjx25ukqjn
+2017-05-05 12:58:12,127 [  6] INFO  AppManager [(null)] (login.aspx) - Request from http://localhost:1949/SimpleServings/UI/Page/Home.aspx 
+SessionId: tk34dpbqo3mgcryxkdzvmuvn
+2017-05-05 12:58:15,633 [  5] INFO  AppManager [(null)] (landingPage.aspx) - Clearing Session 
+Request Type:  
+SessionId: bzzdbqy0x3o2xf2ubpzcx445
+2017-05-05 12:58:15,637 [  6] INFO  AppManager [(null)] (login.aspx) - (cvais7773) - Login successful 
+SessionId: 1e00kq3bmcqgftyly0mcbs45
+2017-05-05 12:58:15,638 [  8] INFO  AppManager [(null)] (landingPage.aspx) - New Session 
+Request Type:  
+SessionId: hvegawqwgwxsluihzzrf45qi
+2017-05-05 12:58:15,643 [  7] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: uqrjil45u54ux1fdcgogzhic
+2017-05-05 12:58:17,250 [  8] INFO  AppManager [(null)] (landingPage.aspx) - Request from http://localhost:1949/SimpleServings/UI/Page/Home.aspx 
+Request Type: LogInOut 
+SessionId: w2lp0345qmg5rkjsec0nwk45
+2017-05-05 12:58:17,251 [  8] INFO  AppManager [(null)] (landingPage.aspx) - Redirecting to Login.aspx 
+Request Type: LogInOut 
+SessionId: w2lp0345qmg5rkjsec0nwk45
+2017-05-05 12:58:17,255 [  6] INFO  AppManager [(null)] (login.aspx) - Request from http://localhost:1949/SimpleServings/UI/Page/Home.aspx 
+SessionId: 2esvmp2w2fwgz1454jmqk5ub
+2017-05-05 13:14:18,906 [  5] INFO  AppManager [(null)] (landingPage.aspx) - Request from http://localhost:1949/SimpleServings/UI/Page/SimpleServings/Recipe/Recipe.aspx 
+Request Type: LogInOut 
+SessionId: mh3p3v55tygxgf55qgsqvg55
+2017-05-05 13:14:18,907 [  5] INFO  AppManager [(null)] (landingPage.aspx) - Redirecting to Login.aspx 
+Request Type: LogInOut 
+SessionId: mh3p3v55tygxgf55qgsqvg55
+2017-05-05 13:14:19,020 [  5] INFO  AppManager [(null)] (login.aspx) - Request from http://localhost:1949/SimpleServings/UI/Page/SimpleServings/Recipe/Recipe.aspx 
+SessionId: wcuzdw45p4fld0jfkviv3i55
+2017-05-05 13:14:28,239 [  7] INFO  AppManager [(null)] (landingPage.aspx) - Clearing Session 
+Request Type:  
+SessionId: le4bqt3h5mc2ys554rzajw45
+2017-05-05 13:14:28,257 [  8] INFO  AppManager [(null)] (landingPage.aspx) - New Session 
+Request Type:  
+SessionId: psxwqo55hejxwa45qwo3pg2w
+2017-05-05 13:14:28,279 [  5] INFO  AppManager [(null)] (login.aspx) - (cvais7773) - Login successful 
+SessionId: m2h10h2gxvymtvjsd23gvdbr
+2017-05-05 13:14:28,283 [  8] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: psxwqo55hejxwa45qwo3pg2w
+2017-05-05 14:54:57,920 [ 10] INFO  AppManager [(null)] SimpleServings started.
+2017-05-05 14:55:09,878 [  7] INFO  AppManager [(null)] (landingPage.aspx) - Redirecting to Login.aspx 
+Request Type: LogInOut 
+SessionId: 
+2017-05-05 14:55:12,715 [  6] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: sefgvvf0kcoevq55jv0ovub2
+2017-05-05 14:55:23,275 [  6] INFO  AppManager [(null)] (landingPage.aspx) - Request from http://localhost:1949/SimpleServings/UI/Page/Home.aspx 
+Request Type: LogInOut 
+SessionId: htvqgt45dwlbtleax24fpxud
+2017-05-05 14:55:23,276 [  6] INFO  AppManager [(null)] (landingPage.aspx) - Redirecting to Login.aspx 
+Request Type: LogInOut 
+SessionId: htvqgt45dwlbtleax24fpxud
+2017-05-05 14:55:23,281 [  6] INFO  AppManager [(null)] (login.aspx) - Request from http://localhost:1949/SimpleServings/UI/Page/Home.aspx 
+SessionId: xoammg452qbi422eg1pnfqfy
+2017-05-05 14:55:28,932 [  8] INFO  AppManager [(null)] (landingPage.aspx) - Clearing Session 
+Request Type:  
+SessionId: nvwg5tuwa0m1ux45uvkr5qj5
+2017-05-05 14:55:28,943 [  7] INFO  AppManager [(null)] (landingPage.aspx) - New Session 
+Request Type:  
+SessionId: 5jrli2q3todnbrb0tyqxp0qw
+2017-05-05 14:55:28,962 [  8] INFO  AppManager [(null)] (login.aspx) - (cvais7773) - Login successful 
+SessionId: tjhcbj55sjmfqb45tvbz4y45
+2017-05-05 14:55:28,967 [  6] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: efgvjs45ziq5l445khjcljfm
+2017-05-05 14:55:31,052 [  8] INFO  AppManager [(null)] (landingPage.aspx) - Request from http://localhost:1949/SimpleServings/UI/Page/Home.aspx 
+Request Type: LogInOut 
+SessionId: gl3wfkj0lbny5f45xfvt5h55
+2017-05-05 14:55:31,052 [  8] INFO  AppManager [(null)] (landingPage.aspx) - Redirecting to Login.aspx 
+Request Type: LogInOut 
+SessionId: gl3wfkj0lbny5f45xfvt5h55
+2017-05-05 14:55:31,057 [  7] INFO  AppManager [(null)] (login.aspx) - Request from http://localhost:1949/SimpleServings/UI/Page/Home.aspx 
+SessionId: ghouupmalknvmdbv5s432r2v
+2017-05-05 14:55:38,610 [  7] INFO  AppManager [(null)] (landingPage.aspx) - Clearing Session 
+Request Type:  
+SessionId: ys1fhjify0i2mf45liswpxy4
+2017-05-05 14:55:38,620 [  7] INFO  AppManager [(null)] (landingPage.aspx) - New Session 
+Request Type:  
+SessionId: lkrn5r55yepfdn55yepg5u55
+2017-05-05 14:55:38,683 [  8] INFO  AppManager [(null)] (login.aspx) - (cvais7773) - Login successful 
+SessionId: p1abw0554snxw355ayi23q45
+2017-05-05 14:55:38,688 [  8] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: znnn5xrg5tar4v55aymbl245
+2017-05-05 14:55:40,975 [  5] INFO  AppManager [(null)] (Recipe.aspx) - Request from http://localhost:1949/SimpleServings/UI/Page/Home.aspx 
+SessionId: objyiv55wfbmocy2oiwrsr55
+2017-05-05 14:55:53,081 [  6] INFO  AppManager [(null)] (landingPage.aspx) - Request from http://localhost:1949/SimpleServings/UI/Page/SimpleServings/Recipe/Recipe.aspx 
+Request Type: LogInOut 
+SessionId: 0xtehefvhmryti55zvwq543s
+2017-05-05 14:55:53,099 [  6] INFO  AppManager [(null)] (landingPage.aspx) - Redirecting to Login.aspx 
+Request Type: LogInOut 
+SessionId: 0xtehefvhmryti55zvwq543s
+2017-05-05 14:55:53,107 [  8] INFO  AppManager [(null)] (login.aspx) - Request from http://localhost:1949/SimpleServings/UI/Page/SimpleServings/Recipe/Recipe.aspx 
+SessionId: 30mt4xq25uptu3usqaq13155
+2017-05-05 14:56:50,745 [  1] INFO  AppManager [(null)] SimpleServings started.
+2017-05-05 14:57:05,145 [  7] INFO  AppManager [(null)] (landingPage.aspx) - Redirecting to Login.aspx 
+Request Type: LogInOut 
+SessionId: 
+2017-05-05 14:57:12,420 [  7] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: fwkofnvh3dvxfg455in3de55
+2017-05-05 14:58:41,535 [  9] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: xinbh22gdec5ir45vpmu5r45
+2017-05-05 14:58:42,790 [  6] INFO  AppManager [(null)] (landingPage.aspx) - Request from http://localhost:1949/SimpleServings/UI/Page/ 
+Request Type: LogInOut 
+SessionId: hqvbjcrev2mep245k13o1j55
+2017-05-05 14:58:42,790 [  6] INFO  AppManager [(null)] (landingPage.aspx) - Redirecting to Login.aspx 
+Request Type: LogInOut 
+SessionId: hqvbjcrev2mep245k13o1j55
+2017-05-05 14:58:42,795 [  9] INFO  AppManager [(null)] (login.aspx) - Request from http://localhost:1949/SimpleServings/UI/Page/ 
+SessionId: miqj2ezp2wvos455f123m555
+2017-05-05 14:58:45,403 [  7] INFO  AppManager [(null)] (landingPage.aspx) - Clearing Session 
+Request Type:  
+SessionId: mv5miv55m4l4fp45fcw0q555
+2017-05-05 14:58:45,416 [  7] INFO  AppManager [(null)] (landingPage.aspx) - New Session 
+Request Type:  
+SessionId: hxw02tmu5ctbnh45qpf0eznm
+2017-05-05 14:58:45,452 [  6] INFO  AppManager [(null)] (login.aspx) - (cvais7773) - Login successful 
+SessionId: ntbw1t55pqmhiq55tlhpbi45
+2017-05-05 14:58:45,457 [  6] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: 0w3ui145gjewgj2rtyezv1bj
+2017-05-05 14:58:46,659 [  6] INFO  AppManager [(null)] (landingPage.aspx) - Request from http://localhost:1949/SimpleServings/UI/Page/Home.aspx 
+Request Type: LogInOut 
+SessionId: yndiazywdb3clmn4pyza2j45
+2017-05-05 14:58:46,660 [  6] INFO  AppManager [(null)] (landingPage.aspx) - Redirecting to Login.aspx 
+Request Type: LogInOut 
+SessionId: yndiazywdb3clmn4pyza2j45
+2017-05-05 14:58:46,664 [  6] INFO  AppManager [(null)] (login.aspx) - Request from http://localhost:1949/SimpleServings/UI/Page/Home.aspx 
+SessionId: jvpezw45w0l3m345ilsvov45
+2017-05-05 14:58:56,251 [  5] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: jnrbvfjzbatfydzlhumupqry
+2017-05-05 14:58:57,472 [  5] INFO  AppManager [(null)] (landingPage.aspx) - Request from http://localhost:1949/SimpleServings/UI/Page/ 
+Request Type: LogInOut 
+SessionId: zyijva2u3saxtyb4t3xgko45
+2017-05-05 14:58:57,473 [  5] INFO  AppManager [(null)] (landingPage.aspx) - Redirecting to Login.aspx 
+Request Type: LogInOut 
+SessionId: zyijva2u3saxtyb4t3xgko45
+2017-05-05 14:58:57,478 [  6] INFO  AppManager [(null)] (login.aspx) - Request from http://localhost:1949/SimpleServings/UI/Page/ 
+SessionId: ebcvxd45na0m0d55trbr1hr4
+2017-05-05 14:59:02,907 [  6] INFO  AppManager [(null)] (landingPage.aspx) - Clearing Session 
+Request Type:  
+SessionId: 5j0ntk2zsfebme45xzu13l45
+2017-05-05 14:59:02,915 [  6] INFO  AppManager [(null)] (landingPage.aspx) - New Session 
+Request Type:  
+SessionId: exegi22xthrggrjgvcjfntmb
+2017-05-05 14:59:02,922 [  5] INFO  AppManager [(null)] (login.aspx) - (cvais7773) - Login successful 
+SessionId: ko4wen55jgkag0ziwhxy2w3w
+2017-05-05 14:59:02,924 [  5] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: exegi22xthrggrjgvcjfntmb
+2017-05-05 15:01:50,596 [  9] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: pdot4245v4yw3czbnncmnnud
+2017-05-05 15:01:52,422 [  6] INFO  AppManager [(null)] (landingPage.aspx) - Request from http://localhost:1949/SimpleServings/UI/Page/ 
+Request Type: LogInOut 
+SessionId: bnfh1vilb30xro45uxzaty55
+2017-05-05 15:01:52,423 [  6] INFO  AppManager [(null)] (landingPage.aspx) - Redirecting to Login.aspx 
+Request Type: LogInOut 
+SessionId: bnfh1vilb30xro45uxzaty55
+2017-05-05 15:01:52,431 [  9] INFO  AppManager [(null)] (login.aspx) - Request from http://localhost:1949/SimpleServings/UI/Page/ 
+SessionId: gqh0yjmij4irjk55bpynwc45
+2017-05-05 15:01:54,708 [  6] INFO  AppManager [(null)] (landingPage.aspx) - Clearing Session 
+Request Type:  
+SessionId: 1nxwlv55t5n2i155echhdnr2
+2017-05-05 15:01:54,721 [  7] INFO  AppManager [(null)] (landingPage.aspx) - New Session 
+Request Type:  
+SessionId: ixudg3nwk0btbv45anjk1j2n
+2017-05-05 15:01:54,749 [  9] INFO  AppManager [(null)] (login.aspx) - (cvais7773) - Login successful 
+SessionId: dlktacbwfspt4xmwmnc31a55
+2017-05-05 15:01:54,755 [  6] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: ixudg3nwk0btbv45anjk1j2n
+2017-05-05 16:21:08,236 [ 11] INFO  AppManager [(null)] SimpleServings started.
+2017-05-05 16:21:17,513 [  6] INFO  AppManager [(null)] (landingPage.aspx) - Request from http://localhost:1949/SimpleServings/UI/Page/SimpleServings/Reports/reports.aspx 
+Request Type: LogInOut 
+SessionId: ixudg3nwk0btbv45anjk1j2n
+2017-05-05 16:21:17,514 [  6] INFO  AppManager [(null)] (landingPage.aspx) - Redirecting to Login.aspx 
+Request Type: LogInOut 
+SessionId: ixudg3nwk0btbv45anjk1j2n
+2017-05-05 16:21:21,737 [  6] INFO  AppManager [(null)] (login.aspx) - (cvais7773) - Login successful 
+SessionId: gwqnfo45x2thmu45ss4egdar
+2017-05-05 16:21:21,779 [  7] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: hbfhgi45ynrmxauexis25455
+2017-05-05 16:44:59,576 [ 14] INFO  AppManager [(null)] SimpleServings started.
+2017-05-05 16:45:08,479 [  9] INFO  AppManager [(null)] (landingPage.aspx) - Request from http://localhost:1949/SimpleServings/UI/Page/SimpleServings/Reports/reports.aspx 
+Request Type: LogInOut 
+SessionId: hbfhgi45ynrmxauexis25455
+2017-05-05 16:45:08,480 [  9] INFO  AppManager [(null)] (landingPage.aspx) - Redirecting to Login.aspx 
+Request Type: LogInOut 
+SessionId: hbfhgi45ynrmxauexis25455
+2017-05-05 16:45:12,603 [  5] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: zflohc45hedzgxzkqhjt3uaf
+2017-05-05 16:45:20,502 [  5] ERROR AppManager [(null)] SimpleServings application error: The file '/SimpleServings/UI/Page/SimpleServings/Reports/ViewReports.aspx' does not exist.
+location: http://localhost:1949/SimpleServings/UI/Page/SimpleServings/Reports/ViewReports.aspx
+
+System.Web.HttpException: The file '/SimpleServings/UI/Page/SimpleServings/Reports/ViewReports.aspx' does not exist.
+   at System.Web.UI.Util.CheckVirtualFileExists(VirtualPath virtualPath)
+   at System.Web.Compilation.BuildManager.GetVPathBuildResultInternal(VirtualPath virtualPath, Boolean noBuild, Boolean allowCrossApp, Boolean allowBuildInPrecompile)
+   at System.Web.Compilation.BuildManager.GetVPathBuildResultWithNoAssert(HttpContext context, VirtualPath virtualPath, Boolean noBuild, Boolean allowCrossApp, Boolean allowBuildInPrecompile)
+   at System.Web.Compilation.BuildManager.GetVirtualPathObjectFactory(VirtualPath virtualPath, HttpContext context, Boolean allowCrossApp, Boolean noAssert)
+   at System.Web.Compilation.BuildManager.CreateInstanceFromVirtualPath(VirtualPath virtualPath, Type requiredBaseType, HttpContext context, Boolean allowCrossApp, Boolean noAssert)
+   at System.Web.UI.PageHandlerFactory.GetHandlerHelper(HttpContext context, String requestType, VirtualPath virtualPath, String physicalPath)
+   at System.Web.UI.PageHandlerFactory.GetHandler(HttpContext context, String requestType, String virtualPath, String path)
+   at System.Web.HttpApplication.MaterializeHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+2017-05-05 16:46:18,152 [  1] INFO  AppManager [(null)] SimpleServings started.
+2017-05-05 16:46:29,961 [  5] ERROR AppManager [(null)] SimpleServings application error: The Report Viewer Web Control requires a System.Web.UI.ScriptManager on the web form.
+location: http://localhost:1949/SimpleServings/UI/Page/SimpleServings/Reports/ViewReport.aspx
+
+Microsoft.Reporting.WebForms.ScriptManagerNotFoundException: The Report Viewer Web Control requires a System.Web.UI.ScriptManager on the web form.
+   at Microsoft.Reporting.WebForms.ReportViewer.CreateChildControls()
+   at System.Web.UI.Control.EnsureChildControls()
+   at System.Web.UI.Control.PreRenderRecursiveInternal()
+   at System.Web.UI.Control.PreRenderRecursiveInternal()
+   at System.Web.UI.Control.PreRenderRecursiveInternal()
+   at System.Web.UI.Control.PreRenderRecursiveInternal()
+   at System.Web.UI.Control.PreRenderRecursiveInternal()
+   at System.Web.UI.Control.PreRenderRecursiveInternal()
+   at System.Web.UI.Control.PreRenderRecursiveInternal()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   at System.Web.UI.Page.ProcessRequest(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   at System.Web.UI.Page.ProcessRequest()
+   at System.Web.UI.Page.ProcessRequestWithNoAssert(HttpContext context)
+   at System.Web.UI.Page.ProcessRequest(HttpContext context)
+   at ASP.ui_page_simpleservings_reports_viewreport_aspx.ProcessRequest(HttpContext context) in c:\Windows\Microsoft.NET\Framework\v2.0.50727\Temporary ASP.NET Files\simpleservings\50605a42\75e306da\App_Web_hfkxldrh.1.cs:line 0
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+2017-05-05 16:47:58,021 [  8] INFO  AppManager [(null)] (landingPage.aspx) - Request from http://localhost:1949/SimpleServings/UI/Page/Home.aspx 
+Request Type: LogInOut 
+SessionId: zflohc45hedzgxzkqhjt3uaf
+2017-05-05 16:47:58,022 [  8] INFO  AppManager [(null)] (landingPage.aspx) - Redirecting to Login.aspx 
+Request Type: LogInOut 
+SessionId: zflohc45hedzgxzkqhjt3uaf
+2017-05-05 16:48:01,061 [  7] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: k0buymzpgp052x45gclqko55
+2017-05-05 16:48:05,774 [  7] ERROR AppManager [(null)] SimpleServings application error: The file '/SimpleServings/UI/Page/SimpleServings/Reports/ViewReports.aspx' does not exist.
+location: http://localhost:1949/SimpleServings/UI/Page/SimpleServings/Reports/ViewReports.aspx
+
+System.Web.HttpException: The file '/SimpleServings/UI/Page/SimpleServings/Reports/ViewReports.aspx' does not exist.
+   at System.Web.UI.Util.CheckVirtualFileExists(VirtualPath virtualPath)
+   at System.Web.Compilation.BuildManager.GetVPathBuildResultInternal(VirtualPath virtualPath, Boolean noBuild, Boolean allowCrossApp, Boolean allowBuildInPrecompile)
+   at System.Web.Compilation.BuildManager.GetVPathBuildResultWithNoAssert(HttpContext context, VirtualPath virtualPath, Boolean noBuild, Boolean allowCrossApp, Boolean allowBuildInPrecompile)
+   at System.Web.Compilation.BuildManager.GetVirtualPathObjectFactory(VirtualPath virtualPath, HttpContext context, Boolean allowCrossApp, Boolean noAssert)
+   at System.Web.Compilation.BuildManager.CreateInstanceFromVirtualPath(VirtualPath virtualPath, Type requiredBaseType, HttpContext context, Boolean allowCrossApp, Boolean noAssert)
+   at System.Web.UI.PageHandlerFactory.GetHandlerHelper(HttpContext context, String requestType, VirtualPath virtualPath, String physicalPath)
+   at System.Web.UI.PageHandlerFactory.GetHandler(HttpContext context, String requestType, String virtualPath, String path)
+   at System.Web.HttpApplication.MaterializeHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+2017-05-05 16:48:31,324 [  1] INFO  AppManager [(null)] SimpleServings started.
+2017-05-05 16:50:52,716 [  7] INFO  AppManager [(null)] (landingPage.aspx) - Redirecting to Login.aspx 
+Request Type: LogInOut 
+SessionId: 
+2017-05-05 16:50:58,718 [  7] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: 15kdkxq5imtzr5eyuo4qhn55
+2017-05-05 16:51:10,413 [  6] ERROR AppManager [(null)] SimpleServings application error: The file '/SimpleServings/UI/Page/SimpleServings/Reports/ViewReports.aspx' does not exist.
+location: http://localhost:1949/SimpleServings/UI/Page/SimpleServings/Reports/ViewReports.aspx
+
+System.Web.HttpException: The file '/SimpleServings/UI/Page/SimpleServings/Reports/ViewReports.aspx' does not exist.
+   at System.Web.UI.Util.CheckVirtualFileExists(VirtualPath virtualPath)
+   at System.Web.Compilation.BuildManager.GetVPathBuildResultInternal(VirtualPath virtualPath, Boolean noBuild, Boolean allowCrossApp, Boolean allowBuildInPrecompile)
+   at System.Web.Compilation.BuildManager.GetVPathBuildResultWithNoAssert(HttpContext context, VirtualPath virtualPath, Boolean noBuild, Boolean allowCrossApp, Boolean allowBuildInPrecompile)
+   at System.Web.Compilation.BuildManager.GetVirtualPathObjectFactory(VirtualPath virtualPath, HttpContext context, Boolean allowCrossApp, Boolean noAssert)
+   at System.Web.Compilation.BuildManager.CreateInstanceFromVirtualPath(VirtualPath virtualPath, Type requiredBaseType, HttpContext context, Boolean allowCrossApp, Boolean noAssert)
+   at System.Web.UI.PageHandlerFactory.GetHandlerHelper(HttpContext context, String requestType, VirtualPath virtualPath, String physicalPath)
+   at System.Web.UI.PageHandlerFactory.GetHandler(HttpContext context, String requestType, String virtualPath, String path)
+   at System.Web.HttpApplication.MaterializeHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+2017-05-05 16:51:22,695 [  7] ERROR AppManager [(null)] SimpleServings application error: The file '/SimpleServings/UI/Page/SimpleServings/Reports/ViewReports.aspx' does not exist.
+location: http://localhost:1949/SimpleServings/UI/Page/SimpleServings/Reports/ViewReports.aspx
+
+System.Web.HttpException: The file '/SimpleServings/UI/Page/SimpleServings/Reports/ViewReports.aspx' does not exist.
+   at System.Web.UI.Util.CheckVirtualFileExists(VirtualPath virtualPath)
+   at System.Web.Compilation.BuildManager.GetVPathBuildResultInternal(VirtualPath virtualPath, Boolean noBuild, Boolean allowCrossApp, Boolean allowBuildInPrecompile)
+   at System.Web.Compilation.BuildManager.GetVPathBuildResultWithNoAssert(HttpContext context, VirtualPath virtualPath, Boolean noBuild, Boolean allowCrossApp, Boolean allowBuildInPrecompile)
+   at System.Web.Compilation.BuildManager.GetVirtualPathObjectFactory(VirtualPath virtualPath, HttpContext context, Boolean allowCrossApp, Boolean noAssert)
+   at System.Web.Compilation.BuildManager.CreateInstanceFromVirtualPath(VirtualPath virtualPath, Type requiredBaseType, HttpContext context, Boolean allowCrossApp, Boolean noAssert)
+   at System.Web.UI.PageHandlerFactory.GetHandlerHelper(HttpContext context, String requestType, VirtualPath virtualPath, String physicalPath)
+   at System.Web.UI.PageHandlerFactory.GetHandler(HttpContext context, String requestType, String virtualPath, String path)
+   at System.Web.HttpApplication.MaterializeHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+2017-05-05 16:51:39,362 [  7] ERROR AppManager [(null)] SimpleServings application error: The file '/SimpleServings/UI/Page/SimpleServings/Reports/ViewReports.aspx' does not exist.
+location: http://localhost:1949/SimpleServings/UI/Page/SimpleServings/Reports/ViewReports.aspx
+
+System.Web.HttpException: The file '/SimpleServings/UI/Page/SimpleServings/Reports/ViewReports.aspx' does not exist.
+   at System.Web.UI.Util.CheckVirtualFileExists(VirtualPath virtualPath)
+   at System.Web.Compilation.BuildManager.GetVPathBuildResultInternal(VirtualPath virtualPath, Boolean noBuild, Boolean allowCrossApp, Boolean allowBuildInPrecompile)
+   at System.Web.Compilation.BuildManager.GetVPathBuildResultWithNoAssert(HttpContext context, VirtualPath virtualPath, Boolean noBuild, Boolean allowCrossApp, Boolean allowBuildInPrecompile)
+   at System.Web.Compilation.BuildManager.GetVirtualPathObjectFactory(VirtualPath virtualPath, HttpContext context, Boolean allowCrossApp, Boolean noAssert)
+   at System.Web.Compilation.BuildManager.CreateInstanceFromVirtualPath(VirtualPath virtualPath, Type requiredBaseType, HttpContext context, Boolean allowCrossApp, Boolean noAssert)
+   at System.Web.UI.PageHandlerFactory.GetHandlerHelper(HttpContext context, String requestType, VirtualPath virtualPath, String physicalPath)
+   at System.Web.UI.PageHandlerFactory.GetHandler(HttpContext context, String requestType, String virtualPath, String path)
+   at System.Web.HttpApplication.MaterializeHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+2017-05-05 16:52:08,170 [  1] INFO  AppManager [(null)] SimpleServings started.
+2017-05-05 16:52:15,756 [  5] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: k0buymzpgp052x45gclqko55
+2017-05-05 16:52:17,569 [  6] INFO  AppManager [(null)] (landingPage.aspx) - Request from http://localhost:1949/SimpleServings/UI/Page/ 
+Request Type: LogInOut 
+SessionId: k0buymzpgp052x45gclqko55
+2017-05-05 16:52:17,570 [  6] INFO  AppManager [(null)] (landingPage.aspx) - Redirecting to Login.aspx 
+Request Type: LogInOut 
+SessionId: k0buymzpgp052x45gclqko55
+2017-05-05 16:52:20,032 [  6] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: zjynrebjv4e3x4yu3pdthcjq

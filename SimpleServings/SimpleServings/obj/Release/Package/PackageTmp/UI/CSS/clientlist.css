@@ -1,0 +1,78 @@
+/*only for client list*/
+#v2main .myhasaweb_container{background:url(../Images/v2/myhasaweb_bg.gif) repeat; height:auto; width:880px; }
+#v2main .section_data{padding:0px 10px; margin:0px; color:#333; width:860px;}
+#v2main .table_container{padding:5px 5px 1px 5px; background:#D0DFE4 url(../Images/v2/table_conner_top2.gif) no-repeat;}
+#v2main .table_bottom_conner{background:url(../Images/v2/table_conner_bottom2.gif) no-repeat; height:5px;}
+
+#v2main .myinfo{color:black; font:11px Verdana, Arial, Helvetica, sans-serif; background-color:#e3eef3; }
+#v2main .myinfo td{border-top:1px solid #fff; width:100px;}
+.CGtable {color:black; font:12px Verdana, Arial, Helvetica, sans-serif; padding:4px 0;}
+.CGtable {border:solid 4px #D0DFE4;}
+/*for casewizard*/
+
+.section_data{padding:0px 10px; margin:0px; color:#333; width:860px;}
+.table_container{padding:5px 5px 1px 5px; background:#D0DFE4 url(../Images/v2/table_conner_top2.gif) no-repeat;}
+.table_bottom_conner{background:url(../Images/v2/table_conner_bottom2.gif) no-repeat; height:5px;}
+.myinfo{color:black; font:11px Verdana, Arial, Helvetica, sans-serif;background-color:#e3eef3; }
+.myinfo td{border-top:1px solid #fff; width:100px;}
+
+/*end for casewizard*/
+
+#v2main .section_tab{display:none;}
+/*#v2main .section{ height:auto; margin:0px;  padding:0px 0px 20px 0px;    }   TO BE DELETED*/
+#v2main .trick{display:none;}
+
+#v2main .list_container p, .list_container h2{margin:3px 10px; color:#444;}
+/*end of only for client lists*/
+
+ 
+/*for indexing document */
+/*#docLogo{background:url(../Images/v2/documentIndex/documentlogoBg.jpg) repeat; height:50px; position:relative; top:-5px; left:-10px;}*/
+.btn{background:#4F5152; width:auto; color:#fff; cursor: pointer; border:1px solid #666; }
+.clientInfo { border:1px dotted #666; margin-left:10px; width:90%; background:#F2FCFF; }
+.clientInfo tr{ padding:20px 0px;}
+.docType {margin-left:10px; border:1px dotted #666; width:90%; }
+.docField, .docField2{display:inline-block; width:230px; font-weight:bold; color:#666; 	}
+.docField2{width:auto;	}
+
+.docsTable td {width:170px;}
+
+
+
+.docHolder{ border:1px solid #ddd; border-width:0px 2px 3px 0px; margin-bottom:5px;}
+.scanDoc img{border:0px solid #666; padding:0px;}
+/*container
+.docHolder a{ background:url(../Images/v2/documentIndex/docContainterTop.jpg) no-repeat; 
+	display:block; width:157px; height:22px; text-indent:-9999px;}
+.docHolder a:hover { background:url(../Images/v2/documentIndex/docContainterTop2.jpg) no-repeat; }	
+
+*/
+
+/*selected container #297018
+.docHolder .selected {background:url(../Images/v2/documentIndex/SelectdocContainterTop.jpg) no-repeat; display:block; width:157px; height:22px; text-indent:-9999px; }
+*/
+.docHolderBody{border:1px solid #666; padding:3px 3px 1px 3px;}
+.docHolderBody a{margin:0px; }
+
+
+
+/*frequent used doc*/
+.annouce_table {width:98%;background:#E5EDF2; margin-top:25px;}
+.subject{font-size:12px; font-weight:bold;color:#555;}
+.annouce_footer{background:#8C9CA4 url(../Images/v2/annoucement/view_box_bottomR.gif) bottom right no-repeat ; color:#fff;  height:20px; width:98%; text-align:right;}
+
+/*for autoComplete (viewver)*/
+#commit2 p, #commit1 p {position:relative; left:-3px;}
+#commit2, #commit1{display:block; width:95%; margin:5px 10px 10px 10px; border:1px dotted #666;}
+#commit1{background:#F2FCFF; }
+#commit2{background:#F2FCFF; }
+
+
+
+
+
+
+
+
+
+

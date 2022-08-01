@@ -1,0 +1,28 @@
+2020-03-31 09:42:16,699 [ 54] INFO  AppManager [(null)] (landingPage.aspx) - Clearing Session 
+Request Type:  
+SessionId: ci5luxrlubur4fksyhmen0ya
+2020-03-31 09:42:16,714 [ 77] INFO  AppManager [(null)] (landingPage.aspx) - New Session 
+Request Type:  
+SessionId: pzuhtyelg204xnhg5bt1fclo
+2020-03-31 09:42:16,816 [ 75] INFO  AppManager [(null)] (login.aspx) - (JAlberg) - Login successful 
+SessionId: hvjeaccm2semav4tqwg0ve30
+2020-03-31 09:42:16,822 [ 77] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: pzuhtyelg204xnhg5bt1fclo
+2020-03-31 09:52:43,341 [ 79] INFO  AppManager [(null)] (landingPage.aspx) - Clearing Session 
+Request Type:  
+SessionId: lthloxuoeiy1ndazc3h33h31
+2020-03-31 09:52:43,351 [ 79] INFO  AppManager [(null)] (landingPage.aspx) - New Session 
+Request Type:  
+SessionId: 3ghjcyouunezf1p31fyrp4zc
+2020-03-31 09:52:43,436 [ 26] INFO  AppManager [(null)] (login.aspx) - (JAlberg) - Login successful 
+SessionId: xois5auzmoxycelarokhjgqe
+2020-03-31 09:52:43,441 [ 77] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: 3ghjcyouunezf1p31fyrp4zc
+2020-03-31 11:31:12,607 [ 83] INFO  AppManager [(null)] (landingPage.aspx) - Request from http://localhost:1949/SimpleServings/UI/Page/SimpleServings/Supplier/Contract.aspx?Action=View&ContractID=535 
+Request Type: LogInOut 
+SessionId: 3ghjcyouunezf1p31fyrp4zc
+2020-03-31 11:31:12,608 [ 83] INFO  AppManager [(null)] (landingPage.aspx) - Redirecting to Login.aspx 
+Request Type: LogInOut 
+SessionId: 3ghjcyouunezf1p31fyrp4zc
+2020-03-31 11:31:12,613 [ 43] INFO  AppManager [(null)] (login.aspx) - Request from http://localhost:1949/SimpleServings/UI/Page/SimpleServings/Supplier/Contract.aspx?Action=View&ContractID=535 
+SessionId: tgopmjuawtpzb4m3alxffgwk

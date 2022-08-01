@@ -1,0 +1,27 @@
+2021-06-02 11:37:02,121 [  1] INFO  AppManager [(null)] SimpleServings started.
+2021-06-02 12:41:57,452 [ 63] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: ltqwtcai2yo5azjlaksz4pzl
+2021-06-02 16:25:02,094 [  1] INFO  AppManager [(null)] SimpleServings started.
+2021-06-02 16:25:22,474 [ 12] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: kmx2vfb1temlo2k22zfd1zdx
+2021-06-02 16:41:10,632 [ 71] INFO  AppManager [(null)] (landingPage.aspx) - Clearing Session 
+Request Type:  
+SessionId: xjc53zkwy153ctaxhvoxkfho
+2021-06-02 16:41:10,657 [ 77] INFO  AppManager [(null)] (landingPage.aspx) - New Session 
+Request Type:  
+SessionId: jbaobdnwxv04mlbicgh0qtl5
+2021-06-02 16:41:10,859 [ 67] INFO  AppManager [(null)] (login.aspx) - (Mli) - Login successful 
+SessionId: xm3sweunpmhvn0xsf4zlnqix
+2021-06-02 16:41:11,135 [ 62] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: jbaobdnwxv04mlbicgh0qtl5
+2021-06-02 17:11:52,105 [ 41] INFO  AppManager [(null)] (login.aspx) - (Mli) - Login successful 
+SessionId: iyvwjbwtbx0qsj4ed2va30ae
+2021-06-02 17:11:52,326 [ 51] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: y4jasif23k3ne0nhfz52lq34
+2021-06-02 17:11:52,493 [ 68] INFO  AppManager [(null)] (landingPage.aspx) - Clearing Session 
+Request Type:  
+SessionId: v5qmbbc3igosnpcyzkrov1ho
+2021-06-02 17:13:46,515 [ 73] INFO  AppManager [(null)] (Recipe.aspx) - Request from http://localhost:1948/SimpleServings/UI/Page/Home.aspx 
+SessionId: y4jasif23k3ne0nhfz52lq34
+2021-06-02 17:20:29,594 [ 82] INFO  AppManager [(null)] (Recipe.aspx) - Request from http://localhost:1948/SimpleServings/UI/Page/Home.aspx 
+SessionId: y4jasif23k3ne0nhfz52lq34

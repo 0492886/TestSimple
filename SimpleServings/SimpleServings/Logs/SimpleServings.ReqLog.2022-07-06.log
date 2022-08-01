@@ -1,0 +1,50 @@
+2022-07-06 10:02:58,482 [  1] INFO  AppManager [(null)] SimpleServings started.
+2022-07-06 10:03:19,251 [ 12] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: 5uujaqslqnrxtdioudi5oo3f
+2022-07-06 10:06:24,183 [  7] INFO  AppManager [(null)] (landingPage.aspx) - Clearing Session 
+Request Type:  
+SessionId: wsg5pa5qq3xjrrlkysdmbzzd
+2022-07-06 10:06:24,202 [ 12] INFO  AppManager [(null)] (landingPage.aspx) - New Session 
+Request Type:  
+SessionId: kzhtryfyrdchlqod0xl0zat3
+2022-07-06 10:06:24,484 [ 11] INFO  AppManager [(null)] (login.aspx) - (scott.deas) - Login successful 
+SessionId: fvojzzorqlwunufgfvu4c2lf
+2022-07-06 10:06:24,510 [ 12] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: kzhtryfyrdchlqod0xl0zat3
+2022-07-06 14:49:40,205 [156] INFO  AppManager [(null)] (landingPage.aspx) - Clearing Session 
+Request Type:  
+SessionId: 2br5tvkolhoeo0yw03k4wsxc
+2022-07-06 14:49:40,209 [154] INFO  AppManager [(null)] (landingPage.aspx) - New Session 
+Request Type:  
+SessionId: npagyxf3jagwtyw4siogbs42
+2022-07-06 14:49:40,741 [172] INFO  AppManager [(null)] (login.aspx) - (hindy.chanales) - Login successful 
+SessionId: d0ehj13i50leyedyv5r53ih2
+2022-07-06 14:49:40,938 [145] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: npagyxf3jagwtyw4siogbs42
+2022-07-06 14:57:07,404 [ 89] INFO  AppManager [(null)] (landingPage.aspx) - Request from http://localhost:1946/SimpleServings/UI/Page/Home.aspx 
+Request Type: LogInOut 
+SessionId: npagyxf3jagwtyw4siogbs42
+2022-07-06 14:57:07,405 [ 89] INFO  AppManager [(null)] (landingPage.aspx) - Redirecting to Login.aspx 
+Request Type: LogInOut 
+SessionId: npagyxf3jagwtyw4siogbs42
+2022-07-06 14:57:07,411 [173] INFO  AppManager [(null)] (login.aspx) - Request from http://localhost:1946/SimpleServings/UI/Page/Home.aspx 
+SessionId: cqszgyzhntus4sgvsv0fvs1t
+2022-07-06 14:57:17,812 [145] INFO  AppManager [(null)] (landingPage.aspx) - Clearing Session 
+Request Type:  
+SessionId: yclxufnb2wk32irgxwwjhvr5
+2022-07-06 14:57:17,818 [161] INFO  AppManager [(null)] (landingPage.aspx) - New Session 
+Request Type:  
+SessionId: ytdnmff4rulk1dmkc13yhy53
+2022-07-06 14:57:18,064 [168] ERROR AppManager [(null)] btnLogin_Click failed: Incorrect username and/or password.
+2022-07-06 14:57:26,418 [164] INFO  AppManager [(null)] (landingPage.aspx) - Clearing Session 
+Request Type:  
+SessionId: ytdnmff4rulk1dmkc13yhy53
+2022-07-06 14:57:26,423 [159] INFO  AppManager [(null)] (landingPage.aspx) - New Session 
+Request Type:  
+SessionId: r2nqg4aueobjgptc15rsjcxq
+2022-07-06 14:57:26,689 [156] INFO  AppManager [(null)] (login.aspx) - (hindy.chanales) - Login successful 
+SessionId: cu3l1yh0ljuwbkxhlwtq1col
+2022-07-06 14:57:26,704 [162] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: r2nqg4aueobjgptc15rsjcxq
+2022-07-06 14:57:28,676 [ 99] INFO  AppManager [(null)] (Recipe.aspx) - Request from http://localhost:1946/SimpleServings/UI/Page/Home.aspx 
+SessionId: r2nqg4aueobjgptc15rsjcxq

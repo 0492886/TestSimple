@@ -1,0 +1,38 @@
+C:\TFS\DFTA\SimpleServingsLibrary\SimpleServings.MenuThreshold\bin\Release\SimpleServings.MenuThreshold.dll
+C:\TFS\DFTA\SimpleServingsLibrary\SimpleServings.MenuThreshold\bin\Release\SimpleServings.MenuThreshold.pdb
+C:\TFS\DFTA\SimpleServingsLibrary\SimpleServings.MenuThreshold\bin\Release\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\TFS\DFTA\SimpleServingsLibrary\SimpleServings.MenuThreshold\bin\Release\Microsoft.Practices.EnterpriseLibrary.Data.dll
+C:\TFS\DFTA\SimpleServingsLibrary\SimpleServings.MenuThreshold\bin\Release\Microsoft.Practices.ObjectBuilder.dll
+C:\TFS\DFTA\SimpleServingsLibrary\SimpleServings.MenuThreshold\bin\Release\SimpleServings.Menu.dll
+C:\TFS\DFTA\SimpleServingsLibrary\SimpleServings.MenuThreshold\bin\Release\SimpleServings.RecipeSupplement.dll
+C:\TFS\DFTA\SimpleServingsLibrary\SimpleServings.MenuThreshold\bin\Release\SimpleServings.Shared.dll
+C:\TFS\DFTA\SimpleServingsLibrary\SimpleServings.MenuThreshold\bin\Release\SimpleServings.Menu.pdb
+C:\TFS\DFTA\SimpleServingsLibrary\SimpleServings.MenuThreshold\bin\Release\SimpleServings.RecipeSupplement.pdb
+C:\TFS\DFTA\SimpleServingsLibrary\SimpleServings.MenuThreshold\bin\Release\SimpleServings.Shared.pdb
+C:\TFS\DFTA\SimpleServingsLibrary\SimpleServings.MenuThreshold\bin\Release\SimpleServings.Shared.xml
+C:\TFS\DFTA\SimpleServingsLibrary\SimpleServings.MenuThreshold\obj\Release\SimpleServings.MenuThreshold.csprojResolveAssemblyReference.cache
+C:\TFS\DFTA\SimpleServingsLibrary\SimpleServings.MenuThreshold\obj\Release\SimpleServings.MenuThreshold.dll
+C:\TFS\DFTA\SimpleServingsLibrary\SimpleServings.MenuThreshold\obj\Release\SimpleServings.MenuThreshold.pdb
+E:\SSDFTA\SimpleServingsLibrary\SimpleServings.MenuThreshold\obj\Release\SimpleServings.MenuThreshold.csprojAssemblyReference.cache
+E:\SSDFTA\SimpleServingsLibrary\SimpleServings.MenuThreshold\obj\Release\SimpleServings.MenuThreshold.csproj.CoreCompileInputs.cache
+E:\SSDFTA\SimpleServingsLibrary\SimpleServings.MenuThreshold\obj\Release\SimpleServings.MenuThreshold.dll
+E:\SSDFTA\SimpleServingsLibrary\SimpleServings.MenuThreshold\obj\Release\SimpleServings.MenuThreshold.pdb
+F:\DFTA coding\SimpleServings\SimpleServings_networkVersion_I_do\SimpleServing_Latest\NewSimple\SimpleServingsLibrary\SimpleServings.MenuThreshold\obj\Release\SimpleServings.MenuThreshold.csproj.AssemblyReference.cache
+F:\DFTA coding\SimpleServings\SimpleServings_networkVersion_I_do\SimpleServing_Latest\NewSimple\SimpleServingsLibrary\SimpleServings.MenuThreshold\obj\Release\SimpleServings.MenuThreshold.csproj.CoreCompileInputs.cache
+F:\DFTA coding\SimpleServings\SimpleServings_networkVersion_I_do\SimpleServing_Latest\NewSimple\SimpleServingsLibrary\SimpleServings.MenuThreshold\obj\Release\SimpleServings.MenuThreshold.dll
+F:\DFTA coding\SimpleServings\SimpleServings_networkVersion_I_do\SimpleServing_Latest\NewSimple\SimpleServingsLibrary\SimpleServings.MenuThreshold\obj\Release\SimpleServings.MenuThreshold.pdb
+F:\DFTA coding\SimpleServings\SimpleServings_networkVersion_I_do\SimpleServing_Latest\NewSimple\SimpleServingsLibrary\SimpleServings.MenuThreshold\bin\Release\SimpleServings.MenuThreshold.dll
+F:\DFTA coding\SimpleServings\SimpleServings_networkVersion_I_do\SimpleServing_Latest\NewSimple\SimpleServingsLibrary\SimpleServings.MenuThreshold\bin\Release\SimpleServings.MenuThreshold.pdb
+F:\DFTA coding\SimpleServings\SimpleServings_networkVersion_I_do\SimpleServing_Latest\NewSimple\SimpleServingsLibrary\SimpleServings.MenuThreshold\bin\Release\Microsoft.Practices.EnterpriseLibrary.Common.dll
+F:\DFTA coding\SimpleServings\SimpleServings_networkVersion_I_do\SimpleServing_Latest\NewSimple\SimpleServingsLibrary\SimpleServings.MenuThreshold\bin\Release\Microsoft.Practices.EnterpriseLibrary.Data.dll
+F:\DFTA coding\SimpleServings\SimpleServings_networkVersion_I_do\SimpleServing_Latest\NewSimple\SimpleServingsLibrary\SimpleServings.MenuThreshold\bin\Release\Microsoft.Practices.ObjectBuilder.dll
+F:\DFTA coding\SimpleServings\SimpleServings_networkVersion_I_do\SimpleServing_Latest\NewSimple\SimpleServingsLibrary\SimpleServings.MenuThreshold\bin\Release\SimpleServings.Menu.dll
+F:\DFTA coding\SimpleServings\SimpleServings_networkVersion_I_do\SimpleServing_Latest\NewSimple\SimpleServingsLibrary\SimpleServings.MenuThreshold\bin\Release\SimpleServings.Recipe.dll
+F:\DFTA coding\SimpleServings\SimpleServings_networkVersion_I_do\SimpleServing_Latest\NewSimple\SimpleServingsLibrary\SimpleServings.MenuThreshold\bin\Release\SimpleServings.RecipeSupplement.dll
+F:\DFTA coding\SimpleServings\SimpleServings_networkVersion_I_do\SimpleServing_Latest\NewSimple\SimpleServingsLibrary\SimpleServings.MenuThreshold\bin\Release\SimpleServings.Shared.dll
+F:\DFTA coding\SimpleServings\SimpleServings_networkVersion_I_do\SimpleServing_Latest\NewSimple\SimpleServingsLibrary\SimpleServings.MenuThreshold\bin\Release\SimpleServings.Menu.pdb
+F:\DFTA coding\SimpleServings\SimpleServings_networkVersion_I_do\SimpleServing_Latest\NewSimple\SimpleServingsLibrary\SimpleServings.MenuThreshold\bin\Release\SimpleServings.RecipeSupplement.pdb
+F:\DFTA coding\SimpleServings\SimpleServings_networkVersion_I_do\SimpleServing_Latest\NewSimple\SimpleServingsLibrary\SimpleServings.MenuThreshold\bin\Release\SimpleServings.Recipe.pdb
+F:\DFTA coding\SimpleServings\SimpleServings_networkVersion_I_do\SimpleServing_Latest\NewSimple\SimpleServingsLibrary\SimpleServings.MenuThreshold\bin\Release\SimpleServings.Shared.pdb
+F:\DFTA coding\SimpleServings\SimpleServings_networkVersion_I_do\SimpleServing_Latest\NewSimple\SimpleServingsLibrary\SimpleServings.MenuThreshold\bin\Release\SimpleServings.Shared.xml
+F:\DFTA coding\SimpleServings\SimpleServings_networkVersion_I_do\SimpleServing_Latest\NewSimple\SimpleServingsLibrary\SimpleServings.MenuThreshold\obj\Release\SimpleServings.MenuThreshold.csproj.CopyComplete

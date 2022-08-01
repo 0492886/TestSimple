@@ -1,0 +1,26 @@
+C:\TFS\DFTA\SimpleServingsLibrary\SimpleServings.Shared\bin\Release\SimpleServings.Shared.dll
+C:\TFS\DFTA\SimpleServingsLibrary\SimpleServings.Shared\bin\Release\SimpleServings.Shared.pdb
+C:\TFS\DFTA\SimpleServingsLibrary\SimpleServings.Shared\bin\Release\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\TFS\DFTA\SimpleServingsLibrary\SimpleServings.Shared\bin\Release\Microsoft.Practices.EnterpriseLibrary.Data.dll
+C:\TFS\DFTA\SimpleServingsLibrary\SimpleServings.Shared\bin\Release\Microsoft.Practices.ObjectBuilder.dll
+C:\TFS\DFTA\SimpleServingsLibrary\SimpleServings.Shared\obj\Release\SimpleServings.Shared.dll
+C:\TFS\DFTA\SimpleServingsLibrary\SimpleServings.Shared\obj\Release\SimpleServings.Shared.pdb
+E:\SSDFTA\SimpleServingsLibrary\SimpleServings.Shared\bin\Release\SimpleServings.Shared.dll
+E:\SSDFTA\SimpleServingsLibrary\SimpleServings.Shared\bin\Release\SimpleServings.Shared.pdb
+E:\SSDFTA\SimpleServingsLibrary\SimpleServings.Shared\bin\Release\Microsoft.Practices.EnterpriseLibrary.Common.dll
+E:\SSDFTA\SimpleServingsLibrary\SimpleServings.Shared\obj\Release\SimpleServings.Shared.csprojAssemblyReference.cache
+E:\SSDFTA\SimpleServingsLibrary\SimpleServings.Shared\obj\Release\SimpleServings.Shared.csproj.CoreCompileInputs.cache
+E:\SSDFTA\SimpleServingsLibrary\SimpleServings.Shared\obj\Release\SimpleServings.Shared.csproj.CopyComplete
+E:\SSDFTA\SimpleServingsLibrary\SimpleServings.Shared\obj\Release\SimpleServings.Shared.dll
+E:\SSDFTA\SimpleServingsLibrary\SimpleServings.Shared\obj\Release\SimpleServings.Shared.pdb
+F:\DFTA coding\SimpleServings\SimpleServings_networkVersion_I_do\SimpleServing_Latest\NewSimple\SimpleServingsLibrary\SimpleServings.Shared\bin\Release\SimpleServings.Shared.dll
+F:\DFTA coding\SimpleServings\SimpleServings_networkVersion_I_do\SimpleServing_Latest\NewSimple\SimpleServingsLibrary\SimpleServings.Shared\bin\Release\SimpleServings.Shared.pdb
+F:\DFTA coding\SimpleServings\SimpleServings_networkVersion_I_do\SimpleServing_Latest\NewSimple\SimpleServingsLibrary\SimpleServings.Shared\bin\Release\Microsoft.Practices.EnterpriseLibrary.Common.dll
+F:\DFTA coding\SimpleServings\SimpleServings_networkVersion_I_do\SimpleServing_Latest\NewSimple\SimpleServingsLibrary\SimpleServings.Shared\bin\Release\SimpleServings.SupplierRelationship.dll
+F:\DFTA coding\SimpleServings\SimpleServings_networkVersion_I_do\SimpleServing_Latest\NewSimple\SimpleServingsLibrary\SimpleServings.Shared\bin\Release\SimpleServings.SupplierRelationship.pdb
+F:\DFTA coding\SimpleServings\SimpleServings_networkVersion_I_do\SimpleServing_Latest\NewSimple\SimpleServingsLibrary\SimpleServings.Shared\bin\Release\SimpleServings.Shared.xml
+F:\DFTA coding\SimpleServings\SimpleServings_networkVersion_I_do\SimpleServing_Latest\NewSimple\SimpleServingsLibrary\SimpleServings.Shared\obj\Release\SimpleServings.Shared.csproj.AssemblyReference.cache
+F:\DFTA coding\SimpleServings\SimpleServings_networkVersion_I_do\SimpleServing_Latest\NewSimple\SimpleServingsLibrary\SimpleServings.Shared\obj\Release\SimpleServings.Shared.csproj.CoreCompileInputs.cache
+F:\DFTA coding\SimpleServings\SimpleServings_networkVersion_I_do\SimpleServing_Latest\NewSimple\SimpleServingsLibrary\SimpleServings.Shared\obj\Release\SimpleServings.Shared.csproj.CopyComplete
+F:\DFTA coding\SimpleServings\SimpleServings_networkVersion_I_do\SimpleServing_Latest\NewSimple\SimpleServingsLibrary\SimpleServings.Shared\obj\Release\SimpleServings.Shared.dll
+F:\DFTA coding\SimpleServings\SimpleServings_networkVersion_I_do\SimpleServing_Latest\NewSimple\SimpleServingsLibrary\SimpleServings.Shared\obj\Release\SimpleServings.Shared.pdb

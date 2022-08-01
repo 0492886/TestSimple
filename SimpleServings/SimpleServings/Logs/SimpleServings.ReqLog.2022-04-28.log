@@ -1,0 +1,7 @@
+2022-04-28 15:11:59,357 [  1] INFO  AppManager [(null)] SimpleServings started.
+2022-04-28 15:12:22,211 [ 13] INFO  AppManager [(null)] (login.aspx) - (Mli) - Login successful 
+SessionId: tfpf4ne4hgiusqqthejqwgl4
+2022-04-28 15:12:22,319 [ 12] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: hzlwil1ik5dyz2bz23w4qidk
+2022-04-28 15:12:55,772 [ 18] INFO  AppManager [(null)] (Recipe.aspx) - Request from http://localhost:1945/SimpleServings/UI/Page/SimpleServings/Recipe/RecipeList.aspx 
+SessionId: hzlwil1ik5dyz2bz23w4qidk

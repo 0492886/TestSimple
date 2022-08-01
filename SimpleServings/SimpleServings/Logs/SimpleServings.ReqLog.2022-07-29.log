@@ -1,0 +1,38 @@
+2022-07-29 11:03:23,540 [147] INFO  AppManager [(null)] (landingPage.aspx) - Clearing Session 
+Request Type:  
+SessionId: ljdf2hnenkojo3k5w3uirmtn
+2022-07-29 11:03:23,849 [132] INFO  AppManager [(null)] (landingPage.aspx) - New Session 
+Request Type:  
+SessionId: 4kxjvikzzab4t0hwwkuwwo0j
+2022-07-29 11:03:24,213 [144] INFO  AppManager [(null)] (login.aspx) - (scott.deas) - Login successful 
+SessionId: nkhewwqlt0qznot5s54o4zzz
+2022-07-29 11:03:24,942 [136] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: 4kxjvikzzab4t0hwwkuwwo0j
+2022-07-29 11:09:32,330 [  1] INFO  AppManager [(null)] SimpleServings started.
+2022-07-29 11:10:09,649 [126] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: h5cmwwwtvgqwxm5btrazqkxv
+2022-07-29 11:24:07,805 [136] INFO  AppManager [(null)] (landingPage.aspx) - Clearing Session 
+Request Type:  
+SessionId: 0ggd3igrq2qyqliwo31qy5pm
+2022-07-29 11:24:07,814 [ 62] INFO  AppManager [(null)] (landingPage.aspx) - New Session 
+Request Type:  
+SessionId: klzs5zq2gl2jbh5lmvp125eo
+2022-07-29 11:24:08,428 [126] INFO  AppManager [(null)] (login.aspx) - (Mli) - Login successful 
+SessionId: 2iuwt2yc5nwavwdpspnaew1d
+2022-07-29 11:24:08,433 [153] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: klzs5zq2gl2jbh5lmvp125eo
+2022-07-29 11:32:17,418 [115] INFO  AppManager [(null)] SimpleServings started.
+2022-07-29 11:39:10,861 [157] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: jusizv12c3ur4quorfykvpju
+2022-07-29 11:41:10,040 [  4] INFO  AppManager [(null)] SimpleServings started.
+2022-07-29 11:41:36,158 [ 94] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: b44qwd5biujwvtfirmvgyhy0
+2022-07-29 11:43:50,088 [166] INFO  AppManager [(null)] SimpleServings started.
+2022-07-29 11:44:12,969 [167] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: wbmfagtkb5fw34x3ls0334b0
+2022-07-29 11:48:46,868 [  4] INFO  AppManager [(null)] SimpleServings started.
+2022-07-29 11:49:15,681 [157] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: ih25kzybwaobeqnx2osjz4vb
+2022-07-29 11:50:23,361 [167] INFO  AppManager [(null)] SimpleServings started.
+2022-07-29 11:50:45,055 [154] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: x4pqhboyukziaruwieulw0ya

@@ -1,0 +1,85 @@
+/*only for client list*/
+/*search bar*/
+#v2main .userName{float:left; padding:8px 0 0 20px; width:270px;}
+#v2main .search_bar{width:910px; background: #4F5152; height:30px; font: 12px Verdana, Arial, Helvetica, sans-serif; color:#fff; float:left;}
+
+#v2main .search_input .logout {margin:0 0 0 120px; }
+#v2main .search_input a{margin:0; padding:0 0 0 20px; width:80px; background:url(../Images/v2/logout1.gif) 1px -1px no-repeat; height:30px; text-decoration:none; font:bold; color:#aaa;  }
+#v2main .search_input a:hover{background:url(../Images/v2/logout2.gif) 1px -1px no-repeat; color:#fff;}
+
+#v2main .search_input {padding:0px; margin:0 0 0 0px; height:30px;  float:left;}
+#v2main .search_input input{ border:none; color:#444;font: 12px Verdana, Arial, Helvetica, sans-serif; margin-top:3px;}
+#v2main .search_bar .search_btn{background:#4F5152;width:86px; color:#fff; cursor: pointer; }
+#v2main .line_breaker{background:url(../Images/v2/trans_line_bg.gif) repeat; height:10px; width:905px; }
+
+/*factors*/
+#v2main .noteTable {vertical-align:top; border:1px dotted #666; padding:4px 2px; background:#E7F3F5; color:#222; font:11px Verdana, Arial, Helvetica, sans-serif;}
+#v2main .noteTable2 { vertical-align:top; border:1px solid #666; padding:4px 2px; background:#EFFBFD; color:#222; font:11px Verdana, Arial, Helvetica, sans-serif;}
+
+
+
+/*progress note*/
+#v2main .progessNote{border:1px dotted #666; padding:4px 5px; margin:0px; background:#E7F3F5; color:#222; font:11px Verdana, Arial, Helvetica, sans-serif; width:80%; line-height:18px;}
+#v2main .progessNote .noteHeader{background:#C5E3E8; font:bold 12px Arial, Helvetica, sans-serif;}
+#v2main .pNote a{padding:0px 7px; text-decoration:none; border-bottom:1px dotted #666;}
+#v2main .pnCurrent {background:url(../Images/orange_pointer.gif) 0px 4px no-repeat;}
+
+/**/
+
+
+
+#v2main .factors_container {padding:10px 0px 10px 10px ; margin:0; } 
+#v2main .factors_container p {margin:2px 0px; padding:0px;}
+#v2main .factors_container .gap {padding:0 15px;}
+#v2main .client_label{width:875px; text-align:right;}
+#v2main .client_label a{padding:0 5px; text-decoration:none; border-bottom:1px dotted #666;}
+
+#v2main .factors_container .modules{text-align:left; width:auto; font:12px Verdana, Arial, Helvetica, sans-serif; }
+#v2main .factors_container .modules .space {padding:10px 0 20px 0; text-align:left;  }
+#v2main .factors_container .modules p {padding:2px 0;}
+#v2main .factors_container .modules table thead{font:bold 12px Verdana, Arial, Helvetica, sans-serif;color:#666;}
+
+
+#v2main .section{ height:auto; margin:0px;  padding:0px;    }
+
+#v2main .factors_tables{margin:20px 0;}
+#v2main .factors_container table input{border:none; font-size:12px; background:transparent;}
+
+/*factors tabs*/
+#v2main .tabs_navigation ul{margin:0 0 0 -10px; padding:0px; width:890px; }
+#v2main .tabs_navigation  ul li{float:left;background: #4F5152 url(../Images/v2/tabs/bTabs_bg.gif) repeat; list-style:none; padding:0px; margin:0 0 0 0px;}
+#v2main .tabs_navigation  ul .current{background: #3C8EA3 url(../Images/v2/tabs/bTabs_bg2.gif) repeat; }
+#v2main .tabs_navigation ul li a {text-decoration:none; position:relative; top:-5px; margin:0; padding:0px 6px; color:#f5f5f5; font: bold 10px Verdana, "Times New Roman", Times, serif; }
+#v2main .tabs_navigation ul li a:hover{color:#fff;}
+
+#v2main .sub_tabs ul {clear:left;border:1px solid #317586;  border-width:0px 0 2px 0; margin:0 0 0 -10px; padding:0px;background:#3C8EA3; width:900px; height:20px; position:relative; top:-3px; left:0px }
+#v2main .sub_tabs ul .current{background: transparent url(../Images/v2/tabs/Ypointer.gif) 4px 7px no-repeat;}
+#v2main .sub_tabs ul .current a{color:#fff;}
+#v2main .sub_tabs ul li{float:left; margin:0 0 0 1px;  padding:3px 1px; background:#3C8EA3; list-style:none; display:block; }
+#v2main .sub_tabs ul li a{ text-decoration:none;padding:5px 13px; color:#000; border-right:1px dotted #317586;font-size:10px;}
+#v2main .sub_tabs ul li .no_border{border:none;}
+/*end factors tabs*/
+
+
+
+
+
+
+
+
+/*end factors*/
+
+
+
+
+
+
+
+
+/*import from original hasastyles*/
+
+
+
+
+
+/*end of only for client lists*/

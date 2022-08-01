@@ -1,0 +1,672 @@
+2017-05-11 10:53:16,082 [  7] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: fh51te55qxrt0iflmq02cf55
+2017-05-11 10:53:19,537 [  7] INFO  AppManager [(null)] (landingPage.aspx) - Request from http://localhost:1949/SimpleServings/UI/Page/ 
+Request Type: LogInOut 
+SessionId: see41c55uovmqjiyyosyilac
+2017-05-11 10:53:19,537 [  7] INFO  AppManager [(null)] (landingPage.aspx) - Redirecting to Login.aspx 
+Request Type: LogInOut 
+SessionId: see41c55uovmqjiyyosyilac
+2017-05-11 10:53:19,547 [  7] INFO  AppManager [(null)] (login.aspx) - Request from http://localhost:1949/SimpleServings/UI/Page/ 
+SessionId: pkr1ur55aupwrqymq02dwjex
+2017-05-11 10:53:22,392 [  7] INFO  AppManager [(null)] (landingPage.aspx) - Clearing Session 
+Request Type:  
+SessionId: 0n00qd205twrxoypsbg4hu45
+2017-05-11 10:53:22,405 [  7] INFO  AppManager [(null)] (landingPage.aspx) - New Session 
+Request Type:  
+SessionId: xfzwfmemo2pvte452vkwhi55
+2017-05-11 10:53:22,683 [  6] INFO  AppManager [(null)] (login.aspx) - (cvais7773) - Login successful 
+SessionId: gmzj5f20sokbhhr4sh3hbqf2
+2017-05-11 10:53:22,693 [  6] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: xfzwfmemo2pvte452vkwhi55
+2017-05-11 11:37:39,272 [  1] INFO  AppManager [(null)] SimpleServings started.
+2017-05-11 11:37:50,306 [  5] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: xfzwfmemo2pvte452vkwhi55
+2017-05-11 11:38:13,971 [  8] INFO  AppManager [(null)] (landingPage.aspx) - Request from http://localhost:1949/SimpleServings/ui/page/ 
+Request Type: LogInOut 
+SessionId: xfzwfmemo2pvte452vkwhi55
+2017-05-11 11:38:13,972 [  8] INFO  AppManager [(null)] (landingPage.aspx) - Redirecting to Login.aspx 
+Request Type: LogInOut 
+SessionId: xfzwfmemo2pvte452vkwhi55
+2017-05-11 11:38:17,573 [  8] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: wgw5ez45oztfzkye3bpbgsyx
+2017-05-11 11:40:57,691 [  7] ERROR AppManager [(null)] SimpleServings application error: Exception of type 'System.Web.HttpUnhandledException' was thrown.
+location: http://localhost:1949/SimpleServings/UI/Page/resources.aspx
+
+System.Web.HttpUnhandledException: Exception of type 'System.Web.HttpUnhandledException' was thrown. ---> System.Data.DataException: DataTable must be set prior to using DataView.
+   at System.Data.DataView.CheckSort(String sort)
+   at System.Data.DataView.set_Sort(String value)
+   at SimpleServings.UI.UDC.SimpleServings.Resource.ResourceList.SortGridView(String sortExpression, String direction) in c:\TFS\DFTA\SimpleServings\SimpleServings\SimpleServings\UI\UDC\SimpleServings\Resource\ResourceList.ascx.cs:line 147
+   at SimpleServings.UI.UDC.SimpleServings.Resource.ResourceList.gvResources_Sorting(Object sender, GridViewSortEventArgs e) in c:\TFS\DFTA\SimpleServings\SimpleServings\SimpleServings\UI\UDC\SimpleServings\Resource\ResourceList.ascx.cs:line 128
+   at System.Web.UI.WebControls.GridView.OnSorting(GridViewSortEventArgs e)
+   at System.Web.UI.WebControls.GridView.HandleSort(String sortExpression, SortDirection sortDirection)
+   at System.Web.UI.WebControls.GridView.HandleSort(String sortExpression)
+   at System.Web.UI.WebControls.GridView.HandleEvent(EventArgs e, Boolean causesValidation, String validationGroup)
+   at System.Web.UI.WebControls.GridView.RaisePostBackEvent(String eventArgument)
+   at System.Web.UI.WebControls.GridView.System.Web.UI.IPostBackEventHandler.RaisePostBackEvent(String eventArgument)
+   at System.Web.UI.Page.RaisePostBackEvent(IPostBackEventHandler sourceControl, String eventArgument)
+   at System.Web.UI.Page.RaisePostBackEvent(NameValueCollection postData)
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   --- End of inner exception stack trace ---
+   at System.Web.UI.Page.HandleError(Exception e)
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   at System.Web.UI.Page.ProcessRequest(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   at System.Web.UI.Page.ProcessRequest()
+   at System.Web.UI.Page.ProcessRequestWithNoAssert(HttpContext context)
+   at System.Web.UI.Page.ProcessRequest(HttpContext context)
+   at ASP.ui_page_resources_aspx.ProcessRequest(HttpContext context) in c:\Windows\Microsoft.NET\Framework\v2.0.50727\Temporary ASP.NET Files\simpleservings\50605a42\75e306da\App_Web_zissgkqy.3.cs:line 0
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+2017-05-11 11:44:02,682 [  8] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: wgw5ez45oztfzkye3bpbgsyx
+2017-05-11 11:46:37,563 [  7] INFO  AppManager [(null)] (Recipe.aspx) - Request from http://localhost:1949/SimpleServings/UI/Page/SimpleServings/Reports/ViewReport.aspx 
+SessionId: wgw5ez45oztfzkye3bpbgsyx
+2017-05-11 11:46:40,728 [  9] INFO  AppManager [(null)] (Recipe.aspx) - Request from http://localhost:1949/SimpleServings/UI/Page/SimpleServings/Reports/reports.aspx 
+SessionId: wgw5ez45oztfzkye3bpbgsyx
+2017-05-11 11:50:09,951 [  9] ERROR AppManager [(null)] SimpleServings application error: Exception of type 'System.Web.HttpUnhandledException' was thrown.
+location: http://localhost:1949/SimpleServings/UI/Page/resources.aspx
+
+System.Web.HttpUnhandledException: Exception of type 'System.Web.HttpUnhandledException' was thrown. ---> System.Data.DataException: DataTable must be set prior to using DataView.
+   at System.Data.DataView.CheckSort(String sort)
+   at System.Data.DataView.set_Sort(String value)
+   at SimpleServings.UI.UDC.SimpleServings.Resource.ResourceList.SortGridView(String sortExpression, String direction) in c:\TFS\DFTA\SimpleServings\SimpleServings\SimpleServings\UI\UDC\SimpleServings\Resource\ResourceList.ascx.cs:line 147
+   at SimpleServings.UI.UDC.SimpleServings.Resource.ResourceList.gvResources_Sorting(Object sender, GridViewSortEventArgs e) in c:\TFS\DFTA\SimpleServings\SimpleServings\SimpleServings\UI\UDC\SimpleServings\Resource\ResourceList.ascx.cs:line 128
+   at System.Web.UI.WebControls.GridView.OnSorting(GridViewSortEventArgs e)
+   at System.Web.UI.WebControls.GridView.HandleSort(String sortExpression, SortDirection sortDirection)
+   at System.Web.UI.WebControls.GridView.HandleSort(String sortExpression)
+   at System.Web.UI.WebControls.GridView.HandleEvent(EventArgs e, Boolean causesValidation, String validationGroup)
+   at System.Web.UI.WebControls.GridView.RaisePostBackEvent(String eventArgument)
+   at System.Web.UI.WebControls.GridView.System.Web.UI.IPostBackEventHandler.RaisePostBackEvent(String eventArgument)
+   at System.Web.UI.Page.RaisePostBackEvent(IPostBackEventHandler sourceControl, String eventArgument)
+   at System.Web.UI.Page.RaisePostBackEvent(NameValueCollection postData)
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   --- End of inner exception stack trace ---
+   at System.Web.UI.Page.HandleError(Exception e)
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   at System.Web.UI.Page.ProcessRequest(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   at System.Web.UI.Page.ProcessRequest()
+   at System.Web.UI.Page.ProcessRequestWithNoAssert(HttpContext context)
+   at System.Web.UI.Page.ProcessRequest(HttpContext context)
+   at ASP.ui_page_resources_aspx.ProcessRequest(HttpContext context) in c:\Windows\Microsoft.NET\Framework\v2.0.50727\Temporary ASP.NET Files\simpleservings\50605a42\75e306da\App_Web_zissgkqy.3.cs:line 0
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+2017-05-11 12:04:22,037 [  1] INFO  AppManager [(null)] SimpleServings started.
+2017-05-11 12:04:41,125 [  5] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: wgw5ez45oztfzkye3bpbgsyx
+2017-05-11 12:04:43,258 [  7] INFO  AppManager [(null)] (landingPage.aspx) - Request from http://localhost:1949/SimpleServings/ui/page/ 
+Request Type: LogInOut 
+SessionId: wgw5ez45oztfzkye3bpbgsyx
+2017-05-11 12:04:43,259 [  7] INFO  AppManager [(null)] (landingPage.aspx) - Redirecting to Login.aspx 
+Request Type: LogInOut 
+SessionId: wgw5ez45oztfzkye3bpbgsyx
+2017-05-11 12:04:45,643 [  6] INFO  AppManager [(null)] (login.aspx) - (cvais7773) - Login successful 
+SessionId: nhjash55x4jtewm15yysi2y4
+2017-05-11 12:04:45,678 [  6] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: ym1ft545eqlkw345hpw2feir
+2017-05-11 12:05:43,082 [  5] ERROR AppManager [(null)] SimpleServings application error: Exception of type 'System.Web.HttpUnhandledException' was thrown.
+location: http://localhost:1949/SimpleServings/UI/Page/resources.aspx
+
+System.Web.HttpUnhandledException: Exception of type 'System.Web.HttpUnhandledException' was thrown. ---> System.Data.DataException: DataTable must be set prior to using DataView.
+   at System.Data.DataView.CheckSort(String sort)
+   at System.Data.DataView.set_Sort(String value)
+   at SimpleServings.UI.UDC.SimpleServings.Resource.ResourceList.SortGridView(String sortExpression, String direction) in c:\TFS\DFTA\SimpleServings\SimpleServings\SimpleServings\UI\UDC\SimpleServings\Resource\ResourceList.ascx.cs:line 148
+   at SimpleServings.UI.UDC.SimpleServings.Resource.ResourceList.gvResources_Sorting(Object sender, GridViewSortEventArgs e) in c:\TFS\DFTA\SimpleServings\SimpleServings\SimpleServings\UI\UDC\SimpleServings\Resource\ResourceList.ascx.cs:line 128
+   at System.Web.UI.WebControls.GridView.OnSorting(GridViewSortEventArgs e)
+   at System.Web.UI.WebControls.GridView.HandleSort(String sortExpression, SortDirection sortDirection)
+   at System.Web.UI.WebControls.GridView.HandleSort(String sortExpression)
+   at System.Web.UI.WebControls.GridView.HandleEvent(EventArgs e, Boolean causesValidation, String validationGroup)
+   at System.Web.UI.WebControls.GridView.RaisePostBackEvent(String eventArgument)
+   at System.Web.UI.WebControls.GridView.System.Web.UI.IPostBackEventHandler.RaisePostBackEvent(String eventArgument)
+   at System.Web.UI.Page.RaisePostBackEvent(IPostBackEventHandler sourceControl, String eventArgument)
+   at System.Web.UI.Page.RaisePostBackEvent(NameValueCollection postData)
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   --- End of inner exception stack trace ---
+   at System.Web.UI.Page.HandleError(Exception e)
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   at System.Web.UI.Page.ProcessRequest(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   at System.Web.UI.Page.ProcessRequest()
+   at System.Web.UI.Page.ProcessRequestWithNoAssert(HttpContext context)
+   at System.Web.UI.Page.ProcessRequest(HttpContext context)
+   at ASP.ui_page_resources_aspx.ProcessRequest(HttpContext context) in c:\Windows\Microsoft.NET\Framework\v2.0.50727\Temporary ASP.NET Files\simpleservings\50605a42\75e306da\App_Web_ypdsthnv.2.cs:line 0
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+2017-05-11 12:12:15,558 [  1] INFO  AppManager [(null)] SimpleServings started.
+2017-05-11 12:12:27,277 [  5] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: ym1ft545eqlkw345hpw2feir
+2017-05-11 12:12:31,253 [  5] INFO  AppManager [(null)] (landingPage.aspx) - Request from http://localhost:1949/SimpleServings/ui/page/ 
+Request Type: LogInOut 
+SessionId: ym1ft545eqlkw345hpw2feir
+2017-05-11 12:12:31,255 [  5] INFO  AppManager [(null)] (landingPage.aspx) - Redirecting to Login.aspx 
+Request Type: LogInOut 
+SessionId: ym1ft545eqlkw345hpw2feir
+2017-05-11 12:12:33,931 [  8] INFO  AppManager [(null)] (login.aspx) - (cvais7773) - Login successful 
+SessionId: ksnowi554z0eyn5542afym55
+2017-05-11 12:12:33,961 [  8] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: l0u0yrfy03x2z5e2zkmkeua4
+2017-05-11 12:12:38,903 [  5] ERROR AppManager [(null)] SimpleServings application error: Exception of type 'System.Web.HttpUnhandledException' was thrown.
+location: http://localhost:1949/SimpleServings/UI/Page/resources.aspx
+
+System.Web.HttpUnhandledException: Exception of type 'System.Web.HttpUnhandledException' was thrown. ---> System.ArgumentException: Error serializing value 'System.Linq.OrderedEnumerable`2[SimpleServingsLibrary.Resource.Resource,System.String]' of type 'System.Linq.OrderedEnumerable`2[[SimpleServingsLibrary.Resource.Resource, SimpleServings.Resource, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]].' ---> System.Runtime.Serialization.SerializationException: Type 'System.Linq.OrderedEnumerable`2[[SimpleServingsLibrary.Resource.Resource, SimpleServings.Resource, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]' in Assembly 'System.Core, Version=3.5.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089' is not marked as serializable.
+   at System.Runtime.Serialization.FormatterServices.InternalGetSerializableMembers(RuntimeType type)
+   at System.Runtime.Serialization.FormatterServices.GetSerializableMembers(Type type, StreamingContext context)
+   at System.Runtime.Serialization.Formatters.Binary.WriteObjectInfo.InitMemberInfo()
+   at System.Runtime.Serialization.Formatters.Binary.WriteObjectInfo.InitSerialize(Object obj, ISurrogateSelector surrogateSelector, StreamingContext context, SerObjectInfoInit serObjectInfoInit, IFormatterConverter converter, ObjectWriter objectWriter)
+   at System.Runtime.Serialization.Formatters.Binary.WriteObjectInfo.Serialize(Object obj, ISurrogateSelector surrogateSelector, StreamingContext context, SerObjectInfoInit serObjectInfoInit, IFormatterConverter converter, ObjectWriter objectWriter)
+   at System.Runtime.Serialization.Formatters.Binary.ObjectWriter.Serialize(Object graph, Header[] inHeaders, __BinaryWriter serWriter, Boolean fCheck)
+   at System.Runtime.Serialization.Formatters.Binary.BinaryFormatter.Serialize(Stream serializationStream, Object graph, Header[] headers, Boolean fCheck)
+   at System.Runtime.Serialization.Formatters.Binary.BinaryFormatter.Serialize(Stream serializationStream, Object graph)
+   at System.Web.UI.ObjectStateFormatter.SerializeValue(SerializerBinaryWriter writer, Object value)
+   --- End of inner exception stack trace ---
+   at System.Web.UI.ObjectStateFormatter.SerializeValue(SerializerBinaryWriter writer, Object value)
+   at System.Web.UI.ObjectStateFormatter.Serialize(Stream outputStream, Object stateGraph)
+   at System.Web.UI.ObjectStateFormatter.Serialize(Object stateGraph)
+   at System.Web.UI.ObjectStateFormatter.System.Web.UI.IStateFormatter.Serialize(Object state)
+   at System.Web.UI.Util.SerializeWithAssert(IStateFormatter formatter, Object stateGraph)
+   at System.Web.UI.HiddenFieldPageStatePersister.Save()
+   at System.Web.UI.Page.SavePageStateToPersistenceMedium(Object state)
+   at System.Web.UI.Page.SaveAllState()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   --- End of inner exception stack trace ---
+   at System.Web.UI.Page.HandleError(Exception e)
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   at System.Web.UI.Page.ProcessRequest(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   at System.Web.UI.Page.ProcessRequest()
+   at System.Web.UI.Page.ProcessRequestWithNoAssert(HttpContext context)
+   at System.Web.UI.Page.ProcessRequest(HttpContext context)
+   at ASP.ui_page_resources_aspx.ProcessRequest(HttpContext context) in c:\Windows\Microsoft.NET\Framework\v2.0.50727\Temporary ASP.NET Files\simpleservings\50605a42\75e306da\App_Web_clg6k_v4.2.cs:line 0
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+2017-05-11 12:13:15,300 [  6] ERROR AppManager [(null)] SimpleServings application error: Exception of type 'System.Web.HttpUnhandledException' was thrown.
+location: http://localhost:1949/SimpleServings/UI/Page/resources.aspx
+
+System.Web.HttpUnhandledException: Exception of type 'System.Web.HttpUnhandledException' was thrown. ---> System.ArgumentException: Error serializing value 'System.Linq.OrderedEnumerable`2[SimpleServingsLibrary.Resource.Resource,System.String]' of type 'System.Linq.OrderedEnumerable`2[[SimpleServingsLibrary.Resource.Resource, SimpleServings.Resource, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]].' ---> System.Runtime.Serialization.SerializationException: Type 'System.Linq.OrderedEnumerable`2[[SimpleServingsLibrary.Resource.Resource, SimpleServings.Resource, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]' in Assembly 'System.Core, Version=3.5.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089' is not marked as serializable.
+   at System.Runtime.Serialization.FormatterServices.InternalGetSerializableMembers(RuntimeType type)
+   at System.Runtime.Serialization.FormatterServices.GetSerializableMembers(Type type, StreamingContext context)
+   at System.Runtime.Serialization.Formatters.Binary.WriteObjectInfo.InitMemberInfo()
+   at System.Runtime.Serialization.Formatters.Binary.WriteObjectInfo.InitSerialize(Object obj, ISurrogateSelector surrogateSelector, StreamingContext context, SerObjectInfoInit serObjectInfoInit, IFormatterConverter converter, ObjectWriter objectWriter)
+   at System.Runtime.Serialization.Formatters.Binary.WriteObjectInfo.Serialize(Object obj, ISurrogateSelector surrogateSelector, StreamingContext context, SerObjectInfoInit serObjectInfoInit, IFormatterConverter converter, ObjectWriter objectWriter)
+   at System.Runtime.Serialization.Formatters.Binary.ObjectWriter.Serialize(Object graph, Header[] inHeaders, __BinaryWriter serWriter, Boolean fCheck)
+   at System.Runtime.Serialization.Formatters.Binary.BinaryFormatter.Serialize(Stream serializationStream, Object graph, Header[] headers, Boolean fCheck)
+   at System.Runtime.Serialization.Formatters.Binary.BinaryFormatter.Serialize(Stream serializationStream, Object graph)
+   at System.Web.UI.ObjectStateFormatter.SerializeValue(SerializerBinaryWriter writer, Object value)
+   --- End of inner exception stack trace ---
+   at System.Web.UI.ObjectStateFormatter.SerializeValue(SerializerBinaryWriter writer, Object value)
+   at System.Web.UI.ObjectStateFormatter.Serialize(Stream outputStream, Object stateGraph)
+   at System.Web.UI.ObjectStateFormatter.Serialize(Object stateGraph)
+   at System.Web.UI.ObjectStateFormatter.System.Web.UI.IStateFormatter.Serialize(Object state)
+   at System.Web.UI.Util.SerializeWithAssert(IStateFormatter formatter, Object stateGraph)
+   at System.Web.UI.HiddenFieldPageStatePersister.Save()
+   at System.Web.UI.Page.SavePageStateToPersistenceMedium(Object state)
+   at System.Web.UI.Page.SaveAllState()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   --- End of inner exception stack trace ---
+   at System.Web.UI.Page.HandleError(Exception e)
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   at System.Web.UI.Page.ProcessRequest(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   at System.Web.UI.Page.ProcessRequest()
+   at System.Web.UI.Page.ProcessRequestWithNoAssert(HttpContext context)
+   at System.Web.UI.Page.ProcessRequest(HttpContext context)
+   at ASP.ui_page_resources_aspx.ProcessRequest(HttpContext context) in c:\Windows\Microsoft.NET\Framework\v2.0.50727\Temporary ASP.NET Files\simpleservings\50605a42\75e306da\App_Web_clg6k_v4.2.cs:line 0
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+2017-05-11 12:15:59,954 [  6] ERROR AppManager [(null)] SimpleServings application error: Exception of type 'System.Web.HttpUnhandledException' was thrown.
+location: http://localhost:1949/SimpleServings/UI/Page/resources.aspx
+
+System.Web.HttpUnhandledException: Exception of type 'System.Web.HttpUnhandledException' was thrown. ---> System.ArgumentException: Error serializing value 'System.Linq.OrderedEnumerable`2[SimpleServingsLibrary.Resource.Resource,System.String]' of type 'System.Linq.OrderedEnumerable`2[[SimpleServingsLibrary.Resource.Resource, SimpleServings.Resource, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]].' ---> System.Runtime.Serialization.SerializationException: Type 'System.Linq.OrderedEnumerable`2[[SimpleServingsLibrary.Resource.Resource, SimpleServings.Resource, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]' in Assembly 'System.Core, Version=3.5.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089' is not marked as serializable.
+   at System.Runtime.Serialization.FormatterServices.InternalGetSerializableMembers(RuntimeType type)
+   at System.Runtime.Serialization.FormatterServices.GetSerializableMembers(Type type, StreamingContext context)
+   at System.Runtime.Serialization.Formatters.Binary.WriteObjectInfo.InitMemberInfo()
+   at System.Runtime.Serialization.Formatters.Binary.WriteObjectInfo.InitSerialize(Object obj, ISurrogateSelector surrogateSelector, StreamingContext context, SerObjectInfoInit serObjectInfoInit, IFormatterConverter converter, ObjectWriter objectWriter)
+   at System.Runtime.Serialization.Formatters.Binary.WriteObjectInfo.Serialize(Object obj, ISurrogateSelector surrogateSelector, StreamingContext context, SerObjectInfoInit serObjectInfoInit, IFormatterConverter converter, ObjectWriter objectWriter)
+   at System.Runtime.Serialization.Formatters.Binary.ObjectWriter.Serialize(Object graph, Header[] inHeaders, __BinaryWriter serWriter, Boolean fCheck)
+   at System.Runtime.Serialization.Formatters.Binary.BinaryFormatter.Serialize(Stream serializationStream, Object graph, Header[] headers, Boolean fCheck)
+   at System.Runtime.Serialization.Formatters.Binary.BinaryFormatter.Serialize(Stream serializationStream, Object graph)
+   at System.Web.UI.ObjectStateFormatter.SerializeValue(SerializerBinaryWriter writer, Object value)
+   --- End of inner exception stack trace ---
+   at System.Web.UI.ObjectStateFormatter.SerializeValue(SerializerBinaryWriter writer, Object value)
+   at System.Web.UI.ObjectStateFormatter.Serialize(Stream outputStream, Object stateGraph)
+   at System.Web.UI.ObjectStateFormatter.Serialize(Object stateGraph)
+   at System.Web.UI.ObjectStateFormatter.System.Web.UI.IStateFormatter.Serialize(Object state)
+   at System.Web.UI.Util.SerializeWithAssert(IStateFormatter formatter, Object stateGraph)
+   at System.Web.UI.HiddenFieldPageStatePersister.Save()
+   at System.Web.UI.Page.SavePageStateToPersistenceMedium(Object state)
+   at System.Web.UI.Page.SaveAllState()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   --- End of inner exception stack trace ---
+   at System.Web.UI.Page.HandleError(Exception e)
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   at System.Web.UI.Page.ProcessRequest(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   at System.Web.UI.Page.ProcessRequest()
+   at System.Web.UI.Page.ProcessRequestWithNoAssert(HttpContext context)
+   at System.Web.UI.Page.ProcessRequest(HttpContext context)
+   at ASP.ui_page_resources_aspx.ProcessRequest(HttpContext context) in c:\Windows\Microsoft.NET\Framework\v2.0.50727\Temporary ASP.NET Files\simpleservings\50605a42\75e306da\App_Web_clg6k_v4.2.cs:line 0
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+2017-05-11 13:28:16,132 [  1] INFO  AppManager [(null)] SimpleServings started.
+2017-05-11 13:28:25,759 [  5] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: l0u0yrfy03x2z5e2zkmkeua4
+2017-05-11 13:28:28,874 [  5] INFO  AppManager [(null)] (landingPage.aspx) - Request from http://localhost:1949/SimpleServings/ui/page/ 
+Request Type: LogInOut 
+SessionId: l0u0yrfy03x2z5e2zkmkeua4
+2017-05-11 13:28:28,875 [  5] INFO  AppManager [(null)] (landingPage.aspx) - Redirecting to Login.aspx 
+Request Type: LogInOut 
+SessionId: l0u0yrfy03x2z5e2zkmkeua4
+2017-05-11 13:28:31,683 [  9] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: vohxm155tn5nkz45uukfjy45
+2017-05-11 13:29:30,923 [  5] ERROR AppManager [(null)] SimpleServings application error: Exception of type 'System.Web.HttpUnhandledException' was thrown.
+location: http://localhost:1949/SimpleServings/UI/Page/resources.aspx
+
+System.Web.HttpUnhandledException: Exception of type 'System.Web.HttpUnhandledException' was thrown. ---> System.InvalidCastException: Unable to cast object of type 'SimpleServingsLibrary.Resource.Resources' to type 'System.Data.DataTable'.
+   at SimpleServings.UI.UDC.SimpleServings.Resource.ResourceList.SortGridView(String sortExpression, String direction) in c:\TFS\DFTA\SimpleServings\SimpleServings\SimpleServings\UI\UDC\SimpleServings\Resource\ResourceList.ascx.cs:line 147
+   at SimpleServings.UI.UDC.SimpleServings.Resource.ResourceList.gvResources_Sorting(Object sender, GridViewSortEventArgs e) in c:\TFS\DFTA\SimpleServings\SimpleServings\SimpleServings\UI\UDC\SimpleServings\Resource\ResourceList.ascx.cs:line 128
+   at System.Web.UI.WebControls.GridView.OnSorting(GridViewSortEventArgs e)
+   at System.Web.UI.WebControls.GridView.HandleSort(String sortExpression, SortDirection sortDirection)
+   at System.Web.UI.WebControls.GridView.HandleSort(String sortExpression)
+   at System.Web.UI.WebControls.GridView.HandleEvent(EventArgs e, Boolean causesValidation, String validationGroup)
+   at System.Web.UI.WebControls.GridView.RaisePostBackEvent(String eventArgument)
+   at System.Web.UI.WebControls.GridView.System.Web.UI.IPostBackEventHandler.RaisePostBackEvent(String eventArgument)
+   at System.Web.UI.Page.RaisePostBackEvent(IPostBackEventHandler sourceControl, String eventArgument)
+   at System.Web.UI.Page.RaisePostBackEvent(NameValueCollection postData)
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   --- End of inner exception stack trace ---
+   at System.Web.UI.Page.HandleError(Exception e)
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   at System.Web.UI.Page.ProcessRequest(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   at System.Web.UI.Page.ProcessRequest()
+   at System.Web.UI.Page.ProcessRequestWithNoAssert(HttpContext context)
+   at System.Web.UI.Page.ProcessRequest(HttpContext context)
+   at ASP.ui_page_resources_aspx.ProcessRequest(HttpContext context) in c:\Windows\Microsoft.NET\Framework\v2.0.50727\Temporary ASP.NET Files\simpleservings\50605a42\75e306da\App_Web_akoggc-g.2.cs:line 0
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+2017-05-11 13:30:36,697 [  1] INFO  AppManager [(null)] SimpleServings started.
+2017-05-11 13:30:46,570 [  5] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: vohxm155tn5nkz45uukfjy45
+2017-05-11 13:30:52,536 [  7] INFO  AppManager [(null)] (landingPage.aspx) - Request from http://localhost:1949/SimpleServings/ui/page/ 
+Request Type: LogInOut 
+SessionId: vohxm155tn5nkz45uukfjy45
+2017-05-11 13:30:52,538 [  7] INFO  AppManager [(null)] (landingPage.aspx) - Redirecting to Login.aspx 
+Request Type: LogInOut 
+SessionId: vohxm155tn5nkz45uukfjy45
+2017-05-11 13:30:54,767 [  8] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: ak211045azz4kgumdgjdvkyd
+2017-05-11 13:31:47,236 [  5] ERROR AppManager [(null)] SimpleServings application error: Exception of type 'System.Web.HttpUnhandledException' was thrown.
+location: http://localhost:1949/SimpleServings/UI/Page/resources.aspx
+
+System.Web.HttpUnhandledException: Exception of type 'System.Web.HttpUnhandledException' was thrown. ---> System.Data.DataException: DataTable must be set prior to using DataView.
+   at System.Data.DataView.CheckSort(String sort)
+   at System.Data.DataView.set_Sort(String value)
+   at SimpleServings.UI.UDC.SimpleServings.Resource.ResourceList.SortGridView(String sortExpression, String direction) in c:\TFS\DFTA\SimpleServings\SimpleServings\SimpleServings\UI\UDC\SimpleServings\Resource\ResourceList.ascx.cs:line 150
+   at SimpleServings.UI.UDC.SimpleServings.Resource.ResourceList.gvResources_Sorting(Object sender, GridViewSortEventArgs e) in c:\TFS\DFTA\SimpleServings\SimpleServings\SimpleServings\UI\UDC\SimpleServings\Resource\ResourceList.ascx.cs:line 128
+   at System.Web.UI.WebControls.GridView.OnSorting(GridViewSortEventArgs e)
+   at System.Web.UI.WebControls.GridView.HandleSort(String sortExpression, SortDirection sortDirection)
+   at System.Web.UI.WebControls.GridView.HandleSort(String sortExpression)
+   at System.Web.UI.WebControls.GridView.HandleEvent(EventArgs e, Boolean causesValidation, String validationGroup)
+   at System.Web.UI.WebControls.GridView.RaisePostBackEvent(String eventArgument)
+   at System.Web.UI.WebControls.GridView.System.Web.UI.IPostBackEventHandler.RaisePostBackEvent(String eventArgument)
+   at System.Web.UI.Page.RaisePostBackEvent(IPostBackEventHandler sourceControl, String eventArgument)
+   at System.Web.UI.Page.RaisePostBackEvent(NameValueCollection postData)
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   --- End of inner exception stack trace ---
+   at System.Web.UI.Page.HandleError(Exception e)
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   at System.Web.UI.Page.ProcessRequest(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   at System.Web.UI.Page.ProcessRequest()
+   at System.Web.UI.Page.ProcessRequestWithNoAssert(HttpContext context)
+   at System.Web.UI.Page.ProcessRequest(HttpContext context)
+   at ASP.ui_page_resources_aspx.ProcessRequest(HttpContext context) in c:\Windows\Microsoft.NET\Framework\v2.0.50727\Temporary ASP.NET Files\simpleservings\50605a42\75e306da\App_Web_6scjupqk.2.cs:line 0
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+2017-05-11 13:37:31,318 [  1] INFO  AppManager [(null)] SimpleServings started.
+2017-05-11 13:37:59,427 [  7] INFO  AppManager [(null)] (landingPage.aspx) - Redirecting to Login.aspx 
+Request Type: LogInOut 
+SessionId: 
+2017-05-11 13:38:05,133 [  6] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: ihem4p452z0rot55gzqn4d45
+2017-05-11 13:39:21,784 [  5] ERROR AppManager [(null)] SimpleServings application error: Exception of type 'System.Web.HttpUnhandledException' was thrown.
+location: http://localhost:1949/SimpleServings/UI/Page/resources.aspx
+
+System.Web.HttpUnhandledException: Exception of type 'System.Web.HttpUnhandledException' was thrown. ---> System.Data.DataException: DataTable must be set prior to using DataView.
+   at System.Data.DataView.CheckSort(String sort)
+   at System.Data.DataView.set_Sort(String value)
+   at SimpleServings.UI.UDC.SimpleServings.Resource.ResourceList.SortGridView(String sortExpression, String direction) in c:\TFS\DFTA\SimpleServings\SimpleServings\SimpleServings\UI\UDC\SimpleServings\Resource\ResourceList.ascx.cs:line 147
+   at SimpleServings.UI.UDC.SimpleServings.Resource.ResourceList.gvResources_Sorting(Object sender, GridViewSortEventArgs e) in c:\TFS\DFTA\SimpleServings\SimpleServings\SimpleServings\UI\UDC\SimpleServings\Resource\ResourceList.ascx.cs:line 128
+   at System.Web.UI.WebControls.GridView.OnSorting(GridViewSortEventArgs e)
+   at System.Web.UI.WebControls.GridView.HandleSort(String sortExpression, SortDirection sortDirection)
+   at System.Web.UI.WebControls.GridView.HandleSort(String sortExpression)
+   at System.Web.UI.WebControls.GridView.HandleEvent(EventArgs e, Boolean causesValidation, String validationGroup)
+   at System.Web.UI.WebControls.GridView.RaisePostBackEvent(String eventArgument)
+   at System.Web.UI.WebControls.GridView.System.Web.UI.IPostBackEventHandler.RaisePostBackEvent(String eventArgument)
+   at System.Web.UI.Page.RaisePostBackEvent(IPostBackEventHandler sourceControl, String eventArgument)
+   at System.Web.UI.Page.RaisePostBackEvent(NameValueCollection postData)
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   --- End of inner exception stack trace ---
+   at System.Web.UI.Page.HandleError(Exception e)
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   at System.Web.UI.Page.ProcessRequest(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   at System.Web.UI.Page.ProcessRequest()
+   at System.Web.UI.Page.ProcessRequestWithNoAssert(HttpContext context)
+   at System.Web.UI.Page.ProcessRequest(HttpContext context)
+   at ASP.ui_page_resources_aspx.ProcessRequest(HttpContext context) in c:\Windows\Microsoft.NET\Framework\v2.0.50727\Temporary ASP.NET Files\simpleservings\50605a42\75e306da\App_Web_kz7oy-zp.5.cs:line 0
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+2017-05-11 13:41:46,992 [  1] INFO  AppManager [(null)] SimpleServings started.
+2017-05-11 13:42:00,795 [ 10] INFO  AppManager [(null)] (landingPage.aspx) - Redirecting to Login.aspx 
+Request Type: LogInOut 
+SessionId: 
+2017-05-11 13:42:06,229 [ 10] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: xtiblh55uuwezh550cg3rsue
+2017-05-11 13:43:01,756 [  5] ERROR AppManager [(null)] SimpleServings application error: Exception of type 'System.Web.HttpUnhandledException' was thrown.
+location: http://localhost:1949/SimpleServings/UI/Page/resources.aspx
+
+System.Web.HttpUnhandledException: Exception of type 'System.Web.HttpUnhandledException' was thrown. ---> System.InvalidCastException: Unable to cast object of type 'SimpleServingsLibrary.Resource.Resources' to type 'System.Data.DataTable'.
+   at SimpleServings.UI.UDC.SimpleServings.Resource.ResourceList.SortGridView(String sortExpression, String direction) in c:\TFS\DFTA\SimpleServings\SimpleServings\SimpleServings\UI\UDC\SimpleServings\Resource\ResourceList.ascx.cs:line 144
+   at SimpleServings.UI.UDC.SimpleServings.Resource.ResourceList.gvResources_Sorting(Object sender, GridViewSortEventArgs e) in c:\TFS\DFTA\SimpleServings\SimpleServings\SimpleServings\UI\UDC\SimpleServings\Resource\ResourceList.ascx.cs:line 128
+   at System.Web.UI.WebControls.GridView.OnSorting(GridViewSortEventArgs e)
+   at System.Web.UI.WebControls.GridView.HandleSort(String sortExpression, SortDirection sortDirection)
+   at System.Web.UI.WebControls.GridView.HandleSort(String sortExpression)
+   at System.Web.UI.WebControls.GridView.HandleEvent(EventArgs e, Boolean causesValidation, String validationGroup)
+   at System.Web.UI.WebControls.GridView.RaisePostBackEvent(String eventArgument)
+   at System.Web.UI.WebControls.GridView.System.Web.UI.IPostBackEventHandler.RaisePostBackEvent(String eventArgument)
+   at System.Web.UI.Page.RaisePostBackEvent(IPostBackEventHandler sourceControl, String eventArgument)
+   at System.Web.UI.Page.RaisePostBackEvent(NameValueCollection postData)
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   --- End of inner exception stack trace ---
+   at System.Web.UI.Page.HandleError(Exception e)
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   at System.Web.UI.Page.ProcessRequest(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   at System.Web.UI.Page.ProcessRequest()
+   at System.Web.UI.Page.ProcessRequestWithNoAssert(HttpContext context)
+   at System.Web.UI.Page.ProcessRequest(HttpContext context)
+   at ASP.ui_page_resources_aspx.ProcessRequest(HttpContext context) in c:\Windows\Microsoft.NET\Framework\v2.0.50727\Temporary ASP.NET Files\simpleservings\50605a42\75e306da\App_Web_okqszu6v.2.cs:line 0
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+2017-05-11 14:00:20,940 [  1] INFO  AppManager [(null)] SimpleServings started.
+2017-05-11 14:00:43,455 [  5] INFO  AppManager [(null)] (landingPage.aspx) - Redirecting to Login.aspx 
+Request Type: LogInOut 
+SessionId: 
+2017-05-11 14:00:51,123 [  6] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: pyq34c55ax0rlt450qujo1fd
+2017-05-11 14:02:08,244 [  6] ERROR AppManager [(null)] SimpleServings application error: Exception of type 'System.Web.HttpUnhandledException' was thrown.
+location: http://localhost:1949/SimpleServings/UI/Page/resources.aspx
+
+System.Web.HttpUnhandledException: Exception of type 'System.Web.HttpUnhandledException' was thrown. ---> System.NotSupportedException: The data source does not support server-side data paging.
+   at System.Web.UI.DataSourceView.RaiseUnsupportedCapabilityError(DataSourceCapabilities capability)
+   at System.Web.UI.DataSourceSelectArguments.RaiseUnsupportedCapabilitiesError(DataSourceView view)
+   at System.Web.UI.WebControls.ReadOnlyDataSourceView.ExecuteSelect(DataSourceSelectArguments arguments)
+   at System.Web.UI.DataSourceView.Select(DataSourceSelectArguments arguments, DataSourceViewSelectCallback callback)
+   at System.Web.UI.WebControls.GridView.CreateChildControls(IEnumerable dataSource, Boolean dataBinding)
+   at System.Web.UI.WebControls.CompositeDataBoundControl.PerformDataBinding(IEnumerable data)
+   at System.Web.UI.WebControls.GridView.PerformDataBinding(IEnumerable data)
+   at System.Web.UI.WebControls.DataBoundControl.OnDataSourceViewSelectCallback(IEnumerable data)
+   at System.Web.UI.DataSourceView.Select(DataSourceSelectArguments arguments, DataSourceViewSelectCallback callback)
+   at System.Web.UI.WebControls.DataBoundControl.PerformSelect()
+   at System.Web.UI.WebControls.BaseDataBoundControl.DataBind()
+   at System.Web.UI.WebControls.GridView.DataBind()
+   at SimpleServings.UI.UDC.SimpleServings.Resource.ResourceList.SortGridView(String sortExpression, String direction) in c:\TFS\DFTA\SimpleServings\SimpleServings\SimpleServings\UI\UDC\SimpleServings\Resource\ResourceList.ascx.cs:line 156
+   at SimpleServings.UI.UDC.SimpleServings.Resource.ResourceList.gvResources_Sorting(Object sender, GridViewSortEventArgs e) in c:\TFS\DFTA\SimpleServings\SimpleServings\SimpleServings\UI\UDC\SimpleServings\Resource\ResourceList.ascx.cs:line 128
+   at System.Web.UI.WebControls.GridView.OnSorting(GridViewSortEventArgs e)
+   at System.Web.UI.WebControls.GridView.HandleSort(String sortExpression, SortDirection sortDirection)
+   at System.Web.UI.WebControls.GridView.HandleSort(String sortExpression)
+   at System.Web.UI.WebControls.GridView.HandleEvent(EventArgs e, Boolean causesValidation, String validationGroup)
+   at System.Web.UI.WebControls.GridView.RaisePostBackEvent(String eventArgument)
+   at System.Web.UI.WebControls.GridView.System.Web.UI.IPostBackEventHandler.RaisePostBackEvent(String eventArgument)
+   at System.Web.UI.Page.RaisePostBackEvent(IPostBackEventHandler sourceControl, String eventArgument)
+   at System.Web.UI.Page.RaisePostBackEvent(NameValueCollection postData)
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   --- End of inner exception stack trace ---
+   at System.Web.UI.Page.HandleError(Exception e)
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   at System.Web.UI.Page.ProcessRequest(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   at System.Web.UI.Page.ProcessRequest()
+   at System.Web.UI.Page.ProcessRequestWithNoAssert(HttpContext context)
+   at System.Web.UI.Page.ProcessRequest(HttpContext context)
+   at ASP.ui_page_resources_aspx.ProcessRequest(HttpContext context) in c:\Windows\Microsoft.NET\Framework\v2.0.50727\Temporary ASP.NET Files\simpleservings\50605a42\75e306da\App_Web_ojiunktt.2.cs:line 0
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+2017-05-11 14:02:39,004 [  1] INFO  AppManager [(null)] SimpleServings started.
+2017-05-11 14:03:14,079 [  1] INFO  AppManager [(null)] SimpleServings started.
+2017-05-11 14:03:25,233 [  7] INFO  AppManager [(null)] (landingPage.aspx) - Redirecting to Login.aspx 
+Request Type: LogInOut 
+SessionId: 
+2017-05-11 14:03:30,982 [  7] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: elys2445mpycqzi32qdch445
+2017-05-11 14:03:55,881 [  5] ERROR AppManager [(null)] SimpleServings application error: Exception of type 'System.Web.HttpUnhandledException' was thrown.
+location: http://localhost:1949/SimpleServings/UI/Page/resources.aspx
+
+System.Web.HttpUnhandledException: Exception of type 'System.Web.HttpUnhandledException' was thrown. ---> System.InvalidCastException: Unable to cast object of type 'System.Linq.OrderedEnumerable`2[SimpleServingsLibrary.Resource.Resource,System.String]' to type 'SimpleServingsLibrary.Resource.Resources'.
+   at SimpleServings.UI.UDC.SimpleServings.Resource.ResourceList.SortGridView(String sortExpression, String direction) in c:\TFS\DFTA\SimpleServings\SimpleServings\SimpleServings\UI\UDC\SimpleServings\Resource\ResourceList.ascx.cs:line 157
+   at SimpleServings.UI.UDC.SimpleServings.Resource.ResourceList.gvResources_Sorting(Object sender, GridViewSortEventArgs e) in c:\TFS\DFTA\SimpleServings\SimpleServings\SimpleServings\UI\UDC\SimpleServings\Resource\ResourceList.ascx.cs:line 128
+   at System.Web.UI.WebControls.GridView.OnSorting(GridViewSortEventArgs e)
+   at System.Web.UI.WebControls.GridView.HandleSort(String sortExpression, SortDirection sortDirection)
+   at System.Web.UI.WebControls.GridView.HandleSort(String sortExpression)
+   at System.Web.UI.WebControls.GridView.HandleEvent(EventArgs e, Boolean causesValidation, String validationGroup)
+   at System.Web.UI.WebControls.GridView.RaisePostBackEvent(String eventArgument)
+   at System.Web.UI.WebControls.GridView.System.Web.UI.IPostBackEventHandler.RaisePostBackEvent(String eventArgument)
+   at System.Web.UI.Page.RaisePostBackEvent(IPostBackEventHandler sourceControl, String eventArgument)
+   at System.Web.UI.Page.RaisePostBackEvent(NameValueCollection postData)
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   --- End of inner exception stack trace ---
+   at System.Web.UI.Page.HandleError(Exception e)
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   at System.Web.UI.Page.ProcessRequest(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   at System.Web.UI.Page.ProcessRequest()
+   at System.Web.UI.Page.ProcessRequestWithNoAssert(HttpContext context)
+   at System.Web.UI.Page.ProcessRequest(HttpContext context)
+   at ASP.ui_page_resources_aspx.ProcessRequest(HttpContext context) in c:\Windows\Microsoft.NET\Framework\v2.0.50727\Temporary ASP.NET Files\simpleservings\50605a42\75e306da\App_Web_56it_0bp.2.cs:line 0
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+2017-05-11 14:04:40,815 [  1] INFO  AppManager [(null)] SimpleServings started.
+2017-05-11 14:04:57,234 [  7] INFO  AppManager [(null)] (landingPage.aspx) - Redirecting to Login.aspx 
+Request Type: LogInOut 
+SessionId: 
+2017-05-11 14:05:02,685 [  7] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: od0xahuvbslis1acg3ezdjir
+2017-05-11 14:05:56,772 [  8] ERROR AppManager [(null)] SimpleServings application error: Exception of type 'System.Web.HttpUnhandledException' was thrown.
+location: http://localhost:1949/SimpleServings/UI/Page/resources.aspx
+
+System.Web.HttpUnhandledException: Exception of type 'System.Web.HttpUnhandledException' was thrown. ---> System.InvalidCastException: Unable to cast object of type 'System.Collections.Generic.List`1[SimpleServingsLibrary.Resource.Resource]' to type 'SimpleServingsLibrary.Resource.Resources'.
+   at SimpleServings.UI.UDC.SimpleServings.Resource.ResourceList.SortGridView(String sortExpression, String direction) in c:\TFS\DFTA\SimpleServings\SimpleServings\SimpleServings\UI\UDC\SimpleServings\Resource\ResourceList.ascx.cs:line 157
+   at SimpleServings.UI.UDC.SimpleServings.Resource.ResourceList.gvResources_Sorting(Object sender, GridViewSortEventArgs e) in c:\TFS\DFTA\SimpleServings\SimpleServings\SimpleServings\UI\UDC\SimpleServings\Resource\ResourceList.ascx.cs:line 128
+   at System.Web.UI.WebControls.GridView.OnSorting(GridViewSortEventArgs e)
+   at System.Web.UI.WebControls.GridView.HandleSort(String sortExpression, SortDirection sortDirection)
+   at System.Web.UI.WebControls.GridView.HandleSort(String sortExpression)
+   at System.Web.UI.WebControls.GridView.HandleEvent(EventArgs e, Boolean causesValidation, String validationGroup)
+   at System.Web.UI.WebControls.GridView.RaisePostBackEvent(String eventArgument)
+   at System.Web.UI.WebControls.GridView.System.Web.UI.IPostBackEventHandler.RaisePostBackEvent(String eventArgument)
+   at System.Web.UI.Page.RaisePostBackEvent(IPostBackEventHandler sourceControl, String eventArgument)
+   at System.Web.UI.Page.RaisePostBackEvent(NameValueCollection postData)
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   --- End of inner exception stack trace ---
+   at System.Web.UI.Page.HandleError(Exception e)
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   at System.Web.UI.Page.ProcessRequest(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   at System.Web.UI.Page.ProcessRequest()
+   at System.Web.UI.Page.ProcessRequestWithNoAssert(HttpContext context)
+   at System.Web.UI.Page.ProcessRequest(HttpContext context)
+   at ASP.ui_page_resources_aspx.ProcessRequest(HttpContext context) in c:\Windows\Microsoft.NET\Framework\v2.0.50727\Temporary ASP.NET Files\simpleservings\50605a42\75e306da\App_Web_brbntgpo.2.cs:line 0
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+2017-05-11 14:07:51,669 [  1] INFO  AppManager [(null)] SimpleServings started.
+2017-05-11 14:08:13,274 [  5] INFO  AppManager [(null)] (landingPage.aspx) - Redirecting to Login.aspx 
+Request Type: LogInOut 
+SessionId: 
+2017-05-11 14:08:18,211 [  5] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: vgv40kqzg40kjjbiayoj1v55
+2017-05-11 14:09:02,871 [  9] ERROR AppManager [(null)] SimpleServings application error: Exception of type 'System.Web.HttpUnhandledException' was thrown.
+location: http://localhost:1949/SimpleServings/UI/Page/resources.aspx
+
+System.Web.HttpUnhandledException: Exception of type 'System.Web.HttpUnhandledException' was thrown. ---> System.InvalidCastException: Unable to cast object of type 'System.Collections.Generic.List`1[SimpleServingsLibrary.Resource.Resource]' to type 'SimpleServingsLibrary.Resource.Resources'.
+   at SimpleServings.UI.UDC.SimpleServings.Resource.ResourceList.SortGridView(String sortExpression, String direction) in c:\TFS\DFTA\SimpleServings\SimpleServings\SimpleServings\UI\UDC\SimpleServings\Resource\ResourceList.ascx.cs:line 158
+   at SimpleServings.UI.UDC.SimpleServings.Resource.ResourceList.gvResources_Sorting(Object sender, GridViewSortEventArgs e) in c:\TFS\DFTA\SimpleServings\SimpleServings\SimpleServings\UI\UDC\SimpleServings\Resource\ResourceList.ascx.cs:line 128
+   at System.Web.UI.WebControls.GridView.OnSorting(GridViewSortEventArgs e)
+   at System.Web.UI.WebControls.GridView.HandleSort(String sortExpression, SortDirection sortDirection)
+   at System.Web.UI.WebControls.GridView.HandleSort(String sortExpression)
+   at System.Web.UI.WebControls.GridView.HandleEvent(EventArgs e, Boolean causesValidation, String validationGroup)
+   at System.Web.UI.WebControls.GridView.RaisePostBackEvent(String eventArgument)
+   at System.Web.UI.WebControls.GridView.System.Web.UI.IPostBackEventHandler.RaisePostBackEvent(String eventArgument)
+   at System.Web.UI.Page.RaisePostBackEvent(IPostBackEventHandler sourceControl, String eventArgument)
+   at System.Web.UI.Page.RaisePostBackEvent(NameValueCollection postData)
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   --- End of inner exception stack trace ---
+   at System.Web.UI.Page.HandleError(Exception e)
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   at System.Web.UI.Page.ProcessRequest(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   at System.Web.UI.Page.ProcessRequest()
+   at System.Web.UI.Page.ProcessRequestWithNoAssert(HttpContext context)
+   at System.Web.UI.Page.ProcessRequest(HttpContext context)
+   at ASP.ui_page_resources_aspx.ProcessRequest(HttpContext context) in c:\Windows\Microsoft.NET\Framework\v2.0.50727\Temporary ASP.NET Files\simpleservings\50605a42\75e306da\App_Web_8yll-0yg.2.cs:line 0
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+2017-05-11 14:11:54,813 [  1] INFO  AppManager [(null)] SimpleServings started.
+2017-05-11 14:12:08,957 [  5] INFO  AppManager [(null)] (landingPage.aspx) - Redirecting to Login.aspx 
+Request Type: LogInOut 
+SessionId: 
+2017-05-11 14:12:16,816 [  5] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: zljjonqeq3acgmn0bdw4zlum
+2017-05-11 14:14:08,578 [  1] INFO  AppManager [(null)] SimpleServings started.
+2017-05-11 14:15:04,205 [  1] INFO  AppManager [(null)] SimpleServings started.
+2017-05-11 14:15:20,789 [  5] INFO  AppManager [(null)] (landingPage.aspx) - Redirecting to Login.aspx 
+Request Type: LogInOut 
+SessionId: 
+2017-05-11 14:15:26,380 [  9] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: rge3jhb4kaway3451xak1onx
+2017-05-11 14:16:19,656 [  6] ERROR AppManager [(null)] SimpleServings application error: Exception of type 'System.Web.HttpUnhandledException' was thrown.
+location: http://localhost:1949/SimpleServings/UI/Page/resources.aspx
+
+System.Web.HttpUnhandledException: Exception of type 'System.Web.HttpUnhandledException' was thrown. ---> System.Web.HttpException: The GridView 'gvResources' fired event PageIndexChanging which wasn't handled.
+   at System.Web.UI.WebControls.GridView.OnPageIndexChanging(GridViewPageEventArgs e)
+   at System.Web.UI.WebControls.GridView.HandlePage(Int32 newPage)
+   at System.Web.UI.WebControls.GridView.HandleEvent(EventArgs e, Boolean causesValidation, String validationGroup)
+   at System.Web.UI.WebControls.GridView.RaisePostBackEvent(String eventArgument)
+   at System.Web.UI.WebControls.GridView.System.Web.UI.IPostBackEventHandler.RaisePostBackEvent(String eventArgument)
+   at System.Web.UI.Page.RaisePostBackEvent(IPostBackEventHandler sourceControl, String eventArgument)
+   at System.Web.UI.Page.RaisePostBackEvent(NameValueCollection postData)
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   --- End of inner exception stack trace ---
+   at System.Web.UI.Page.HandleError(Exception e)
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   at System.Web.UI.Page.ProcessRequest(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   at System.Web.UI.Page.ProcessRequest()
+   at System.Web.UI.Page.ProcessRequestWithNoAssert(HttpContext context)
+   at System.Web.UI.Page.ProcessRequest(HttpContext context)
+   at ASP.ui_page_resources_aspx.ProcessRequest(HttpContext context) in c:\Windows\Microsoft.NET\Framework\v2.0.50727\Temporary ASP.NET Files\simpleservings\50605a42\75e306da\App_Web_lra-gfok.2.cs:line 0
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+2017-05-11 14:17:29,891 [  1] INFO  AppManager [(null)] SimpleServings started.
+2017-05-11 14:17:52,810 [  7] INFO  AppManager [(null)] (landingPage.aspx) - Redirecting to Login.aspx 
+Request Type: LogInOut 
+SessionId: 
+2017-05-11 14:18:00,401 [  9] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: ndu13o55nfaeqwnibia0hiay
+2017-05-11 14:19:21,949 [  1] INFO  AppManager [(null)] SimpleServings started.
+2017-05-11 14:19:32,751 [  6] INFO  AppManager [(null)] (landingPage.aspx) - Redirecting to Login.aspx 
+Request Type: LogInOut 
+SessionId: 
+2017-05-11 14:19:38,035 [  6] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: jcayh4ecleyq3s45il5zpdqg
+2017-05-11 14:23:09,393 [  6] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: cmqnqd55ul0ywf55mfdmdz55
+2017-05-11 14:23:10,710 [  7] INFO  AppManager [(null)] (landingPage.aspx) - Request from http://localhost:1949/SimpleServings/UI/Page/ 
+Request Type: LogInOut 
+SessionId: pra04c45htgn2q55epdtamqc
+2017-05-11 14:23:10,711 [  7] INFO  AppManager [(null)] (landingPage.aspx) - Redirecting to Login.aspx 
+Request Type: LogInOut 
+SessionId: pra04c45htgn2q55epdtamqc
+2017-05-11 14:23:10,718 [  8] INFO  AppManager [(null)] (login.aspx) - Request from http://localhost:1949/SimpleServings/UI/Page/ 
+SessionId: 4emr4d55d5blqyrnq3cjmy45
+2017-05-11 14:23:13,062 [  8] INFO  AppManager [(null)] (landingPage.aspx) - Clearing Session 
+Request Type:  
+SessionId: zpouqo55pw4jnvy2luym1oiy
+2017-05-11 14:23:13,079 [  6] INFO  AppManager [(null)] (landingPage.aspx) - New Session 
+Request Type:  
+SessionId: mddthnyj1isgyv2v1qisox55
+2017-05-11 14:23:13,096 [  7] INFO  AppManager [(null)] (login.aspx) - (cvais7773) - Login successful 
+SessionId: 3ukqqr55bo1lsoy0bbyd44ei
+2017-05-11 14:23:13,102 [  7] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: mddthnyj1isgyv2v1qisox55
+2017-05-11 14:25:20,917 [  1] INFO  AppManager [(null)] SimpleServings started.
+2017-05-11 14:25:30,450 [  8] INFO  AppManager [(null)] (landingPage.aspx) - Redirecting to Login.aspx 
+Request Type: LogInOut 
+SessionId: 
+2017-05-11 14:25:32,951 [  6] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: 2cff0uqlz11vizbirqpd14bf
+2017-05-11 14:26:22,944 [  1] INFO  AppManager [(null)] SimpleServings started.
+2017-05-11 14:26:25,931 [  5] INFO  AppManager [(null)] (landingPage.aspx) - Redirecting to Login.aspx 
+Request Type: LogInOut 
+SessionId: 
+2017-05-11 14:26:31,989 [  7] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: phwgeibtrlhl0oyf14onmt55
+2017-05-11 14:28:36,490 [  1] INFO  AppManager [(null)] SimpleServings started.
+2017-05-11 14:29:14,023 [  7] INFO  AppManager [(null)] (landingPage.aspx) - Redirecting to Login.aspx 
+Request Type: LogInOut 
+SessionId: 
+2017-05-11 14:29:24,396 [  8] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: jhigwqathpahpr45byz5or45
+2017-05-11 14:36:43,214 [  1] INFO  AppManager [(null)] SimpleServings started.
+2017-05-11 14:36:58,659 [  5] INFO  AppManager [(null)] (landingPage.aspx) - Redirecting to Login.aspx 
+Request Type: LogInOut 
+SessionId: 
+2017-05-11 14:37:04,425 [  8] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: m31ldhzt0olh2f45s45opdb2
+2017-05-11 14:38:06,515 [  8] ERROR AppManager [(null)] SimpleServings application error: Exception of type 'System.Web.HttpUnhandledException' was thrown.
+location: http://localhost:1949/SimpleServings/UI/Page/resources.aspx
+
+System.Web.HttpUnhandledException: Exception of type 'System.Web.HttpUnhandledException' was thrown. ---> System.InvalidCastException: Unable to cast object of type 'System.Collections.Generic.List`1[SimpleServingsLibrary.Resource.Resource]' to type 'SimpleServingsLibrary.Resource.Resources'.
+   at SimpleServings.UI.UDC.SimpleServings.Resource.ResourceList.SortGridView(String sortExpression, String direction) in c:\TFS\DFTA\SimpleServings\SimpleServings\SimpleServings\UI\UDC\SimpleServings\Resource\ResourceList.ascx.cs:line 148
+   at SimpleServings.UI.UDC.SimpleServings.Resource.ResourceList.gvResources_Sorting(Object sender, GridViewSortEventArgs e) in c:\TFS\DFTA\SimpleServings\SimpleServings\SimpleServings\UI\UDC\SimpleServings\Resource\ResourceList.ascx.cs:line 133
+   at System.Web.UI.WebControls.GridView.OnSorting(GridViewSortEventArgs e)
+   at System.Web.UI.WebControls.GridView.HandleSort(String sortExpression, SortDirection sortDirection)
+   at System.Web.UI.WebControls.GridView.HandleSort(String sortExpression)
+   at System.Web.UI.WebControls.GridView.HandleEvent(EventArgs e, Boolean causesValidation, String validationGroup)
+   at System.Web.UI.WebControls.GridView.RaisePostBackEvent(String eventArgument)
+   at System.Web.UI.WebControls.GridView.System.Web.UI.IPostBackEventHandler.RaisePostBackEvent(String eventArgument)
+   at System.Web.UI.Page.RaisePostBackEvent(IPostBackEventHandler sourceControl, String eventArgument)
+   at System.Web.UI.Page.RaisePostBackEvent(NameValueCollection postData)
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   --- End of inner exception stack trace ---
+   at System.Web.UI.Page.HandleError(Exception e)
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   at System.Web.UI.Page.ProcessRequest(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   at System.Web.UI.Page.ProcessRequest()
+   at System.Web.UI.Page.ProcessRequestWithNoAssert(HttpContext context)
+   at System.Web.UI.Page.ProcessRequest(HttpContext context)
+   at ASP.ui_page_resources_aspx.ProcessRequest(HttpContext context) in c:\Windows\Microsoft.NET\Framework\v2.0.50727\Temporary ASP.NET Files\simpleservings\50605a42\75e306da\App_Web_6-1defpa.3.cs:line 0
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+2017-05-11 14:38:30,451 [  1] INFO  AppManager [(null)] SimpleServings started.
+2017-05-11 14:38:42,016 [  8] INFO  AppManager [(null)] (landingPage.aspx) - Redirecting to Login.aspx 
+Request Type: LogInOut 
+SessionId: 
+2017-05-11 14:38:47,465 [  6] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: vvzq50fo3ftycijvcdlizfz4
+2017-05-11 14:39:36,586 [  8] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: mxo0e5jku2amxw55qyve12j0
+2017-05-11 14:39:37,987 [  5] INFO  AppManager [(null)] (landingPage.aspx) - Request from http://localhost:1949/SimpleServings/UI/Page/ 
+Request Type: LogInOut 
+SessionId: oldycc55c2qqhk45zcv53tbx
+2017-05-11 14:39:37,988 [  5] INFO  AppManager [(null)] (landingPage.aspx) - Redirecting to Login.aspx 
+Request Type: LogInOut 
+SessionId: oldycc55c2qqhk45zcv53tbx
+2017-05-11 14:39:37,995 [  5] INFO  AppManager [(null)] (login.aspx) - Request from http://localhost:1949/SimpleServings/UI/Page/ 
+SessionId: oxvx1yzswdqy1v555hbotxfn
+2017-05-11 14:39:40,595 [  5] INFO  AppManager [(null)] (landingPage.aspx) - Clearing Session 
+Request Type:  
+SessionId: tbkpds451ao2fw45ooisji55
+2017-05-11 14:39:40,612 [  5] INFO  AppManager [(null)] (landingPage.aspx) - New Session 
+Request Type:  
+SessionId: pmosu3zh5hjhql55rzdiq445
+2017-05-11 14:39:40,626 [  8] INFO  AppManager [(null)] (login.aspx) - (cvais7773) - Login successful 
+SessionId: 0hxiwb2bffeshget2mof1b55
+2017-05-11 14:39:40,633 [  6] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: pmosu3zh5hjhql55rzdiq445
+2017-05-11 14:39:53,241 [  9] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: pmosu3zh5hjhql55rzdiq445
+2017-05-11 14:40:34,451 [  8] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: pmosu3zh5hjhql55rzdiq445
+2017-05-11 14:40:48,435 [  8] INFO  AppManager [(null)] (landingPage.aspx) - Request from http://localhost:1949/SimpleServings/UI/Page/resources.aspx 
+Request Type: LogInOut 
+SessionId: pmosu3zh5hjhql55rzdiq445
+2017-05-11 14:40:48,436 [  8] INFO  AppManager [(null)] (landingPage.aspx) - Redirecting to Login.aspx 
+Request Type: LogInOut 
+SessionId: pmosu3zh5hjhql55rzdiq445
+2017-05-11 14:40:48,445 [  9] INFO  AppManager [(null)] (login.aspx) - Request from http://localhost:1949/SimpleServings/UI/Page/resources.aspx 
+SessionId: nm5km555gvuyg145jbxmng55

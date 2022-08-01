@@ -1,0 +1,445 @@
+2021-10-19 09:53:40,209 [  1] INFO  AppManager [(null)] SimpleServings started.
+2021-10-19 09:54:22,125 [ 19] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: zpygjrdwpnoosaiypi5f5gbs
+2021-10-19 09:59:09,297 [  1] INFO  AppManager [(null)] SimpleServings started.
+2021-10-19 10:00:30,571 [ 10] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: giw3jcpusa0v0qjs5fxy0m4a
+2021-10-19 10:11:14,123 [ 52] INFO  AppManager [(null)] SimpleServings started.
+2021-10-19 10:12:24,059 [ 47] INFO  AppManager [(null)] SimpleServings started.
+2021-10-19 10:12:57,564 [ 44] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: qlozs0csmm5yc1zugacffvhn
+2021-10-19 10:18:12,277 [  7] INFO  AppManager [(null)] (landingPage.aspx) - Clearing Session 
+Request Type:  
+SessionId: 2gty2p5mfqquijlckwaup4r0
+2021-10-19 10:18:12,297 [ 41] INFO  AppManager [(null)] (landingPage.aspx) - New Session 
+Request Type:  
+SessionId: sfhplnymv11umpbj4picqvyg
+2021-10-19 10:18:12,532 [ 50] INFO  AppManager [(null)] (login.aspx) - (Mli) - Login successful 
+SessionId: uruswxkjfs3xeivdykgf4jji
+2021-10-19 10:18:12,538 [ 49] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: sfhplnymv11umpbj4picqvyg
+2021-10-19 10:32:11,830 [ 29] INFO  AppManager [(null)] SimpleServings started.
+2021-10-19 10:32:53,287 [ 44] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: bwfii4jxchiu45s02zob4krb
+2021-10-19 10:38:56,739 [  6] INFO  AppManager [(null)] (landingPage.aspx) - Clearing Session 
+Request Type:  
+SessionId: jklibul50mqtgpyh0os4pi5m
+2021-10-19 10:38:56,753 [ 31] INFO  AppManager [(null)] (landingPage.aspx) - New Session 
+Request Type:  
+SessionId: neyu45ptpxz0bcxf1ibf3vxs
+2021-10-19 10:38:58,663 [  6] INFO  AppManager [(null)] (login.aspx) - (Mli) - Login successful 
+SessionId: 02kvtg50x2vlf40r25xchvj0
+2021-10-19 10:38:58,669 [ 45] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: neyu45ptpxz0bcxf1ibf3vxs
+2021-10-19 10:43:53,724 [ 38] INFO  AppManager [(null)] (landingPage.aspx) - Clearing Session 
+Request Type:  
+SessionId: ckrd5vh5kbdg2jnpnyfxyjxw
+2021-10-19 10:43:53,740 [  6] INFO  AppManager [(null)] (landingPage.aspx) - New Session 
+Request Type:  
+SessionId: 224egfjikf50e5gcck1zpte2
+2021-10-19 10:43:54,424 [ 45] INFO  AppManager [(null)] (login.aspx) - (Mli) - Login successful 
+SessionId: lbhupzpeomvgzuswv0kv0may
+2021-10-19 10:43:54,430 [ 40] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: 224egfjikf50e5gcck1zpte2
+2021-10-19 10:46:46,129 [ 29] INFO  AppManager [(null)] SimpleServings started.
+2021-10-19 10:47:26,270 [ 14] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: 1of2q4fjrhgshfdkztyc4f0j
+2021-10-19 10:51:37,454 [ 36] INFO  AppManager [(null)] (landingPage.aspx) - Clearing Session 
+Request Type:  
+SessionId: bmi10c4l5cexlpk5121x2rqi
+2021-10-19 10:51:37,473 [ 37] INFO  AppManager [(null)] (landingPage.aspx) - New Session 
+Request Type:  
+SessionId: arj5qgckptgok1s4bdxpuwjv
+2021-10-19 10:51:37,863 [ 50] INFO  AppManager [(null)] (login.aspx) - (Mli) - Login successful 
+SessionId: 1rr5py2f44nqmpmybtgjs214
+2021-10-19 10:51:37,885 [ 18] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: arj5qgckptgok1s4bdxpuwjv
+2021-10-19 11:06:09,130 [ 18] INFO  AppManager [(null)] (landingPage.aspx) - Clearing Session 
+Request Type:  
+SessionId: mc245jfubzwxzg5kdab0yb2j
+2021-10-19 11:06:09,152 [ 38] INFO  AppManager [(null)] (landingPage.aspx) - New Session 
+Request Type:  
+SessionId: uymifk15xqttxarnk1s4l1bn
+2021-10-19 11:06:09,508 [ 44] INFO  AppManager [(null)] (login.aspx) - (Mli) - Login successful 
+SessionId: ald5fw134tmckx5ejcfa3k3p
+2021-10-19 11:06:09,528 [ 50] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: uymifk15xqttxarnk1s4l1bn
+2021-10-19 11:10:14,591 [ 36] INFO  AppManager [(null)] (landingPage.aspx) - Clearing Session 
+Request Type:  
+SessionId: 3ygoahfrsqqyjoai45mu3a0a
+2021-10-19 11:10:14,614 [ 20] INFO  AppManager [(null)] (landingPage.aspx) - New Session 
+Request Type:  
+SessionId: jxjz0o0otctpreqe4ub2xjej
+2021-10-19 11:10:14,851 [ 38] INFO  AppManager [(null)] (login.aspx) - (Mli) - Login successful 
+SessionId: ko0bappbx0lawa011ovxsfgd
+2021-10-19 11:10:14,857 [ 34] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: jxjz0o0otctpreqe4ub2xjej
+2021-10-19 11:10:26,507 [ 36] ERROR AppManager [(null)] SimpleServings application error: The directive 'page' is unknown.
+location: http://localhost:1949/SimpleServings/UI/Page/SimpleServings/Menu/AddMenu.aspx?MenuType=AddMenu
+
+System.Web.HttpParseException (0x80004005): The directive 'page' is unknown. ---> System.Web.HttpParseException (0x80004005): The directive 'page' is unknown. ---> System.Web.HttpException (0x80004005): The directive 'page' is unknown.
+   at System.Web.UI.TemplateParser.ProcessError(String message)
+   at System.Web.UI.TemplateParser.ProcessDirective(String directiveName, IDictionary directive)
+   at System.Web.UI.BaseTemplateParser.ProcessDirective(String directiveName, IDictionary directive)
+   at System.Web.UI.TemplateControlParser.ProcessDirective(String directiveName, IDictionary directive)
+   at System.Web.UI.TemplateParser.ParseStringInternal(String text, Encoding fileEncoding)
+   at System.Web.UI.TemplateParser.ProcessException(Exception ex)
+   at System.Web.UI.TemplateParser.ParseStringInternal(String text, Encoding fileEncoding)
+   at System.Web.UI.TemplateParser.ParseString(String text, VirtualPath virtualPath, Encoding fileEncoding)
+   at System.Web.UI.TemplateParser.ProcessException(Exception ex)
+   at System.Web.UI.TemplateParser.ParseStringInternal(String text, Encoding fileEncoding)
+   at System.Web.UI.TemplateParser.ParseString(String text, VirtualPath virtualPath, Encoding fileEncoding)
+   at System.Web.UI.TemplateParser.ParseFile(String physicalPath, VirtualPath virtualPath)
+   at System.Web.UI.TemplateParser.ParseInternal()
+   at System.Web.UI.TemplateParser.Parse()
+   at System.Web.Compilation.BaseTemplateBuildProvider.get_CodeCompilerType()
+   at System.Web.Compilation.BuildProvider.GetCompilerTypeFromBuildProvider(BuildProvider buildProvider)
+   at System.Web.Compilation.BuildProvidersCompiler.ProcessBuildProviders()
+   at System.Web.Compilation.BuildProvidersCompiler.PerformBuild()
+   at System.Web.Compilation.BuildManager.CompileWebFile(VirtualPath virtualPath)
+   at System.Web.Compilation.BuildManager.GetVPathBuildResultInternal(VirtualPath virtualPath, Boolean noBuild, Boolean allowCrossApp, Boolean allowBuildInPrecompile, Boolean throwIfNotFound, Boolean ensureIsUpToDate)
+   at System.Web.Compilation.BuildManager.GetVPathBuildResultWithNoAssert(HttpContext context, VirtualPath virtualPath, Boolean noBuild, Boolean allowCrossApp, Boolean allowBuildInPrecompile, Boolean throwIfNotFound, Boolean ensureIsUpToDate)
+   at System.Web.Compilation.BuildManager.GetVirtualPathObjectFactory(VirtualPath virtualPath, HttpContext context, Boolean allowCrossApp, Boolean throwIfNotFound)
+   at System.Web.Compilation.BuildManager.CreateInstanceFromVirtualPath(VirtualPath virtualPath, Type requiredBaseType, HttpContext context, Boolean allowCrossApp)
+   at System.Web.UI.PageHandlerFactory.GetHandlerHelper(HttpContext context, String requestType, VirtualPath virtualPath, String physicalPath)
+   at System.Web.UI.PageHandlerFactory.GetHandler(HttpContext context, String requestType, String virtualPath, String path)
+   at System.Web.HttpApplication.MaterializeHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStepImpl(IExecutionStep step)
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+2021-10-19 11:33:17,539 [  1] INFO  AppManager [(null)] SimpleServings started.
+2021-10-19 11:58:07,155 [  1] INFO  AppManager [(null)] SimpleServings started.
+2021-10-19 11:58:38,874 [  6] INFO  AppManager [(null)] (login.aspx) - (Mli) - Login successful 
+SessionId: kzz0mtwzbnynq2p2knp5wulm
+2021-10-19 11:58:38,941 [ 11] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: ne3wy3uawitau4p00tzh0lhf
+2021-10-19 12:01:20,677 [  1] INFO  AppManager [(null)] SimpleServings started.
+2021-10-19 12:01:39,980 [ 13] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: np00smztuowj1fohmmy5wszv
+2021-10-19 12:01:53,508 [  9] ERROR AppManager [(null)] SimpleServings application error: There can be only one 'page' directive.
+location: http://localhost:1949/SimpleServings/UI/Page/SimpleServings/Menu/AddMenu.aspx?MenuType=AddMenu
+
+System.Web.HttpParseException (0x80004005): There can be only one 'page' directive. ---> System.Web.HttpParseException (0x80004005): There can be only one 'page' directive. ---> System.Web.HttpException (0x80004005): There can be only one 'page' directive.
+   at System.Web.UI.TemplateParser.ProcessError(String message)
+   at System.Web.UI.TemplateParser.ProcessDirective(String directiveName, IDictionary directive)
+   at System.Web.UI.BaseTemplateParser.ProcessDirective(String directiveName, IDictionary directive)
+   at System.Web.UI.TemplateControlParser.ProcessDirective(String directiveName, IDictionary directive)
+   at System.Web.UI.PageParser.ProcessDirective(String directiveName, IDictionary directive)
+   at System.Web.UI.TemplateParser.ParseStringInternal(String text, Encoding fileEncoding)
+   at System.Web.UI.TemplateParser.ProcessException(Exception ex)
+   at System.Web.UI.TemplateParser.ParseStringInternal(String text, Encoding fileEncoding)
+   at System.Web.UI.TemplateParser.ParseString(String text, VirtualPath virtualPath, Encoding fileEncoding)
+   at System.Web.UI.TemplateParser.ParseString(String text, VirtualPath virtualPath, Encoding fileEncoding)
+   at System.Web.UI.TemplateParser.ParseFile(String physicalPath, VirtualPath virtualPath)
+   at System.Web.UI.TemplateParser.ParseInternal()
+   at System.Web.UI.TemplateParser.Parse()
+   at System.Web.Compilation.BaseTemplateBuildProvider.get_CodeCompilerType()
+   at System.Web.Compilation.BuildProvider.GetCompilerTypeFromBuildProvider(BuildProvider buildProvider)
+   at System.Web.Compilation.BuildProvidersCompiler.ProcessBuildProviders()
+   at System.Web.Compilation.BuildProvidersCompiler.PerformBuild()
+   at System.Web.Compilation.BuildManager.CompileWebFile(VirtualPath virtualPath)
+   at System.Web.Compilation.BuildManager.GetVPathBuildResultInternal(VirtualPath virtualPath, Boolean noBuild, Boolean allowCrossApp, Boolean allowBuildInPrecompile, Boolean throwIfNotFound, Boolean ensureIsUpToDate)
+   at System.Web.Compilation.BuildManager.GetVPathBuildResultWithNoAssert(HttpContext context, VirtualPath virtualPath, Boolean noBuild, Boolean allowCrossApp, Boolean allowBuildInPrecompile, Boolean throwIfNotFound, Boolean ensureIsUpToDate)
+   at System.Web.Compilation.BuildManager.GetVirtualPathObjectFactory(VirtualPath virtualPath, HttpContext context, Boolean allowCrossApp, Boolean throwIfNotFound)
+   at System.Web.Compilation.BuildManager.CreateInstanceFromVirtualPath(VirtualPath virtualPath, Type requiredBaseType, HttpContext context, Boolean allowCrossApp)
+   at System.Web.UI.PageHandlerFactory.GetHandlerHelper(HttpContext context, String requestType, VirtualPath virtualPath, String physicalPath)
+   at System.Web.UI.PageHandlerFactory.GetHandler(HttpContext context, String requestType, String virtualPath, String path)
+   at System.Web.HttpApplication.MaterializeHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStepImpl(IExecutionStep step)
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+2021-10-19 12:03:04,812 [ 24] INFO  AppManager [(null)] SimpleServings started.
+2021-10-19 12:03:33,794 [ 16] INFO  AppManager [(null)] (login.aspx) - (Mli) - Login successful 
+SessionId: 2lmoveodfzw00odefxmlpzf5
+2021-10-19 12:03:33,835 [ 19] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: b5shabudkvyvsfultnqanlz2
+2021-10-19 12:05:57,447 [ 24] INFO  AppManager [(null)] SimpleServings started.
+2021-10-19 12:06:27,177 [ 29] INFO  AppManager [(null)] (login.aspx) - (Mli) - Login successful 
+SessionId: xvk0mn5s4vec54rtxnk4omli
+2021-10-19 12:06:27,240 [ 12] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: x5jzr0cdvqwfhtz1rphktyme
+2021-10-19 12:19:57,144 [  1] INFO  AppManager [(null)] SimpleServings started.
+2021-10-19 12:20:11,097 [ 21] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: 1vngljb1j1smrjlbiaazr1n0
+2021-10-19 12:22:11,554 [  9] ERROR AppManager [(null)] SimpleServings application error: Exception of type 'System.Web.HttpUnhandledException' was thrown.
+location: http://localhost:1949/SimpleServings/UI/Page/SimpleServings/Recipe/RecipeList.aspx
+
+System.Web.HttpUnhandledException (0x80004005): Exception of type 'System.Web.HttpUnhandledException' was thrown. ---> System.InvalidOperationException: Failed to compare two elements in the array. ---> System.ArgumentException: At least one object must implement IComparable.
+   at System.Collections.Comparer.Compare(Object a, Object b)
+   at System.Collections.Generic.ObjectComparer`1.Compare(T x, T y)
+   at System.Collections.Generic.ArraySortHelper`1.SwapIfGreater(T[] keys, IComparer`1 comparer, Int32 a, Int32 b)
+   at System.Collections.Generic.ArraySortHelper`1.DepthLimitedQuickSort(T[] keys, Int32 left, Int32 right, IComparer`1 comparer, Int32 depthLimit)
+   at System.Collections.Generic.ArraySortHelper`1.Sort(T[] keys, Int32 index, Int32 length, IComparer`1 comparer)
+   --- End of inner exception stack trace ---
+   at System.Collections.Generic.ArraySortHelper`1.Sort(T[] keys, Int32 index, Int32 length, IComparer`1 comparer)
+   at System.Array.Sort[T](T[] array, Int32 index, Int32 length, IComparer`1 comparer)
+   at System.Collections.Generic.List`1.Sort(Int32 index, Int32 count, IComparer`1 comparer)
+   at System.Collections.Generic.List`1.Sort(IComparer`1 comparer)
+   at SimpleServings.UI.UDC.SimpleServings.Recipe.RecipeGrid.SortGridView(String sortExpression, SortDirection direction) in E:\DFTA coding\SimpleServings\SimpleServings_networkVersion_I_do\SimpleServing_Latest\Ansu_4_20\SimpleServings\SimpleServings\UI\UDC\SimpleServings\Recipe\RecipeGrid.ascx.cs:line 190
+   at SimpleServings.UI.UDC.SimpleServings.Recipe.RecipeGrid.gvRecipes_Sorting(Object sender, GridViewSortEventArgs e) in E:\DFTA coding\SimpleServings\SimpleServings_networkVersion_I_do\SimpleServing_Latest\Ansu_4_20\SimpleServings\SimpleServings\UI\UDC\SimpleServings\Recipe\RecipeGrid.ascx.cs:line 225
+   at System.Web.UI.WebControls.GridView.OnSorting(GridViewSortEventArgs e)
+   at System.Web.UI.WebControls.GridView.HandleSort(String sortExpression, SortDirection sortDirection)
+   at System.Web.UI.WebControls.GridView.HandleSort(String sortExpression)
+   at System.Web.UI.WebControls.GridView.HandleEvent(EventArgs e, Boolean causesValidation, String validationGroup)
+   at System.Web.UI.WebControls.GridView.RaisePostBackEvent(String eventArgument)
+   at System.Web.UI.WebControls.GridView.System.Web.UI.IPostBackEventHandler.RaisePostBackEvent(String eventArgument)
+   at System.Web.UI.Page.RaisePostBackEvent(IPostBackEventHandler sourceControl, String eventArgument)
+   at System.Web.UI.Page.RaisePostBackEvent(NameValueCollection postData)
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   at System.Web.UI.Page.HandleError(Exception e)
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   at System.Web.UI.Page.ProcessRequest(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   at System.Web.UI.Page.ProcessRequest()
+   at System.Web.UI.Page.ProcessRequestWithNoAssert(HttpContext context)
+   at System.Web.UI.Page.ProcessRequest(HttpContext context)
+   at ASP.ui_page_simpleservings_recipe_recipelist_aspx.ProcessRequest(HttpContext context) in c:\Users\mali\AppData\Local\Temp\Temporary ASP.NET Files\simpleservings\b7cf5ab5\1beae6dc\App_Web_r5iqvjji.10.cs:line 0
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStepImpl(IExecutionStep step)
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+2021-10-19 13:46:08,973 [  1] INFO  AppManager [(null)] SimpleServings started.
+2021-10-19 13:46:23,656 [ 18] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: 01jk4femldgia1vmiofohr4u
+2021-10-19 13:49:05,022 [ 15] INFO  AppManager [(null)] (landingPage.aspx) - Request from http://localhost:1949/SimpleServings/UI/Page/SimpleServings/Recipe/AddRecipe.aspx 
+Request Type: LogInOut 
+SessionId: pvkgjgzw2m5lowdxuohgn4dh
+2021-10-19 13:49:05,023 [ 15] INFO  AppManager [(null)] (landingPage.aspx) - Redirecting to Login.aspx 
+Request Type: LogInOut 
+SessionId: pvkgjgzw2m5lowdxuohgn4dh
+2021-10-19 13:49:05,026 [ 17] INFO  AppManager [(null)] (login.aspx) - Request from http://localhost:1949/SimpleServings/UI/Page/SimpleServings/Recipe/AddRecipe.aspx 
+SessionId: 2urdjeewqbcy3a5zlt2rzund
+2021-10-19 13:49:17,314 [ 19] INFO  AppManager [(null)] (landingPage.aspx) - Clearing Session 
+Request Type:  
+SessionId: h512mscuvct3t3w30lc2bvbj
+2021-10-19 13:49:17,327 [ 27] INFO  AppManager [(null)] (landingPage.aspx) - New Session 
+Request Type:  
+SessionId: mihtpc0apgbwjp3gcdx5vuw4
+2021-10-19 13:49:17,563 [ 13] INFO  AppManager [(null)] (login.aspx) - (Mli) - Login successful 
+SessionId: 04fdrsyymoamcjkksl35dzjq
+2021-10-19 13:49:17,570 [ 15] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: mihtpc0apgbwjp3gcdx5vuw4
+2021-10-19 13:52:44,661 [  1] INFO  AppManager [(null)] SimpleServings started.
+2021-10-19 13:53:37,570 [ 13] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: fm2rel05v2yvl4lxr0em5cfq
+2021-10-19 14:03:50,757 [ 50] INFO  AppManager [(null)] SimpleServings started.
+2021-10-19 14:04:15,795 [ 49] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: q4bch0c011wxze1dbhirokwq
+2021-10-19 14:04:51,506 [ 40] ERROR AppManager [(null)] SimpleServings application error: The file '/SimpleServings/UI/Page/SimpleServings/ViewRecipe.aspx' does not exist.
+location: http://localhost:1949/SimpleServings/UI/Page/SimpleServings/ViewRecipe.aspx?RecipeID=4251
+
+System.Web.HttpException (0x80004005): The file '/SimpleServings/UI/Page/SimpleServings/ViewRecipe.aspx' does not exist.
+   at System.Web.UI.Util.CheckVirtualFileExists(VirtualPath virtualPath)
+   at System.Web.Compilation.BuildManager.GetVPathBuildResultInternal(VirtualPath virtualPath, Boolean noBuild, Boolean allowCrossApp, Boolean allowBuildInPrecompile, Boolean throwIfNotFound, Boolean ensureIsUpToDate)
+   at System.Web.Compilation.BuildManager.GetVPathBuildResultWithNoAssert(HttpContext context, VirtualPath virtualPath, Boolean noBuild, Boolean allowCrossApp, Boolean allowBuildInPrecompile, Boolean throwIfNotFound, Boolean ensureIsUpToDate)
+   at System.Web.Compilation.BuildManager.GetVirtualPathObjectFactory(VirtualPath virtualPath, HttpContext context, Boolean allowCrossApp, Boolean throwIfNotFound)
+   at System.Web.Compilation.BuildManager.CreateInstanceFromVirtualPath(VirtualPath virtualPath, Type requiredBaseType, HttpContext context, Boolean allowCrossApp)
+   at System.Web.UI.PageHandlerFactory.GetHandlerHelper(HttpContext context, String requestType, VirtualPath virtualPath, String physicalPath)
+   at System.Web.UI.PageHandlerFactory.GetHandler(HttpContext context, String requestType, String virtualPath, String path)
+   at System.Web.HttpApplication.MaterializeHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStepImpl(IExecutionStep step)
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+2021-10-19 14:20:36,694 [ 49] INFO  AppManager [(null)] (landingPage.aspx) - Clearing Session 
+Request Type:  
+SessionId: 3esuha0k4hrfe33as2wtbxlt
+2021-10-19 14:20:36,709 [ 49] INFO  AppManager [(null)] (landingPage.aspx) - New Session 
+Request Type:  
+SessionId: 3vwce3zrc4s3e5k24tjwwocm
+2021-10-19 14:20:37,535 [ 51] INFO  AppManager [(null)] (login.aspx) - (Mli) - Login successful 
+SessionId: ppt3kzkekg41j4dsltx0ye14
+2021-10-19 14:20:37,542 [ 42] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: 3vwce3zrc4s3e5k24tjwwocm
+2021-10-19 14:26:23,926 [ 64] INFO  AppManager [(null)] (landingPage.aspx) - Clearing Session 
+Request Type:  
+SessionId: cdlvyttrecg0ragf1o5zydwp
+2021-10-19 14:26:23,938 [ 71] INFO  AppManager [(null)] (landingPage.aspx) - New Session 
+Request Type:  
+SessionId: arps1pz0hgqdu5unkbjy0e5f
+2021-10-19 14:26:24,276 [ 74] INFO  AppManager [(null)] (login.aspx) - (Mli) - Login successful 
+SessionId: tjkpfqxrijzu3qihg5zbt4xt
+2021-10-19 14:26:24,281 [ 73] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: arps1pz0hgqdu5unkbjy0e5f
+2021-10-19 14:28:44,980 [ 59] INFO  AppManager [(null)] (landingPage.aspx) - Clearing Session 
+Request Type:  
+SessionId: r3rtsvmrvpqvtbflxodmxvy1
+2021-10-19 14:28:44,995 [ 58] INFO  AppManager [(null)] (landingPage.aspx) - New Session 
+Request Type:  
+SessionId: ftcxiq3hu5c533z4idxcrlvn
+2021-10-19 14:28:45,187 [ 45] INFO  AppManager [(null)] (login.aspx) - (Mli) - Login successful 
+SessionId: tjnahuqnbqd0zfqwtovoiiyl
+2021-10-19 14:28:45,193 [ 25] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: ftcxiq3hu5c533z4idxcrlvn
+2021-10-19 14:30:43,612 [ 40] INFO  AppManager [(null)] (landingPage.aspx) - Clearing Session 
+Request Type:  
+SessionId: 4ykpbw4szkpmosjwypo3ve3p
+2021-10-19 14:30:43,629 [ 59] INFO  AppManager [(null)] (landingPage.aspx) - New Session 
+Request Type:  
+SessionId: i4pwqlpr21z3l42avhnxth4i
+2021-10-19 14:30:43,866 [ 71] INFO  AppManager [(null)] (login.aspx) - (Mli) - Login successful 
+SessionId: me0uyzkeuksuz5zafezqlhbp
+2021-10-19 14:30:43,872 [ 32] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: i4pwqlpr21z3l42avhnxth4i
+2021-10-19 15:18:28,457 [250] ERROR AppManager [(null)] btnLogin_Click failed: Incorrect username and/or password.
+2021-10-19 15:18:30,868 [233] INFO  AppManager [(null)] (landingPage.aspx) - Clearing Session 
+Request Type:  
+SessionId: ecorrykhenlbyt5ngjjisnlj
+2021-10-19 15:18:33,157 [210] INFO  AppManager [(null)] (landingPage.aspx) - Clearing Session 
+Request Type:  
+SessionId: dugdksfdwm1ghd4qgmfd20vq
+2021-10-19 15:18:33,169 [226] INFO  AppManager [(null)] (landingPage.aspx) - New Session 
+Request Type:  
+SessionId: imnuwuxfyy4lejtzhu5vfbwc
+2021-10-19 15:18:42,962 [159] INFO  AppManager [(null)] (landingPage.aspx) - Clearing Session 
+Request Type:  
+SessionId: imnuwuxfyy4lejtzhu5vfbwc
+2021-10-19 15:18:42,968 [125] INFO  AppManager [(null)] (landingPage.aspx) - New Session 
+Request Type:  
+SessionId: 0mtcvlj2exr0kgxsxjf5yl1w
+2021-10-19 15:18:43,165 [225] INFO  AppManager [(null)] (login.aspx) - (Mli) - Login successful 
+SessionId: onqop4xmyeodlc030agvxsju
+2021-10-19 15:18:43,180 [233] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: 0mtcvlj2exr0kgxsxjf5yl1w
+2021-10-19 15:20:08,498 [225] INFO  AppManager [(null)] (login.aspx) - (Mli) - Login successful 
+SessionId: 2tbvj1oudwsfhnejpv4gjrig
+2021-10-19 15:20:08,504 [234] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: bafdntgz3zhr240tuk3kcxle
+2021-10-19 15:20:10,795 [210] INFO  AppManager [(null)] (landingPage.aspx) - Clearing Session 
+Request Type:  
+SessionId: ednagrad2bnq1hphdapdyhtc
+2021-10-19 15:20:58,018 [  1] INFO  AppManager [(null)] SimpleServings started.
+2021-10-19 15:21:15,012 [ 28] INFO  AppManager [(null)] (landingPage.aspx) - Clearing Session 
+Request Type:  
+SessionId: z1g21qrllzehdqxiynfgngd1
+2021-10-19 15:22:00,270 [200] INFO  AppManager [(null)] (login.aspx) - (Mli) - Login successful 
+SessionId: jm23fd4zheb1jrtjufgucz02
+2021-10-19 15:22:00,276 [161] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: by5c03ia1tlwkhcjhwaqne05
+2021-10-19 15:22:02,511 [210] INFO  AppManager [(null)] (landingPage.aspx) - Clearing Session 
+Request Type:  
+SessionId: zysti23lg3m10m3puzrxdiwy
+2021-10-19 15:23:26,570 [125] INFO  AppManager [(null)] (login.aspx) - (Mli) - Login successful 
+SessionId: wfcbw3w44e31h2teei1hdouz
+2021-10-19 15:23:26,575 [  6] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: o1zn0btet32qzj5uq4lgj4p1
+2021-10-19 15:23:28,818 [200] INFO  AppManager [(null)] (landingPage.aspx) - Clearing Session 
+Request Type:  
+SessionId: uml2wawawcjxrlipprhe121l
+2021-10-19 15:25:02,292 [234] INFO  AppManager [(null)] (landingPage.aspx) - Clearing Session 
+Request Type:  
+SessionId: suy5zabfd42wla3ssrevwchs
+2021-10-19 15:25:02,309 [  6] INFO  AppManager [(null)] (landingPage.aspx) - New Session 
+Request Type:  
+SessionId: lsw3ae4cymjcj3ocyhau0ayz
+2021-10-19 15:25:02,492 [225] INFO  AppManager [(null)] (login.aspx) - (Mli) - Login successful 
+SessionId: xsleaa5mgizhcemktujyp13j
+2021-10-19 15:25:02,498 [167] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: lsw3ae4cymjcj3ocyhau0ayz
+2021-10-19 15:43:19,921 [225] INFO  AppManager [(null)] (landingPage.aspx) - Clearing Session 
+Request Type:  
+SessionId: pvistvobr2kxbug41p0yn3ps
+2021-10-19 15:43:19,935 [110] INFO  AppManager [(null)] (landingPage.aspx) - New Session 
+Request Type:  
+SessionId: latbryots5f3t4ciwsyej5zy
+2021-10-19 15:43:20,147 [153] INFO  AppManager [(null)] (login.aspx) - (Mli) - Login successful 
+SessionId: 3hnlpueoj3lv2mmwouudclwi
+2021-10-19 15:43:20,152 [105] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: latbryots5f3t4ciwsyej5zy
+2021-10-19 15:54:01,007 [107] INFO  AppManager [(null)] (landingPage.aspx) - Clearing Session 
+Request Type:  
+SessionId: hiradtokteogx1kuvkgfgutk
+2021-10-19 15:54:01,024 [239] INFO  AppManager [(null)] (landingPage.aspx) - New Session 
+Request Type:  
+SessionId: oatb2rpgfgpcfwyitc5jibx1
+2021-10-19 15:54:01,388 [111] INFO  AppManager [(null)] (login.aspx) - (Mli) - Login successful 
+SessionId: upckcdfrgonmk5pc1nw4bokx
+2021-10-19 15:54:01,394 [229] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: oatb2rpgfgpcfwyitc5jibx1
+2021-10-19 15:56:45,632 [209] INFO  AppManager [(null)] (landingPage.aspx) - Clearing Session 
+Request Type:  
+SessionId: sdmbu0vc5ibsbmdkbmvnhb4g
+2021-10-19 15:56:45,645 [113] INFO  AppManager [(null)] (landingPage.aspx) - New Session 
+Request Type:  
+SessionId: ztdig30vscllztkt3qiwwyoq
+2021-10-19 15:56:45,865 [209] INFO  AppManager [(null)] (login.aspx) - (Mli) - Login successful 
+SessionId: f4rsiz1qfpyw3pdgs12bnrjq
+2021-10-19 15:56:45,871 [242] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: ztdig30vscllztkt3qiwwyoq
+2021-10-19 16:01:27,375 [111] INFO  AppManager [(null)] (landingPage.aspx) - Clearing Session 
+Request Type:  
+SessionId: x5prpyqwmhzncmlzro5415jt
+2021-10-19 16:01:27,390 [238] INFO  AppManager [(null)] (landingPage.aspx) - New Session 
+Request Type:  
+SessionId: z5csen1ljqufnfcunudegqew
+2021-10-19 16:01:27,582 [239] INFO  AppManager [(null)] (login.aspx) - (Mli) - Login successful 
+SessionId: q2wwuww1zafwbwenb1t1gv4t
+2021-10-19 16:01:27,588 [254] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: z5csen1ljqufnfcunudegqew
+2021-10-19 16:09:06,975 [195] INFO  AppManager [(null)] (landingPage.aspx) - Clearing Session 
+Request Type:  
+SessionId: z0k4zzteihvdpw1yny2gn3by
+2021-10-19 16:09:06,989 [254] INFO  AppManager [(null)] (landingPage.aspx) - New Session 
+Request Type:  
+SessionId: ji52mq2d0ywagp4zosbveenn
+2021-10-19 16:09:07,180 [154] INFO  AppManager [(null)] (login.aspx) - (Mli) - Login successful 
+SessionId: koexmoahoyam1omr3b0wumnz
+2021-10-19 16:09:07,198 [ 57] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: ji52mq2d0ywagp4zosbveenn
+2021-10-19 16:10:47,379 [193] INFO  AppManager [(null)] (landingPage.aspx) - Clearing Session 
+Request Type:  
+SessionId: kp1pfm243nwjxjvvq3tq502n
+2021-10-19 16:10:47,394 [156] INFO  AppManager [(null)] (landingPage.aspx) - New Session 
+Request Type:  
+SessionId: zpvjn1nkcqiguiks4lyprlxw
+2021-10-19 16:10:47,607 [193] INFO  AppManager [(null)] (login.aspx) - (Mli) - Login successful 
+SessionId: jb3h02txigvuaaohtjt5bgrt
+2021-10-19 16:10:47,611 [ 86] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: zpvjn1nkcqiguiks4lyprlxw
+2021-10-19 16:17:05,988 [205] INFO  AppManager [(null)] (landingPage.aspx) - Clearing Session 
+Request Type:  
+SessionId: vilwjhuehwu05hzbkqcy1a1c
+2021-10-19 16:17:06,006 [205] INFO  AppManager [(null)] (landingPage.aspx) - New Session 
+Request Type:  
+SessionId: 0zsdmmw5n0djepnhjhnkf5hp
+2021-10-19 16:17:06,220 [154] INFO  AppManager [(null)] (login.aspx) - (Mli) - Login successful 
+SessionId: uimp4tc5mgxaktrk2cev0cx5
+2021-10-19 16:17:06,226 [215] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: 0zsdmmw5n0djepnhjhnkf5hp
+2021-10-19 16:18:15,915 [154] INFO  AppManager [(null)] (landingPage.aspx) - Clearing Session 
+Request Type:  
+SessionId: kckef50k1bet3aonfqfg4lnm
+2021-10-19 16:18:15,933 [244] INFO  AppManager [(null)] (landingPage.aspx) - New Session 
+Request Type:  
+SessionId: bptpnvtpqekvuoozfm52hznk
+2021-10-19 16:18:16,184 [ 86] INFO  AppManager [(null)] (login.aspx) - (Mli) - Login successful 
+SessionId: mwsgjvbbjfjjo3s3pc4eaqep
+2021-10-19 16:18:16,190 [154] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: bptpnvtpqekvuoozfm52hznk
+2021-10-19 16:18:56,070 [  1] INFO  AppManager [(null)] SimpleServings started.
+2021-10-19 16:19:17,633 [ 14] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: e5vj3xk5qvppvqvzx4brjivd
+2021-10-19 16:21:08,444 [ 13] INFO  AppManager [(null)] (landingPage.aspx) - Clearing Session 
+Request Type:  
+SessionId: si3ez0ksspclpgv0bpdtzs00
+2021-10-19 16:21:08,460 [ 31] INFO  AppManager [(null)] (landingPage.aspx) - New Session 
+Request Type:  
+SessionId: 3qt4jfcmigciybff5ukawrgt
+2021-10-19 16:21:08,671 [ 14] INFO  AppManager [(null)] (login.aspx) - (Mli) - Login successful 
+SessionId: 0ffxe3ngbhbxgkz0mrma3apb
+2021-10-19 16:21:08,677 [ 37] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: 3qt4jfcmigciybff5ukawrgt
+2021-10-19 16:36:37,834 [ 39] INFO  AppManager [(null)] (landingPage.aspx) - Clearing Session 
+Request Type:  
+SessionId: oelr2kcr0jtcnotwbtgtlyei
+2021-10-19 16:36:37,847 [ 62] INFO  AppManager [(null)] (landingPage.aspx) - New Session 
+Request Type:  
+SessionId: je0pofxx2r223vo3v20s4c5j
+2021-10-19 16:36:38,181 [ 55] INFO  AppManager [(null)] (login.aspx) - (Mli) - Login successful 
+SessionId: e3bzanvrxhoaatf542cci3io
+2021-10-19 16:36:38,186 [ 58] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: je0pofxx2r223vo3v20s4c5j
+2021-10-19 16:37:15,945 [ 48] INFO  AppManager [(null)] (landingPage.aspx) - Clearing Session 
+Request Type:  
+SessionId: 2f5nyusutlrypcquga5ekswp
+2021-10-19 16:37:15,958 [ 54] INFO  AppManager [(null)] (landingPage.aspx) - New Session 
+Request Type:  
+SessionId: ljdragt3w2mtujvu5gcmqzy5
+2021-10-19 16:37:16,154 [ 49] INFO  AppManager [(null)] (login.aspx) - (Mli) - Login successful 
+SessionId: l5isvh4ss3opkhc2ad0bh3ra
+2021-10-19 16:37:16,159 [ 66] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: ljdragt3w2mtujvu5gcmqzy5

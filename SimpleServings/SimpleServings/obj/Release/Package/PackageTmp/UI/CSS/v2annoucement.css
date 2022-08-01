@@ -1,0 +1,41 @@
+/*only for hasa annoucements*/
+#v2main form{padding:0; margin:0;  }
+#v2main .info_container p{margin:3px 0;}
+#v2main .info_container a{text-decoration:none; }
+#v2main .info_container a:hover{border-bottom:1px dotted black;}
+#v2main .seperator_2 {border-bottom:1px solid #cccccc; height:1px; width:97%; margin:0; padding:0; }
+
+
+#v2main .line_breaker{background:url(../Images/v2/trans_line_bg.gif) repeat; height:10px; width:805px; }
+#v2main .subject{font-size:12px; font-weight:bold;color:#555;}
+/*annoucement + body*/
+#v2main .annouce_container p{padding:2px 0; margin:0; }
+#v2main .annouce_table {width:100%;background:#fff; margin-bottom:25px;}
+#v2main .msgInfo{margin-top:-39px; padding:0 10px 10px 10px;}
+#v2main .msgInfo p{margin:2px 0 ;}
+#v2main .icon{padding:0px; margin:0px; position:relative; top:-19px; right:-8px;  text-align:right; height:56px; }
+#v2main .view_subject{font-size:12px; font-weight:bold;color:#F38411; margin:2px 0px; padding:0px;  width:86%; }
+#v2main .annouce_container{ height:auto; width:100%; padding-left:30px; padding-top:20px; font: 12px Arial, Helvetica, sans-serif;}
+#v2main .view_table { background: #E5EDF2 url(../Images/v2/annoucement/view_box_top.gif) no-repeat; width:100%; text-align:center; padding:0; margin-top:25px; }
+#v2main .view_msg {margin-top:-50px;padding:20px;}
+#v2main .view_img {border:2px solid #666; width:50px; height:50px;}
+#v2main .announce_header{background:#459bac; color:#fff;  height:20px; width:100%; text-align:right;}
+#v2main .annouce_footer a{color:#336C71; text-decoration:none; padding:0px 5px;}
+
+#v2main .annouce_container h2{color:#437C90; font-size:14px;}
+#v2main .info_container{ padding:5px 10px; text-align:left; margin:0px;}
+#v2main .msg{clear:both; line-height:16px;}
+
+#v2main .noteTable {border:1px dotted #666; background:#fff; color:#333; font:11px Verdana, Arial, Helvetica, sans-serif; padding:0px; margin:0px;}
+#v2main .noteTable3 {border:1px solid #666; background:#fbfbff; color:#333; font:10px Verdana, Arial, Helvetica, sans-serif; margin-left:128px; width:480px;}
+
+#v2main table{ vertical-align:top;}
+#v2main .submit_btn{border:2px solid #666; padding:0 10px; margin:0 10px 0 0; color:#fff; width:200px; height:24px; background:#999;  font:12px Georgia, "Times New Roman", Times, serif; padding:0px 5px; cursor:pointer;}
+
+#v2main .separator {border-bottom:1px dotted #777; width:100%;  height:20px;}
+#v2main .annouce_section{padding:0px 9px;}
+/* fix IE browser buttons issues*/
+#v2main .annouce_section input, .annouce_section textarea, .annouce_section select{font: 12px Arial, Helvetica, sans-serif;}
+/* end fix IE browser buttons issues*/
+/*rewrite main H3*/
+h3{font-size:12px;}

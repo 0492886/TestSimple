@@ -1,0 +1,16 @@
+2021-03-04 11:00:43,482 [  1] INFO  AppManager [(null)] SimpleServings started.
+2021-03-04 11:01:19,611 [ 11] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: omhrrvzmmrvqfh2if3m4egfm
+2021-03-04 11:22:41,289 [  1] INFO  AppManager [(null)] SimpleServings started.
+2021-03-04 11:23:06,055 [ 20] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: zfbrhoxur2lp1k2zzafzvugd
+2021-03-04 11:23:10,200 [ 11] INFO  AppManager [(null)] (Recipe.aspx) - Request from http://localhost:1949/SimpleServings/UI/Page/Home.aspx 
+SessionId: zfbrhoxur2lp1k2zzafzvugd
+2021-03-04 11:46:27,423 [  1] INFO  AppManager [(null)] SimpleServings started.
+2021-03-04 11:47:48,756 [  4] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: tpeb1f5uy4lst5y23rfk5mi0
+2021-03-04 11:49:53,902 [ 14] INFO  AppManager [(null)] (Recipe.aspx) - Request from http://localhost:1949/SimpleServings/UI/Page/Home.aspx 
+SessionId: tpeb1f5uy4lst5y23rfk5mi0
+2021-03-04 15:55:15,365 [  1] INFO  AppManager [(null)] SimpleServings started.
+2021-03-04 15:55:29,618 [ 20] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: apm0iqzyv53jbqrc5hn2n1hn

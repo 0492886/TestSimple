@@ -1,0 +1,36 @@
+2021-05-18 00:01:17,426 [ 39] ERROR AppManager [(null)] SimpleServings application error: Exception of type 'System.Web.HttpUnhandledException' was thrown.
+location: http://localhost:1948/SimpleServings/UI/Page/SimpleServings/Recipe/AddRecipe.aspx
+
+System.Web.HttpUnhandledException (0x80004005): Exception of type 'System.Web.HttpUnhandledException' was thrown. ---> System.FormatException: Input string was not in a correct format.
+   at System.Number.ParseDouble(String value, NumberStyles options, NumberFormatInfo numfmt)
+   at System.Convert.ToDouble(String value)
+   at SimpleServings.UI.UDC.SimpleServings.Recipe.AddEditRecipeNutrition.getViewInfo(GridView GridView1, DataListItem item) in E:\DFTA coding\SimpleServings\SimpleServings_networkVersion\SimpleServing_Latest\Ansu_4_20\SimpleServings\SimpleServings\UI\UDC\SimpleServings\Recipe\AddEditRecipeNutrition.ascx.cs:line 304
+   at SimpleServings.UI.UDC.SimpleServings.Recipe.AddEditRecipeNutrition.conDataListItem(GridView tempGridView1) in E:\DFTA coding\SimpleServings\SimpleServings_networkVersion\SimpleServing_Latest\Ansu_4_20\SimpleServings\SimpleServings\UI\UDC\SimpleServings\Recipe\AddEditRecipeNutrition.ascx.cs:line 249
+   at SimpleServings.UI.UDC.SimpleServings.Recipe.AddEditRecipeNutrition.setGridView(String FilePath, DataTable dt) in E:\DFTA coding\SimpleServings\SimpleServings_networkVersion\SimpleServing_Latest\Ansu_4_20\SimpleServings\SimpleServings\UI\UDC\SimpleServings\Recipe\AddEditRecipeNutrition.ascx.cs:line 242
+   at SimpleServings.UI.UDC.SimpleServings.Recipe.AddEditRecipeNutrition.Import_To_Grid(String FilePath, String Extension) in E:\DFTA coding\SimpleServings\SimpleServings_networkVersion\SimpleServing_Latest\Ansu_4_20\SimpleServings\SimpleServings\UI\UDC\SimpleServings\Recipe\AddEditRecipeNutrition.ascx.cs:line 229
+   at SimpleServings.UI.UDC.SimpleServings.Recipe.AddEditRecipeNutrition.btnUpload_Click(Object sender, EventArgs e) in E:\DFTA coding\SimpleServings\SimpleServings_networkVersion\SimpleServing_Latest\Ansu_4_20\SimpleServings\SimpleServings\UI\UDC\SimpleServings\Recipe\AddEditRecipeNutrition.ascx.cs:line 171
+   at System.Web.UI.WebControls.Button.OnClick(EventArgs e)
+   at System.Web.UI.WebControls.Button.RaisePostBackEvent(String eventArgument)
+   at System.Web.UI.WebControls.Button.System.Web.UI.IPostBackEventHandler.RaisePostBackEvent(String eventArgument)
+   at System.Web.UI.Page.RaisePostBackEvent(IPostBackEventHandler sourceControl, String eventArgument)
+   at System.Web.UI.Page.RaisePostBackEvent(NameValueCollection postData)
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   at System.Web.UI.Page.HandleError(Exception e)
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   at System.Web.UI.Page.ProcessRequest(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   at System.Web.UI.Page.ProcessRequest()
+   at System.Web.UI.Page.ProcessRequestWithNoAssert(HttpContext context)
+   at System.Web.UI.Page.ProcessRequest(HttpContext context)
+   at ASP.ui_page_simpleservings_recipe_addrecipe_aspx.ProcessRequest(HttpContext context) in c:\Users\mali\AppData\Local\Temp\Temporary ASP.NET Files\simpleservings\64db465c\8b5e2e9d\App_Web_f110xdgq.10.cs:line 0
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStepImpl(IExecutionStep step)
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+2021-05-18 09:40:33,556 [  1] INFO  AppManager [(null)] SimpleServings started.
+2021-05-18 09:48:48,350 [  9] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: 4blwerho0imbvsux41zmnvbd
+2021-05-18 09:51:53,679 [ 38] INFO  AppManager [(null)] SimpleServings started.
+2021-05-18 09:53:24,277 [ 34] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: ach25uo4ookahw0wry1flpb3
+2021-05-18 10:50:35,204 [  1] INFO  AppManager [(null)] SimpleServings started.
+2021-05-18 10:50:58,099 [ 22] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: g5dnl0idh0l55crgiydlpiqa

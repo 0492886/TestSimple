@@ -1,0 +1,156 @@
+2016-11-21 17:11:10,621 [  1] INFO  AppManager [(null)] SimpleServings started.
+2016-11-21 17:11:35,555 [  8] ERROR AppManager [(null)] SimpleServings application error: Exception of type 'System.Web.HttpUnhandledException' was thrown.
+System.Web.HttpUnhandledException: Exception of type 'System.Web.HttpUnhandledException' was thrown. ---> System.IO.FileNotFoundException: Could not load file or assembly 'Microsoft.Practices.EnterpriseLibrary.Data, Version=2.0.0.0, Culture=neutral, PublicKeyToken=null' or one of its dependencies. The system cannot find the file specified.
+File name: 'Microsoft.Practices.EnterpriseLibrary.Data, Version=2.0.0.0, Culture=neutral, PublicKeyToken=null'
+   at SimpleServingsLibrary.RecipeSupplement.RecipeIngredientDB.GetRecipeIngredientByRecipeID(Int32 recipeID)
+   at SimpleServingsLibrary.RecipeSupplement.RecipeIngredient.GetRecipeIngredientByRecipeID(Int32 recipeID)
+   at SimpleServings.UI.UDC.SimpleServings.Recipe.ViewRecipeIngredient.PopGrid(Int32 recipeID) in c:\TFS\DFTA\SimpleServings\SimpleServings\SimpleServings\UI\UDC\SimpleServings\Recipe\ViewRecipeIngredient.ascx.cs:line 43
+   at SimpleServings.UI.Page.HomeTest.PopFeaturedRecipe() in c:\TFS\DFTA\SimpleServings\SimpleServings\SimpleServings\UI\Page\Home.aspx.cs:line 226
+   at SimpleServings.UI.Page.HomeTest.Page_Load(Object sender, EventArgs e) in c:\TFS\DFTA\SimpleServings\SimpleServings\SimpleServings\UI\Page\Home.aspx.cs:line 115
+   at System.Web.Util.CalliHelper.EventArgFunctionCaller(IntPtr fp, Object o, Object t, EventArgs e)
+   at System.Web.Util.CalliEventHandlerDelegateProxy.Callback(Object sender, EventArgs e)
+   at System.Web.UI.Control.OnLoad(EventArgs e)
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+
+=== Pre-bind state information ===
+LOG: User = WINDOWS\cvais7773
+LOG: DisplayName = Microsoft.Practices.EnterpriseLibrary.Data, Version=2.0.0.0, Culture=neutral, PublicKeyToken=null
+ (Fully-specified)
+LOG: Appbase = file:///C:/TFS/DFTA/SimpleServings/SimpleServings/SimpleServings/
+LOG: Initial PrivatePath = C:\TFS\DFTA\SimpleServings\SimpleServings\SimpleServings\bin
+Calling assembly : SimpleServings.RecipeSupplement, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null.
+===
+LOG: This bind starts in default load context.
+LOG: Using application configuration file: C:\TFS\DFTA\SimpleServings\SimpleServings\SimpleServings\web.config
+LOG: Using host configuration file: C:\Users\cvaiS7773\Documents\IISExpress\config\aspnet.config
+LOG: Using machine configuration file from C:\Windows\Microsoft.NET\Framework\v2.0.50727\config\machine.config.
+LOG: Policy not being applied to reference at this time (private, custom, partial, or location-based assembly bind).
+LOG: The same bind was seen before, and was failed with hr = 0x80070002.
+
+   --- End of inner exception stack trace ---
+   at System.Web.UI.Page.HandleError(Exception e)
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   at System.Web.UI.Page.ProcessRequest(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   at System.Web.UI.Page.ProcessRequest()
+   at System.Web.UI.Page.ProcessRequestWithNoAssert(HttpContext context)
+   at System.Web.UI.Page.ProcessRequest(HttpContext context)
+   at ASP.ui_page_home_aspx.ProcessRequest(HttpContext context) in c:\Windows\Microsoft.NET\Framework\v2.0.50727\Temporary ASP.NET Files\simpleservings\50605a42\75e306da\App_Web_n1dzahga.0.cs:line 0
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+2016-11-21 17:12:51,550 [  1] INFO  AppManager [(null)] SimpleServings started.
+2016-11-21 17:13:03,295 [  8] INFO  AppManager [(null)] (landingPage.aspx) - Redirecting to Login.aspx 
+Request Type: LogInOut 
+SessionId: 
+2016-11-21 17:13:11,504 [  8] ERROR AppManager [(null)] SimpleServings application error: Validation of viewstate MAC failed. If this application is hosted by a Web Farm or cluster, ensure that <machineKey> configuration specifies the same validationKey and validation algorithm. AutoGenerate cannot be used in a cluster.
+
+http://go.microsoft.com/fwlink/?LinkID=314055
+System.Web.HttpException: Validation of viewstate MAC failed. If this application is hosted by a Web Farm or cluster, ensure that <machineKey> configuration specifies the same validationKey and validation algorithm. AutoGenerate cannot be used in a cluster.
+
+http://go.microsoft.com/fwlink/?LinkID=314055 ---> System.Web.UI.ViewStateException: Invalid viewstate. 
+	Client IP: ::1
+	Port: 12078
+	User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.99 Safari/537.36
+	ViewState: CHIr8Ozy02/BLrEJQQP6c0UUc1BnuZJ4Eh5rJ43YsDcWtY2/RBbLyGAxlt0xKVr8uXEDodRPzGs/sd92isu+oYxu67llV7frn63XqU6tYidEXgICPxdDhNMH/5XbSSt/Ay1W8/cqpMWW34Y3quEzgzT4obSGbLt3duFbTwjghdhDUc/jpYaYOM/y+iXqpavGCnFVlkelhgZYR0b9wRc6KBJIsmaKmvX2HobeRKAu78RgBKCaG735yNdJnFAkYLC7LOxDKRY8KuAPFWKM9BmnePihy1FpV3p6E8wrEEHKNXRHocvn4r6m7M9+5MF3ZuyO23hhFHEYjqPRF/Z9z0SLfSmsC1U=
+	Referer: http://localhost:1949/SimpleServings/UI/Page/Login.aspx
+	Path: /SimpleServings/UI/Page/Login.aspx
+   --- End of inner exception stack trace ---
+   at System.Web.UI.ViewStateException.ThrowError(Exception inner, String persistedState, String errorPageMessage, Boolean macValidationError)
+   at System.Web.UI.ViewStateException.ThrowMacValidationError(Exception inner, String persistedState)
+   at System.Web.UI.ObjectStateFormatter.Deserialize(String inputString)
+   at System.Web.UI.ObjectStateFormatter.System.Web.UI.IStateFormatter.Deserialize(String serializedState)
+   at System.Web.UI.Util.DeserializeWithAssert(IStateFormatter formatter, String serializedState)
+   at System.Web.UI.HiddenFieldPageStatePersister.Load()
+   at System.Web.UI.Page.LoadPageStateFromPersistenceMedium()
+   at System.Web.UI.Page.LoadAllState()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   at System.Web.UI.Page.ProcessRequest(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   at System.Web.UI.Page.ProcessRequest()
+   at System.Web.UI.Page.ProcessRequestWithNoAssert(HttpContext context)
+   at System.Web.UI.Page.ProcessRequest(HttpContext context)
+   at ASP.ui_page_login_aspx.ProcessRequest(HttpContext context) in c:\Windows\Microsoft.NET\Framework\v2.0.50727\Temporary ASP.NET Files\simpleservings\50605a42\75e306da\App_Web_jznlyl-w.5.cs:line 0
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+2016-11-21 17:14:32,814 [  1] INFO  AppManager [(null)] SimpleServings started.
+2016-11-21 17:14:38,570 [  5] INFO  AppManager [(null)] (landingPage.aspx) - Redirecting to Login.aspx 
+Request Type: LogInOut 
+SessionId: 
+2016-11-21 17:14:44,192 [  7] ERROR AppManager [(null)] SimpleServings application error: Validation of viewstate MAC failed. If this application is hosted by a Web Farm or cluster, ensure that <machineKey> configuration specifies the same validationKey and validation algorithm. AutoGenerate cannot be used in a cluster.
+
+http://go.microsoft.com/fwlink/?LinkID=314055
+System.Web.HttpException: Validation of viewstate MAC failed. If this application is hosted by a Web Farm or cluster, ensure that <machineKey> configuration specifies the same validationKey and validation algorithm. AutoGenerate cannot be used in a cluster.
+
+http://go.microsoft.com/fwlink/?LinkID=314055 ---> System.Web.UI.ViewStateException: Invalid viewstate. 
+	Client IP: ::1
+	Port: 12147
+	User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.99 Safari/537.36
+	ViewState: IA3zqJSFg9Lj8/ps92QZn9cwBrfXVgUqr1+QM6Lw3MLEM7JlTWftmROLviR+hHNWifPxnNsy7u5xIaAjiuwazrhXgXXOuBEBQPopupP5pcgX9k9ohQWUZOInjcMEeT+SNmvyGzQjGlYQbv7leccXZxEHLd/lRWhq5mmPOfYqPhfArpYoBwQOmUMZjRU1mE99gyMMsPL66AwN1ZUwKmj9Kv7nV6yAhTIaz64n1WfIpLuqNva1iB8ogWxDxZj2KQ81n5TI1dwNvpVgyTY8wr2/i2kQq3CWGpbycOpBNIAPevA2F2ad8HKxXHD9tKmVxjLkBWYe/A9XquqStEpBbPtFnkWPUy8=
+	Referer: http://localhost:1949/SimpleServings/UI/Page/Login.aspx
+	Path: /SimpleServings/UI/Page/Login.aspx
+   --- End of inner exception stack trace ---
+   at System.Web.UI.ViewStateException.ThrowError(Exception inner, String persistedState, String errorPageMessage, Boolean macValidationError)
+   at System.Web.UI.ViewStateException.ThrowMacValidationError(Exception inner, String persistedState)
+   at System.Web.UI.ObjectStateFormatter.Deserialize(String inputString)
+   at System.Web.UI.ObjectStateFormatter.System.Web.UI.IStateFormatter.Deserialize(String serializedState)
+   at System.Web.UI.Util.DeserializeWithAssert(IStateFormatter formatter, String serializedState)
+   at System.Web.UI.HiddenFieldPageStatePersister.Load()
+   at System.Web.UI.Page.LoadPageStateFromPersistenceMedium()
+   at System.Web.UI.Page.LoadAllState()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   at System.Web.UI.Page.ProcessRequest(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   at System.Web.UI.Page.ProcessRequest()
+   at System.Web.UI.Page.ProcessRequestWithNoAssert(HttpContext context)
+   at System.Web.UI.Page.ProcessRequest(HttpContext context)
+   at ASP.ui_page_login_aspx.ProcessRequest(HttpContext context) in c:\Windows\Microsoft.NET\Framework\v2.0.50727\Temporary ASP.NET Files\simpleservings\50605a42\75e306da\App_Web_jznlyl-w.5.cs:line 0
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+2016-11-21 17:15:15,787 [  1] INFO  AppManager [(null)] SimpleServings started.
+2016-11-21 17:16:49,438 [  1] INFO  AppManager [(null)] SimpleServings started.
+2016-11-21 17:17:00,311 [  8] INFO  AppManager [(null)] (landingPage.aspx) - Redirecting to Login.aspx 
+Request Type: LogInOut 
+SessionId: 
+2016-11-21 17:17:05,972 [  5] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: bblhcgibh52v5xvfqintxljf
+2016-11-21 17:17:11,376 [  6] INFO  AppManager [(null)] (landingPage.aspx) - Request from http://localhost:1949/SimpleServings/UI/Page/Home.aspx 
+Request Type: LogInOut 
+SessionId: gffema45xpxrkmb4hfb2gv45
+2016-11-21 17:17:11,376 [  6] INFO  AppManager [(null)] (landingPage.aspx) - Redirecting to Login.aspx 
+Request Type: LogInOut 
+SessionId: gffema45xpxrkmb4hfb2gv45
+2016-11-21 17:17:11,399 [  6] INFO  AppManager [(null)] (login.aspx) - Request from http://localhost:1949/SimpleServings/UI/Page/Home.aspx 
+SessionId: 5qfap4zhff2ws545n0tm3555
+2016-11-21 17:17:17,246 [  6] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: qn1azq55ioywdx55c5bpdo55
+2016-11-21 17:17:20,740 [  5] INFO  AppManager [(null)] (landingPage.aspx) - Request from http://localhost:1949/SimpleServings/UI/Page/ 
+Request Type: LogInOut 
+SessionId: dy1l0lrznbhe1i45wlbxtanc
+2016-11-21 17:17:20,741 [  5] INFO  AppManager [(null)] (landingPage.aspx) - Redirecting to Login.aspx 
+Request Type: LogInOut 
+SessionId: dy1l0lrznbhe1i45wlbxtanc
+2016-11-21 17:17:20,771 [  9] INFO  AppManager [(null)] (login.aspx) - Request from http://localhost:1949/SimpleServings/UI/Page/ 
+SessionId: bbwwxs555blmva452zp5mi55
+2016-11-21 17:17:40,713 [  1] INFO  AppManager [(null)] SimpleServings started.
+2016-11-21 17:17:48,377 [  8] INFO  AppManager [(null)] (landingPage.aspx) - Redirecting to Login.aspx 
+Request Type: LogInOut 
+SessionId: 
+2016-11-21 17:17:57,049 [  5] INFO  AppManager [(null)] (landingPage.aspx) - Redirecting to Login.aspx 
+Request Type: LogInOut 
+SessionId: 
+2016-11-21 17:18:29,592 [  1] INFO  AppManager [(null)] SimpleServings started.
+2016-11-21 17:18:32,189 [  9] INFO  AppManager [(null)] (landingPage.aspx) - Redirecting to Login.aspx 
+Request Type: LogInOut 
+SessionId: 
+2016-11-21 17:18:37,856 [  5] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: yqzddyzraogyl3mmf2ob0j45
+2016-11-21 17:18:42,817 [  6] INFO  AppManager [(null)] (Recipe.aspx) - Request from http://localhost:1949/SimpleServings/UI/Page/Home.aspx 
+SessionId: yqzddyzraogyl3mmf2ob0j45
+2016-11-21 17:19:07,625 [  8] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: yqzddyzraogyl3mmf2ob0j45
+2016-11-21 17:19:13,323 [  6] INFO  AppManager [(null)] (landingPage.aspx) - Request from http://localhost:1949/SimpleServings/UI/Page/contact.aspx 
+Request Type: LogInOut 
+SessionId: yqzddyzraogyl3mmf2ob0j45
+2016-11-21 17:19:13,324 [  6] INFO  AppManager [(null)] (landingPage.aspx) - Redirecting to Login.aspx 
+Request Type: LogInOut 
+SessionId: yqzddyzraogyl3mmf2ob0j45
+2016-11-21 17:19:13,359 [  6] INFO  AppManager [(null)] (login.aspx) - Request from http://localhost:1949/SimpleServings/UI/Page/contact.aspx 
+SessionId: val32j45jtdyo445n5suugik

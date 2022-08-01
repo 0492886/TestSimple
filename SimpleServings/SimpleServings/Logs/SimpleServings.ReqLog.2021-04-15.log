@@ -1,0 +1,42 @@
+2021-04-15 12:35:29,348 [  1] INFO  AppManager [(null)] SimpleServings started.
+2021-04-15 12:47:58,046 [  1] INFO  AppManager [(null)] SimpleServings started.
+2021-04-15 12:49:16,981 [ 19] INFO  AppManager [(null)] SimpleServings started.
+2021-04-15 12:58:01,225 [  1] INFO  AppManager [(null)] SimpleServings started.
+2021-04-15 12:59:00,068 [ 14] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: tsiht3n5uo32oftrnk1reh3j
+2021-04-15 12:59:35,355 [ 19] INFO  AppManager [(null)] (landingPage.aspx) - Clearing Session 
+Request Type:  
+SessionId: jua2d3qelwqnshnzzaan2zkq
+2021-04-15 12:59:35,362 [ 16] INFO  AppManager [(null)] (landingPage.aspx) - New Session 
+Request Type:  
+SessionId: yqwcwixidfbyl51qtdmazj35
+2021-04-15 12:59:35,536 [ 15] INFO  AppManager [(null)] (login.aspx) - (Mli) - Login successful 
+SessionId: rwzzo3qz1mudqff4rbqpgpoh
+2021-04-15 12:59:35,544 [ 20] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: yqwcwixidfbyl51qtdmazj35
+2021-04-15 13:06:19,759 [ 27] INFO  AppManager [(null)] (landingPage.aspx) - Clearing Session 
+Request Type:  
+SessionId: vmt5xaaury2xyhen1wntntxl
+2021-04-15 13:06:19,764 [ 18] INFO  AppManager [(null)] (landingPage.aspx) - New Session 
+Request Type:  
+SessionId: uvmmhvuqguj1f2c5warw0zcj
+2021-04-15 13:06:20,103 [  9] ERROR AppManager [(null)] btnLogin_Click failed: Incorrect username and/or password.
+2021-04-15 13:07:42,877 [ 31] INFO  AppManager [(null)] (landingPage.aspx) - Clearing Session 
+Request Type:  
+SessionId: es3mc4oh3wuseec4hbydl5c1
+2021-04-15 13:07:42,882 [ 35] INFO  AppManager [(null)] (landingPage.aspx) - New Session 
+Request Type:  
+SessionId: xuxe15ri33vwadj3ps1nzqse
+2021-04-15 13:07:43,073 [ 17] INFO  AppManager [(null)] (login.aspx) - (Mli) - Login successful 
+SessionId: 4mznilybktkwndeh5rohaope
+2021-04-15 13:07:43,094 [ 27] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: xuxe15ri33vwadj3ps1nzqse
+2021-04-15 21:52:51,269 [  1] INFO  AppManager [(null)] SimpleServings started.
+2021-04-15 21:53:28,234 [ 15] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: dggsnkok4tjffkznqcrec4fj
+2021-04-15 21:53:44,391 [ 18] INFO  AppManager [(null)] (Recipe.aspx) - Request from http://localhost:1948/SimpleServings/UI/Page/Home.aspx 
+SessionId: dggsnkok4tjffkznqcrec4fj
+2021-04-15 22:01:39,354 [ 49] INFO  AppManager [(null)] SimpleServings started.
+2021-04-15 22:10:18,276 [ 92] INFO  AppManager [(null)] SimpleServings started.
+2021-04-15 22:13:33,212 [ 82] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: 5kp2oqhwrobt14zwmenjcydl

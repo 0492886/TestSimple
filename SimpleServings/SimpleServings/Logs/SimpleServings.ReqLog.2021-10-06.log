@@ -1,0 +1,58 @@
+2021-10-06 15:59:25,473 [  1] INFO  AppManager [(null)] SimpleServings started.
+2021-10-06 15:59:51,782 [ 12] ERROR AppManager [(null)] btnLogin_Click failed: GetStaffByEmail did not return any record!
+System.Exception: GetStaffByEmail did not return any record!
+   at SimpleServingsLibrary.Shared.StaffDB.GetStaffByEmail(String email) in E:\DFTA coding\SimpleServings\SimpleServings_networkVersion_I_do\SimpleServing_Latest\Ansu_4_20\SimpleServingsLibrary\SimpleServings.Shared\DAL\StaffDB.cs:line 93
+   at SimpleServingsLibrary.Shared.Staff.GetUserNameByEmail(String email) in E:\DFTA coding\SimpleServings\SimpleServings_networkVersion_I_do\SimpleServing_Latest\Ansu_4_20\SimpleServingsLibrary\SimpleServings.Shared\BLL\Staff.cs:line 522
+   at SimpleServings.UI.Page.login.btnLogin_Click(Object sender, EventArgs e) in E:\DFTA coding\SimpleServings\SimpleServings_networkVersion_I_do\SimpleServing_Latest\Ansu_4_20\SimpleServings\SimpleServings\UI\Page\login.aspx.cs:line 154
+2021-10-06 16:00:12,397 [ 14] INFO  AppManager [(null)] (landingPage.aspx) - Clearing Session 
+Request Type:  
+SessionId: qzfphkom1cbkqti3w1qnuzsq
+2021-10-06 16:00:12,410 [ 10] INFO  AppManager [(null)] (landingPage.aspx) - New Session 
+Request Type:  
+SessionId: cj1dlxwbmxs4fngvy4xrnsyt
+2021-10-06 16:00:12,411 [ 12] ERROR AppManager [(null)] btnLogin_Click failed: GetStaffByEmail did not return any record!
+System.Exception: GetStaffByEmail did not return any record!
+   at SimpleServingsLibrary.Shared.StaffDB.GetStaffByEmail(String email) in E:\DFTA coding\SimpleServings\SimpleServings_networkVersion_I_do\SimpleServing_Latest\Ansu_4_20\SimpleServingsLibrary\SimpleServings.Shared\DAL\StaffDB.cs:line 93
+   at SimpleServingsLibrary.Shared.Staff.GetUserNameByEmail(String email) in E:\DFTA coding\SimpleServings\SimpleServings_networkVersion_I_do\SimpleServing_Latest\Ansu_4_20\SimpleServingsLibrary\SimpleServings.Shared\BLL\Staff.cs:line 522
+   at SimpleServings.UI.Page.login.btnLogin_Click(Object sender, EventArgs e) in E:\DFTA coding\SimpleServings\SimpleServings_networkVersion_I_do\SimpleServing_Latest\Ansu_4_20\SimpleServings\SimpleServings\UI\Page\login.aspx.cs:line 154
+2021-10-06 16:00:24,318 [ 20] INFO  AppManager [(null)] (landingPage.aspx) - Clearing Session 
+Request Type:  
+SessionId: cj1dlxwbmxs4fngvy4xrnsyt
+2021-10-06 16:00:24,327 [ 11] INFO  AppManager [(null)] (landingPage.aspx) - New Session 
+Request Type:  
+SessionId: fexzzwp4tganfzvwnl51o0uh
+2021-10-06 16:00:24,332 [ 20] ERROR AppManager [(null)] btnLogin_Click failed: GetStaffByEmail did not return any record!
+System.Exception: GetStaffByEmail did not return any record!
+   at SimpleServingsLibrary.Shared.StaffDB.GetStaffByEmail(String email) in E:\DFTA coding\SimpleServings\SimpleServings_networkVersion_I_do\SimpleServing_Latest\Ansu_4_20\SimpleServingsLibrary\SimpleServings.Shared\DAL\StaffDB.cs:line 93
+   at SimpleServingsLibrary.Shared.Staff.GetUserNameByEmail(String email) in E:\DFTA coding\SimpleServings\SimpleServings_networkVersion_I_do\SimpleServing_Latest\Ansu_4_20\SimpleServingsLibrary\SimpleServings.Shared\BLL\Staff.cs:line 522
+   at SimpleServings.UI.Page.login.btnLogin_Click(Object sender, EventArgs e) in E:\DFTA coding\SimpleServings\SimpleServings_networkVersion_I_do\SimpleServing_Latest\Ansu_4_20\SimpleServings\SimpleServings\UI\Page\login.aspx.cs:line 154
+2021-10-06 16:01:22,740 [  1] INFO  AppManager [(null)] SimpleServings started.
+2021-10-06 16:01:44,659 [ 14] ERROR AppManager [(null)] btnLogin_Click failed: GetStaffByEmail did not return any record!
+System.Exception: GetStaffByEmail did not return any record!
+   at SimpleServingsLibrary.Shared.StaffDB.GetStaffByEmail(String email) in E:\DFTA coding\SimpleServings\SimpleServings_networkVersion_I_do\SimpleServing_Latest\Ansu_4_20\SimpleServingsLibrary\SimpleServings.Shared\DAL\StaffDB.cs:line 93
+   at SimpleServingsLibrary.Shared.Staff.GetUserNameByEmail(String email) in E:\DFTA coding\SimpleServings\SimpleServings_networkVersion_I_do\SimpleServing_Latest\Ansu_4_20\SimpleServingsLibrary\SimpleServings.Shared\BLL\Staff.cs:line 522
+   at SimpleServings.UI.Page.login.btnLogin_Click(Object sender, EventArgs e) in E:\DFTA coding\SimpleServings\SimpleServings_networkVersion_I_do\SimpleServing_Latest\Ansu_4_20\SimpleServings\SimpleServings\UI\Page\login.aspx.cs:line 154
+2021-10-06 16:02:57,246 [ 10] INFO  AppManager [(null)] (landingPage.aspx) - Clearing Session 
+Request Type:  
+SessionId: cwzoysph3jaeei0jkkmnqcfv
+2021-10-06 16:02:57,257 [ 16] INFO  AppManager [(null)] (landingPage.aspx) - New Session 
+Request Type:  
+SessionId: bmv45ktgt3rt4g3c3d43gqvi
+2021-10-06 16:02:57,498 [ 12] INFO  AppManager [(null)] (login.aspx) - (Mli) - Login successful 
+SessionId: cwzoysph3jaeei0jkkmnqcfv
+2021-10-06 16:02:57,628 [ 23] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: bmv45ktgt3rt4g3c3d43gqvi
+2021-10-06 16:06:29,359 [  1] INFO  AppManager [(null)] SimpleServings started.
+2021-10-06 16:06:40,599 [ 19] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: btravc33xzdylvkodxiwhie0
+2021-10-06 16:44:51,783 [  1] INFO  AppManager [(null)] SimpleServings started.
+2021-10-06 16:45:27,578 [ 11] INFO  AppManager [(null)] (landingPage.aspx) - Clearing Session 
+Request Type:  
+SessionId: ajklcxnkyc1jd4itvsphddzr
+2021-10-06 16:45:27,585 [ 10] INFO  AppManager [(null)] (landingPage.aspx) - New Session 
+Request Type:  
+SessionId: q0rtzr3fiwomgk2fp4egoxeh
+2021-10-06 16:45:27,885 [ 11] INFO  AppManager [(null)] (login.aspx) - (Mli) - Login successful 
+SessionId: 0qwv1icjlegkvq52ubzfeazz
+2021-10-06 16:45:27,939 [ 16] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: q0rtzr3fiwomgk2fp4egoxeh

@@ -1,0 +1,44 @@
+2021-03-20 14:48:30,100 [  1] INFO  AppManager [(null)] SimpleServings started.
+2021-03-20 14:49:28,457 [ 14] ERROR AppManager [(null)] btnLogin_Click failed: Cannot open database "SimpleServings033020" requested by the login. The login failed.
+Login failed for user 'IntraNetuser'.
+System.Data.SqlClient.SqlException (0x80131904): Cannot open database "SimpleServings033020" requested by the login. The login failed.
+Login failed for user 'IntraNetuser'.
+   at System.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, UInt32 waitForMultipleObjectsTimeout, Boolean allowCreate, Boolean onlyOneCheckConnection, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   at System.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   at System.Data.ProviderBase.DbConnectionFactory.TryGetConnection(DbConnection owningConnection, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal oldConnection, DbConnectionInternal& connection)
+   at System.Data.ProviderBase.DbConnectionInternal.TryOpenConnectionInternal(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   at System.Data.ProviderBase.DbConnectionClosed.TryOpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   at System.Data.SqlClient.SqlConnection.TryOpenInner(TaskCompletionSource`1 retry)
+   at System.Data.SqlClient.SqlConnection.TryOpen(TaskCompletionSource`1 retry)
+   at System.Data.SqlClient.SqlConnection.Open()
+   at Microsoft.Practices.EnterpriseLibrary.Data.Database.OpenConnection()
+   at Microsoft.Practices.EnterpriseLibrary.Data.Database.ExecuteReader(DbCommand command)
+   at SimpleServingsLibrary.Shared.StaffDB.Authenticate(String userName) in E:\DFTA coding\SimpleServings\Assu_version\Ansu_3_19\SimpleServingsLibrary\SimpleServings.Shared\DAL\StaffDB.cs:line 400
+   at SimpleServingsLibrary.Shared.Staff.Authenticate(String userName) in E:\DFTA coding\SimpleServings\Assu_version\Ansu_3_19\SimpleServingsLibrary\SimpleServings.Shared\BLL\Staff.cs:line 620
+   at SimpleServings.UI.Page.login.btnLogin_Click(Object sender, EventArgs e) in E:\DFTA coding\SimpleServings\Assu_version\Ansu_3_19\SimpleServings\SimpleServings\UI\Page\login.aspx.cs:line 159
+ClientConnectionId:8651bc8f-b79e-4630-a49d-b6fc92e28796
+Error Number:4060,State:1,Class:11
+2021-03-20 14:50:05,254 [ 26] INFO  AppManager [(null)] SimpleServings started.
+2021-03-20 14:50:48,192 [ 15] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: gn1vgjxz02i1hcjjx4hrhvle
+2021-03-20 14:52:09,610 [ 15] INFO  AppManager [(null)] (landingPage.aspx) - Clearing Session 
+Request Type:  
+SessionId: qg10agbl0txwkbxf4wc3t22y
+2021-03-20 14:52:09,615 [ 16] INFO  AppManager [(null)] (landingPage.aspx) - New Session 
+Request Type:  
+SessionId: vuso0cgn1s2utfkmegy5mhlu
+2021-03-20 14:52:09,794 [ 17] INFO  AppManager [(null)] (login.aspx) - (Mli) - Login successful 
+SessionId: r2t0czf5k2ml05cx5xqwybvz
+2021-03-20 14:52:09,798 [ 21] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: vuso0cgn1s2utfkmegy5mhlu
+2021-03-20 14:53:06,835 [  9] INFO  AppManager [(null)] (Recipe.aspx) - Request from http://localhost:1949/SimpleServings/UI/Page/SimpleServings/Recipe/RecipeList.aspx 
+SessionId: vuso0cgn1s2utfkmegy5mhlu
+2021-03-20 14:53:57,907 [ 14] INFO  AppManager [(null)] (Recipe.aspx) - Request from http://localhost:1949/SimpleServings/UI/Page/SimpleServings/Recipe/AddRecipe.aspx 
+SessionId: vuso0cgn1s2utfkmegy5mhlu
+2021-03-20 15:21:25,735 [  1] INFO  AppManager [(null)] SimpleServings started.
+2021-03-20 15:22:00,133 [ 12] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: y0qwl3mwd0lrwydz5vlmhmq2
+2021-03-20 15:23:33,723 [ 16] INFO  AppManager [(null)] (Recipe.aspx) - Request from http://localhost:1949/SimpleServings/UI/Page/SimpleServings/Recipe/RecipeList.aspx 
+SessionId: y0qwl3mwd0lrwydz5vlmhmq2
+2021-03-20 15:24:19,215 [ 19] INFO  AppManager [(null)] (Recipe.aspx) - Request from http://localhost:1949/SimpleServings/UI/Page/SimpleServings/Recipe/ViewRecipe.aspx?RecipeID=222 
+SessionId: y0qwl3mwd0lrwydz5vlmhmq2

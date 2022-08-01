@@ -1,0 +1,96 @@
+2022-07-07 14:24:24,878 [185] INFO  AppManager [(null)] (landingPage.aspx) - Clearing Session 
+Request Type:  
+SessionId: pdld5yc1scbphiggahf2ntei
+2022-07-07 14:24:24,907 [180] INFO  AppManager [(null)] (landingPage.aspx) - New Session 
+Request Type:  
+SessionId: qvqil51h34gjvgzxiqbm54ui
+2022-07-07 14:24:25,404 [ 87] INFO  AppManager [(null)] (login.aspx) - (hindy.chanales) - Login successful 
+SessionId: ltobtkr5wdqx3djxttlfogyq
+2022-07-07 14:24:25,651 [ 35] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: qvqil51h34gjvgzxiqbm54ui
+2022-07-07 14:24:27,188 [163] INFO  AppManager [(null)] (Recipe.aspx) - Request from http://localhost:1946/SimpleServings/UI/Page/Home.aspx 
+SessionId: qvqil51h34gjvgzxiqbm54ui
+2022-07-07 14:25:49,677 [ 72] INFO  AppManager [(null)] (landingPage.aspx) - Clearing Session 
+Request Type:  
+SessionId: 2wmxavfo1rzg2hcoufdzxhdn
+2022-07-07 14:25:49,685 [ 54] INFO  AppManager [(null)] (landingPage.aspx) - New Session 
+Request Type:  
+SessionId: umvdew4lxh10gkqcak3ytyqc
+2022-07-07 14:25:49,945 [ 85] ERROR AppManager [(null)] btnLogin_Click failed: Incorrect username and/or password.
+2022-07-07 14:25:57,771 [ 58] INFO  AppManager [(null)] (landingPage.aspx) - Clearing Session 
+Request Type:  
+SessionId: umvdew4lxh10gkqcak3ytyqc
+2022-07-07 14:25:57,776 [152] INFO  AppManager [(null)] (landingPage.aspx) - New Session 
+Request Type:  
+SessionId: nibbkrf2fgoef5orbr4r3iu3
+2022-07-07 14:25:57,992 [ 31] INFO  AppManager [(null)] (login.aspx) - (hindy.chanales) - Login successful 
+SessionId: jd4xh5ggdopfzcx1jckjqb0i
+2022-07-07 14:25:57,996 [180] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: nibbkrf2fgoef5orbr4r3iu3
+2022-07-07 14:25:59,932 [ 21] INFO  AppManager [(null)] (Recipe.aspx) - Request from http://localhost:1946/SimpleServings/UI/Page/Home.aspx 
+SessionId: nibbkrf2fgoef5orbr4r3iu3
+2022-07-07 16:13:49,049 [157] INFO  AppManager [(null)] SimpleServings started.
+2022-07-07 16:14:15,681 [ 45] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: gxhfb2yd1gd0l50kucexrq11
+2022-07-07 16:15:58,596 [150] INFO  AppManager [(null)] (landingPage.aspx) - Request from http://localhost:1946/SimpleServings/UI/Page/SimpleServings/Menu/MenuList.aspx?MenuType=MyMenus 
+Request Type: LogInOut 
+SessionId: gxhfb2yd1gd0l50kucexrq11
+2022-07-07 16:15:58,597 [150] INFO  AppManager [(null)] (landingPage.aspx) - Redirecting to Login.aspx 
+Request Type: LogInOut 
+SessionId: gxhfb2yd1gd0l50kucexrq11
+2022-07-07 16:15:58,601 [155] INFO  AppManager [(null)] (login.aspx) - Request from http://localhost:1946/SimpleServings/UI/Page/SimpleServings/Menu/MenuList.aspx?MenuType=MyMenus 
+SessionId: liu0dhwvwunta05aatao1as4
+2022-07-07 16:16:09,804 [ 17] INFO  AppManager [(null)] (landingPage.aspx) - Clearing Session 
+Request Type:  
+SessionId: yyb314bfjm3cqxs33gwocbtz
+2022-07-07 16:16:09,811 [ 56] INFO  AppManager [(null)] (landingPage.aspx) - New Session 
+Request Type:  
+SessionId: dkzpgoxihznhasnc3py5d1ox
+2022-07-07 16:16:10,034 [ 67] ERROR AppManager [(null)] btnLogin_Click failed: Incorrect username and/or password.
+2022-07-07 16:16:18,250 [ 45] INFO  AppManager [(null)] (landingPage.aspx) - Clearing Session 
+Request Type:  
+SessionId: dkzpgoxihznhasnc3py5d1ox
+2022-07-07 16:16:18,257 [150] INFO  AppManager [(null)] (landingPage.aspx) - New Session 
+Request Type:  
+SessionId: t3zx4xomqwvjczer25hktsaw
+2022-07-07 16:16:18,471 [ 22] INFO  AppManager [(null)] (login.aspx) - (Mli) - Login successful 
+SessionId: 0ftj0eimstoshqekb0oi2zt3
+2022-07-07 16:16:18,475 [ 67] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: t3zx4xomqwvjczer25hktsaw
+2022-07-07 16:21:06,402 [ 56] INFO  AppManager [(null)] (landingPage.aspx) - Clearing Session 
+Request Type:  
+SessionId: 1vu5lfwee3znlj33f4difinh
+2022-07-07 16:21:06,410 [179] INFO  AppManager [(null)] (landingPage.aspx) - New Session 
+Request Type:  
+SessionId: 4f4ome1m3mxzbwpgailpgzgq
+2022-07-07 16:21:06,633 [ 45] INFO  AppManager [(null)] (login.aspx) - (hindy.chanales) - Login successful 
+SessionId: j4oe0iobcbsrcftfciaw2j5r
+2022-07-07 16:21:06,640 [ 22] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: 4f4ome1m3mxzbwpgailpgzgq
+2022-07-07 16:21:09,053 [150] INFO  AppManager [(null)] (Recipe.aspx) - Request from http://localhost:1946/SimpleServings/UI/Page/Home.aspx 
+SessionId: 4f4ome1m3mxzbwpgailpgzgq
+2022-07-07 16:21:54,793 [ 88] INFO  AppManager [(null)] (landingPage.aspx) - Request from http://localhost:1946/SimpleServings/UI/Page/SimpleServings/Recipe/Recipe.aspx 
+Request Type: LogInOut 
+SessionId: 4f4ome1m3mxzbwpgailpgzgq
+2022-07-07 16:21:54,793 [ 88] INFO  AppManager [(null)] (landingPage.aspx) - Redirecting to Login.aspx 
+Request Type: LogInOut 
+SessionId: 4f4ome1m3mxzbwpgailpgzgq
+2022-07-07 16:21:54,796 [150] INFO  AppManager [(null)] (login.aspx) - Request from http://localhost:1946/SimpleServings/UI/Page/SimpleServings/Recipe/Recipe.aspx 
+SessionId: g02l5skssobrnr4drzdhoepg
+2022-07-07 16:22:04,281 [171] INFO  AppManager [(null)] (landingPage.aspx) - Clearing Session 
+Request Type:  
+SessionId: dmvr0jhtkfhtservhptsg2bd
+2022-07-07 16:22:04,289 [155] INFO  AppManager [(null)] (landingPage.aspx) - New Session 
+Request Type:  
+SessionId: rxguyclj5rdo3hu4l1ifcziw
+2022-07-07 16:22:04,776 [ 17] INFO  AppManager [(null)] (login.aspx) - (hindy.chanales) - Login successful 
+SessionId: 4nlgdxdcymuymtjut1e0hnst
+2022-07-07 16:22:04,784 [150] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: rxguyclj5rdo3hu4l1ifcziw
+2022-07-07 16:22:06,201 [ 45] INFO  AppManager [(null)] (Recipe.aspx) - Request from http://localhost:1946/SimpleServings/UI/Page/Home.aspx 
+SessionId: rxguyclj5rdo3hu4l1ifcziw
+2022-07-07 16:25:04,136 [ 54] INFO  AppManager [(null)] SimpleServings started.
+2022-07-07 16:25:34,986 [ 17] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: asflo3ksv3owfgtjuqkxndn4
+2022-07-07 16:25:37,651 [ 56] INFO  AppManager [(null)] (Recipe.aspx) - Request from http://localhost:1946/SimpleServings/UI/Page/Home.aspx 
+SessionId: asflo3ksv3owfgtjuqkxndn4

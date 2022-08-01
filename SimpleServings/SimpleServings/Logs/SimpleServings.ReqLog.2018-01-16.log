@@ -1,0 +1,23 @@
+2018-01-16 11:08:50,411 [  1] INFO  AppManager [(null)] SimpleServings started.
+2018-01-16 11:09:39,130 [ 10] INFO  AppManager [(null)] (login.aspx) - (kpatel1) - Login successful 
+SessionId: 4v1lwq3dlzia3x453hahgy45
+2018-01-16 11:09:39,221 [ 10] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: zegcjh31rpjpssnvhaqvgs45
+2018-01-16 11:09:49,162 [ 10] INFO  AppManager [(null)] (landingPage.aspx) - Request from http://localhost:1949/SimpleServings/UI/Page/Home.aspx 
+Request Type: LogInOut 
+SessionId: zegcjh31rpjpssnvhaqvgs45
+2018-01-16 11:09:49,163 [ 10] INFO  AppManager [(null)] (landingPage.aspx) - Redirecting to Login.aspx 
+Request Type: LogInOut 
+SessionId: zegcjh31rpjpssnvhaqvgs45
+2018-01-16 11:09:49,191 [ 10] INFO  AppManager [(null)] (login.aspx) - Request from http://localhost:1949/SimpleServings/UI/Page/Home.aspx 
+SessionId: gmm4s35511hxf1jf3e55nprg
+2018-01-16 11:10:53,048 [  7] INFO  AppManager [(null)] (landingPage.aspx) - Clearing Session 
+Request Type:  
+SessionId: xqqsyo45gcorou45iongyg55
+2018-01-16 11:10:53,056 [ 10] INFO  AppManager [(null)] (landingPage.aspx) - New Session 
+Request Type:  
+SessionId: 3uomib45lmsa4f2m1i2pjqbc
+2018-01-16 11:10:53,140 [ 10] INFO  AppManager [(null)] (login.aspx) - (lisa.lubarsky) - Login successful 
+SessionId: nivdijzqvm51fp55t00k0czm
+2018-01-16 11:10:53,163 [  8] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: 3uomib45lmsa4f2m1i2pjqbc

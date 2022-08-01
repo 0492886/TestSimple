@@ -1,0 +1,29 @@
+2017-09-26 12:56:46,817 [  1] INFO  AppManager [(null)] SimpleServings started.
+2017-09-26 12:57:24,865 [  5] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: cs2p4p45pic2ozaia2offcrd
+2017-09-26 12:59:25,283 [  5] INFO  AppManager [(null)] (landingPage.aspx) - Request from http://localhost:1949/SimpleServings/UI/Page/SimpleServings/Menu/MenuStatusChangeSubmission.aspx?MenuID=8956&StatusID=111 
+Request Type: LogInOut 
+SessionId: cs2p4p45pic2ozaia2offcrd
+2017-09-26 12:59:25,283 [  5] INFO  AppManager [(null)] (landingPage.aspx) - Redirecting to Login.aspx 
+Request Type: LogInOut 
+SessionId: cs2p4p45pic2ozaia2offcrd
+2017-09-26 12:59:25,286 [  8] INFO  AppManager [(null)] (login.aspx) - Request from http://localhost:1949/SimpleServings/UI/Page/SimpleServings/Menu/MenuStatusChangeSubmission.aspx?MenuID=8956&StatusID=111 
+SessionId: 3mash32pim4vfi451yvzeufx
+2017-09-26 14:03:01,794 [  7] INFO  AppManager [(null)] (landingPage.aspx) - Clearing Session 
+Request Type:  
+SessionId: v4tlbuikz3xkcq55cknvyy55
+2017-09-26 14:03:01,806 [  7] INFO  AppManager [(null)] (landingPage.aspx) - New Session 
+Request Type:  
+SessionId: gcr2gfrzqufldl550prolp45
+2017-09-26 14:03:01,806 [  8] INFO  AppManager [(null)] (login.aspx) - (JAlberg) - Login successful 
+SessionId: pw2l3quo05qonzvgr3r1h1m3
+2017-09-26 14:03:01,817 [  8] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: gcr2gfrzqufldl550prolp45
+2017-09-26 14:04:03,197 [  6] INFO  AppManager [(null)] (landingPage.aspx) - Request from http://localhost:1949/SimpleServings/UI/Page/SimpleServings/Menu/MenuStatusChangeSubmission.aspx?MenuID=8956&StatusID=108 
+Request Type: LogInOut 
+SessionId: gcr2gfrzqufldl550prolp45
+2017-09-26 14:04:03,198 [  6] INFO  AppManager [(null)] (landingPage.aspx) - Redirecting to Login.aspx 
+Request Type: LogInOut 
+SessionId: gcr2gfrzqufldl550prolp45
+2017-09-26 14:04:03,228 [  6] INFO  AppManager [(null)] (login.aspx) - Request from http://localhost:1949/SimpleServings/UI/Page/SimpleServings/Menu/MenuStatusChangeSubmission.aspx?MenuID=8956&StatusID=108 
+SessionId: s054kiahhcom1lqplhqxes2j

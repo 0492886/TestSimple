@@ -1,0 +1,22 @@
+2022-06-15 09:57:03,937 [  1] INFO  AppManager [(null)] SimpleServings started.
+2022-06-15 09:58:42,487 [  7] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: 3onazaqvcxkryxqjidugw543
+2022-06-15 09:58:50,975 [  7] INFO  AppManager [(null)] (Recipe.aspx) - Request from http://localhost:1946/SimpleServings/UI/Page/Home.aspx 
+SessionId: 3onazaqvcxkryxqjidugw543
+2022-06-15 10:18:45,674 [134] INFO  AppManager [(null)] (landingPage.aspx) - Clearing Session 
+Request Type:  
+SessionId: godrjxnteefvdjbvgc3mxbwb
+2022-06-15 10:18:45,680 [ 71] INFO  AppManager [(null)] (landingPage.aspx) - New Session 
+Request Type:  
+SessionId: 1bnplr5b0wjlxaluf3y0kxl2
+2022-06-15 10:18:46,036 [118] INFO  AppManager [(null)] (login.aspx) - (Mli) - Login successful 
+SessionId: 2h14rjrcfivohhr2agenw5jj
+2022-06-15 10:18:46,041 [127] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: 1bnplr5b0wjlxaluf3y0kxl2
+2022-06-15 10:18:48,722 [135] INFO  AppManager [(null)] (Recipe.aspx) - Request from http://localhost:1946/SimpleServings/UI/Page/Home.aspx 
+SessionId: 1bnplr5b0wjlxaluf3y0kxl2
+2022-06-15 10:32:03,806 [  1] INFO  AppManager [(null)] SimpleServings started.
+2022-06-15 10:32:30,906 [ 10] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: jpi3vihpxpkzernw2j1ktbch
+2022-06-15 10:32:33,274 [ 17] INFO  AppManager [(null)] (Recipe.aspx) - Request from http://localhost:1946/SimpleServings/UI/Page/Home.aspx 
+SessionId: jpi3vihpxpkzernw2j1ktbch

@@ -1,0 +1,127 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{9606193D-4651-46E7-82C2-2AD0C00DEFC0}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>SimpleServings.Shared</RootNamespace>
+    <AssemblyName>SimpleServings.Shared</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <SccProjectName>
+    </SccProjectName>
+    <SccLocalPath>
+    </SccLocalPath>
+    <SccAuxPath>
+    </SccAuxPath>
+    <SccProvider>
+    </SccProvider>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <DocumentationFile>bin\Debug\SimpleServings.Shared.XML</DocumentationFile>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.Practices.EnterpriseLibrary.Common, Version=4.1.0.0, Culture=neutral, PublicKeyToken=e44a2bc38ed2c13c, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Practices.EnterpriseLibrary.Data">
+      <HintPath>..\..\DLL\Microsoft.Practices.EnterpriseLibrary.Data.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Practices.ObjectBuilder">
+      <HintPath>..\..\DLL\Microsoft.Practices.ObjectBuilder.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.configuration" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.DirectoryServices.AccountManagement" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="BLL\BaseContact.cs" />
+    <Compile Include="BLL\CodeDependency.cs" />
+    <Compile Include="BLL\Code.cs" />
+    <Compile Include="BLL\Comment.cs" />
+    <Compile Include="BLL\GlobalEnum.cs" />
+    <Compile Include="BLL\Link.cs" />
+    <Compile Include="BLL\Logger.cs" />
+    <Compile Include="BLL\ManageCategoriesandTags.cs" />
+    <Compile Include="BLL\ModulePermission.cs" />
+    <Compile Include="BLL\ProgressNote.cs" />
+    <Compile Include="BLL\Report.cs" />
+    <Compile Include="BLL\ReportInclude.cs" />
+    <Compile Include="BLL\Rule.cs" />
+    <Compile Include="BLL\RuleCodeAssociation.cs" />
+    <Compile Include="BLL\Site.cs" />
+    <Compile Include="BLL\Staff.cs" />
+    <Compile Include="BLL\StaffComment.cs" />
+    <Compile Include="BLL\StaffContract.cs" />
+    <Compile Include="BLL\StaffNote.cs" />
+    <Compile Include="BLL\UserGroup.cs" />
+    <Compile Include="BLL\UserGroupLinkPermission.cs" />
+    <Compile Include="BLL\UserGroupSetting.cs" />
+    <Compile Include="BLL\Utility.cs" />
+    <Compile Include="BLL\Validation.cs" />
+    <Compile Include="DAL\CodeDependencyDB.cs" />
+    <Compile Include="DAL\CodeDB.cs" />
+    <Compile Include="DAL\CommentDB.cs" />
+    <Compile Include="DAL\LinkDB.cs" />
+    <Compile Include="DAL\LoggerDB.cs" />
+    <Compile Include="DAL\ManageCategoriesandTagsDB.cs" />
+    <Compile Include="DAL\ModulePermissionDB.cs" />
+    <Compile Include="DAL\ProgressNoteDB.cs" />
+    <Compile Include="DAL\ReportDB.cs" />
+    <Compile Include="DAL\ReportIncludeDB.cs" />
+    <Compile Include="DAL\RuleCodeAssociationDB.cs" />
+    <Compile Include="DAL\RuleDB.cs" />
+    <Compile Include="DAL\SiteDB.cs" />
+    <Compile Include="DAL\StaffCommentDB.cs" />
+    <Compile Include="DAL\StaffContractDB.cs" />
+    <Compile Include="DAL\StaffDB.cs" />
+    <Compile Include="DAL\StaffNoteDB.cs" />
+    <Compile Include="DAL\UserGroupDB.cs" />
+    <Compile Include="DAL\UserGroupLinkPermissionDB.cs" />
+    <Compile Include="DAL\UserGroupSettingDB.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\SimpleServings.SupplierRelationship\SimpleServings.SupplierRelationship.csproj">
+      <Project>{14B24BC9-8B84-4908-B100-88598744545B}</Project>
+      <Name>SimpleServings.SupplierRelationship</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

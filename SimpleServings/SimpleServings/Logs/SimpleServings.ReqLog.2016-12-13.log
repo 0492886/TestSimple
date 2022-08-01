@@ -1,0 +1,349 @@
+2016-12-13 10:39:42,315 [  1] INFO  AppManager [(null)] SimpleServings started.
+2016-12-13 10:47:39,281 [  5] INFO  AppManager [(null)] (landingPage.aspx) - Redirecting to Login.aspx 
+Request Type: LogInOut 
+SessionId: 
+2016-12-13 10:47:48,660 [  6] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: mnec2m55ls2c0iq0gxaatiqq
+2016-12-13 11:00:13,246 [  7] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: mnec2m55ls2c0iq0gxaatiqq
+2016-12-13 12:32:12,088 [  1] INFO  AppManager [(null)] SimpleServings started.
+2016-12-13 12:32:24,200 [  6] INFO  AppManager [(null)] (landingPage.aspx) - Redirecting to Login.aspx 
+Request Type: LogInOut 
+SessionId: 
+2016-12-13 12:32:30,635 [  5] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: krmj53zztrk2imuj1braw055
+2016-12-13 12:33:40,191 [  1] INFO  AppManager [(null)] SimpleServings started.
+2016-12-13 12:33:42,663 [  7] INFO  AppManager [(null)] (landingPage.aspx) - Redirecting to Login.aspx 
+Request Type: LogInOut 
+SessionId: 
+2016-12-13 12:33:48,981 [  6] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: 2nqmcjqcdtdsf4eu2zjaft2w
+2016-12-13 12:40:22,824 [ 11] INFO  AppManager [(null)] SimpleServings started.
+2016-12-13 12:40:33,807 [  7] INFO  AppManager [(null)] (landingPage.aspx) - Request from http://localhost:1949/SimpleServings/UI/Page/SimpleServings/Menu/MenuList.aspx?MenuType=MyMenus 
+Request Type: LogInOut 
+SessionId: 2nqmcjqcdtdsf4eu2zjaft2w
+2016-12-13 12:40:33,808 [  7] INFO  AppManager [(null)] (landingPage.aspx) - Redirecting to Login.aspx 
+Request Type: LogInOut 
+SessionId: 2nqmcjqcdtdsf4eu2zjaft2w
+2016-12-13 12:40:39,213 [  6] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: iphyh2i5lyw0jr55sgokev45
+2016-12-13 12:41:28,923 [  1] INFO  AppManager [(null)] SimpleServings started.
+2016-12-13 12:41:39,925 [  6] INFO  AppManager [(null)] (landingPage.aspx) - Request from http://localhost:1949/SimpleServings/UI/Page/SimpleServings/Menu/MenuList.aspx?MenuType=MyMenus 
+Request Type: LogInOut 
+SessionId: iphyh2i5lyw0jr55sgokev45
+2016-12-13 12:41:39,927 [  6] INFO  AppManager [(null)] (landingPage.aspx) - Redirecting to Login.aspx 
+Request Type: LogInOut 
+SessionId: iphyh2i5lyw0jr55sgokev45
+2016-12-13 12:41:43,473 [  8] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: q4idp0fwbk3cwb45i45ocd45
+2016-12-13 12:42:14,521 [  7] INFO  AppManager [(null)] (landingPage.aspx) - Request from http://localhost:1949/SimpleServings/UI/Page/SimpleServings/Menu/MenuList.aspx?MenuType=MyMenus 
+Request Type: LogInOut 
+SessionId: mnec2m55ls2c0iq0gxaatiqq
+2016-12-13 12:42:14,522 [  7] INFO  AppManager [(null)] (landingPage.aspx) - Redirecting to Login.aspx 
+Request Type: LogInOut 
+SessionId: mnec2m55ls2c0iq0gxaatiqq
+2016-12-13 12:42:14,530 [  7] INFO  AppManager [(null)] (login.aspx) - Request from http://localhost:1949/SimpleServings/UI/Page/SimpleServings/Menu/MenuList.aspx?MenuType=MyMenus 
+SessionId: pvrbee55vabftw55uwv5e355
+2016-12-13 12:42:20,765 [  8] INFO  AppManager [(null)] (landingPage.aspx) - Clearing Session 
+Request Type:  
+SessionId: p2kv0k55ozr0h4fy100sgv24
+2016-12-13 12:42:20,773 [  8] INFO  AppManager [(null)] (landingPage.aspx) - New Session 
+Request Type:  
+SessionId: iju10omfdarews2ljhkimtbq
+2016-12-13 12:42:20,778 [  5] INFO  AppManager [(null)] (login.aspx) - (cvais7773) - Login successful 
+SessionId: cij2bneborenzo45veteco55
+2016-12-13 12:42:20,782 [  5] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: iju10omfdarews2ljhkimtbq
+2016-12-13 14:51:36,029 [  1] INFO  AppManager [(null)] SimpleServings started.
+2016-12-13 14:51:43,267 [  5] INFO  AppManager [(null)] (landingPage.aspx) - Request from http://localhost:1949/SimpleServings/UI/Page/SimpleServings/Menu/MenuList.aspx?MenuType=ViewSamples 
+Request Type: LogInOut 
+SessionId: iju10omfdarews2ljhkimtbq
+2016-12-13 14:51:43,269 [  5] INFO  AppManager [(null)] (landingPage.aspx) - Redirecting to Login.aspx 
+Request Type: LogInOut 
+SessionId: iju10omfdarews2ljhkimtbq
+2016-12-13 14:51:51,602 [  7] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: 3mcn5rvuz33hc3my4d2d30zq
+2016-12-13 14:51:56,834 [  8] ERROR AppManager [(null)] SimpleServings application error: Exception of type 'System.Web.HttpUnhandledException' was thrown.
+System.Web.HttpUnhandledException: Exception of type 'System.Web.HttpUnhandledException' was thrown. ---> System.Exception: Sp_Get_SampleMenus_by_MenuStatus did not return a record!
+   at SimpleServingsLibrary.Menu.MenuDB.GetSampleMenusByMenuStatus(Int32 staffID, Int32 menuStatusID)
+   at SimpleServingsLibrary.Menu.Menu.GetSampleMenusByMenuStatus(Int32 staffID, Int32 menuStatus)
+   at SimpleServings.UI.UDC.SimpleServings.Menu.MenuList.PopViewSamplesGrid() in c:\TFS\DFTA\SimpleServings\SimpleServings\SimpleServings\UI\UDC\SimpleServings\Menu\MenuList.ascx.cs:line 201
+   at SimpleServings.UI.UDC.SimpleServings.Menu.MenuList.PopViewSamples() in c:\TFS\DFTA\SimpleServings\SimpleServings\SimpleServings\UI\UDC\SimpleServings\Menu\MenuList.ascx.cs:line 232
+   at SimpleServings.UI.UDC.SimpleServings.Menu.MenuList.Page_Load(Object sender, EventArgs e) in c:\TFS\DFTA\SimpleServings\SimpleServings\SimpleServings\UI\UDC\SimpleServings\Menu\MenuList.ascx.cs:line 67
+   at System.Web.Util.CalliHelper.EventArgFunctionCaller(IntPtr fp, Object o, Object t, EventArgs e)
+   at System.Web.Util.CalliEventHandlerDelegateProxy.Callback(Object sender, EventArgs e)
+   at System.Web.UI.Control.OnLoad(EventArgs e)
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   --- End of inner exception stack trace ---
+   at System.Web.UI.Page.HandleError(Exception e)
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   at System.Web.UI.Page.ProcessRequest(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   at System.Web.UI.Page.ProcessRequest()
+   at System.Web.UI.Page.ProcessRequestWithNoAssert(HttpContext context)
+   at System.Web.UI.Page.ProcessRequest(HttpContext context)
+   at ASP.ui_page_simpleservings_menu_menulist_aspx.ProcessRequest(HttpContext context) in c:\Windows\Microsoft.NET\Framework\v2.0.50727\Temporary ASP.NET Files\simpleservings\50605a42\75e306da\App_Web_3z3zk8ww.6.cs:line 0
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+2016-12-13 14:53:48,918 [ 13] INFO  AppManager [(null)] SimpleServings started.
+2016-12-13 14:53:56,327 [  5] INFO  AppManager [(null)] (landingPage.aspx) - Request from http://localhost:1949/SimpleServings/UI/Page/Home.aspx 
+Request Type: LogInOut 
+SessionId: 3mcn5rvuz33hc3my4d2d30zq
+2016-12-13 14:53:56,328 [  5] INFO  AppManager [(null)] (landingPage.aspx) - Redirecting to Login.aspx 
+Request Type: LogInOut 
+SessionId: 3mcn5rvuz33hc3my4d2d30zq
+2016-12-13 14:54:02,516 [  5] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: kqznqn55b2iqtmajahgcbu45
+2016-12-13 15:04:44,897 [  1] INFO  AppManager [(null)] SimpleServings started.
+2016-12-13 15:04:45,117 [  5] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: q4idp0fwbk3cwb45i45ocd45
+2016-12-13 15:04:47,218 [  5] INFO  AppManager [(null)] (landingPage.aspx) - Request from http://localhost:1949/SimpleServings/ui/page/ 
+Request Type: LogInOut 
+SessionId: q4idp0fwbk3cwb45i45ocd45
+2016-12-13 15:04:47,219 [  5] INFO  AppManager [(null)] (landingPage.aspx) - Redirecting to Login.aspx 
+Request Type: LogInOut 
+SessionId: q4idp0fwbk3cwb45i45ocd45
+2016-12-13 15:04:51,377 [  5] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: gqffzwysee1js555raup4lip
+2016-12-13 15:13:13,240 [  1] INFO  AppManager [(null)] SimpleServings started.
+2016-12-13 15:13:15,531 [  5] INFO  AppManager [(null)] (landingPage.aspx) - Redirecting to Login.aspx 
+Request Type: LogInOut 
+SessionId: 
+2016-12-13 15:13:19,602 [  5] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: erbbfwefbkutdc3pkavuqmuk
+2016-12-13 15:23:16,960 [  1] INFO  AppManager [(null)] SimpleServings started.
+2016-12-13 15:23:24,823 [  5] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: erbbfwefbkutdc3pkavuqmuk
+2016-12-13 15:23:26,828 [  8] INFO  AppManager [(null)] (landingPage.aspx) - Request from http://localhost:1949/SimpleServings/ui/page/ 
+Request Type: LogInOut 
+SessionId: erbbfwefbkutdc3pkavuqmuk
+2016-12-13 15:23:26,829 [  8] INFO  AppManager [(null)] (landingPage.aspx) - Redirecting to Login.aspx 
+Request Type: LogInOut 
+SessionId: erbbfwefbkutdc3pkavuqmuk
+2016-12-13 15:23:35,852 [  6] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: agns15a2upomea455g2h3veo
+2016-12-13 15:25:15,617 [  1] INFO  AppManager [(null)] SimpleServings started.
+2016-12-13 15:25:15,837 [  5] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: agns15a2upomea455g2h3veo
+2016-12-13 15:25:17,671 [  5] INFO  AppManager [(null)] (landingPage.aspx) - Request from http://localhost:1949/SimpleServings/ui/page/ 
+Request Type: LogInOut 
+SessionId: agns15a2upomea455g2h3veo
+2016-12-13 15:25:17,672 [  5] INFO  AppManager [(null)] (landingPage.aspx) - Redirecting to Login.aspx 
+Request Type: LogInOut 
+SessionId: agns15a2upomea455g2h3veo
+2016-12-13 15:25:21,482 [  7] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: sfwkrdewzabmew55yh0scjb4
+2016-12-13 15:31:19,849 [  1] INFO  AppManager [(null)] SimpleServings started.
+2016-12-13 15:31:20,067 [  5] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: sfwkrdewzabmew55yh0scjb4
+2016-12-13 15:31:22,124 [  6] INFO  AppManager [(null)] (landingPage.aspx) - Request from http://localhost:1949/SimpleServings/ui/page/ 
+Request Type: LogInOut 
+SessionId: sfwkrdewzabmew55yh0scjb4
+2016-12-13 15:31:22,125 [  6] INFO  AppManager [(null)] (landingPage.aspx) - Redirecting to Login.aspx 
+Request Type: LogInOut 
+SessionId: sfwkrdewzabmew55yh0scjb4
+2016-12-13 15:31:25,586 [  7] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: rvvolk4504fca055sb042k45
+2016-12-13 15:32:00,001 [  1] INFO  AppManager [(null)] SimpleServings started.
+2016-12-13 15:32:00,188 [  5] INFO  AppManager [(null)] (landingPage.aspx) - Request from http://localhost:1949/SimpleServings/UI/Page/SimpleServings/Menu/MenuList.aspx?MenuType=ViewSamples 
+Request Type: LogInOut 
+SessionId: rvvolk4504fca055sb042k45
+2016-12-13 15:32:00,189 [  5] INFO  AppManager [(null)] (landingPage.aspx) - Redirecting to Login.aspx 
+Request Type: LogInOut 
+SessionId: rvvolk4504fca055sb042k45
+2016-12-13 15:32:03,383 [  7] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: cyjgxralmzjzjuy54pvrj0vs
+2016-12-13 15:34:00,165 [  7] INFO  AppManager [(null)] (landingPage.aspx) - Request from http://localhost:1949/SimpleServings/UI/Page/SimpleServings/Menu/MenuList.aspx?MenuType=ViewSamples 
+Request Type: LogInOut 
+SessionId: kqznqn55b2iqtmajahgcbu45
+2016-12-13 15:34:00,165 [  7] INFO  AppManager [(null)] (landingPage.aspx) - Redirecting to Login.aspx 
+Request Type: LogInOut 
+SessionId: kqznqn55b2iqtmajahgcbu45
+2016-12-13 15:34:00,168 [  7] INFO  AppManager [(null)] (login.aspx) - Request from http://localhost:1949/SimpleServings/UI/Page/SimpleServings/Menu/MenuList.aspx?MenuType=ViewSamples 
+SessionId: sd2eehjoqgplfr55anmucs45
+2016-12-13 15:34:10,661 [  7] INFO  AppManager [(null)] (landingPage.aspx) - Clearing Session 
+Request Type:  
+SessionId: aoefc145paocgj55i1lblj55
+2016-12-13 15:34:10,666 [  5] ERROR AppManager [(null)] btnLogin_Click failed: Incorrect username and/or password.
+2016-12-13 15:34:10,667 [  8] INFO  AppManager [(null)] (landingPage.aspx) - New Session 
+Request Type:  
+SessionId: rn1ltw554hfern55ilfutef0
+2016-12-13 15:34:15,085 [  5] INFO  AppManager [(null)] (landingPage.aspx) - Clearing Session 
+Request Type:  
+SessionId: rn1ltw554hfern55ilfutef0
+2016-12-13 15:34:15,094 [  6] INFO  AppManager [(null)] (landingPage.aspx) - New Session 
+Request Type:  
+SessionId: cqexnj45rrcimwfb3dlmgp45
+2016-12-13 15:34:15,623 [  6] ERROR AppManager [(null)] btnLogin_Click failed: Incorrect username and/or password.
+2016-12-13 15:34:39,102 [  5] INFO  AppManager [(null)] (landingPage.aspx) - Clearing Session 
+Request Type:  
+SessionId: cqexnj45rrcimwfb3dlmgp45
+2016-12-13 15:34:39,108 [  5] INFO  AppManager [(null)] (landingPage.aspx) - New Session 
+Request Type:  
+SessionId: w2a4knuufssn0tzusahhzk45
+2016-12-13 15:34:39,639 [  5] INFO  AppManager [(null)] (login.aspx) - (cvais7773) - Login successful 
+SessionId: cqexnj45rrcimwfb3dlmgp45
+2016-12-13 15:34:39,646 [  7] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: w2a4knuufssn0tzusahhzk45
+2016-12-13 15:54:44,579 [  1] INFO  AppManager [(null)] SimpleServings started.
+2016-12-13 15:54:52,179 [  8] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: cyjgxralmzjzjuy54pvrj0vs
+2016-12-13 15:54:52,184 [  7] INFO  AppManager [(null)] (landingPage.aspx) - Request from http://localhost:1949/SimpleServings/UI/Page/SimpleServings/Menu/MenuList.aspx?MenuType=MyMenus 
+Request Type: LogInOut 
+SessionId: w2a4knuufssn0tzusahhzk45
+2016-12-13 15:54:52,185 [  7] INFO  AppManager [(null)] (landingPage.aspx) - Redirecting to Login.aspx 
+Request Type: LogInOut 
+SessionId: w2a4knuufssn0tzusahhzk45
+2016-12-13 15:55:02,562 [  7] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: k0ow0yua0e0evi453t3ule55
+2016-12-13 16:08:06,001 [ 11] INFO  AppManager [(null)] SimpleServings started.
+2016-12-13 16:08:13,284 [  7] INFO  AppManager [(null)] (landingPage.aspx) - Request from http://localhost:1949/SimpleServings/UI/Page/SimpleServings/Menu/MenuList.aspx?MenuType=ViewSamples 
+Request Type: LogInOut 
+SessionId: k0ow0yua0e0evi453t3ule55
+2016-12-13 16:08:13,285 [  7] INFO  AppManager [(null)] (landingPage.aspx) - Redirecting to Login.aspx 
+Request Type: LogInOut 
+SessionId: k0ow0yua0e0evi453t3ule55
+2016-12-13 16:08:33,073 [  5] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: 5bquq1yztolyhbfszq0t3hin
+2016-12-13 16:11:33,145 [  1] INFO  AppManager [(null)] SimpleServings started.
+2016-12-13 16:11:33,379 [  5] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: cyjgxralmzjzjuy54pvrj0vs
+2016-12-13 16:11:44,076 [  8] INFO  AppManager [(null)] (landingPage.aspx) - Request from http://localhost:1949/SimpleServings/ui/page/ 
+Request Type: LogInOut 
+SessionId: cyjgxralmzjzjuy54pvrj0vs
+2016-12-13 16:11:44,077 [  8] INFO  AppManager [(null)] (landingPage.aspx) - Redirecting to Login.aspx 
+Request Type: LogInOut 
+SessionId: cyjgxralmzjzjuy54pvrj0vs
+2016-12-13 16:11:47,213 [  5] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: qaob4255njq3vpezdu0q1o45
+2016-12-13 16:24:59,065 [  9] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: ot0nks45m45qenroc4bt3b45
+2016-12-13 16:25:01,018 [  8] INFO  AppManager [(null)] (landingPage.aspx) - Request from http://localhost:1949/SimpleServings/UI/page/ 
+Request Type: LogInOut 
+SessionId: cjgblh55pac3ad555hzncw3b
+2016-12-13 16:25:01,019 [  8] INFO  AppManager [(null)] (landingPage.aspx) - Redirecting to Login.aspx 
+Request Type: LogInOut 
+SessionId: cjgblh55pac3ad555hzncw3b
+2016-12-13 16:25:01,025 [  7] INFO  AppManager [(null)] (login.aspx) - Request from http://localhost:1949/SimpleServings/UI/page/ 
+SessionId: co40dl45nlytueio3ebaln55
+2016-12-13 16:25:15,905 [  7] INFO  AppManager [(null)] (landingPage.aspx) - Clearing Session 
+Request Type:  
+SessionId: hhfesm45lszcip55dhbglm45
+2016-12-13 16:25:15,917 [  8] INFO  AppManager [(null)] (landingPage.aspx) - New Session 
+Request Type:  
+SessionId: 2zstmtnoegdfue55fvwiu5ul
+2016-12-13 16:25:15,949 [  5] INFO  AppManager [(null)] (login.aspx) - (cvais7773) - Login successful 
+SessionId: 24d2vr455hwbow45egpboc55
+2016-12-13 16:25:15,953 [  9] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: 2zstmtnoegdfue55fvwiu5ul
+2016-12-13 16:26:47,350 [  1] INFO  AppManager [(null)] SimpleServings started.
+2016-12-13 16:26:54,840 [  5] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: qaob4255njq3vpezdu0q1o45
+2016-12-13 16:29:50,915 [  8] INFO  AppManager [(null)] (landingPage.aspx) - Request from http://localhost:1949/SimpleServings/ui/page/ 
+Request Type: LogInOut 
+SessionId: qaob4255njq3vpezdu0q1o45
+2016-12-13 16:29:50,916 [  8] INFO  AppManager [(null)] (landingPage.aspx) - Redirecting to Login.aspx 
+Request Type: LogInOut 
+SessionId: qaob4255njq3vpezdu0q1o45
+2016-12-13 16:29:55,147 [  8] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: q2ubkderiabvac553yo1kt45
+2016-12-13 16:51:54,505 [  9] INFO  AppManager [(null)] (landingPage.aspx) - Request from http://localhost:1949/SimpleServings/UI/Page/SimpleServings/Menu/MenuList.aspx?MenuType=ViewSamples 
+Request Type: LogInOut 
+SessionId: 2zstmtnoegdfue55fvwiu5ul
+2016-12-13 16:51:54,506 [  9] INFO  AppManager [(null)] (landingPage.aspx) - Redirecting to Login.aspx 
+Request Type: LogInOut 
+SessionId: 2zstmtnoegdfue55fvwiu5ul
+2016-12-13 16:51:54,513 [  9] INFO  AppManager [(null)] (login.aspx) - Request from http://localhost:1949/SimpleServings/UI/Page/SimpleServings/Menu/MenuList.aspx?MenuType=ViewSamples 
+SessionId: pzr0f2uo253rtz45kuhbtkmz
+2016-12-13 17:04:42,784 [  9] INFO  AppManager [(null)] (landingPage.aspx) - Clearing Session 
+Request Type:  
+SessionId: peugh045mmpjhsihiuz0t145
+2016-12-13 17:04:42,790 [  7] INFO  AppManager [(null)] (landingPage.aspx) - New Session 
+Request Type:  
+SessionId: xzct43zanmw5kv55y4q30w55
+2016-12-13 17:04:42,819 [  5] INFO  AppManager [(null)] (login.aspx) - (cvais7773) - Login successful 
+SessionId: ip5emjereo13ag45njrkfevr
+2016-12-13 17:04:42,823 [  9] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: xzct43zanmw5kv55y4q30w55
+2016-12-13 17:09:19,972 [ 11] INFO  AppManager [(null)] SimpleServings started.
+2016-12-13 17:09:30,122 [  7] INFO  AppManager [(null)] (landingPage.aspx) - Request from http://localhost:1949/SimpleServings/UI/Page/SimpleServings/Menu/MenuList.aspx?MenuType=ViewSamples 
+Request Type: LogInOut 
+SessionId: xzct43zanmw5kv55y4q30w55
+2016-12-13 17:09:30,123 [  7] INFO  AppManager [(null)] (landingPage.aspx) - Redirecting to Login.aspx 
+Request Type: LogInOut 
+SessionId: xzct43zanmw5kv55y4q30w55
+2016-12-13 17:09:41,200 [  5] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: j3tagjeuzjzltrapxpgakeiq
+2016-12-13 17:12:47,569 [ 12] INFO  AppManager [(null)] SimpleServings started.
+2016-12-13 17:12:47,768 [  7] INFO  AppManager [(null)] (landingPage.aspx) - Request from http://localhost:1949/SimpleServings/UI/Page/SimpleServings/Menu/ViewMenu.aspx?MenuID=7235 
+Request Type: LogInOut 
+SessionId: j3tagjeuzjzltrapxpgakeiq
+2016-12-13 17:12:47,769 [  7] INFO  AppManager [(null)] (landingPage.aspx) - Redirecting to Login.aspx 
+Request Type: LogInOut 
+SessionId: j3tagjeuzjzltrapxpgakeiq
+2016-12-13 17:12:55,436 [  7] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: hrak1555kcswpj45erny1l55
+2016-12-13 17:13:37,291 [ 11] INFO  AppManager [(null)] SimpleServings started.
+2016-12-13 17:13:47,164 [  5] INFO  AppManager [(null)] (landingPage.aspx) - Request from http://localhost:1949/SimpleServings/UI/Page/SimpleServings/Menu/ViewMenu.aspx?MenuID=7235 
+Request Type: LogInOut 
+SessionId: hrak1555kcswpj45erny1l55
+2016-12-13 17:13:47,165 [  5] INFO  AppManager [(null)] (landingPage.aspx) - Redirecting to Login.aspx 
+Request Type: LogInOut 
+SessionId: hrak1555kcswpj45erny1l55
+2016-12-13 17:13:52,562 [  9] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: tsvh2i55aukygivo254oq1aj
+2016-12-13 17:22:31,805 [ 11] INFO  AppManager [(null)] SimpleServings started.
+2016-12-13 17:22:42,115 [  9] ERROR AppManager [(null)] SimpleServings application error: Exception of type 'System.Web.HttpUnhandledException' was thrown.
+System.Web.HttpUnhandledException: Exception of type 'System.Web.HttpUnhandledException' was thrown. ---> System.NullReferenceException: Object reference not set to an instance of an object.
+   at SimpleServings.UI.UDC.SimpleServings.Menu.ViewMenu.Page_Load(Object sender, EventArgs e) in c:\TFS\DFTA\SimpleServings\SimpleServings\SimpleServings\UI\UDC\SimpleServings\Menu\ViewMenu.ascx.cs:line 19
+   at System.Web.Util.CalliHelper.EventArgFunctionCaller(IntPtr fp, Object o, Object t, EventArgs e)
+   at System.Web.Util.CalliEventHandlerDelegateProxy.Callback(Object sender, EventArgs e)
+   at System.Web.UI.Control.OnLoad(EventArgs e)
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   --- End of inner exception stack trace ---
+   at System.Web.UI.Page.HandleError(Exception e)
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   at System.Web.UI.Page.ProcessRequest(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   at System.Web.UI.Page.ProcessRequest()
+   at System.Web.UI.Page.ProcessRequestWithNoAssert(HttpContext context)
+   at System.Web.UI.Page.ProcessRequest(HttpContext context)
+   at ASP.ui_page_simpleservings_menu_viewmenu_aspx.ProcessRequest(HttpContext context) in c:\Windows\Microsoft.NET\Framework\v2.0.50727\Temporary ASP.NET Files\simpleservings\50605a42\75e306da\App_Web_raoqid-n.4.cs:line 0
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+2016-12-13 17:22:55,161 [  8] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: tsvh2i55aukygivo254oq1aj
+2016-12-13 17:22:56,941 [  8] INFO  AppManager [(null)] (landingPage.aspx) - Request from http://localhost:1949/SimpleServings/UI/Page/ 
+Request Type: LogInOut 
+SessionId: tsvh2i55aukygivo254oq1aj
+2016-12-13 17:22:56,942 [  8] INFO  AppManager [(null)] (landingPage.aspx) - Redirecting to Login.aspx 
+Request Type: LogInOut 
+SessionId: tsvh2i55aukygivo254oq1aj
+2016-12-13 17:23:03,729 [  9] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: 2cbcy23xyw35au45yjctxpbw
+2016-12-13 17:26:55,742 [  6] INFO  AppManager [(null)] SimpleServings started.
+2016-12-13 17:27:02,568 [  9] INFO  AppManager [(null)] (landingPage.aspx) - Request from http://localhost:1949/SimpleServings/UI/Page/SimpleServings/Menu/ViewMenu.aspx?MenuID=7235 
+Request Type: LogInOut 
+SessionId: 2cbcy23xyw35au45yjctxpbw
+2016-12-13 17:27:02,569 [  9] INFO  AppManager [(null)] (landingPage.aspx) - Redirecting to Login.aspx 
+Request Type: LogInOut 
+SessionId: 2cbcy23xyw35au45yjctxpbw
+2016-12-13 17:27:09,734 [  9] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: ie4l1r45yo5ale554xpjfore
+2016-12-13 17:36:37,985 [  1] INFO  AppManager [(null)] SimpleServings started.
+2016-12-13 17:36:44,998 [  9] INFO  AppManager [(null)] (landingPage.aspx) - Request from http://localhost:1949/SimpleServings/UI/Page/SimpleServings/Menu/ViewMenu.aspx?MenuID=7235 
+Request Type: LogInOut 
+SessionId: ie4l1r45yo5ale554xpjfore
+2016-12-13 17:36:44,999 [  9] INFO  AppManager [(null)] (landingPage.aspx) - Redirecting to Login.aspx 
+Request Type: LogInOut 
+SessionId: ie4l1r45yo5ale554xpjfore
+2016-12-13 17:37:17,049 [  9] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: ieekmc5525rhje45lsvx0gvs

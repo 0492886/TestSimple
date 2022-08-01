@@ -1,0 +1,30 @@
+2021-11-12 11:59:59,045 [  1] INFO  AppManager [(null)] SimpleServings started.
+2021-11-12 12:00:35,099 [ 15] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: rxbodytgdk5y5ujelrj2bc5b
+2021-11-12 12:59:40,989 [  1] INFO  AppManager [(null)] SimpleServings started.
+2021-11-12 13:00:21,051 [ 11] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: fed5pnaaxf5ms0ugbl1bhorw
+2021-11-12 14:26:34,213 [ 61] INFO  AppManager [(null)] (landingPage.aspx) - Clearing Session 
+Request Type:  
+SessionId: hwjc15e2v0tszbeqjotp4toy
+2021-11-12 14:26:34,231 [ 47] INFO  AppManager [(null)] (landingPage.aspx) - New Session 
+Request Type:  
+SessionId: 2cdw3exho3kfvvn42gzisf10
+2021-11-12 14:26:34,611 [ 56] ERROR AppManager [(null)] btnLogin_Click failed: Incorrect username and/or password.
+2021-11-12 14:26:43,228 [ 66] INFO  AppManager [(null)] (landingPage.aspx) - Clearing Session 
+Request Type:  
+SessionId: 2cdw3exho3kfvvn42gzisf10
+2021-11-12 14:26:43,247 [ 53] INFO  AppManager [(null)] (landingPage.aspx) - New Session 
+Request Type:  
+SessionId: r4lmsppsdrrmhczaok1ydcia
+2021-11-12 14:26:43,494 [ 56] ERROR AppManager [(null)] btnLogin_Click failed: Incorrect username and/or password.
+2021-11-12 14:26:56,783 [ 66] INFO  AppManager [(null)] (landingPage.aspx) - Clearing Session 
+Request Type:  
+SessionId: r4lmsppsdrrmhczaok1ydcia
+2021-11-12 14:26:56,799 [ 61] INFO  AppManager [(null)] (landingPage.aspx) - New Session 
+Request Type:  
+SessionId: h13ructz0sz2x4gwvkjmphjp
+2021-11-12 14:26:57,018 [ 66] INFO  AppManager [(null)] (login.aspx) - (michael.mangieri) - Login successful 
+SessionId: 2ilspfgnwnulfp0gieomdxg0
+2021-11-12 14:26:57,245 [ 47] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: h13ructz0sz2x4gwvkjmphjp

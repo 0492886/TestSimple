@@ -1,0 +1,174 @@
+2016-12-01 11:50:55,080 [  1] INFO  AppManager [(null)] SimpleServings started.
+2016-12-01 11:55:07,703 [  1] INFO  AppManager [(null)] SimpleServings started.
+2016-12-01 13:10:31,152 [  1] INFO  AppManager [(null)] SimpleServings started.
+2016-12-01 13:10:31,331 [  5] ERROR AppManager [(null)] SimpleServings application error: The file '/SimpleServings/UI/page/home.aspx' does not exist.
+System.Web.HttpException: The file '/SimpleServings/UI/page/home.aspx' does not exist.
+   at System.Web.UI.Util.CheckVirtualFileExists(VirtualPath virtualPath)
+   at System.Web.Compilation.BuildManager.GetVPathBuildResultInternal(VirtualPath virtualPath, Boolean noBuild, Boolean allowCrossApp, Boolean allowBuildInPrecompile)
+   at System.Web.Compilation.BuildManager.GetVPathBuildResultWithNoAssert(HttpContext context, VirtualPath virtualPath, Boolean noBuild, Boolean allowCrossApp, Boolean allowBuildInPrecompile)
+   at System.Web.Compilation.BuildManager.GetVirtualPathObjectFactory(VirtualPath virtualPath, HttpContext context, Boolean allowCrossApp, Boolean noAssert)
+   at System.Web.Compilation.BuildManager.CreateInstanceFromVirtualPath(VirtualPath virtualPath, Type requiredBaseType, HttpContext context, Boolean allowCrossApp, Boolean noAssert)
+   at System.Web.UI.PageHandlerFactory.GetHandlerHelper(HttpContext context, String requestType, VirtualPath virtualPath, String physicalPath)
+   at System.Web.UI.PageHandlerFactory.GetHandler(HttpContext context, String requestType, String virtualPath, String path)
+   at System.Web.HttpApplication.MaterializeHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+2016-12-01 13:57:19,944 [  1] INFO  AppManager [(null)] SimpleServings started.
+2016-12-01 13:57:20,116 [  5] ERROR AppManager [(null)] SimpleServings application error: The file '/SimpleServings/UI/Page/landingPage.aspx' does not exist.
+System.Web.HttpException: The file '/SimpleServings/UI/Page/landingPage.aspx' does not exist.
+   at System.Web.UI.Util.CheckVirtualFileExists(VirtualPath virtualPath)
+   at System.Web.Compilation.BuildManager.GetVPathBuildResultInternal(VirtualPath virtualPath, Boolean noBuild, Boolean allowCrossApp, Boolean allowBuildInPrecompile)
+   at System.Web.Compilation.BuildManager.GetVPathBuildResultWithNoAssert(HttpContext context, VirtualPath virtualPath, Boolean noBuild, Boolean allowCrossApp, Boolean allowBuildInPrecompile)
+   at System.Web.Compilation.BuildManager.GetVirtualPathObjectFactory(VirtualPath virtualPath, HttpContext context, Boolean allowCrossApp, Boolean noAssert)
+   at System.Web.Compilation.BuildManager.CreateInstanceFromVirtualPath(VirtualPath virtualPath, Type requiredBaseType, HttpContext context, Boolean allowCrossApp, Boolean noAssert)
+   at System.Web.UI.PageHandlerFactory.GetHandlerHelper(HttpContext context, String requestType, VirtualPath virtualPath, String physicalPath)
+   at System.Web.UI.PageHandlerFactory.GetHandler(HttpContext context, String requestType, String virtualPath, String path)
+   at System.Web.HttpApplication.MaterializeHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+2016-12-01 13:57:45,824 [  5] ERROR AppManager [(null)] SimpleServings application error: The file '/SimpleServings/UI/Page/home.aspx' does not exist.
+System.Web.HttpException: The file '/SimpleServings/UI/Page/home.aspx' does not exist.
+   at System.Web.UI.Util.CheckVirtualFileExists(VirtualPath virtualPath)
+   at System.Web.Compilation.BuildManager.GetVPathBuildResultInternal(VirtualPath virtualPath, Boolean noBuild, Boolean allowCrossApp, Boolean allowBuildInPrecompile)
+   at System.Web.Compilation.BuildManager.GetVPathBuildResultWithNoAssert(HttpContext context, VirtualPath virtualPath, Boolean noBuild, Boolean allowCrossApp, Boolean allowBuildInPrecompile)
+   at System.Web.Compilation.BuildManager.GetVirtualPathObjectFactory(VirtualPath virtualPath, HttpContext context, Boolean allowCrossApp, Boolean noAssert)
+   at System.Web.Compilation.BuildManager.CreateInstanceFromVirtualPath(VirtualPath virtualPath, Type requiredBaseType, HttpContext context, Boolean allowCrossApp, Boolean noAssert)
+   at System.Web.UI.PageHandlerFactory.GetHandlerHelper(HttpContext context, String requestType, VirtualPath virtualPath, String physicalPath)
+   at System.Web.UI.PageHandlerFactory.GetHandler(HttpContext context, String requestType, String virtualPath, String path)
+   at System.Web.HttpApplication.MaterializeHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+2016-12-01 13:57:54,155 [  5] ERROR AppManager [(null)] SimpleServings application error: The file '/SimpleServings/UI/Page/login.aspx' does not exist.
+System.Web.HttpException: The file '/SimpleServings/UI/Page/login.aspx' does not exist.
+   at System.Web.UI.Util.CheckVirtualFileExists(VirtualPath virtualPath)
+   at System.Web.Compilation.BuildManager.GetVPathBuildResultInternal(VirtualPath virtualPath, Boolean noBuild, Boolean allowCrossApp, Boolean allowBuildInPrecompile)
+   at System.Web.Compilation.BuildManager.GetVPathBuildResultWithNoAssert(HttpContext context, VirtualPath virtualPath, Boolean noBuild, Boolean allowCrossApp, Boolean allowBuildInPrecompile)
+   at System.Web.Compilation.BuildManager.GetVirtualPathObjectFactory(VirtualPath virtualPath, HttpContext context, Boolean allowCrossApp, Boolean noAssert)
+   at System.Web.Compilation.BuildManager.CreateInstanceFromVirtualPath(VirtualPath virtualPath, Type requiredBaseType, HttpContext context, Boolean allowCrossApp, Boolean noAssert)
+   at System.Web.UI.PageHandlerFactory.GetHandlerHelper(HttpContext context, String requestType, VirtualPath virtualPath, String physicalPath)
+   at System.Web.UI.PageHandlerFactory.GetHandler(HttpContext context, String requestType, String virtualPath, String path)
+   at System.Web.HttpApplication.MaterializeHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+2016-12-01 14:00:39,544 [  1] INFO  AppManager [(null)] SimpleServings started.
+2016-12-01 14:00:39,591 [  5] ERROR AppManager [(null)] SimpleServings application error: The file '/SimpleServings/UI/Page/landingPage.aspx' does not exist.
+System.Web.HttpException: The file '/SimpleServings/UI/Page/landingPage.aspx' does not exist.
+   at System.Web.UI.Util.CheckVirtualFileExists(VirtualPath virtualPath)
+   at System.Web.Compilation.BuildManager.GetVPathBuildResultInternal(VirtualPath virtualPath, Boolean noBuild, Boolean allowCrossApp, Boolean allowBuildInPrecompile)
+   at System.Web.Compilation.BuildManager.GetVPathBuildResultWithNoAssert(HttpContext context, VirtualPath virtualPath, Boolean noBuild, Boolean allowCrossApp, Boolean allowBuildInPrecompile)
+   at System.Web.Compilation.BuildManager.GetVirtualPathObjectFactory(VirtualPath virtualPath, HttpContext context, Boolean allowCrossApp, Boolean noAssert)
+   at System.Web.Compilation.BuildManager.CreateInstanceFromVirtualPath(VirtualPath virtualPath, Type requiredBaseType, HttpContext context, Boolean allowCrossApp, Boolean noAssert)
+   at System.Web.UI.PageHandlerFactory.GetHandlerHelper(HttpContext context, String requestType, VirtualPath virtualPath, String physicalPath)
+   at System.Web.UI.PageHandlerFactory.GetHandler(HttpContext context, String requestType, String virtualPath, String path)
+   at System.Web.HttpApplication.MaterializeHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+2016-12-01 14:00:51,469 [  7] ERROR AppManager [(null)] SimpleServings application error: The file '/SimpleServings/ui/page/home.aspx' does not exist.
+System.Web.HttpException: The file '/SimpleServings/ui/page/home.aspx' does not exist.
+   at System.Web.UI.Util.CheckVirtualFileExists(VirtualPath virtualPath)
+   at System.Web.Compilation.BuildManager.GetVPathBuildResultInternal(VirtualPath virtualPath, Boolean noBuild, Boolean allowCrossApp, Boolean allowBuildInPrecompile)
+   at System.Web.Compilation.BuildManager.GetVPathBuildResultWithNoAssert(HttpContext context, VirtualPath virtualPath, Boolean noBuild, Boolean allowCrossApp, Boolean allowBuildInPrecompile)
+   at System.Web.Compilation.BuildManager.GetVirtualPathObjectFactory(VirtualPath virtualPath, HttpContext context, Boolean allowCrossApp, Boolean noAssert)
+   at System.Web.Compilation.BuildManager.CreateInstanceFromVirtualPath(VirtualPath virtualPath, Type requiredBaseType, HttpContext context, Boolean allowCrossApp, Boolean noAssert)
+   at System.Web.UI.PageHandlerFactory.GetHandlerHelper(HttpContext context, String requestType, VirtualPath virtualPath, String physicalPath)
+   at System.Web.UI.PageHandlerFactory.GetHandler(HttpContext context, String requestType, String virtualPath, String path)
+   at System.Web.HttpApplication.MaterializeHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+2016-12-01 14:03:17,940 [  1] INFO  AppManager [(null)] SimpleServings started.
+2016-12-01 14:04:25,867 [  5] INFO  AppManager [(null)] (landingPage.aspx) - Redirecting to Login.aspx 
+Request Type: LogInOut 
+SessionId: 
+2016-12-01 14:25:09,174 [  1] INFO  AppManager [(null)] SimpleServings started.
+2016-12-01 14:25:53,541 [  1] INFO  AppManager [(null)] SimpleServings started.
+2016-12-01 15:07:35,799 [  1] INFO  AppManager [(null)] SimpleServings started.
+2016-12-01 15:07:38,778 [  5] INFO  AppManager [(null)] (landingPage.aspx) - Redirecting to Login.aspx 
+Request Type: LogInOut 
+SessionId: 
+2016-12-01 15:07:46,387 [  8] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: v1urcc45ujowlzvsjaytvgec
+2016-12-01 16:27:06,231 [  5] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: nffr3355pou00j45z0mrgxu4
+2016-12-01 16:27:11,510 [  5] INFO  AppManager [(null)] (landingPage.aspx) - Request from http://localhost:1949/SimpleServings/UI/page/ 
+Request Type: LogInOut 
+SessionId: wtzyk3jbm4gua5zauoslxg55
+2016-12-01 16:27:11,510 [  5] INFO  AppManager [(null)] (landingPage.aspx) - Redirecting to Login.aspx 
+Request Type: LogInOut 
+SessionId: wtzyk3jbm4gua5zauoslxg55
+2016-12-01 16:27:11,525 [  9] INFO  AppManager [(null)] (login.aspx) - Request from http://localhost:1949/SimpleServings/UI/page/ 
+SessionId: 2u02cr555iei2b55elsc31mw
+2016-12-01 16:27:17,882 [  8] INFO  AppManager [(null)] (landingPage.aspx) - Clearing Session 
+Request Type:  
+SessionId: yn4qqymizkllkafpx4mcf3b5
+2016-12-01 16:27:17,892 [  5] INFO  AppManager [(null)] (login.aspx) - (cvais7773) - Login successful 
+SessionId: br4esjvf3srzgr45gbu54h45
+2016-12-01 16:27:17,893 [  9] INFO  AppManager [(null)] (landingPage.aspx) - New Session 
+Request Type:  
+SessionId: he4obw45mynoqzjm20mltyid
+2016-12-01 16:27:17,899 [  9] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: he4obw45mynoqzjm20mltyid
+2016-12-01 16:27:53,563 [  7] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: he4obw45mynoqzjm20mltyid
+2016-12-01 16:28:52,544 [  9] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: he4obw45mynoqzjm20mltyid
+2016-12-01 16:29:18,259 [  6] INFO  AppManager [(null)] SimpleServings started.
+2016-12-01 16:29:21,886 [  5] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: he4obw45mynoqzjm20mltyid
+2016-12-01 16:29:57,265 [  8] INFO  AppManager [(null)] (landingPage.aspx) - Request from http://localhost:1949/SimpleServings/UI/Page/Home.aspx 
+Request Type: LogInOut 
+SessionId: he4obw45mynoqzjm20mltyid
+2016-12-01 16:29:57,266 [  8] INFO  AppManager [(null)] (landingPage.aspx) - Redirecting to Login.aspx 
+Request Type: LogInOut 
+SessionId: he4obw45mynoqzjm20mltyid
+2016-12-01 16:30:06,487 [  5] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: 4ubgb5jeihzkl2zl4o2h5szp
+2016-12-01 17:10:32,727 [  6] INFO  AppManager [(null)] SimpleServings started.
+2016-12-01 17:10:35,248 [  8] INFO  AppManager [(null)] (landingPage.aspx) - Redirecting to Login.aspx 
+Request Type: LogInOut 
+SessionId: 4ubgb5jeihzkl2zl4o2h5szp
+2016-12-01 17:10:43,195 [  8] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: 1tzaf045ixzzwi55kctxz3r2
+2016-12-01 17:26:42,761 [ 13] INFO  AppManager [(null)] SimpleServings started.
+2016-12-01 17:26:52,723 [  9] INFO  AppManager [(null)] (landingPage.aspx) - Redirecting to Login.aspx 
+Request Type: LogInOut 
+SessionId: 1tzaf045ixzzwi55kctxz3r2
+2016-12-01 17:26:58,594 [  8] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: ozcqb3jmih31d1rwnpgnez55
+2016-12-01 17:29:23,331 [ 11] INFO  AppManager [(null)] SimpleServings started.
+2016-12-01 17:29:33,308 [  8] INFO  AppManager [(null)] (landingPage.aspx) - Redirecting to Login.aspx 
+Request Type: LogInOut 
+SessionId: ozcqb3jmih31d1rwnpgnez55
+2016-12-01 17:29:39,673 [  7] ERROR AppManager [(null)] btnLogin_Click failed: Incorrect username and/or password.
+2016-12-01 17:29:43,381 [  9] INFO  AppManager [(null)] (landingPage.aspx) - Clearing Session 
+Request Type:  
+SessionId: narnqt45jlwxhr45gf51btf4
+2016-12-01 17:29:43,391 [  8] INFO  AppManager [(null)] (landingPage.aspx) - New Session 
+Request Type:  
+SessionId: z4szjq45ras5a355dn4x2hai
+2016-12-01 17:29:43,971 [  9] ERROR AppManager [(null)] btnLogin_Click failed: Incorrect username and/or password.
+2016-12-01 17:29:49,547 [  7] INFO  AppManager [(null)] (landingPage.aspx) - Clearing Session 
+Request Type:  
+SessionId: z4szjq45ras5a355dn4x2hai
+2016-12-01 17:29:49,556 [  7] INFO  AppManager [(null)] (landingPage.aspx) - New Session 
+Request Type:  
+SessionId: k0mcnl2stqdam1asiafgin55
+2016-12-01 17:29:50,080 [  7] INFO  AppManager [(null)] (login.aspx) - (cvais7773) - Login successful 
+SessionId: z4szjq45ras5a355dn4x2hai
+2016-12-01 17:29:50,105 [  7] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: k0mcnl2stqdam1asiafgin55
+2016-12-01 17:30:08,900 [ 13] INFO  AppManager [(null)] SimpleServings started.
+2016-12-01 17:30:18,551 [  5] INFO  AppManager [(null)] (landingPage.aspx) - Redirecting to Login.aspx 
+Request Type: LogInOut 
+SessionId: k0mcnl2stqdam1asiafgin55
+2016-12-01 17:30:26,887 [  7] ERROR AppManager [(null)] btnLogin_Click failed: Incorrect username and/or password.
+2016-12-01 17:30:30,250 [  7] INFO  AppManager [(null)] (landingPage.aspx) - Clearing Session 
+Request Type:  
+SessionId: o4tzcnbaynwdkm35ice4xm45
+2016-12-01 17:30:30,260 [  8] INFO  AppManager [(null)] (landingPage.aspx) - New Session 
+Request Type:  
+SessionId: ln0p2x3z3ikgug45csw1qwrw
+2016-12-01 17:30:31,672 [  9] ERROR AppManager [(null)] btnLogin_Click failed: Incorrect username and/or password.
+2016-12-01 17:30:37,731 [  5] INFO  AppManager [(null)] (landingPage.aspx) - Clearing Session 
+Request Type:  
+SessionId: ln0p2x3z3ikgug45csw1qwrw
+2016-12-01 17:30:37,740 [  8] INFO  AppManager [(null)] (landingPage.aspx) - New Session 
+Request Type:  
+SessionId: hohy3q553yb3h255kye1zmma
+2016-12-01 17:30:39,642 [  8] INFO  AppManager [(null)] (login.aspx) - (cvais7773) - Login successful 
+SessionId: ln0p2x3z3ikgug45csw1qwrw
+2016-12-01 17:30:39,674 [  8] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: hohy3q553yb3h255kye1zmma

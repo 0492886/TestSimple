@@ -1,0 +1,73 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="template.Master.cs" Inherits="SimpleServings.UI.testPage.dashboardmain" %>
+<%@ Register TagPrefix="uc1" TagName="header" Src="~/UI/testPage/navigation/header.ascx" %>
+<%@ Register TagPrefix="uc1" TagName="footer" Src="~/UI/testPage/navigation/footer.ascx" %>
+
+<!DOCTYPE html>
+<html lang="en">
+<head id="Head1" runat="server">
+    <meta charset="utf-8" />
+    <title>Simple Servings Admin</title>
+    <link rel="Stylesheet" type="text/css" href="assets/css/style.css" />
+    <script type="text/javascript" src="assets/js/jquery-1.10.1.min.js"></script>
+</head>
+<body>
+    <form id="form1" runat="server">
+
+<!-- // HEADER // Contains main navigation and userarea. -->
+    <uc1:header ID="header1" runat="server" />
+<!-- // HEADER end //-->
+
+<!-- // CONTENT // Contains page content. -->
+    <div class="content">
+
+        <!-- PAGETITLE -->
+        <div class="pageTitle greyGrad">
+            <h2>Dashboard</h2>
+        </div>
+        <!-- PAGETITLE end -->
+
+        <!-- SEARCH -->
+        <div class="searchBox">
+		    <form class="search">
+			    <div class="input-box">
+				    <input type="text" placeholder=" " />				
+				    <input id="searchbtn" class="greyGrad" type="button" value="Search" />
+			    </div>
+		    </form>
+        </div>
+		<!-- SEARCH end-->
+
+        <asp:ContentPlaceHolder ID="containerhome" runat="server">
+
+            </asp:ContentPlaceHolder>
+    </div>
+<!-- // CONTENT End //-->
+
+<!-- // FOOTER // Contains copyrights. -->
+    <uc1:footer ID="footer1" runat="server" />
+<!-- // FOOTER end //-->
+    </form>
+    <script type="text/javascript" language="javascript">
+        if ($('.tableStyle') != null) {
+            var rows = $('.tableStyle').find("tr");
+            for (var i = 0; i < rows.length; i++) {
+                $(rows[i]).prop("RecipeSupplementID", i);
+            }
+            $('.tableStyle').tableDnD({
+                onDragClass: "myDragClass",
+                onDrop: function (table, row) {
+                    $("#hiddenOrders").val($.tableDnD.serialize());
+                }
+            });
+        }
+
+        var $text = $('.text'),
+        i = 0;
+
+        $(".show-more").on('click', function () {
+            $(this).text(++i % 2 ? "(Show Less)" : "(Show More)");
+            $('.text').toggleClass("show-more-height");
+        });
+    </script>
+</body>
+</html>

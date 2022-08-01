@@ -1,0 +1,57 @@
+2017-09-19 11:29:13,114 [  1] INFO  AppManager [(null)] SimpleServings started.
+2017-09-19 11:30:37,190 [  8] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: n2itdl45k51hsj55qrwojh55
+2017-09-19 11:33:53,771 [  1] INFO  AppManager [(null)] SimpleServings started.
+2017-09-19 11:42:28,934 [  5] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: g3pgtdesagc5aee2hrtss055
+2017-09-19 11:44:17,774 [  7] INFO  AppManager [(null)] (landingPage.aspx) - Request from http://localhost:1949/SimpleServings/UI/Page/SimpleServings/Reports/ViewReport.aspx?reportID=6 
+Request Type: LogInOut 
+SessionId: g3pgtdesagc5aee2hrtss055
+2017-09-19 11:44:17,775 [  7] INFO  AppManager [(null)] (landingPage.aspx) - Redirecting to Login.aspx 
+Request Type: LogInOut 
+SessionId: g3pgtdesagc5aee2hrtss055
+2017-09-19 11:44:17,779 [  7] INFO  AppManager [(null)] (login.aspx) - Request from http://localhost:1949/SimpleServings/UI/Page/SimpleServings/Reports/ViewReport.aspx?reportID=6 
+SessionId: g2lyxwuqgdtj5nrv4crna5aq
+2017-09-19 11:44:53,490 [  1] INFO  AppManager [(null)] SimpleServings started.
+2017-09-19 11:45:50,948 [  1] INFO  AppManager [(null)] SimpleServings started.
+2017-09-19 11:45:58,327 [  8] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: rb5dfq55jytlvpjzsa35ezqv
+2017-09-19 11:57:33,450 [  6] INFO  AppManager [(null)] SimpleServings started.
+2017-09-19 11:57:49,209 [  9] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: b5fhlsilpvaaturhi4pfwz55
+2017-09-19 12:00:01,378 [  1] INFO  AppManager [(null)] SimpleServings started.
+2017-09-19 12:00:40,431 [  5] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: ppfnalrtzevk4145ni430l55
+2017-09-19 12:50:00,003 [ 11] INFO  AppManager [(null)] SimpleServings started.
+2017-09-19 12:50:16,512 [ 11] INFO  AppManager [(null)] SimpleServings started.
+2017-09-19 12:50:23,121 [  5] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: 5qbz4i45owrl3vnmshlbwj45
+2017-09-19 12:57:37,154 [  1] INFO  AppManager [(null)] SimpleServings started.
+2017-09-19 12:58:03,934 [  6] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: bjqfc2izcfcdoy3micaftjin
+2017-09-19 12:58:59,029 [  8] INFO  AppManager [(null)] (landingPage.aspx) - Request from http://localhost:1949/SimpleServings/UI/Page/SimpleServings/Reports/ViewReport.aspx?reportID=6 
+Request Type: LogInOut 
+SessionId: bjqfc2izcfcdoy3micaftjin
+2017-09-19 12:58:59,029 [  8] INFO  AppManager [(null)] (landingPage.aspx) - Redirecting to Login.aspx 
+Request Type: LogInOut 
+SessionId: bjqfc2izcfcdoy3micaftjin
+2017-09-19 12:58:59,033 [  9] INFO  AppManager [(null)] (login.aspx) - Request from http://localhost:1949/SimpleServings/UI/Page/SimpleServings/Reports/ViewReport.aspx?reportID=6 
+SessionId: k0yhy0ralh3uwuykml5xep55
+2017-09-19 12:59:16,335 [  1] INFO  AppManager [(null)] SimpleServings started.
+2017-09-19 12:59:33,767 [  5] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: y0xhvp55r3csyu55lswlfiid
+2017-09-19 14:00:09,869 [  1] INFO  AppManager [(null)] SimpleServings started.
+2017-09-19 14:00:37,410 [  6] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: w5frlsvqop4cetfx4uky1a55
+2017-09-19 14:40:56,575 [  8] INFO  AppManager [(null)] (landingPage.aspx) - Request from http://localhost:1949/SimpleServings/UI/Page/SimpleServings/Reports/ViewReport.aspx?reportID=8 
+Request Type: LogInOut 
+SessionId: w5frlsvqop4cetfx4uky1a55
+2017-09-19 14:40:56,576 [  8] INFO  AppManager [(null)] (landingPage.aspx) - Redirecting to Login.aspx 
+Request Type: LogInOut 
+SessionId: w5frlsvqop4cetfx4uky1a55
+2017-09-19 14:40:56,579 [  8] INFO  AppManager [(null)] (login.aspx) - Request from http://localhost:1949/SimpleServings/UI/Page/SimpleServings/Reports/ViewReport.aspx?reportID=8 
+SessionId: kvv2b1vjtilt3k453ahfag3l
+2017-09-19 15:06:42,469 [ 12] INFO  AppManager [(null)] SimpleServings started.
+2017-09-19 15:06:42,655 [  6] INFO  AppManager [(null)] (landingPage.aspx) - Redirecting to Login.aspx 
+Request Type: LogInOut 
+SessionId: 

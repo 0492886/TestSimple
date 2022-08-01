@@ -1,0 +1,706 @@
+C:\TFS\DFTA\SimpleServings\SimpleServings\SimpleServings\bin\SimpleServings.dll
+C:\TFS\DFTA\SimpleServings\SimpleServings\SimpleServings\bin\SimpleServings.pdb
+C:\TFS\DFTA\SimpleServings\SimpleServings\SimpleServings\bin\CKEditor.NET.dll
+C:\TFS\DFTA\SimpleServings\SimpleServings\SimpleServings\bin\log4net.dll
+C:\TFS\DFTA\SimpleServings\SimpleServings\SimpleServings\bin\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\TFS\DFTA\SimpleServings\SimpleServings\SimpleServings\bin\Microsoft.Practices.EnterpriseLibrary.Data.dll
+C:\TFS\DFTA\SimpleServings\SimpleServings\SimpleServings\bin\Microsoft.Practices.ObjectBuilder.dll
+C:\TFS\DFTA\SimpleServings\SimpleServings\SimpleServings\bin\SimpleServings.Menu.dll
+C:\TFS\DFTA\SimpleServings\SimpleServings\SimpleServings\bin\SimpleServings.MenuThreshold.dll
+C:\TFS\DFTA\SimpleServings\SimpleServings\SimpleServings\bin\SimpleServings.Recipe.dll
+C:\TFS\DFTA\SimpleServings\SimpleServings\SimpleServings\bin\SimpleServings.RecipeSupplement.dll
+C:\TFS\DFTA\SimpleServings\SimpleServings\SimpleServings\bin\SimpleServings.Resource.dll
+C:\TFS\DFTA\SimpleServings\SimpleServings\SimpleServings\bin\SimpleServings.Shared.dll
+C:\TFS\DFTA\SimpleServings\SimpleServings\SimpleServings\bin\SimpleServings.SupplierRelationship.dll
+C:\TFS\DFTA\SimpleServings\SimpleServings\SimpleServings\bin\log4net.xml
+C:\TFS\DFTA\SimpleServings\SimpleServings\SimpleServings\bin\SimpleServings.Menu.pdb
+C:\TFS\DFTA\SimpleServings\SimpleServings\SimpleServings\bin\SimpleServings.Menu.xml
+C:\TFS\DFTA\SimpleServings\SimpleServings\SimpleServings\bin\SimpleServings.MenuThreshold.pdb
+C:\TFS\DFTA\SimpleServings\SimpleServings\SimpleServings\bin\SimpleServings.Recipe.pdb
+C:\TFS\DFTA\SimpleServings\SimpleServings\SimpleServings\bin\SimpleServings.RecipeSupplement.pdb
+C:\TFS\DFTA\SimpleServings\SimpleServings\SimpleServings\bin\SimpleServings.Resource.pdb
+C:\TFS\DFTA\SimpleServings\SimpleServings\SimpleServings\bin\SimpleServings.Shared.pdb
+C:\TFS\DFTA\SimpleServings\SimpleServings\SimpleServings\bin\SimpleServings.Shared.xml
+C:\TFS\DFTA\SimpleServings\SimpleServings\SimpleServings\bin\SimpleServings.SupplierRelationship.pdb
+C:\TFS\DFTA\SimpleServings\SimpleServings\SimpleServings\obj\Debug\SimpleServings.UI.Page.login.resources
+C:\TFS\DFTA\SimpleServings\SimpleServings\SimpleServings\obj\Debug\SimpleServings.UI.Page.MyZone.resources
+C:\TFS\DFTA\SimpleServings\SimpleServings\SimpleServings\obj\Debug\SimpleServings.UI.UDC.Navigation.header.resources
+C:\TFS\DFTA\SimpleServings\SimpleServings\SimpleServings\obj\Debug\SimpleServings.UI.UDC.Navigation.NavigationBar.resources
+C:\TFS\DFTA\SimpleServings\SimpleServings\SimpleServings\obj\Debug\SimpleServings.csproj.GenerateResource.Cache
+C:\TFS\DFTA\SimpleServings\SimpleServings\SimpleServings\obj\Debug\SimpleServings.dll.licenses
+C:\TFS\DFTA\SimpleServings\SimpleServings\SimpleServings\obj\Debug\SimpleServings.dll
+C:\TFS\DFTA\SimpleServings\SimpleServings\SimpleServings\obj\Debug\SimpleServings.pdb
+C:\TFS\DFTA\SimpleServings\SimpleServings\SimpleServings\obj\Debug\SimpleServings.csprojResolveAssemblyReference.cache
+E:\SSDFTA\SimpleServings\SimpleServings\bin\SimpleServings.dll.config
+E:\SSDFTA\SimpleServings\SimpleServings\bin\SimpleServings.dll
+E:\SSDFTA\SimpleServings\SimpleServings\bin\SimpleServings.pdb
+E:\SSDFTA\SimpleServings\SimpleServings\bin\log4net.dll
+E:\SSDFTA\SimpleServings\SimpleServings\bin\Microsoft.ReportViewer.WebForms.dll
+E:\SSDFTA\SimpleServings\SimpleServings\bin\log4net.xml
+E:\SSDFTA\SimpleServings\SimpleServings\bin\SimpleServings.Shared.pdb
+E:\SSDFTA\SimpleServings\SimpleServings\bin\SimpleServings.Shared.xml
+E:\SSDFTA\SimpleServings\SimpleServings\obj\Debug\SimpleServings.UI.Page.login.resources
+E:\SSDFTA\SimpleServings\SimpleServings\obj\Debug\SimpleServings.UI.Page.MyZone.resources
+E:\SSDFTA\SimpleServings\SimpleServings\obj\Debug\SimpleServings.UI.UDC.Navigation.header.resources
+E:\SSDFTA\SimpleServings\SimpleServings\obj\Debug\SimpleServings.UI.UDC.Navigation.NavigationBar.resources
+E:\SSDFTA\SimpleServings\SimpleServings\obj\Debug\SimpleServings.csproj.GenerateResource.Cache
+E:\SSDFTA\SimpleServings\SimpleServings\obj\Debug\SimpleServings.dll.licenses
+E:\SSDFTA\SimpleServings\SimpleServings\obj\Debug\SimpleServings.dll
+E:\SSDFTA\SimpleServings\SimpleServings\obj\Debug\SimpleServings.pdb
+E:\SSDFTA\SimpleServings\SimpleServings\bin\SimpleServings.Shared.dll
+R:\SimpleServings\SimpleServings\obj\Debug\SimpleServings.csprojResolveAssemblyReference.cache
+R:\SimpleServings\SimpleServings\obj\Debug\SimpleServings.UI.Page.login.resources
+R:\SimpleServings\SimpleServings\obj\Debug\SimpleServings.UI.Page.MyZone.resources
+R:\SimpleServings\SimpleServings\obj\Debug\SimpleServings.UI.UDC.Navigation.header.resources
+R:\SimpleServings\SimpleServings\obj\Debug\SimpleServings.UI.UDC.Navigation.NavigationBar.resources
+R:\SimpleServings\SimpleServings\obj\Debug\SimpleServings.csproj.GenerateResource.Cache
+R:\SimpleServings\SimpleServings\obj\Debug\SimpleServings.dll.licenses
+R:\SimpleServings\SimpleServings\obj\Debug\SimpleServings.dll
+R:\SimpleServings\SimpleServings\obj\Debug\SimpleServings.pdb
+\\dftasimpleserve\SSDFTA\SimpleServings\SimpleServings\obj\Debug\SimpleServings.csprojResolveAssemblyReference.cache
+\\dftasimpleserve\SSDFTA\SimpleServings\SimpleServings\obj\Debug\SimpleServings.UI.Page.login.resources
+\\dftasimpleserve\SSDFTA\SimpleServings\SimpleServings\obj\Debug\SimpleServings.UI.Page.MyZone.resources
+\\dftasimpleserve\SSDFTA\SimpleServings\SimpleServings\obj\Debug\SimpleServings.UI.UDC.Navigation.header.resources
+\\dftasimpleserve\SSDFTA\SimpleServings\SimpleServings\obj\Debug\SimpleServings.UI.UDC.Navigation.NavigationBar.resources
+\\dftasimpleserve\SSDFTA\SimpleServings\SimpleServings\obj\Debug\SimpleServings.csproj.GenerateResource.Cache
+\\dftasimpleserve\SSDFTA\SimpleServings\SimpleServings\obj\Debug\SimpleServings.dll.licenses
+U:\SimpleServings\SimpleServings\obj\Debug\SimpleServings.csprojResolveAssemblyReference.cache
+U:\SimpleServings\SimpleServings\obj\Debug\SimpleServings.UI.Page.login.resources
+U:\SimpleServings\SimpleServings\obj\Debug\SimpleServings.UI.Page.MyZone.resources
+U:\SimpleServings\SimpleServings\obj\Debug\SimpleServings.UI.UDC.Navigation.header.resources
+U:\SimpleServings\SimpleServings\obj\Debug\SimpleServings.UI.UDC.Navigation.NavigationBar.resources
+U:\SimpleServings\SimpleServings\obj\Debug\SimpleServings.csproj.GenerateResource.Cache
+U:\SimpleServings\SimpleServings\obj\Debug\SimpleServings.dll.licenses
+E:\SSDFTA\SimpleServings\SimpleServings\bin\SimpleServings.Menu.dll
+E:\SSDFTA\SimpleServings\SimpleServings\bin\SimpleServings.MenuThreshold.dll
+E:\SSDFTA\SimpleServings\SimpleServings\bin\SimpleServings.RecipeSupplement.dll
+E:\SSDFTA\SimpleServings\SimpleServings\bin\SimpleServings.MenuThreshold.pdb
+E:\SSDFTA\SimpleServings\SimpleServings\bin\SimpleServings.Menu.pdb
+E:\SSDFTA\SimpleServings\SimpleServings\bin\SimpleServings.Menu.xml
+E:\SSDFTA\SimpleServings\SimpleServings\bin\SimpleServings.RecipeSupplement.pdb
+E:\SSDFTA\SimpleServings\SimpleServings\obj\Debug\SimpleServings.csprojAssemblyReference.cache
+E:\SSDFTA\SimpleServings\SimpleServings\obj\Debug\SimpleServings.csproj.CoreCompileInputs.cache
+E:\SSDFTA\SimpleServings\SimpleServings\obj\Debug\SimpleServings.csproj.CopyComplete
+G:\NewSimple\SimpleServings\SimpleServings\bin\SimpleServings.dll.config
+G:\NewSimple\SimpleServings\SimpleServings\bin\SimpleServings.dll
+G:\NewSimple\SimpleServings\SimpleServings\bin\SimpleServings.pdb
+G:\NewSimple\SimpleServings\SimpleServings\bin\log4net.dll
+G:\NewSimple\SimpleServings\SimpleServings\bin\Microsoft.ReportViewer.WebForms.dll
+G:\NewSimple\SimpleServings\SimpleServings\bin\SimpleServings.Menu.dll
+G:\NewSimple\SimpleServings\SimpleServings\bin\SimpleServings.MenuThreshold.dll
+G:\NewSimple\SimpleServings\SimpleServings\bin\SimpleServings.Recipe.dll
+G:\NewSimple\SimpleServings\SimpleServings\bin\SimpleServings.RecipeSupplement.dll
+G:\NewSimple\SimpleServings\SimpleServings\bin\SimpleServings.Resource.dll
+G:\NewSimple\SimpleServings\SimpleServings\bin\SimpleServings.Shared.dll
+G:\NewSimple\SimpleServings\SimpleServings\bin\SimpleServings.SupplierRelationship.dll
+G:\NewSimple\SimpleServings\SimpleServings\bin\SimpleServings.MenuThreshold.pdb
+G:\NewSimple\SimpleServings\SimpleServings\bin\SimpleServings.Menu.pdb
+G:\NewSimple\SimpleServings\SimpleServings\bin\SimpleServings.Menu.xml
+G:\NewSimple\SimpleServings\SimpleServings\bin\SimpleServings.RecipeSupplement.pdb
+G:\NewSimple\SimpleServings\SimpleServings\bin\SimpleServings.Shared.pdb
+G:\NewSimple\SimpleServings\SimpleServings\bin\SimpleServings.Shared.xml
+G:\NewSimple\SimpleServings\SimpleServings\bin\log4net.xml
+G:\NewSimple\SimpleServings\SimpleServings\bin\SimpleServings.Recipe.pdb
+G:\NewSimple\SimpleServings\SimpleServings\bin\SimpleServings.Resource.pdb
+G:\NewSimple\SimpleServings\SimpleServings\bin\SimpleServings.SupplierRelationship.pdb
+G:\NewSimple\SimpleServings\SimpleServings\obj\Debug\SimpleServings.csprojAssemblyReference.cache
+G:\NewSimple\SimpleServings\SimpleServings\obj\Debug\SimpleServings.UI.Page.login.resources
+G:\NewSimple\SimpleServings\SimpleServings\obj\Debug\SimpleServings.UI.Page.MyZone.resources
+G:\NewSimple\SimpleServings\SimpleServings\obj\Debug\SimpleServings.UI.UDC.Navigation.header.resources
+G:\NewSimple\SimpleServings\SimpleServings\obj\Debug\SimpleServings.UI.UDC.Navigation.NavigationBar.resources
+G:\NewSimple\SimpleServings\SimpleServings\obj\Debug\SimpleServings.csproj.GenerateResource.cache
+G:\NewSimple\SimpleServings\SimpleServings\obj\Debug\SimpleServings.dll.licenses
+G:\NewSimple\SimpleServings\SimpleServings\obj\Debug\SimpleServings.csproj.CoreCompileInputs.cache
+G:\NewSimple\SimpleServings\SimpleServings\obj\Debug\SimpleServings.csproj.CopyComplete
+G:\NewSimple\SimpleServings\SimpleServings\obj\Debug\SimpleServings.dll
+G:\NewSimple\SimpleServings\SimpleServings\obj\Debug\SimpleServings.pdb
+G:\NewSimple\SimpleServings\SimpleServings\bin\Microsoft.ReportViewer.Common.dll
+G:\NewSimple\SimpleServings\SimpleServings\bin\Microsoft.ReportViewer.ProcessingObjectModel.DLL
+C:\Users\araj\NewSimple\SimpleServings\SimpleServings\bin\SimpleServings.dll.config
+C:\Users\araj\NewSimple\SimpleServings\SimpleServings\bin\SimpleServings.dll
+C:\Users\araj\NewSimple\SimpleServings\SimpleServings\bin\SimpleServings.pdb
+C:\Users\araj\NewSimple\SimpleServings\SimpleServings\bin\log4net.dll
+C:\Users\araj\NewSimple\SimpleServings\SimpleServings\bin\Microsoft.ReportViewer.Common.dll
+C:\Users\araj\NewSimple\SimpleServings\SimpleServings\bin\Microsoft.ReportViewer.ProcessingObjectModel.DLL
+C:\Users\araj\NewSimple\SimpleServings\SimpleServings\bin\SimpleServings.Menu.dll
+C:\Users\araj\NewSimple\SimpleServings\SimpleServings\bin\SimpleServings.MenuThreshold.dll
+C:\Users\araj\NewSimple\SimpleServings\SimpleServings\bin\SimpleServings.RecipeSupplement.dll
+C:\Users\araj\NewSimple\SimpleServings\SimpleServings\bin\SimpleServings.Shared.dll
+C:\Users\araj\NewSimple\SimpleServings\SimpleServings\bin\SimpleServings.MenuThreshold.pdb
+C:\Users\araj\NewSimple\SimpleServings\SimpleServings\bin\SimpleServings.Menu.pdb
+C:\Users\araj\NewSimple\SimpleServings\SimpleServings\bin\SimpleServings.Menu.xml
+C:\Users\araj\NewSimple\SimpleServings\SimpleServings\bin\SimpleServings.RecipeSupplement.pdb
+C:\Users\araj\NewSimple\SimpleServings\SimpleServings\bin\SimpleServings.Shared.pdb
+C:\Users\araj\NewSimple\SimpleServings\SimpleServings\bin\SimpleServings.Shared.xml
+C:\Users\araj\NewSimple\SimpleServings\SimpleServings\bin\log4net.xml
+C:\Users\araj\NewSimple\SimpleServings\SimpleServings\obj\Debug\SimpleServings.csprojAssemblyReference.cache
+C:\Users\araj\NewSimple\SimpleServings\SimpleServings\obj\Debug\SimpleServings.UI.Page.login.resources
+C:\Users\araj\NewSimple\SimpleServings\SimpleServings\obj\Debug\SimpleServings.UI.Page.MyZone.resources
+C:\Users\araj\NewSimple\SimpleServings\SimpleServings\obj\Debug\SimpleServings.UI.UDC.Navigation.header.resources
+C:\Users\araj\NewSimple\SimpleServings\SimpleServings\obj\Debug\SimpleServings.UI.UDC.Navigation.NavigationBar.resources
+C:\Users\araj\NewSimple\SimpleServings\SimpleServings\obj\Debug\SimpleServings.csproj.GenerateResource.cache
+C:\Users\araj\NewSimple\SimpleServings\SimpleServings\obj\Debug\SimpleServings.dll.licenses
+C:\Users\araj\NewSimple\SimpleServings\SimpleServings\obj\Debug\SimpleServings.csproj.CoreCompileInputs.cache
+C:\Users\araj\NewSimple\SimpleServings\SimpleServings\obj\Debug\SimpleServings.csproj.CopyComplete
+C:\Users\araj\NewSimple\SimpleServings\SimpleServings\obj\Debug\SimpleServings.dll
+C:\Users\araj\NewSimple\SimpleServings\SimpleServings\obj\Debug\SimpleServings.pdb
+E:\DFTA coding\SimpleServings\SimpleServing_Latest\NewSimple\SimpleServings\SimpleServings\bin\SimpleServings.dll.config
+E:\DFTA coding\SimpleServings\SimpleServing_Latest\NewSimple\SimpleServings\SimpleServings\bin\SimpleServings.dll
+E:\DFTA coding\SimpleServings\SimpleServing_Latest\NewSimple\SimpleServings\SimpleServings\bin\SimpleServings.pdb
+E:\DFTA coding\SimpleServings\SimpleServing_Latest\NewSimple\SimpleServings\SimpleServings\bin\log4net.dll
+E:\DFTA coding\SimpleServings\SimpleServing_Latest\NewSimple\SimpleServings\SimpleServings\bin\Microsoft.ReportViewer.Common.dll
+E:\DFTA coding\SimpleServings\SimpleServing_Latest\NewSimple\SimpleServings\SimpleServings\bin\Microsoft.ReportViewer.ProcessingObjectModel.DLL
+E:\DFTA coding\SimpleServings\SimpleServing_Latest\NewSimple\SimpleServings\SimpleServings\bin\Microsoft.ReportViewer.WebForms.dll
+E:\DFTA coding\SimpleServings\SimpleServing_Latest\NewSimple\SimpleServings\SimpleServings\bin\SimpleServings.Menu.dll
+E:\DFTA coding\SimpleServings\SimpleServing_Latest\NewSimple\SimpleServings\SimpleServings\bin\SimpleServings.MenuThreshold.dll
+E:\DFTA coding\SimpleServings\SimpleServing_Latest\NewSimple\SimpleServings\SimpleServings\bin\SimpleServings.RecipeSupplement.dll
+E:\DFTA coding\SimpleServings\SimpleServing_Latest\NewSimple\SimpleServings\SimpleServings\bin\SimpleServings.Shared.dll
+E:\DFTA coding\SimpleServings\SimpleServing_Latest\NewSimple\SimpleServings\SimpleServings\bin\Microsoft.SqlServer.Types.dll
+E:\DFTA coding\SimpleServings\SimpleServing_Latest\NewSimple\SimpleServings\SimpleServings\bin\SimpleServings.MenuThreshold.pdb
+E:\DFTA coding\SimpleServings\SimpleServing_Latest\NewSimple\SimpleServings\SimpleServings\bin\SimpleServings.Menu.pdb
+E:\DFTA coding\SimpleServings\SimpleServing_Latest\NewSimple\SimpleServings\SimpleServings\bin\SimpleServings.Menu.xml
+E:\DFTA coding\SimpleServings\SimpleServing_Latest\NewSimple\SimpleServings\SimpleServings\bin\SimpleServings.RecipeSupplement.pdb
+E:\DFTA coding\SimpleServings\SimpleServing_Latest\NewSimple\SimpleServings\SimpleServings\bin\SimpleServings.Shared.pdb
+E:\DFTA coding\SimpleServings\SimpleServing_Latest\NewSimple\SimpleServings\SimpleServings\bin\SimpleServings.Shared.xml
+E:\DFTA coding\SimpleServings\SimpleServing_Latest\NewSimple\SimpleServings\SimpleServings\bin\log4net.xml
+E:\DFTA coding\SimpleServings\SimpleServing_Latest\NewSimple\SimpleServings\SimpleServings\obj\Debug\SimpleServings.csprojAssemblyReference.cache
+E:\DFTA coding\SimpleServings\SimpleServing_Latest\NewSimple\SimpleServings\SimpleServings\obj\Debug\SimpleServings.UI.Page.login.resources
+E:\DFTA coding\SimpleServings\SimpleServing_Latest\NewSimple\SimpleServings\SimpleServings\obj\Debug\SimpleServings.UI.Page.MyZone.resources
+E:\DFTA coding\SimpleServings\SimpleServing_Latest\NewSimple\SimpleServings\SimpleServings\obj\Debug\SimpleServings.UI.UDC.Navigation.header.resources
+E:\DFTA coding\SimpleServings\SimpleServing_Latest\NewSimple\SimpleServings\SimpleServings\obj\Debug\SimpleServings.UI.UDC.Navigation.NavigationBar.resources
+E:\DFTA coding\SimpleServings\SimpleServing_Latest\NewSimple\SimpleServings\SimpleServings\obj\Debug\SimpleServings.csproj.GenerateResource.cache
+E:\DFTA coding\SimpleServings\SimpleServing_Latest\NewSimple\SimpleServings\SimpleServings\obj\Debug\SimpleServings.dll.licenses
+E:\DFTA coding\SimpleServings\SimpleServing_Latest\NewSimple\SimpleServings\SimpleServings\obj\Debug\SimpleServings.csproj.CoreCompileInputs.cache
+E:\DFTA coding\SimpleServings\SimpleServing_Latest\NewSimple\SimpleServings\SimpleServings\obj\Debug\SimpleServings.csproj.CopyComplete
+E:\DFTA coding\SimpleServings\SimpleServing_Latest\NewSimple\SimpleServings\SimpleServings\obj\Debug\SimpleServings.dll
+E:\DFTA coding\SimpleServings\SimpleServing_Latest\NewSimple\SimpleServings\SimpleServings\obj\Debug\SimpleServings.pdb
+E:\DFTA coding\SimpleServings\SimpleServings_networkVersion\SimpleServing_Latest\NewSimple\SimpleServings\SimpleServings\bin\SimpleServings.dll.config
+E:\DFTA coding\SimpleServings\SimpleServings_networkVersion\SimpleServing_Latest\NewSimple\SimpleServings\SimpleServings\bin\SimpleServings.dll
+E:\DFTA coding\SimpleServings\SimpleServings_networkVersion\SimpleServing_Latest\NewSimple\SimpleServings\SimpleServings\bin\SimpleServings.pdb
+E:\DFTA coding\SimpleServings\SimpleServings_networkVersion\SimpleServing_Latest\NewSimple\SimpleServings\SimpleServings\bin\log4net.dll
+E:\DFTA coding\SimpleServings\SimpleServings_networkVersion\SimpleServing_Latest\NewSimple\SimpleServings\SimpleServings\bin\Microsoft.ReportViewer.Common.dll
+E:\DFTA coding\SimpleServings\SimpleServings_networkVersion\SimpleServing_Latest\NewSimple\SimpleServings\SimpleServings\bin\Microsoft.ReportViewer.ProcessingObjectModel.DLL
+E:\DFTA coding\SimpleServings\SimpleServings_networkVersion\SimpleServing_Latest\NewSimple\SimpleServings\SimpleServings\bin\Microsoft.ReportViewer.WebForms.dll
+E:\DFTA coding\SimpleServings\SimpleServings_networkVersion\SimpleServing_Latest\NewSimple\SimpleServings\SimpleServings\bin\SimpleServings.Menu.dll
+E:\DFTA coding\SimpleServings\SimpleServings_networkVersion\SimpleServing_Latest\NewSimple\SimpleServings\SimpleServings\bin\SimpleServings.MenuThreshold.dll
+E:\DFTA coding\SimpleServings\SimpleServings_networkVersion\SimpleServing_Latest\NewSimple\SimpleServings\SimpleServings\bin\SimpleServings.RecipeSupplement.dll
+E:\DFTA coding\SimpleServings\SimpleServings_networkVersion\SimpleServing_Latest\NewSimple\SimpleServings\SimpleServings\bin\SimpleServings.Shared.dll
+E:\DFTA coding\SimpleServings\SimpleServings_networkVersion\SimpleServing_Latest\NewSimple\SimpleServings\SimpleServings\bin\Microsoft.SqlServer.Types.dll
+E:\DFTA coding\SimpleServings\SimpleServings_networkVersion\SimpleServing_Latest\NewSimple\SimpleServings\SimpleServings\bin\SimpleServings.MenuThreshold.pdb
+E:\DFTA coding\SimpleServings\SimpleServings_networkVersion\SimpleServing_Latest\NewSimple\SimpleServings\SimpleServings\bin\SimpleServings.Menu.pdb
+E:\DFTA coding\SimpleServings\SimpleServings_networkVersion\SimpleServing_Latest\NewSimple\SimpleServings\SimpleServings\bin\SimpleServings.Menu.xml
+E:\DFTA coding\SimpleServings\SimpleServings_networkVersion\SimpleServing_Latest\NewSimple\SimpleServings\SimpleServings\bin\SimpleServings.RecipeSupplement.pdb
+E:\DFTA coding\SimpleServings\SimpleServings_networkVersion\SimpleServing_Latest\NewSimple\SimpleServings\SimpleServings\bin\SimpleServings.Shared.pdb
+E:\DFTA coding\SimpleServings\SimpleServings_networkVersion\SimpleServing_Latest\NewSimple\SimpleServings\SimpleServings\bin\SimpleServings.Shared.xml
+E:\DFTA coding\SimpleServings\SimpleServings_networkVersion\SimpleServing_Latest\NewSimple\SimpleServings\SimpleServings\bin\log4net.xml
+E:\DFTA coding\SimpleServings\SimpleServings_networkVersion\SimpleServing_Latest\NewSimple\SimpleServings\SimpleServings\obj\Debug\SimpleServings.csprojAssemblyReference.cache
+E:\DFTA coding\SimpleServings\SimpleServings_networkVersion\SimpleServing_Latest\NewSimple\SimpleServings\SimpleServings\obj\Debug\SimpleServings.UI.Page.login.resources
+E:\DFTA coding\SimpleServings\SimpleServings_networkVersion\SimpleServing_Latest\NewSimple\SimpleServings\SimpleServings\obj\Debug\SimpleServings.UI.Page.MyZone.resources
+E:\DFTA coding\SimpleServings\SimpleServings_networkVersion\SimpleServing_Latest\NewSimple\SimpleServings\SimpleServings\obj\Debug\SimpleServings.UI.UDC.Navigation.header.resources
+E:\DFTA coding\SimpleServings\SimpleServings_networkVersion\SimpleServing_Latest\NewSimple\SimpleServings\SimpleServings\obj\Debug\SimpleServings.UI.UDC.Navigation.NavigationBar.resources
+E:\DFTA coding\SimpleServings\SimpleServings_networkVersion\SimpleServing_Latest\NewSimple\SimpleServings\SimpleServings\obj\Debug\SimpleServings.csproj.GenerateResource.cache
+E:\DFTA coding\SimpleServings\SimpleServings_networkVersion\SimpleServing_Latest\NewSimple\SimpleServings\SimpleServings\obj\Debug\SimpleServings.dll.licenses
+E:\DFTA coding\SimpleServings\SimpleServings_networkVersion\SimpleServing_Latest\NewSimple\SimpleServings\SimpleServings\obj\Debug\SimpleServings.csproj.CoreCompileInputs.cache
+E:\DFTA coding\SimpleServings\SimpleServings_networkVersion\SimpleServing_Latest\NewSimple\SimpleServings\SimpleServings\obj\Debug\SimpleServings.csproj.CopyComplete
+E:\DFTA coding\SimpleServings\SimpleServings_networkVersion\SimpleServing_Latest\NewSimple\SimpleServings\SimpleServings\obj\Debug\SimpleServings.dll
+E:\DFTA coding\SimpleServings\SimpleServings_networkVersion\SimpleServing_Latest\NewSimple\SimpleServings\SimpleServings\obj\Debug\SimpleServings.pdb
+C:\Users\araj\latest\NewSimple\SimpleServings\SimpleServings\bin\SimpleServings.dll.config
+C:\Users\araj\latest\NewSimple\SimpleServings\SimpleServings\bin\SimpleServings.dll
+C:\Users\araj\latest\NewSimple\SimpleServings\SimpleServings\bin\SimpleServings.pdb
+C:\Users\araj\latest\NewSimple\SimpleServings\SimpleServings\bin\log4net.dll
+C:\Users\araj\latest\NewSimple\SimpleServings\SimpleServings\bin\Microsoft.ReportViewer.Common.dll
+C:\Users\araj\latest\NewSimple\SimpleServings\SimpleServings\bin\Microsoft.ReportViewer.ProcessingObjectModel.DLL
+C:\Users\araj\latest\NewSimple\SimpleServings\SimpleServings\bin\SimpleServings.Menu.dll
+C:\Users\araj\latest\NewSimple\SimpleServings\SimpleServings\bin\SimpleServings.MenuThreshold.dll
+C:\Users\araj\latest\NewSimple\SimpleServings\SimpleServings\bin\SimpleServings.RecipeSupplement.dll
+C:\Users\araj\latest\NewSimple\SimpleServings\SimpleServings\bin\SimpleServings.Shared.dll
+C:\Users\araj\latest\NewSimple\SimpleServings\SimpleServings\bin\SimpleServings.MenuThreshold.pdb
+C:\Users\araj\latest\NewSimple\SimpleServings\SimpleServings\bin\SimpleServings.Menu.pdb
+C:\Users\araj\latest\NewSimple\SimpleServings\SimpleServings\bin\SimpleServings.Menu.xml
+C:\Users\araj\latest\NewSimple\SimpleServings\SimpleServings\bin\SimpleServings.RecipeSupplement.pdb
+C:\Users\araj\latest\NewSimple\SimpleServings\SimpleServings\bin\SimpleServings.Shared.pdb
+C:\Users\araj\latest\NewSimple\SimpleServings\SimpleServings\bin\SimpleServings.Shared.xml
+C:\Users\araj\latest\NewSimple\SimpleServings\SimpleServings\bin\log4net.xml
+C:\Users\araj\latest\NewSimple\SimpleServings\SimpleServings\obj\Debug\SimpleServings.csprojAssemblyReference.cache
+C:\Users\araj\latest\NewSimple\SimpleServings\SimpleServings\obj\Debug\SimpleServings.UI.Page.login.resources
+C:\Users\araj\latest\NewSimple\SimpleServings\SimpleServings\obj\Debug\SimpleServings.UI.Page.MyZone.resources
+C:\Users\araj\latest\NewSimple\SimpleServings\SimpleServings\obj\Debug\SimpleServings.UI.UDC.Navigation.header.resources
+C:\Users\araj\latest\NewSimple\SimpleServings\SimpleServings\obj\Debug\SimpleServings.UI.UDC.Navigation.NavigationBar.resources
+C:\Users\araj\latest\NewSimple\SimpleServings\SimpleServings\obj\Debug\SimpleServings.csproj.GenerateResource.cache
+C:\Users\araj\latest\NewSimple\SimpleServings\SimpleServings\obj\Debug\SimpleServings.dll.licenses
+C:\Users\araj\latest\NewSimple\SimpleServings\SimpleServings\obj\Debug\SimpleServings.csproj.CoreCompileInputs.cache
+C:\Users\araj\latest\NewSimple\SimpleServings\SimpleServings\obj\Debug\SimpleServings.csproj.CopyComplete
+C:\Users\araj\latest\NewSimple\SimpleServings\SimpleServings\obj\Debug\SimpleServings.dll
+C:\Users\araj\latest\NewSimple\SimpleServings\SimpleServings\obj\Debug\SimpleServings.pdb
+W:\MIS\Ansu\03022021-Simple\NewSimple\SimpleServings\SimpleServings\bin\SimpleServings.dll.config
+W:\MIS\Ansu\03022021-Simple\NewSimple\SimpleServings\SimpleServings\bin\SimpleServings.dll
+W:\MIS\Ansu\03022021-Simple\NewSimple\SimpleServings\SimpleServings\bin\SimpleServings.pdb
+W:\MIS\Ansu\03022021-Simple\NewSimple\SimpleServings\SimpleServings\bin\log4net.dll
+W:\MIS\Ansu\03022021-Simple\NewSimple\SimpleServings\SimpleServings\bin\Microsoft.ReportViewer.Common.dll
+W:\MIS\Ansu\03022021-Simple\NewSimple\SimpleServings\SimpleServings\bin\Microsoft.ReportViewer.ProcessingObjectModel.DLL
+W:\MIS\Ansu\03022021-Simple\NewSimple\SimpleServings\SimpleServings\bin\SimpleServings.Menu.dll
+W:\MIS\Ansu\03022021-Simple\NewSimple\SimpleServings\SimpleServings\bin\SimpleServings.MenuThreshold.dll
+W:\MIS\Ansu\03022021-Simple\NewSimple\SimpleServings\SimpleServings\bin\SimpleServings.RecipeSupplement.dll
+W:\MIS\Ansu\03022021-Simple\NewSimple\SimpleServings\SimpleServings\bin\SimpleServings.Shared.dll
+W:\MIS\Ansu\03022021-Simple\NewSimple\SimpleServings\SimpleServings\bin\SimpleServings.MenuThreshold.pdb
+W:\MIS\Ansu\03022021-Simple\NewSimple\SimpleServings\SimpleServings\bin\SimpleServings.Menu.pdb
+W:\MIS\Ansu\03022021-Simple\NewSimple\SimpleServings\SimpleServings\bin\SimpleServings.Menu.xml
+W:\MIS\Ansu\03022021-Simple\NewSimple\SimpleServings\SimpleServings\bin\SimpleServings.RecipeSupplement.pdb
+W:\MIS\Ansu\03022021-Simple\NewSimple\SimpleServings\SimpleServings\bin\SimpleServings.Shared.pdb
+W:\MIS\Ansu\03022021-Simple\NewSimple\SimpleServings\SimpleServings\bin\SimpleServings.Shared.xml
+W:\MIS\Ansu\03022021-Simple\NewSimple\SimpleServings\SimpleServings\bin\log4net.xml
+W:\MIS\Ansu\03022021-Simple\NewSimple\SimpleServings\SimpleServings\obj\Debug\SimpleServings.csprojAssemblyReference.cache
+W:\MIS\Ansu\03022021-Simple\NewSimple\SimpleServings\SimpleServings\obj\Debug\SimpleServings.UI.Page.login.resources
+W:\MIS\Ansu\03022021-Simple\NewSimple\SimpleServings\SimpleServings\obj\Debug\SimpleServings.UI.Page.MyZone.resources
+W:\MIS\Ansu\03022021-Simple\NewSimple\SimpleServings\SimpleServings\obj\Debug\SimpleServings.UI.UDC.Navigation.header.resources
+W:\MIS\Ansu\03022021-Simple\NewSimple\SimpleServings\SimpleServings\obj\Debug\SimpleServings.UI.UDC.Navigation.NavigationBar.resources
+W:\MIS\Ansu\03022021-Simple\NewSimple\SimpleServings\SimpleServings\obj\Debug\SimpleServings.csproj.GenerateResource.cache
+W:\MIS\Ansu\03022021-Simple\NewSimple\SimpleServings\SimpleServings\obj\Debug\SimpleServings.dll.licenses
+W:\MIS\Ansu\03022021-Simple\NewSimple\SimpleServings\SimpleServings\obj\Debug\SimpleServings.csproj.CoreCompileInputs.cache
+W:\MIS\Ansu\03022021-Simple\NewSimple\SimpleServings\SimpleServings\obj\Debug\SimpleServings.csproj.CopyComplete
+W:\MIS\Ansu\03022021-Simple\NewSimple\SimpleServings\SimpleServings\obj\Debug\SimpleServings.dll
+W:\MIS\Ansu\03022021-Simple\NewSimple\SimpleServings\SimpleServings\obj\Debug\SimpleServings.pdb
+W:\MIS\Ansu\03022021-Simple\NewSimple\SimpleServings\SimpleServings\bin\Microsoft.SqlServer.Types.dll
+W:\MIS\Ansu\03022021-Simple\NewSimple\SimpleServings\SimpleServings\bin\ASPNetSpell.dll
+E:\DFTA coding\SimpleServings\Assu_version\NewSimple3_11\SimpleServings\SimpleServings\bin\SimpleServings.dll.config
+E:\DFTA coding\SimpleServings\Assu_version\NewSimple3_11\SimpleServings\SimpleServings\bin\SimpleServings.dll
+E:\DFTA coding\SimpleServings\Assu_version\NewSimple3_11\SimpleServings\SimpleServings\bin\SimpleServings.pdb
+E:\DFTA coding\SimpleServings\Assu_version\NewSimple3_11\SimpleServings\SimpleServings\bin\ASPNetSpell.dll
+E:\DFTA coding\SimpleServings\Assu_version\NewSimple3_11\SimpleServings\SimpleServings\bin\log4net.dll
+E:\DFTA coding\SimpleServings\Assu_version\NewSimple3_11\SimpleServings\SimpleServings\bin\Microsoft.ReportViewer.Common.dll
+E:\DFTA coding\SimpleServings\Assu_version\NewSimple3_11\SimpleServings\SimpleServings\bin\Microsoft.ReportViewer.ProcessingObjectModel.DLL
+E:\DFTA coding\SimpleServings\Assu_version\NewSimple3_11\SimpleServings\SimpleServings\bin\Microsoft.ReportViewer.WebForms.dll
+E:\DFTA coding\SimpleServings\Assu_version\NewSimple3_11\SimpleServings\SimpleServings\bin\SimpleServings.Menu.dll
+E:\DFTA coding\SimpleServings\Assu_version\NewSimple3_11\SimpleServings\SimpleServings\bin\SimpleServings.MenuThreshold.dll
+E:\DFTA coding\SimpleServings\Assu_version\NewSimple3_11\SimpleServings\SimpleServings\bin\SimpleServings.Recipe.dll
+E:\DFTA coding\SimpleServings\Assu_version\NewSimple3_11\SimpleServings\SimpleServings\bin\SimpleServings.RecipeSupplement.dll
+E:\DFTA coding\SimpleServings\Assu_version\NewSimple3_11\SimpleServings\SimpleServings\bin\SimpleServings.Shared.dll
+E:\DFTA coding\SimpleServings\Assu_version\NewSimple3_11\SimpleServings\SimpleServings\bin\Microsoft.SqlServer.Types.dll
+E:\DFTA coding\SimpleServings\Assu_version\NewSimple3_11\SimpleServings\SimpleServings\bin\SimpleServings.MenuThreshold.pdb
+E:\DFTA coding\SimpleServings\Assu_version\NewSimple3_11\SimpleServings\SimpleServings\bin\SimpleServings.Menu.pdb
+E:\DFTA coding\SimpleServings\Assu_version\NewSimple3_11\SimpleServings\SimpleServings\bin\SimpleServings.Menu.xml
+E:\DFTA coding\SimpleServings\Assu_version\NewSimple3_11\SimpleServings\SimpleServings\bin\SimpleServings.RecipeSupplement.pdb
+E:\DFTA coding\SimpleServings\Assu_version\NewSimple3_11\SimpleServings\SimpleServings\bin\SimpleServings.Recipe.pdb
+E:\DFTA coding\SimpleServings\Assu_version\NewSimple3_11\SimpleServings\SimpleServings\bin\SimpleServings.Shared.pdb
+E:\DFTA coding\SimpleServings\Assu_version\NewSimple3_11\SimpleServings\SimpleServings\bin\SimpleServings.Shared.xml
+E:\DFTA coding\SimpleServings\Assu_version\NewSimple3_11\SimpleServings\SimpleServings\bin\log4net.xml
+E:\DFTA coding\SimpleServings\Assu_version\NewSimple3_11\SimpleServings\SimpleServings\obj\Debug\SimpleServings.csprojAssemblyReference.cache
+E:\DFTA coding\SimpleServings\Assu_version\NewSimple3_11\SimpleServings\SimpleServings\obj\Debug\SimpleServings.UI.Page.login.resources
+E:\DFTA coding\SimpleServings\Assu_version\NewSimple3_11\SimpleServings\SimpleServings\obj\Debug\SimpleServings.UI.Page.MyZone.resources
+E:\DFTA coding\SimpleServings\Assu_version\NewSimple3_11\SimpleServings\SimpleServings\obj\Debug\SimpleServings.UI.UDC.Navigation.header.resources
+E:\DFTA coding\SimpleServings\Assu_version\NewSimple3_11\SimpleServings\SimpleServings\obj\Debug\SimpleServings.UI.UDC.Navigation.NavigationBar.resources
+E:\DFTA coding\SimpleServings\Assu_version\NewSimple3_11\SimpleServings\SimpleServings\obj\Debug\SimpleServings.csproj.GenerateResource.cache
+E:\DFTA coding\SimpleServings\Assu_version\NewSimple3_11\SimpleServings\SimpleServings\obj\Debug\SimpleServings.dll.licenses
+E:\DFTA coding\SimpleServings\Assu_version\NewSimple3_11\SimpleServings\SimpleServings\obj\Debug\SimpleServings.csproj.CoreCompileInputs.cache
+E:\DFTA coding\SimpleServings\Assu_version\NewSimple3_11\SimpleServings\SimpleServings\obj\Debug\SimpleServings.csproj.CopyComplete
+E:\DFTA coding\SimpleServings\Assu_version\NewSimple3_11\SimpleServings\SimpleServings\obj\Debug\SimpleServings.dll
+E:\DFTA coding\SimpleServings\Assu_version\NewSimple3_11\SimpleServings\SimpleServings\obj\Debug\SimpleServings.pdb
+W:\MIS\Ansu\03022021-Simple\NewSimple\SimpleServings\SimpleServings\bin\SimpleServings.Recipe.dll
+W:\MIS\Ansu\03022021-Simple\NewSimple\SimpleServings\SimpleServings\bin\SimpleServings.Recipe.pdb
+E:\DFTA coding\SimpleServings\Assu_version\NewSimple3_15\SimpleServings\SimpleServings\bin\SimpleServings.dll.config
+E:\DFTA coding\SimpleServings\Assu_version\NewSimple3_15\SimpleServings\SimpleServings\bin\SimpleServings.dll
+E:\DFTA coding\SimpleServings\Assu_version\NewSimple3_15\SimpleServings\SimpleServings\bin\SimpleServings.pdb
+E:\DFTA coding\SimpleServings\Assu_version\NewSimple3_15\SimpleServings\SimpleServings\bin\ASPNetSpell.dll
+E:\DFTA coding\SimpleServings\Assu_version\NewSimple3_15\SimpleServings\SimpleServings\bin\log4net.dll
+E:\DFTA coding\SimpleServings\Assu_version\NewSimple3_15\SimpleServings\SimpleServings\bin\Microsoft.ReportViewer.Common.dll
+E:\DFTA coding\SimpleServings\Assu_version\NewSimple3_15\SimpleServings\SimpleServings\bin\Microsoft.ReportViewer.ProcessingObjectModel.DLL
+E:\DFTA coding\SimpleServings\Assu_version\NewSimple3_15\SimpleServings\SimpleServings\bin\Microsoft.ReportViewer.WebForms.dll
+E:\DFTA coding\SimpleServings\Assu_version\NewSimple3_15\SimpleServings\SimpleServings\bin\SimpleServings.Menu.dll
+E:\DFTA coding\SimpleServings\Assu_version\NewSimple3_15\SimpleServings\SimpleServings\bin\SimpleServings.MenuThreshold.dll
+E:\DFTA coding\SimpleServings\Assu_version\NewSimple3_15\SimpleServings\SimpleServings\bin\SimpleServings.Recipe.dll
+E:\DFTA coding\SimpleServings\Assu_version\NewSimple3_15\SimpleServings\SimpleServings\bin\SimpleServings.RecipeSupplement.dll
+E:\DFTA coding\SimpleServings\Assu_version\NewSimple3_15\SimpleServings\SimpleServings\bin\SimpleServings.Shared.dll
+E:\DFTA coding\SimpleServings\Assu_version\NewSimple3_15\SimpleServings\SimpleServings\bin\Microsoft.SqlServer.Types.dll
+E:\DFTA coding\SimpleServings\Assu_version\NewSimple3_15\SimpleServings\SimpleServings\bin\SimpleServings.MenuThreshold.pdb
+E:\DFTA coding\SimpleServings\Assu_version\NewSimple3_15\SimpleServings\SimpleServings\bin\SimpleServings.Menu.pdb
+E:\DFTA coding\SimpleServings\Assu_version\NewSimple3_15\SimpleServings\SimpleServings\bin\SimpleServings.Menu.xml
+E:\DFTA coding\SimpleServings\Assu_version\NewSimple3_15\SimpleServings\SimpleServings\bin\SimpleServings.RecipeSupplement.pdb
+E:\DFTA coding\SimpleServings\Assu_version\NewSimple3_15\SimpleServings\SimpleServings\bin\SimpleServings.Recipe.pdb
+E:\DFTA coding\SimpleServings\Assu_version\NewSimple3_15\SimpleServings\SimpleServings\bin\SimpleServings.Shared.pdb
+E:\DFTA coding\SimpleServings\Assu_version\NewSimple3_15\SimpleServings\SimpleServings\bin\SimpleServings.Shared.xml
+E:\DFTA coding\SimpleServings\Assu_version\NewSimple3_15\SimpleServings\SimpleServings\bin\log4net.xml
+E:\DFTA coding\SimpleServings\Assu_version\NewSimple3_15\SimpleServings\SimpleServings\obj\Debug\SimpleServings.csprojAssemblyReference.cache
+E:\DFTA coding\SimpleServings\Assu_version\NewSimple3_15\SimpleServings\SimpleServings\obj\Debug\SimpleServings.UI.Page.login.resources
+E:\DFTA coding\SimpleServings\Assu_version\NewSimple3_15\SimpleServings\SimpleServings\obj\Debug\SimpleServings.UI.Page.MyZone.resources
+E:\DFTA coding\SimpleServings\Assu_version\NewSimple3_15\SimpleServings\SimpleServings\obj\Debug\SimpleServings.UI.UDC.Navigation.header.resources
+E:\DFTA coding\SimpleServings\Assu_version\NewSimple3_15\SimpleServings\SimpleServings\obj\Debug\SimpleServings.UI.UDC.Navigation.NavigationBar.resources
+E:\DFTA coding\SimpleServings\Assu_version\NewSimple3_15\SimpleServings\SimpleServings\obj\Debug\SimpleServings.csproj.GenerateResource.cache
+E:\DFTA coding\SimpleServings\Assu_version\NewSimple3_15\SimpleServings\SimpleServings\obj\Debug\SimpleServings.dll.licenses
+E:\DFTA coding\SimpleServings\Assu_version\NewSimple3_15\SimpleServings\SimpleServings\obj\Debug\SimpleServings.csproj.CoreCompileInputs.cache
+E:\DFTA coding\SimpleServings\Assu_version\NewSimple3_15\SimpleServings\SimpleServings\obj\Debug\SimpleServings.csproj.CopyComplete
+E:\DFTA coding\SimpleServings\Assu_version\NewSimple3_15\SimpleServings\SimpleServings\obj\Debug\SimpleServings.dll
+E:\DFTA coding\SimpleServings\Assu_version\NewSimple3_15\SimpleServings\SimpleServings\obj\Debug\SimpleServings.pdb
+E:\DFTA coding\SimpleServings\Assu_version\Ansu_3_16\SimpleServings\SimpleServings\bin\SimpleServings.dll.config
+E:\DFTA coding\SimpleServings\Assu_version\Ansu_3_16\SimpleServings\SimpleServings\bin\SimpleServings.dll
+E:\DFTA coding\SimpleServings\Assu_version\Ansu_3_16\SimpleServings\SimpleServings\bin\SimpleServings.pdb
+E:\DFTA coding\SimpleServings\Assu_version\Ansu_3_16\SimpleServings\SimpleServings\bin\ASPNetSpell.dll
+E:\DFTA coding\SimpleServings\Assu_version\Ansu_3_16\SimpleServings\SimpleServings\bin\log4net.dll
+E:\DFTA coding\SimpleServings\Assu_version\Ansu_3_16\SimpleServings\SimpleServings\bin\Microsoft.ReportViewer.Common.dll
+E:\DFTA coding\SimpleServings\Assu_version\Ansu_3_16\SimpleServings\SimpleServings\bin\Microsoft.ReportViewer.ProcessingObjectModel.DLL
+E:\DFTA coding\SimpleServings\Assu_version\Ansu_3_16\SimpleServings\SimpleServings\bin\Microsoft.ReportViewer.WebForms.dll
+E:\DFTA coding\SimpleServings\Assu_version\Ansu_3_16\SimpleServings\SimpleServings\bin\SimpleServings.Menu.dll
+E:\DFTA coding\SimpleServings\Assu_version\Ansu_3_16\SimpleServings\SimpleServings\bin\SimpleServings.MenuThreshold.dll
+E:\DFTA coding\SimpleServings\Assu_version\Ansu_3_16\SimpleServings\SimpleServings\bin\SimpleServings.Recipe.dll
+E:\DFTA coding\SimpleServings\Assu_version\Ansu_3_16\SimpleServings\SimpleServings\bin\SimpleServings.RecipeSupplement.dll
+E:\DFTA coding\SimpleServings\Assu_version\Ansu_3_16\SimpleServings\SimpleServings\bin\SimpleServings.Shared.dll
+E:\DFTA coding\SimpleServings\Assu_version\Ansu_3_16\SimpleServings\SimpleServings\bin\Microsoft.SqlServer.Types.dll
+E:\DFTA coding\SimpleServings\Assu_version\Ansu_3_16\SimpleServings\SimpleServings\bin\SimpleServings.MenuThreshold.pdb
+E:\DFTA coding\SimpleServings\Assu_version\Ansu_3_16\SimpleServings\SimpleServings\bin\SimpleServings.Menu.pdb
+E:\DFTA coding\SimpleServings\Assu_version\Ansu_3_16\SimpleServings\SimpleServings\bin\SimpleServings.Menu.xml
+E:\DFTA coding\SimpleServings\Assu_version\Ansu_3_16\SimpleServings\SimpleServings\bin\SimpleServings.RecipeSupplement.pdb
+E:\DFTA coding\SimpleServings\Assu_version\Ansu_3_16\SimpleServings\SimpleServings\bin\SimpleServings.Recipe.pdb
+E:\DFTA coding\SimpleServings\Assu_version\Ansu_3_16\SimpleServings\SimpleServings\bin\SimpleServings.Shared.pdb
+E:\DFTA coding\SimpleServings\Assu_version\Ansu_3_16\SimpleServings\SimpleServings\bin\SimpleServings.Shared.xml
+E:\DFTA coding\SimpleServings\Assu_version\Ansu_3_16\SimpleServings\SimpleServings\bin\log4net.xml
+E:\DFTA coding\SimpleServings\Assu_version\Ansu_3_16\SimpleServings\SimpleServings\obj\Debug\SimpleServings.csprojAssemblyReference.cache
+E:\DFTA coding\SimpleServings\Assu_version\Ansu_3_16\SimpleServings\SimpleServings\obj\Debug\SimpleServings.UI.Page.login.resources
+E:\DFTA coding\SimpleServings\Assu_version\Ansu_3_16\SimpleServings\SimpleServings\obj\Debug\SimpleServings.UI.Page.MyZone.resources
+E:\DFTA coding\SimpleServings\Assu_version\Ansu_3_16\SimpleServings\SimpleServings\obj\Debug\SimpleServings.UI.UDC.Navigation.header.resources
+E:\DFTA coding\SimpleServings\Assu_version\Ansu_3_16\SimpleServings\SimpleServings\obj\Debug\SimpleServings.UI.UDC.Navigation.NavigationBar.resources
+E:\DFTA coding\SimpleServings\Assu_version\Ansu_3_16\SimpleServings\SimpleServings\obj\Debug\SimpleServings.csproj.GenerateResource.cache
+E:\DFTA coding\SimpleServings\Assu_version\Ansu_3_16\SimpleServings\SimpleServings\obj\Debug\SimpleServings.dll.licenses
+E:\DFTA coding\SimpleServings\Assu_version\Ansu_3_16\SimpleServings\SimpleServings\obj\Debug\SimpleServings.csproj.CoreCompileInputs.cache
+E:\DFTA coding\SimpleServings\Assu_version\Ansu_3_16\SimpleServings\SimpleServings\obj\Debug\SimpleServings.csproj.CopyComplete
+E:\DFTA coding\SimpleServings\Assu_version\Ansu_3_16\SimpleServings\SimpleServings\obj\Debug\SimpleServings.dll
+E:\DFTA coding\SimpleServings\Assu_version\Ansu_3_16\SimpleServings\SimpleServings\obj\Debug\SimpleServings.pdb
+E:\DFTA coding\SimpleServings\Assu_version\Ansu_3_19\SimpleServings\SimpleServings\bin\SimpleServings.dll.config
+E:\DFTA coding\SimpleServings\Assu_version\Ansu_3_19\SimpleServings\SimpleServings\bin\SimpleServings.dll
+E:\DFTA coding\SimpleServings\Assu_version\Ansu_3_19\SimpleServings\SimpleServings\bin\SimpleServings.pdb
+E:\DFTA coding\SimpleServings\Assu_version\Ansu_3_19\SimpleServings\SimpleServings\bin\ASPNetSpell.dll
+E:\DFTA coding\SimpleServings\Assu_version\Ansu_3_19\SimpleServings\SimpleServings\bin\log4net.dll
+E:\DFTA coding\SimpleServings\Assu_version\Ansu_3_19\SimpleServings\SimpleServings\bin\Microsoft.ReportViewer.Common.dll
+E:\DFTA coding\SimpleServings\Assu_version\Ansu_3_19\SimpleServings\SimpleServings\bin\Microsoft.ReportViewer.ProcessingObjectModel.DLL
+E:\DFTA coding\SimpleServings\Assu_version\Ansu_3_19\SimpleServings\SimpleServings\bin\Microsoft.ReportViewer.WebForms.dll
+E:\DFTA coding\SimpleServings\Assu_version\Ansu_3_19\SimpleServings\SimpleServings\bin\SimpleServings.Menu.dll
+E:\DFTA coding\SimpleServings\Assu_version\Ansu_3_19\SimpleServings\SimpleServings\bin\SimpleServings.MenuThreshold.dll
+E:\DFTA coding\SimpleServings\Assu_version\Ansu_3_19\SimpleServings\SimpleServings\bin\SimpleServings.Recipe.dll
+E:\DFTA coding\SimpleServings\Assu_version\Ansu_3_19\SimpleServings\SimpleServings\bin\SimpleServings.RecipeSupplement.dll
+E:\DFTA coding\SimpleServings\Assu_version\Ansu_3_19\SimpleServings\SimpleServings\bin\SimpleServings.Shared.dll
+E:\DFTA coding\SimpleServings\Assu_version\Ansu_3_19\SimpleServings\SimpleServings\bin\Microsoft.SqlServer.Types.dll
+E:\DFTA coding\SimpleServings\Assu_version\Ansu_3_19\SimpleServings\SimpleServings\bin\SimpleServings.MenuThreshold.pdb
+E:\DFTA coding\SimpleServings\Assu_version\Ansu_3_19\SimpleServings\SimpleServings\bin\SimpleServings.Menu.pdb
+E:\DFTA coding\SimpleServings\Assu_version\Ansu_3_19\SimpleServings\SimpleServings\bin\SimpleServings.Menu.xml
+E:\DFTA coding\SimpleServings\Assu_version\Ansu_3_19\SimpleServings\SimpleServings\bin\SimpleServings.RecipeSupplement.pdb
+E:\DFTA coding\SimpleServings\Assu_version\Ansu_3_19\SimpleServings\SimpleServings\bin\SimpleServings.Recipe.pdb
+E:\DFTA coding\SimpleServings\Assu_version\Ansu_3_19\SimpleServings\SimpleServings\bin\SimpleServings.Shared.pdb
+E:\DFTA coding\SimpleServings\Assu_version\Ansu_3_19\SimpleServings\SimpleServings\bin\SimpleServings.Shared.xml
+E:\DFTA coding\SimpleServings\Assu_version\Ansu_3_19\SimpleServings\SimpleServings\bin\log4net.xml
+E:\DFTA coding\SimpleServings\Assu_version\Ansu_3_19\SimpleServings\SimpleServings\obj\Debug\SimpleServings.csprojAssemblyReference.cache
+E:\DFTA coding\SimpleServings\Assu_version\Ansu_3_19\SimpleServings\SimpleServings\obj\Debug\SimpleServings.UI.Page.login.resources
+E:\DFTA coding\SimpleServings\Assu_version\Ansu_3_19\SimpleServings\SimpleServings\obj\Debug\SimpleServings.UI.Page.MyZone.resources
+E:\DFTA coding\SimpleServings\Assu_version\Ansu_3_19\SimpleServings\SimpleServings\obj\Debug\SimpleServings.UI.UDC.Navigation.header.resources
+E:\DFTA coding\SimpleServings\Assu_version\Ansu_3_19\SimpleServings\SimpleServings\obj\Debug\SimpleServings.UI.UDC.Navigation.NavigationBar.resources
+E:\DFTA coding\SimpleServings\Assu_version\Ansu_3_19\SimpleServings\SimpleServings\obj\Debug\SimpleServings.csproj.GenerateResource.cache
+E:\DFTA coding\SimpleServings\Assu_version\Ansu_3_19\SimpleServings\SimpleServings\obj\Debug\SimpleServings.dll.licenses
+E:\DFTA coding\SimpleServings\Assu_version\Ansu_3_19\SimpleServings\SimpleServings\obj\Debug\SimpleServings.csproj.CoreCompileInputs.cache
+E:\DFTA coding\SimpleServings\Assu_version\Ansu_3_19\SimpleServings\SimpleServings\obj\Debug\SimpleServings.csproj.CopyComplete
+E:\DFTA coding\SimpleServings\Assu_version\Ansu_3_19\SimpleServings\SimpleServings\obj\Debug\SimpleServings.dll
+E:\DFTA coding\SimpleServings\Assu_version\Ansu_3_19\SimpleServings\SimpleServings\obj\Debug\SimpleServings.pdb
+E:\DFTA coding\SimpleServings\Assu_version\Ansu_3_22\SimpleServings\SimpleServings\bin\SimpleServings.dll.config
+E:\DFTA coding\SimpleServings\Assu_version\Ansu_3_22\SimpleServings\SimpleServings\bin\SimpleServings.dll
+E:\DFTA coding\SimpleServings\Assu_version\Ansu_3_22\SimpleServings\SimpleServings\bin\SimpleServings.pdb
+E:\DFTA coding\SimpleServings\Assu_version\Ansu_3_22\SimpleServings\SimpleServings\bin\ASPNetSpell.dll
+E:\DFTA coding\SimpleServings\Assu_version\Ansu_3_22\SimpleServings\SimpleServings\bin\log4net.dll
+E:\DFTA coding\SimpleServings\Assu_version\Ansu_3_22\SimpleServings\SimpleServings\bin\Microsoft.ReportViewer.Common.dll
+E:\DFTA coding\SimpleServings\Assu_version\Ansu_3_22\SimpleServings\SimpleServings\bin\Microsoft.ReportViewer.ProcessingObjectModel.DLL
+E:\DFTA coding\SimpleServings\Assu_version\Ansu_3_22\SimpleServings\SimpleServings\bin\Microsoft.ReportViewer.WebForms.dll
+E:\DFTA coding\SimpleServings\Assu_version\Ansu_3_22\SimpleServings\SimpleServings\bin\SimpleServings.Menu.dll
+E:\DFTA coding\SimpleServings\Assu_version\Ansu_3_22\SimpleServings\SimpleServings\bin\SimpleServings.MenuThreshold.dll
+E:\DFTA coding\SimpleServings\Assu_version\Ansu_3_22\SimpleServings\SimpleServings\bin\SimpleServings.Recipe.dll
+E:\DFTA coding\SimpleServings\Assu_version\Ansu_3_22\SimpleServings\SimpleServings\bin\SimpleServings.RecipeSupplement.dll
+E:\DFTA coding\SimpleServings\Assu_version\Ansu_3_22\SimpleServings\SimpleServings\bin\SimpleServings.Shared.dll
+E:\DFTA coding\SimpleServings\Assu_version\Ansu_3_22\SimpleServings\SimpleServings\bin\Microsoft.SqlServer.Types.dll
+E:\DFTA coding\SimpleServings\Assu_version\Ansu_3_22\SimpleServings\SimpleServings\bin\SimpleServings.MenuThreshold.pdb
+E:\DFTA coding\SimpleServings\Assu_version\Ansu_3_22\SimpleServings\SimpleServings\bin\SimpleServings.Menu.pdb
+E:\DFTA coding\SimpleServings\Assu_version\Ansu_3_22\SimpleServings\SimpleServings\bin\SimpleServings.Menu.xml
+E:\DFTA coding\SimpleServings\Assu_version\Ansu_3_22\SimpleServings\SimpleServings\bin\SimpleServings.RecipeSupplement.pdb
+E:\DFTA coding\SimpleServings\Assu_version\Ansu_3_22\SimpleServings\SimpleServings\bin\SimpleServings.Recipe.pdb
+E:\DFTA coding\SimpleServings\Assu_version\Ansu_3_22\SimpleServings\SimpleServings\bin\SimpleServings.Shared.pdb
+E:\DFTA coding\SimpleServings\Assu_version\Ansu_3_22\SimpleServings\SimpleServings\bin\SimpleServings.Shared.xml
+E:\DFTA coding\SimpleServings\Assu_version\Ansu_3_22\SimpleServings\SimpleServings\bin\log4net.xml
+E:\DFTA coding\SimpleServings\Assu_version\Ansu_3_22\SimpleServings\SimpleServings\obj\Debug\SimpleServings.csprojAssemblyReference.cache
+E:\DFTA coding\SimpleServings\Assu_version\Ansu_3_22\SimpleServings\SimpleServings\obj\Debug\SimpleServings.UI.Page.login.resources
+E:\DFTA coding\SimpleServings\Assu_version\Ansu_3_22\SimpleServings\SimpleServings\obj\Debug\SimpleServings.UI.Page.MyZone.resources
+E:\DFTA coding\SimpleServings\Assu_version\Ansu_3_22\SimpleServings\SimpleServings\obj\Debug\SimpleServings.UI.UDC.Navigation.header.resources
+E:\DFTA coding\SimpleServings\Assu_version\Ansu_3_22\SimpleServings\SimpleServings\obj\Debug\SimpleServings.UI.UDC.Navigation.NavigationBar.resources
+E:\DFTA coding\SimpleServings\Assu_version\Ansu_3_22\SimpleServings\SimpleServings\obj\Debug\SimpleServings.csproj.GenerateResource.cache
+E:\DFTA coding\SimpleServings\Assu_version\Ansu_3_22\SimpleServings\SimpleServings\obj\Debug\SimpleServings.dll.licenses
+E:\DFTA coding\SimpleServings\Assu_version\Ansu_3_22\SimpleServings\SimpleServings\obj\Debug\SimpleServings.csproj.CoreCompileInputs.cache
+E:\DFTA coding\SimpleServings\Assu_version\Ansu_3_22\SimpleServings\SimpleServings\obj\Debug\SimpleServings.csproj.CopyComplete
+E:\DFTA coding\SimpleServings\Assu_version\Ansu_3_22\SimpleServings\SimpleServings\obj\Debug\SimpleServings.dll
+E:\DFTA coding\SimpleServings\Assu_version\Ansu_3_22\SimpleServings\SimpleServings\obj\Debug\SimpleServings.pdb
+C:\Users\araj\Simple Servings-New 03242021\03242021\NewSimple\SimpleServings\SimpleServings\bin\SimpleServings.dll.config
+C:\Users\araj\Simple Servings-New 03242021\03242021\NewSimple\SimpleServings\SimpleServings\bin\SimpleServings.dll
+C:\Users\araj\Simple Servings-New 03242021\03242021\NewSimple\SimpleServings\SimpleServings\bin\SimpleServings.pdb
+C:\Users\araj\Simple Servings-New 03242021\03242021\NewSimple\SimpleServings\SimpleServings\bin\ASPNetSpell.dll
+C:\Users\araj\Simple Servings-New 03242021\03242021\NewSimple\SimpleServings\SimpleServings\bin\log4net.dll
+C:\Users\araj\Simple Servings-New 03242021\03242021\NewSimple\SimpleServings\SimpleServings\bin\Microsoft.ReportViewer.Common.dll
+C:\Users\araj\Simple Servings-New 03242021\03242021\NewSimple\SimpleServings\SimpleServings\bin\Microsoft.ReportViewer.ProcessingObjectModel.DLL
+C:\Users\araj\Simple Servings-New 03242021\03242021\NewSimple\SimpleServings\SimpleServings\bin\SimpleServings.Menu.dll
+C:\Users\araj\Simple Servings-New 03242021\03242021\NewSimple\SimpleServings\SimpleServings\bin\SimpleServings.MenuThreshold.dll
+C:\Users\araj\Simple Servings-New 03242021\03242021\NewSimple\SimpleServings\SimpleServings\bin\SimpleServings.Recipe.dll
+C:\Users\araj\Simple Servings-New 03242021\03242021\NewSimple\SimpleServings\SimpleServings\bin\SimpleServings.RecipeSupplement.dll
+C:\Users\araj\Simple Servings-New 03242021\03242021\NewSimple\SimpleServings\SimpleServings\bin\SimpleServings.Shared.dll
+C:\Users\araj\Simple Servings-New 03242021\03242021\NewSimple\SimpleServings\SimpleServings\bin\SimpleServings.MenuThreshold.pdb
+C:\Users\araj\Simple Servings-New 03242021\03242021\NewSimple\SimpleServings\SimpleServings\bin\SimpleServings.Menu.pdb
+C:\Users\araj\Simple Servings-New 03242021\03242021\NewSimple\SimpleServings\SimpleServings\bin\SimpleServings.Menu.xml
+C:\Users\araj\Simple Servings-New 03242021\03242021\NewSimple\SimpleServings\SimpleServings\bin\SimpleServings.RecipeSupplement.pdb
+C:\Users\araj\Simple Servings-New 03242021\03242021\NewSimple\SimpleServings\SimpleServings\bin\SimpleServings.Recipe.pdb
+C:\Users\araj\Simple Servings-New 03242021\03242021\NewSimple\SimpleServings\SimpleServings\bin\SimpleServings.Shared.pdb
+C:\Users\araj\Simple Servings-New 03242021\03242021\NewSimple\SimpleServings\SimpleServings\bin\SimpleServings.Shared.xml
+C:\Users\araj\Simple Servings-New 03242021\03242021\NewSimple\SimpleServings\SimpleServings\bin\log4net.xml
+C:\Users\araj\Simple Servings-New 03242021\03242021\NewSimple\SimpleServings\SimpleServings\obj\Debug\SimpleServings.csprojAssemblyReference.cache
+C:\Users\araj\Simple Servings-New 03242021\03242021\NewSimple\SimpleServings\SimpleServings\obj\Debug\SimpleServings.UI.Page.login.resources
+C:\Users\araj\Simple Servings-New 03242021\03242021\NewSimple\SimpleServings\SimpleServings\obj\Debug\SimpleServings.UI.Page.MyZone.resources
+C:\Users\araj\Simple Servings-New 03242021\03242021\NewSimple\SimpleServings\SimpleServings\obj\Debug\SimpleServings.UI.UDC.Navigation.header.resources
+C:\Users\araj\Simple Servings-New 03242021\03242021\NewSimple\SimpleServings\SimpleServings\obj\Debug\SimpleServings.UI.UDC.Navigation.NavigationBar.resources
+C:\Users\araj\Simple Servings-New 03242021\03242021\NewSimple\SimpleServings\SimpleServings\obj\Debug\SimpleServings.csproj.GenerateResource.cache
+C:\Users\araj\Simple Servings-New 03242021\03242021\NewSimple\SimpleServings\SimpleServings\obj\Debug\SimpleServings.dll.licenses
+C:\Users\araj\Simple Servings-New 03242021\03242021\NewSimple\SimpleServings\SimpleServings\obj\Debug\SimpleServings.csproj.CoreCompileInputs.cache
+C:\Users\araj\Simple Servings-New 03242021\03242021\NewSimple\SimpleServings\SimpleServings\obj\Debug\SimpleServings.csproj.CopyComplete
+C:\Users\araj\Simple Servings-New 03242021\03242021\NewSimple\SimpleServings\SimpleServings\obj\Debug\SimpleServings.dll
+C:\Users\araj\Simple Servings-New 03242021\03242021\NewSimple\SimpleServings\SimpleServings\obj\Debug\SimpleServings.pdb
+W:\MIS\Ansu\03022021-Simple\NewSimple\SimpleServings\SimpleServings\bin\Microsoft.ReportViewer.WebForms.dll
+E:\DFTA coding\SimpleServings\Assu_version\Ansu_4_20\SimpleServings\SimpleServings\bin\SimpleServings.dll.config
+E:\DFTA coding\SimpleServings\Assu_version\Ansu_4_20\SimpleServings\SimpleServings\bin\SimpleServings.dll
+E:\DFTA coding\SimpleServings\Assu_version\Ansu_4_20\SimpleServings\SimpleServings\bin\SimpleServings.pdb
+E:\DFTA coding\SimpleServings\Assu_version\Ansu_4_20\SimpleServings\SimpleServings\bin\ASPNetSpell.dll
+E:\DFTA coding\SimpleServings\Assu_version\Ansu_4_20\SimpleServings\SimpleServings\bin\log4net.dll
+E:\DFTA coding\SimpleServings\Assu_version\Ansu_4_20\SimpleServings\SimpleServings\bin\Microsoft.ReportViewer.Common.dll
+E:\DFTA coding\SimpleServings\Assu_version\Ansu_4_20\SimpleServings\SimpleServings\bin\Microsoft.ReportViewer.ProcessingObjectModel.DLL
+E:\DFTA coding\SimpleServings\Assu_version\Ansu_4_20\SimpleServings\SimpleServings\bin\Microsoft.ReportViewer.WebForms.dll
+E:\DFTA coding\SimpleServings\Assu_version\Ansu_4_20\SimpleServings\SimpleServings\bin\SimpleServings.Menu.dll
+E:\DFTA coding\SimpleServings\Assu_version\Ansu_4_20\SimpleServings\SimpleServings\bin\SimpleServings.MenuThreshold.dll
+E:\DFTA coding\SimpleServings\Assu_version\Ansu_4_20\SimpleServings\SimpleServings\bin\SimpleServings.Recipe.dll
+E:\DFTA coding\SimpleServings\Assu_version\Ansu_4_20\SimpleServings\SimpleServings\bin\SimpleServings.RecipeSupplement.dll
+E:\DFTA coding\SimpleServings\Assu_version\Ansu_4_20\SimpleServings\SimpleServings\bin\SimpleServings.Shared.dll
+E:\DFTA coding\SimpleServings\Assu_version\Ansu_4_20\SimpleServings\SimpleServings\bin\Microsoft.SqlServer.Types.dll
+E:\DFTA coding\SimpleServings\Assu_version\Ansu_4_20\SimpleServings\SimpleServings\bin\SimpleServings.MenuThreshold.pdb
+E:\DFTA coding\SimpleServings\Assu_version\Ansu_4_20\SimpleServings\SimpleServings\bin\SimpleServings.Menu.pdb
+E:\DFTA coding\SimpleServings\Assu_version\Ansu_4_20\SimpleServings\SimpleServings\bin\SimpleServings.Menu.xml
+E:\DFTA coding\SimpleServings\Assu_version\Ansu_4_20\SimpleServings\SimpleServings\bin\SimpleServings.RecipeSupplement.pdb
+E:\DFTA coding\SimpleServings\Assu_version\Ansu_4_20\SimpleServings\SimpleServings\bin\SimpleServings.Recipe.pdb
+E:\DFTA coding\SimpleServings\Assu_version\Ansu_4_20\SimpleServings\SimpleServings\bin\SimpleServings.Shared.pdb
+E:\DFTA coding\SimpleServings\Assu_version\Ansu_4_20\SimpleServings\SimpleServings\bin\SimpleServings.Shared.xml
+E:\DFTA coding\SimpleServings\Assu_version\Ansu_4_20\SimpleServings\SimpleServings\bin\log4net.xml
+E:\DFTA coding\SimpleServings\Assu_version\Ansu_4_20\SimpleServings\SimpleServings\obj\Debug\SimpleServings.csprojAssemblyReference.cache
+E:\DFTA coding\SimpleServings\Assu_version\Ansu_4_20\SimpleServings\SimpleServings\obj\Debug\SimpleServings.UI.Page.login.resources
+E:\DFTA coding\SimpleServings\Assu_version\Ansu_4_20\SimpleServings\SimpleServings\obj\Debug\SimpleServings.UI.Page.MyZone.resources
+E:\DFTA coding\SimpleServings\Assu_version\Ansu_4_20\SimpleServings\SimpleServings\obj\Debug\SimpleServings.UI.UDC.Navigation.header.resources
+E:\DFTA coding\SimpleServings\Assu_version\Ansu_4_20\SimpleServings\SimpleServings\obj\Debug\SimpleServings.UI.UDC.Navigation.NavigationBar.resources
+E:\DFTA coding\SimpleServings\Assu_version\Ansu_4_20\SimpleServings\SimpleServings\obj\Debug\SimpleServings.csproj.GenerateResource.cache
+E:\DFTA coding\SimpleServings\Assu_version\Ansu_4_20\SimpleServings\SimpleServings\obj\Debug\SimpleServings.dll.licenses
+E:\DFTA coding\SimpleServings\Assu_version\Ansu_4_20\SimpleServings\SimpleServings\obj\Debug\SimpleServings.csproj.CoreCompileInputs.cache
+E:\DFTA coding\SimpleServings\Assu_version\Ansu_4_20\SimpleServings\SimpleServings\obj\Debug\SimpleServings.csproj.CopyComplete
+E:\DFTA coding\SimpleServings\Assu_version\Ansu_4_20\SimpleServings\SimpleServings\obj\Debug\SimpleServings.dll
+E:\DFTA coding\SimpleServings\Assu_version\Ansu_4_20\SimpleServings\SimpleServings\obj\Debug\SimpleServings.pdb
+E:\DFTA coding\SimpleServings\SimpleServings_networkVersion\SimpleServing_Latest\Ansu_4_20\SimpleServings\SimpleServings\bin\SimpleServings.dll.config
+E:\DFTA coding\SimpleServings\SimpleServings_networkVersion\SimpleServing_Latest\Ansu_4_20\SimpleServings\SimpleServings\bin\SimpleServings.dll
+E:\DFTA coding\SimpleServings\SimpleServings_networkVersion\SimpleServing_Latest\Ansu_4_20\SimpleServings\SimpleServings\bin\SimpleServings.pdb
+E:\DFTA coding\SimpleServings\SimpleServings_networkVersion\SimpleServing_Latest\Ansu_4_20\SimpleServings\SimpleServings\bin\ASPNetSpell.dll
+E:\DFTA coding\SimpleServings\SimpleServings_networkVersion\SimpleServing_Latest\Ansu_4_20\SimpleServings\SimpleServings\bin\log4net.dll
+E:\DFTA coding\SimpleServings\SimpleServings_networkVersion\SimpleServing_Latest\Ansu_4_20\SimpleServings\SimpleServings\bin\Microsoft.ReportViewer.Common.dll
+E:\DFTA coding\SimpleServings\SimpleServings_networkVersion\SimpleServing_Latest\Ansu_4_20\SimpleServings\SimpleServings\bin\Microsoft.ReportViewer.ProcessingObjectModel.DLL
+E:\DFTA coding\SimpleServings\SimpleServings_networkVersion\SimpleServing_Latest\Ansu_4_20\SimpleServings\SimpleServings\bin\Microsoft.ReportViewer.WebForms.dll
+E:\DFTA coding\SimpleServings\SimpleServings_networkVersion\SimpleServing_Latest\Ansu_4_20\SimpleServings\SimpleServings\bin\SimpleServings.Menu.dll
+E:\DFTA coding\SimpleServings\SimpleServings_networkVersion\SimpleServing_Latest\Ansu_4_20\SimpleServings\SimpleServings\bin\SimpleServings.MenuThreshold.dll
+E:\DFTA coding\SimpleServings\SimpleServings_networkVersion\SimpleServing_Latest\Ansu_4_20\SimpleServings\SimpleServings\bin\SimpleServings.Recipe.dll
+E:\DFTA coding\SimpleServings\SimpleServings_networkVersion\SimpleServing_Latest\Ansu_4_20\SimpleServings\SimpleServings\bin\SimpleServings.RecipeSupplement.dll
+E:\DFTA coding\SimpleServings\SimpleServings_networkVersion\SimpleServing_Latest\Ansu_4_20\SimpleServings\SimpleServings\bin\SimpleServings.Shared.dll
+E:\DFTA coding\SimpleServings\SimpleServings_networkVersion\SimpleServing_Latest\Ansu_4_20\SimpleServings\SimpleServings\bin\Microsoft.SqlServer.Types.dll
+E:\DFTA coding\SimpleServings\SimpleServings_networkVersion\SimpleServing_Latest\Ansu_4_20\SimpleServings\SimpleServings\bin\SimpleServings.MenuThreshold.pdb
+E:\DFTA coding\SimpleServings\SimpleServings_networkVersion\SimpleServing_Latest\Ansu_4_20\SimpleServings\SimpleServings\bin\SimpleServings.Menu.pdb
+E:\DFTA coding\SimpleServings\SimpleServings_networkVersion\SimpleServing_Latest\Ansu_4_20\SimpleServings\SimpleServings\bin\SimpleServings.Menu.xml
+E:\DFTA coding\SimpleServings\SimpleServings_networkVersion\SimpleServing_Latest\Ansu_4_20\SimpleServings\SimpleServings\bin\SimpleServings.RecipeSupplement.pdb
+E:\DFTA coding\SimpleServings\SimpleServings_networkVersion\SimpleServing_Latest\Ansu_4_20\SimpleServings\SimpleServings\bin\SimpleServings.Recipe.pdb
+E:\DFTA coding\SimpleServings\SimpleServings_networkVersion\SimpleServing_Latest\Ansu_4_20\SimpleServings\SimpleServings\bin\SimpleServings.Shared.pdb
+E:\DFTA coding\SimpleServings\SimpleServings_networkVersion\SimpleServing_Latest\Ansu_4_20\SimpleServings\SimpleServings\bin\SimpleServings.Shared.xml
+E:\DFTA coding\SimpleServings\SimpleServings_networkVersion\SimpleServing_Latest\Ansu_4_20\SimpleServings\SimpleServings\bin\log4net.xml
+E:\DFTA coding\SimpleServings\SimpleServings_networkVersion\SimpleServing_Latest\Ansu_4_20\SimpleServings\SimpleServings\obj\Debug\SimpleServings.csprojAssemblyReference.cache
+E:\DFTA coding\SimpleServings\SimpleServings_networkVersion\SimpleServing_Latest\Ansu_4_20\SimpleServings\SimpleServings\obj\Debug\SimpleServings.UI.Page.login.resources
+E:\DFTA coding\SimpleServings\SimpleServings_networkVersion\SimpleServing_Latest\Ansu_4_20\SimpleServings\SimpleServings\obj\Debug\SimpleServings.UI.Page.MyZone.resources
+E:\DFTA coding\SimpleServings\SimpleServings_networkVersion\SimpleServing_Latest\Ansu_4_20\SimpleServings\SimpleServings\obj\Debug\SimpleServings.UI.UDC.Navigation.header.resources
+E:\DFTA coding\SimpleServings\SimpleServings_networkVersion\SimpleServing_Latest\Ansu_4_20\SimpleServings\SimpleServings\obj\Debug\SimpleServings.UI.UDC.Navigation.NavigationBar.resources
+E:\DFTA coding\SimpleServings\SimpleServings_networkVersion\SimpleServing_Latest\Ansu_4_20\SimpleServings\SimpleServings\obj\Debug\SimpleServings.csproj.GenerateResource.cache
+E:\DFTA coding\SimpleServings\SimpleServings_networkVersion\SimpleServing_Latest\Ansu_4_20\SimpleServings\SimpleServings\obj\Debug\SimpleServings.dll.licenses
+E:\DFTA coding\SimpleServings\SimpleServings_networkVersion\SimpleServing_Latest\Ansu_4_20\SimpleServings\SimpleServings\obj\Debug\SimpleServings.csproj.CoreCompileInputs.cache
+E:\DFTA coding\SimpleServings\SimpleServings_networkVersion\SimpleServing_Latest\Ansu_4_20\SimpleServings\SimpleServings\obj\Debug\SimpleServings.csproj.CopyComplete
+E:\DFTA coding\SimpleServings\SimpleServings_networkVersion\SimpleServing_Latest\Ansu_4_20\SimpleServings\SimpleServings\obj\Debug\SimpleServings.dll
+E:\DFTA coding\SimpleServings\SimpleServings_networkVersion\SimpleServing_Latest\Ansu_4_20\SimpleServings\SimpleServings\obj\Debug\SimpleServings.pdb
+E:\DFTA coding\SimpleServings\SimpleServings_networkVersion_I_do\SimpleServing_Latest\Ansu_4_20\SimpleServings\SimpleServings\bin\SimpleServings.dll.config
+E:\DFTA coding\SimpleServings\SimpleServings_networkVersion_I_do\SimpleServing_Latest\Ansu_4_20\SimpleServings\SimpleServings\bin\SimpleServings.dll
+E:\DFTA coding\SimpleServings\SimpleServings_networkVersion_I_do\SimpleServing_Latest\Ansu_4_20\SimpleServings\SimpleServings\bin\SimpleServings.pdb
+E:\DFTA coding\SimpleServings\SimpleServings_networkVersion_I_do\SimpleServing_Latest\Ansu_4_20\SimpleServings\SimpleServings\bin\ASPNetSpell.dll
+E:\DFTA coding\SimpleServings\SimpleServings_networkVersion_I_do\SimpleServing_Latest\Ansu_4_20\SimpleServings\SimpleServings\bin\log4net.dll
+E:\DFTA coding\SimpleServings\SimpleServings_networkVersion_I_do\SimpleServing_Latest\Ansu_4_20\SimpleServings\SimpleServings\bin\Microsoft.ReportViewer.Common.dll
+E:\DFTA coding\SimpleServings\SimpleServings_networkVersion_I_do\SimpleServing_Latest\Ansu_4_20\SimpleServings\SimpleServings\bin\Microsoft.ReportViewer.ProcessingObjectModel.DLL
+E:\DFTA coding\SimpleServings\SimpleServings_networkVersion_I_do\SimpleServing_Latest\Ansu_4_20\SimpleServings\SimpleServings\bin\Microsoft.ReportViewer.WebForms.dll
+E:\DFTA coding\SimpleServings\SimpleServings_networkVersion_I_do\SimpleServing_Latest\Ansu_4_20\SimpleServings\SimpleServings\bin\SimpleServings.Menu.dll
+E:\DFTA coding\SimpleServings\SimpleServings_networkVersion_I_do\SimpleServing_Latest\Ansu_4_20\SimpleServings\SimpleServings\bin\SimpleServings.MenuThreshold.dll
+E:\DFTA coding\SimpleServings\SimpleServings_networkVersion_I_do\SimpleServing_Latest\Ansu_4_20\SimpleServings\SimpleServings\bin\SimpleServings.Recipe.dll
+E:\DFTA coding\SimpleServings\SimpleServings_networkVersion_I_do\SimpleServing_Latest\Ansu_4_20\SimpleServings\SimpleServings\bin\SimpleServings.RecipeSupplement.dll
+E:\DFTA coding\SimpleServings\SimpleServings_networkVersion_I_do\SimpleServing_Latest\Ansu_4_20\SimpleServings\SimpleServings\bin\SimpleServings.Shared.dll
+E:\DFTA coding\SimpleServings\SimpleServings_networkVersion_I_do\SimpleServing_Latest\Ansu_4_20\SimpleServings\SimpleServings\bin\Microsoft.SqlServer.Types.dll
+E:\DFTA coding\SimpleServings\SimpleServings_networkVersion_I_do\SimpleServing_Latest\Ansu_4_20\SimpleServings\SimpleServings\bin\SimpleServings.MenuThreshold.pdb
+E:\DFTA coding\SimpleServings\SimpleServings_networkVersion_I_do\SimpleServing_Latest\Ansu_4_20\SimpleServings\SimpleServings\bin\SimpleServings.Menu.pdb
+E:\DFTA coding\SimpleServings\SimpleServings_networkVersion_I_do\SimpleServing_Latest\Ansu_4_20\SimpleServings\SimpleServings\bin\SimpleServings.Menu.xml
+E:\DFTA coding\SimpleServings\SimpleServings_networkVersion_I_do\SimpleServing_Latest\Ansu_4_20\SimpleServings\SimpleServings\bin\SimpleServings.RecipeSupplement.pdb
+E:\DFTA coding\SimpleServings\SimpleServings_networkVersion_I_do\SimpleServing_Latest\Ansu_4_20\SimpleServings\SimpleServings\bin\SimpleServings.Recipe.pdb
+E:\DFTA coding\SimpleServings\SimpleServings_networkVersion_I_do\SimpleServing_Latest\Ansu_4_20\SimpleServings\SimpleServings\bin\SimpleServings.Shared.pdb
+E:\DFTA coding\SimpleServings\SimpleServings_networkVersion_I_do\SimpleServing_Latest\Ansu_4_20\SimpleServings\SimpleServings\bin\SimpleServings.Shared.xml
+E:\DFTA coding\SimpleServings\SimpleServings_networkVersion_I_do\SimpleServing_Latest\Ansu_4_20\SimpleServings\SimpleServings\bin\log4net.xml
+E:\DFTA coding\SimpleServings\SimpleServings_networkVersion_I_do\SimpleServing_Latest\Ansu_4_20\SimpleServings\SimpleServings\obj\Debug\SimpleServings.csprojAssemblyReference.cache
+E:\DFTA coding\SimpleServings\SimpleServings_networkVersion_I_do\SimpleServing_Latest\Ansu_4_20\SimpleServings\SimpleServings\obj\Debug\SimpleServings.UI.Page.login.resources
+E:\DFTA coding\SimpleServings\SimpleServings_networkVersion_I_do\SimpleServing_Latest\Ansu_4_20\SimpleServings\SimpleServings\obj\Debug\SimpleServings.UI.Page.MyZone.resources
+E:\DFTA coding\SimpleServings\SimpleServings_networkVersion_I_do\SimpleServing_Latest\Ansu_4_20\SimpleServings\SimpleServings\obj\Debug\SimpleServings.UI.UDC.Navigation.header.resources
+E:\DFTA coding\SimpleServings\SimpleServings_networkVersion_I_do\SimpleServing_Latest\Ansu_4_20\SimpleServings\SimpleServings\obj\Debug\SimpleServings.UI.UDC.Navigation.NavigationBar.resources
+E:\DFTA coding\SimpleServings\SimpleServings_networkVersion_I_do\SimpleServing_Latest\Ansu_4_20\SimpleServings\SimpleServings\obj\Debug\SimpleServings.csproj.GenerateResource.cache
+E:\DFTA coding\SimpleServings\SimpleServings_networkVersion_I_do\SimpleServing_Latest\Ansu_4_20\SimpleServings\SimpleServings\obj\Debug\SimpleServings.dll.licenses
+E:\DFTA coding\SimpleServings\SimpleServings_networkVersion_I_do\SimpleServing_Latest\Ansu_4_20\SimpleServings\SimpleServings\obj\Debug\SimpleServings.csproj.CoreCompileInputs.cache
+E:\DFTA coding\SimpleServings\SimpleServings_networkVersion_I_do\SimpleServing_Latest\Ansu_4_20\SimpleServings\SimpleServings\obj\Debug\SimpleServings.csproj.CopyComplete
+E:\DFTA coding\SimpleServings\SimpleServings_networkVersion_I_do\SimpleServing_Latest\Ansu_4_20\SimpleServings\SimpleServings\obj\Debug\SimpleServings.dll
+E:\DFTA coding\SimpleServings\SimpleServings_networkVersion_I_do\SimpleServing_Latest\Ansu_4_20\SimpleServings\SimpleServings\obj\Debug\SimpleServings.pdb
+E:\DFTA coding\SimpleServings\SimpleServings_networkVersion_I_do\SimpleServing_Latest\Ansu_4_20\NewSimple\SimpleServings\SimpleServings\bin\SimpleServings.dll.config
+E:\DFTA coding\SimpleServings\SimpleServings_networkVersion_I_do\SimpleServing_Latest\Ansu_4_20\NewSimple\SimpleServings\SimpleServings\bin\SimpleServings.dll
+E:\DFTA coding\SimpleServings\SimpleServings_networkVersion_I_do\SimpleServing_Latest\Ansu_4_20\NewSimple\SimpleServings\SimpleServings\bin\SimpleServings.pdb
+E:\DFTA coding\SimpleServings\SimpleServings_networkVersion_I_do\SimpleServing_Latest\Ansu_4_20\NewSimple\SimpleServings\SimpleServings\bin\ASPNetSpell.dll
+E:\DFTA coding\SimpleServings\SimpleServings_networkVersion_I_do\SimpleServing_Latest\Ansu_4_20\NewSimple\SimpleServings\SimpleServings\bin\log4net.dll
+E:\DFTA coding\SimpleServings\SimpleServings_networkVersion_I_do\SimpleServing_Latest\Ansu_4_20\NewSimple\SimpleServings\SimpleServings\bin\Microsoft.ReportViewer.Common.dll
+E:\DFTA coding\SimpleServings\SimpleServings_networkVersion_I_do\SimpleServing_Latest\Ansu_4_20\NewSimple\SimpleServings\SimpleServings\bin\Microsoft.ReportViewer.ProcessingObjectModel.DLL
+E:\DFTA coding\SimpleServings\SimpleServings_networkVersion_I_do\SimpleServing_Latest\Ansu_4_20\NewSimple\SimpleServings\SimpleServings\bin\Microsoft.ReportViewer.WebForms.dll
+E:\DFTA coding\SimpleServings\SimpleServings_networkVersion_I_do\SimpleServing_Latest\Ansu_4_20\NewSimple\SimpleServings\SimpleServings\bin\SimpleServings.Menu.dll
+E:\DFTA coding\SimpleServings\SimpleServings_networkVersion_I_do\SimpleServing_Latest\Ansu_4_20\NewSimple\SimpleServings\SimpleServings\bin\SimpleServings.MenuThreshold.dll
+E:\DFTA coding\SimpleServings\SimpleServings_networkVersion_I_do\SimpleServing_Latest\Ansu_4_20\NewSimple\SimpleServings\SimpleServings\bin\SimpleServings.Recipe.dll
+E:\DFTA coding\SimpleServings\SimpleServings_networkVersion_I_do\SimpleServing_Latest\Ansu_4_20\NewSimple\SimpleServings\SimpleServings\bin\SimpleServings.RecipeSupplement.dll
+E:\DFTA coding\SimpleServings\SimpleServings_networkVersion_I_do\SimpleServing_Latest\Ansu_4_20\NewSimple\SimpleServings\SimpleServings\bin\SimpleServings.Shared.dll
+E:\DFTA coding\SimpleServings\SimpleServings_networkVersion_I_do\SimpleServing_Latest\Ansu_4_20\NewSimple\SimpleServings\SimpleServings\bin\Microsoft.SqlServer.Types.dll
+E:\DFTA coding\SimpleServings\SimpleServings_networkVersion_I_do\SimpleServing_Latest\Ansu_4_20\NewSimple\SimpleServings\SimpleServings\bin\SimpleServings.MenuThreshold.pdb
+E:\DFTA coding\SimpleServings\SimpleServings_networkVersion_I_do\SimpleServing_Latest\Ansu_4_20\NewSimple\SimpleServings\SimpleServings\bin\SimpleServings.Menu.pdb
+E:\DFTA coding\SimpleServings\SimpleServings_networkVersion_I_do\SimpleServing_Latest\Ansu_4_20\NewSimple\SimpleServings\SimpleServings\bin\SimpleServings.Menu.xml
+E:\DFTA coding\SimpleServings\SimpleServings_networkVersion_I_do\SimpleServing_Latest\Ansu_4_20\NewSimple\SimpleServings\SimpleServings\bin\SimpleServings.RecipeSupplement.pdb
+E:\DFTA coding\SimpleServings\SimpleServings_networkVersion_I_do\SimpleServing_Latest\Ansu_4_20\NewSimple\SimpleServings\SimpleServings\bin\SimpleServings.Recipe.pdb
+E:\DFTA coding\SimpleServings\SimpleServings_networkVersion_I_do\SimpleServing_Latest\Ansu_4_20\NewSimple\SimpleServings\SimpleServings\bin\SimpleServings.Shared.pdb
+E:\DFTA coding\SimpleServings\SimpleServings_networkVersion_I_do\SimpleServing_Latest\Ansu_4_20\NewSimple\SimpleServings\SimpleServings\bin\SimpleServings.Shared.xml
+E:\DFTA coding\SimpleServings\SimpleServings_networkVersion_I_do\SimpleServing_Latest\Ansu_4_20\NewSimple\SimpleServings\SimpleServings\bin\log4net.xml
+E:\DFTA coding\SimpleServings\SimpleServings_networkVersion_I_do\SimpleServing_Latest\Ansu_4_20\NewSimple\SimpleServings\SimpleServings\obj\Debug\SimpleServings.csprojAssemblyReference.cache
+E:\DFTA coding\SimpleServings\SimpleServings_networkVersion_I_do\SimpleServing_Latest\Ansu_4_20\NewSimple\SimpleServings\SimpleServings\obj\Debug\SimpleServings.UI.Page.login.resources
+E:\DFTA coding\SimpleServings\SimpleServings_networkVersion_I_do\SimpleServing_Latest\Ansu_4_20\NewSimple\SimpleServings\SimpleServings\obj\Debug\SimpleServings.UI.Page.MyZone.resources
+E:\DFTA coding\SimpleServings\SimpleServings_networkVersion_I_do\SimpleServing_Latest\Ansu_4_20\NewSimple\SimpleServings\SimpleServings\obj\Debug\SimpleServings.UI.UDC.Navigation.header.resources
+E:\DFTA coding\SimpleServings\SimpleServings_networkVersion_I_do\SimpleServing_Latest\Ansu_4_20\NewSimple\SimpleServings\SimpleServings\obj\Debug\SimpleServings.UI.UDC.Navigation.NavigationBar.resources
+E:\DFTA coding\SimpleServings\SimpleServings_networkVersion_I_do\SimpleServing_Latest\Ansu_4_20\NewSimple\SimpleServings\SimpleServings\obj\Debug\SimpleServings.csproj.GenerateResource.cache
+E:\DFTA coding\SimpleServings\SimpleServings_networkVersion_I_do\SimpleServing_Latest\Ansu_4_20\NewSimple\SimpleServings\SimpleServings\obj\Debug\SimpleServings.dll.licenses
+E:\DFTA coding\SimpleServings\SimpleServings_networkVersion_I_do\SimpleServing_Latest\Ansu_4_20\NewSimple\SimpleServings\SimpleServings\obj\Debug\SimpleServings.csproj.CoreCompileInputs.cache
+E:\DFTA coding\SimpleServings\SimpleServings_networkVersion_I_do\SimpleServing_Latest\Ansu_4_20\NewSimple\SimpleServings\SimpleServings\obj\Debug\SimpleServings.csproj.CopyComplete
+E:\DFTA coding\SimpleServings\SimpleServings_networkVersion_I_do\SimpleServing_Latest\Ansu_4_20\NewSimple\SimpleServings\SimpleServings\obj\Debug\SimpleServings.dll
+E:\DFTA coding\SimpleServings\SimpleServings_networkVersion_I_do\SimpleServing_Latest\Ansu_4_20\NewSimple\SimpleServings\SimpleServings\obj\Debug\SimpleServings.pdb
+\\Dftasimpleserve\ssdfta\NewSimple\SimpleServings\SimpleServings\bin\SimpleServings.dll.config
+\\Dftasimpleserve\ssdfta\NewSimple\SimpleServings\SimpleServings\bin\SimpleServings.dll
+\\Dftasimpleserve\ssdfta\NewSimple\SimpleServings\SimpleServings\bin\SimpleServings.pdb
+\\Dftasimpleserve\ssdfta\NewSimple\SimpleServings\SimpleServings\bin\ASPNetSpell.dll
+\\Dftasimpleserve\ssdfta\NewSimple\SimpleServings\SimpleServings\bin\log4net.dll
+\\Dftasimpleserve\ssdfta\NewSimple\SimpleServings\SimpleServings\bin\Microsoft.ReportViewer.WebForms.dll
+\\Dftasimpleserve\ssdfta\NewSimple\SimpleServings\SimpleServings\bin\SimpleServings.Menu.dll
+\\Dftasimpleserve\ssdfta\NewSimple\SimpleServings\SimpleServings\bin\SimpleServings.MenuThreshold.dll
+\\Dftasimpleserve\ssdfta\NewSimple\SimpleServings\SimpleServings\bin\SimpleServings.Recipe.dll
+\\Dftasimpleserve\ssdfta\NewSimple\SimpleServings\SimpleServings\bin\SimpleServings.RecipeSupplement.dll
+\\Dftasimpleserve\ssdfta\NewSimple\SimpleServings\SimpleServings\bin\SimpleServings.Shared.dll
+\\Dftasimpleserve\ssdfta\NewSimple\SimpleServings\SimpleServings\bin\SimpleServings.MenuThreshold.pdb
+\\Dftasimpleserve\ssdfta\NewSimple\SimpleServings\SimpleServings\bin\SimpleServings.Menu.pdb
+\\Dftasimpleserve\ssdfta\NewSimple\SimpleServings\SimpleServings\bin\SimpleServings.Menu.xml
+\\Dftasimpleserve\ssdfta\NewSimple\SimpleServings\SimpleServings\bin\SimpleServings.RecipeSupplement.pdb
+\\Dftasimpleserve\ssdfta\NewSimple\SimpleServings\SimpleServings\bin\SimpleServings.Recipe.pdb
+\\Dftasimpleserve\ssdfta\NewSimple\SimpleServings\SimpleServings\bin\SimpleServings.Shared.pdb
+\\Dftasimpleserve\ssdfta\NewSimple\SimpleServings\SimpleServings\bin\SimpleServings.Shared.xml
+\\Dftasimpleserve\ssdfta\NewSimple\SimpleServings\SimpleServings\bin\log4net.xml
+\\Dftasimpleserve\ssdfta\NewSimple\SimpleServings\SimpleServings\obj\Debug\SimpleServings.UI.Page.login.resources
+\\Dftasimpleserve\ssdfta\NewSimple\SimpleServings\SimpleServings\obj\Debug\SimpleServings.UI.Page.MyZone.resources
+\\Dftasimpleserve\ssdfta\NewSimple\SimpleServings\SimpleServings\obj\Debug\SimpleServings.UI.UDC.Navigation.header.resources
+\\Dftasimpleserve\ssdfta\NewSimple\SimpleServings\SimpleServings\obj\Debug\SimpleServings.UI.UDC.Navigation.NavigationBar.resources
+\\Dftasimpleserve\ssdfta\NewSimple\SimpleServings\SimpleServings\obj\Debug\SimpleServings.csproj.GenerateResource.cache
+\\Dftasimpleserve\ssdfta\NewSimple\SimpleServings\SimpleServings\obj\Debug\SimpleServings.dll.licenses
+\\Dftasimpleserve\ssdfta\NewSimple\SimpleServings\SimpleServings\obj\Debug\SimpleServings.dll
+\\Dftasimpleserve\ssdfta\NewSimple\SimpleServings\SimpleServings\obj\Debug\SimpleServings.pdb
+\\Dftasimpleserve\SSDFTA\NewSimple\SimpleServings\SimpleServings\bin\Microsoft.ReportViewer.Common.dll
+\\Dftasimpleserve\SSDFTA\NewSimple\SimpleServings\SimpleServings\bin\Microsoft.ReportViewer.ProcessingObjectModel.DLL
+\\Dftasimpleserve\SSDFTA\NewSimple\SimpleServings\SimpleServings\bin\Microsoft.SqlServer.Types.dll
+\\Dftasimpleserve\SSDFTA\NewSimple\SimpleServings\SimpleServings\obj\Debug\SimpleServings.csprojAssemblyReference.cache
+\\Dftasimpleserve\SSDFTA\NewSimple\SimpleServings\SimpleServings\obj\Debug\SimpleServings.csproj.CoreCompileInputs.cache
+\\Dftasimpleserve\SSDFTA\NewSimple\SimpleServings\SimpleServings\obj\Debug\SimpleServings.csproj.CopyComplete
+G:\NewSimple\SimpleServings\SimpleServings\bin\ASPNetSpell.dll
+\\Dftasimpleserve\ssdfta\NewSimple\SimpleServings\SimpleServings\bin\SimpleServings.Resource.dll
+\\Dftasimpleserve\ssdfta\NewSimple\SimpleServings\SimpleServings\bin\SimpleServings.SupplierRelationship.dll
+\\Dftasimpleserve\ssdfta\NewSimple\SimpleServings\SimpleServings\bin\SimpleServings.Resource.pdb
+\\Dftasimpleserve\ssdfta\NewSimple\SimpleServings\SimpleServings\bin\SimpleServings.SupplierRelationship.pdb
+E:\DFTA coding\SimpleServings\SimpleServings_networkVersion_I_do\SimpleServing_Latest\NewSimple\SimpleServings\SimpleServings\bin\SimpleServings.dll.config
+E:\DFTA coding\SimpleServings\SimpleServings_networkVersion_I_do\SimpleServing_Latest\NewSimple\SimpleServings\SimpleServings\bin\SimpleServings.dll
+E:\DFTA coding\SimpleServings\SimpleServings_networkVersion_I_do\SimpleServing_Latest\NewSimple\SimpleServings\SimpleServings\bin\SimpleServings.pdb
+E:\DFTA coding\SimpleServings\SimpleServings_networkVersion_I_do\SimpleServing_Latest\NewSimple\SimpleServings\SimpleServings\bin\ASPNetSpell.dll
+E:\DFTA coding\SimpleServings\SimpleServings_networkVersion_I_do\SimpleServing_Latest\NewSimple\SimpleServings\SimpleServings\bin\log4net.dll
+E:\DFTA coding\SimpleServings\SimpleServings_networkVersion_I_do\SimpleServing_Latest\NewSimple\SimpleServings\SimpleServings\bin\Microsoft.ReportViewer.Common.dll
+E:\DFTA coding\SimpleServings\SimpleServings_networkVersion_I_do\SimpleServing_Latest\NewSimple\SimpleServings\SimpleServings\bin\Microsoft.ReportViewer.ProcessingObjectModel.DLL
+E:\DFTA coding\SimpleServings\SimpleServings_networkVersion_I_do\SimpleServing_Latest\NewSimple\SimpleServings\SimpleServings\bin\Microsoft.ReportViewer.WebForms.dll
+E:\DFTA coding\SimpleServings\SimpleServings_networkVersion_I_do\SimpleServing_Latest\NewSimple\SimpleServings\SimpleServings\bin\SimpleServings.Menu.dll
+E:\DFTA coding\SimpleServings\SimpleServings_networkVersion_I_do\SimpleServing_Latest\NewSimple\SimpleServings\SimpleServings\bin\SimpleServings.MenuThreshold.dll
+E:\DFTA coding\SimpleServings\SimpleServings_networkVersion_I_do\SimpleServing_Latest\NewSimple\SimpleServings\SimpleServings\bin\SimpleServings.Recipe.dll
+E:\DFTA coding\SimpleServings\SimpleServings_networkVersion_I_do\SimpleServing_Latest\NewSimple\SimpleServings\SimpleServings\bin\SimpleServings.RecipeSupplement.dll
+E:\DFTA coding\SimpleServings\SimpleServings_networkVersion_I_do\SimpleServing_Latest\NewSimple\SimpleServings\SimpleServings\bin\SimpleServings.Resource.dll
+E:\DFTA coding\SimpleServings\SimpleServings_networkVersion_I_do\SimpleServing_Latest\NewSimple\SimpleServings\SimpleServings\bin\SimpleServings.Shared.dll
+E:\DFTA coding\SimpleServings\SimpleServings_networkVersion_I_do\SimpleServing_Latest\NewSimple\SimpleServings\SimpleServings\bin\SimpleServings.SupplierRelationship.dll
+E:\DFTA coding\SimpleServings\SimpleServings_networkVersion_I_do\SimpleServing_Latest\NewSimple\SimpleServings\SimpleServings\bin\Microsoft.SqlServer.Types.dll
+E:\DFTA coding\SimpleServings\SimpleServings_networkVersion_I_do\SimpleServing_Latest\NewSimple\SimpleServings\SimpleServings\bin\SimpleServings.MenuThreshold.pdb
+E:\DFTA coding\SimpleServings\SimpleServings_networkVersion_I_do\SimpleServing_Latest\NewSimple\SimpleServings\SimpleServings\bin\SimpleServings.Menu.pdb
+E:\DFTA coding\SimpleServings\SimpleServings_networkVersion_I_do\SimpleServing_Latest\NewSimple\SimpleServings\SimpleServings\bin\SimpleServings.Menu.xml
+E:\DFTA coding\SimpleServings\SimpleServings_networkVersion_I_do\SimpleServing_Latest\NewSimple\SimpleServings\SimpleServings\bin\SimpleServings.RecipeSupplement.pdb
+E:\DFTA coding\SimpleServings\SimpleServings_networkVersion_I_do\SimpleServing_Latest\NewSimple\SimpleServings\SimpleServings\bin\SimpleServings.Recipe.pdb
+E:\DFTA coding\SimpleServings\SimpleServings_networkVersion_I_do\SimpleServing_Latest\NewSimple\SimpleServings\SimpleServings\bin\SimpleServings.Resource.pdb
+E:\DFTA coding\SimpleServings\SimpleServings_networkVersion_I_do\SimpleServing_Latest\NewSimple\SimpleServings\SimpleServings\bin\SimpleServings.Shared.pdb
+E:\DFTA coding\SimpleServings\SimpleServings_networkVersion_I_do\SimpleServing_Latest\NewSimple\SimpleServings\SimpleServings\bin\SimpleServings.Shared.xml
+E:\DFTA coding\SimpleServings\SimpleServings_networkVersion_I_do\SimpleServing_Latest\NewSimple\SimpleServings\SimpleServings\bin\SimpleServings.SupplierRelationship.pdb
+E:\DFTA coding\SimpleServings\SimpleServings_networkVersion_I_do\SimpleServing_Latest\NewSimple\SimpleServings\SimpleServings\bin\log4net.xml
+E:\DFTA coding\SimpleServings\SimpleServings_networkVersion_I_do\SimpleServing_Latest\NewSimple\SimpleServings\SimpleServings\obj\Debug\SimpleServings.csprojAssemblyReference.cache
+E:\DFTA coding\SimpleServings\SimpleServings_networkVersion_I_do\SimpleServing_Latest\NewSimple\SimpleServings\SimpleServings\obj\Debug\SimpleServings.UI.Page.login.resources
+E:\DFTA coding\SimpleServings\SimpleServings_networkVersion_I_do\SimpleServing_Latest\NewSimple\SimpleServings\SimpleServings\obj\Debug\SimpleServings.UI.Page.MyZone.resources
+E:\DFTA coding\SimpleServings\SimpleServings_networkVersion_I_do\SimpleServing_Latest\NewSimple\SimpleServings\SimpleServings\obj\Debug\SimpleServings.UI.UDC.Navigation.header.resources
+E:\DFTA coding\SimpleServings\SimpleServings_networkVersion_I_do\SimpleServing_Latest\NewSimple\SimpleServings\SimpleServings\obj\Debug\SimpleServings.UI.UDC.Navigation.NavigationBar.resources
+E:\DFTA coding\SimpleServings\SimpleServings_networkVersion_I_do\SimpleServing_Latest\NewSimple\SimpleServings\SimpleServings\obj\Debug\SimpleServings.csproj.GenerateResource.cache
+E:\DFTA coding\SimpleServings\SimpleServings_networkVersion_I_do\SimpleServing_Latest\NewSimple\SimpleServings\SimpleServings\obj\Debug\SimpleServings.dll.licenses
+E:\DFTA coding\SimpleServings\SimpleServings_networkVersion_I_do\SimpleServing_Latest\NewSimple\SimpleServings\SimpleServings\obj\Debug\SimpleServings.csproj.CoreCompileInputs.cache
+E:\DFTA coding\SimpleServings\SimpleServings_networkVersion_I_do\SimpleServing_Latest\NewSimple\SimpleServings\SimpleServings\obj\Debug\SimpleServings.csproj.CopyComplete
+E:\DFTA coding\SimpleServings\SimpleServings_networkVersion_I_do\SimpleServing_Latest\NewSimple\SimpleServings\SimpleServings\obj\Debug\SimpleServings.dll
+E:\DFTA coding\SimpleServings\SimpleServings_networkVersion_I_do\SimpleServing_Latest\NewSimple\SimpleServings\SimpleServings\obj\Debug\SimpleServings.pdb
+F:\DFTA coding\SimpleServings\SimpleServings_networkVersion_I_do\SimpleServing_Latest\NewSimple\SimpleServings\SimpleServings\bin\SimpleServings.dll.config
+F:\DFTA coding\SimpleServings\SimpleServings_networkVersion_I_do\SimpleServing_Latest\NewSimple\SimpleServings\SimpleServings\bin\SimpleServings.dll
+F:\DFTA coding\SimpleServings\SimpleServings_networkVersion_I_do\SimpleServing_Latest\NewSimple\SimpleServings\SimpleServings\bin\SimpleServings.pdb
+F:\DFTA coding\SimpleServings\SimpleServings_networkVersion_I_do\SimpleServing_Latest\NewSimple\SimpleServings\SimpleServings\bin\ASPNetSpell.dll
+F:\DFTA coding\SimpleServings\SimpleServings_networkVersion_I_do\SimpleServing_Latest\NewSimple\SimpleServings\SimpleServings\bin\log4net.dll
+F:\DFTA coding\SimpleServings\SimpleServings_networkVersion_I_do\SimpleServing_Latest\NewSimple\SimpleServings\SimpleServings\bin\Microsoft.ReportViewer.Common.dll
+F:\DFTA coding\SimpleServings\SimpleServings_networkVersion_I_do\SimpleServing_Latest\NewSimple\SimpleServings\SimpleServings\bin\Microsoft.ReportViewer.ProcessingObjectModel.DLL
+F:\DFTA coding\SimpleServings\SimpleServings_networkVersion_I_do\SimpleServing_Latest\NewSimple\SimpleServings\SimpleServings\bin\SimpleServings.Menu.dll
+F:\DFTA coding\SimpleServings\SimpleServings_networkVersion_I_do\SimpleServing_Latest\NewSimple\SimpleServings\SimpleServings\bin\SimpleServings.MenuThreshold.dll
+F:\DFTA coding\SimpleServings\SimpleServings_networkVersion_I_do\SimpleServing_Latest\NewSimple\SimpleServings\SimpleServings\bin\SimpleServings.Recipe.dll
+F:\DFTA coding\SimpleServings\SimpleServings_networkVersion_I_do\SimpleServing_Latest\NewSimple\SimpleServings\SimpleServings\bin\SimpleServings.RecipeSupplement.dll
+F:\DFTA coding\SimpleServings\SimpleServings_networkVersion_I_do\SimpleServing_Latest\NewSimple\SimpleServings\SimpleServings\bin\SimpleServings.Resource.dll
+F:\DFTA coding\SimpleServings\SimpleServings_networkVersion_I_do\SimpleServing_Latest\NewSimple\SimpleServings\SimpleServings\bin\SimpleServings.Shared.dll
+F:\DFTA coding\SimpleServings\SimpleServings_networkVersion_I_do\SimpleServing_Latest\NewSimple\SimpleServings\SimpleServings\bin\SimpleServings.SupplierRelationship.dll
+F:\DFTA coding\SimpleServings\SimpleServings_networkVersion_I_do\SimpleServing_Latest\NewSimple\SimpleServings\SimpleServings\bin\SimpleServings.MenuThreshold.pdb
+F:\DFTA coding\SimpleServings\SimpleServings_networkVersion_I_do\SimpleServing_Latest\NewSimple\SimpleServings\SimpleServings\bin\SimpleServings.Menu.pdb
+F:\DFTA coding\SimpleServings\SimpleServings_networkVersion_I_do\SimpleServing_Latest\NewSimple\SimpleServings\SimpleServings\bin\SimpleServings.Menu.xml
+F:\DFTA coding\SimpleServings\SimpleServings_networkVersion_I_do\SimpleServing_Latest\NewSimple\SimpleServings\SimpleServings\bin\SimpleServings.RecipeSupplement.pdb
+F:\DFTA coding\SimpleServings\SimpleServings_networkVersion_I_do\SimpleServing_Latest\NewSimple\SimpleServings\SimpleServings\bin\SimpleServings.Recipe.pdb
+F:\DFTA coding\SimpleServings\SimpleServings_networkVersion_I_do\SimpleServing_Latest\NewSimple\SimpleServings\SimpleServings\bin\SimpleServings.Resource.pdb
+F:\DFTA coding\SimpleServings\SimpleServings_networkVersion_I_do\SimpleServing_Latest\NewSimple\SimpleServings\SimpleServings\bin\SimpleServings.Shared.pdb
+F:\DFTA coding\SimpleServings\SimpleServings_networkVersion_I_do\SimpleServing_Latest\NewSimple\SimpleServings\SimpleServings\bin\SimpleServings.Shared.xml
+F:\DFTA coding\SimpleServings\SimpleServings_networkVersion_I_do\SimpleServing_Latest\NewSimple\SimpleServings\SimpleServings\bin\SimpleServings.SupplierRelationship.pdb
+F:\DFTA coding\SimpleServings\SimpleServings_networkVersion_I_do\SimpleServing_Latest\NewSimple\SimpleServings\SimpleServings\bin\log4net.xml
+F:\DFTA coding\SimpleServings\SimpleServings_networkVersion_I_do\SimpleServing_Latest\NewSimple\SimpleServings\SimpleServings\obj\Debug\SimpleServings.csproj.AssemblyReference.cache
+F:\DFTA coding\SimpleServings\SimpleServings_networkVersion_I_do\SimpleServing_Latest\NewSimple\SimpleServings\SimpleServings\obj\Debug\SimpleServings.UI.Page.login.resources
+F:\DFTA coding\SimpleServings\SimpleServings_networkVersion_I_do\SimpleServing_Latest\NewSimple\SimpleServings\SimpleServings\obj\Debug\SimpleServings.UI.Page.MyZone.resources
+F:\DFTA coding\SimpleServings\SimpleServings_networkVersion_I_do\SimpleServing_Latest\NewSimple\SimpleServings\SimpleServings\obj\Debug\SimpleServings.UI.UDC.Navigation.header.resources
+F:\DFTA coding\SimpleServings\SimpleServings_networkVersion_I_do\SimpleServing_Latest\NewSimple\SimpleServings\SimpleServings\obj\Debug\SimpleServings.UI.UDC.Navigation.NavigationBar.resources
+F:\DFTA coding\SimpleServings\SimpleServings_networkVersion_I_do\SimpleServing_Latest\NewSimple\SimpleServings\SimpleServings\obj\Debug\SimpleServings.csproj.GenerateResource.cache
+F:\DFTA coding\SimpleServings\SimpleServings_networkVersion_I_do\SimpleServing_Latest\NewSimple\SimpleServings\SimpleServings\obj\Debug\SimpleServings.dll.licenses
+F:\DFTA coding\SimpleServings\SimpleServings_networkVersion_I_do\SimpleServing_Latest\NewSimple\SimpleServings\SimpleServings\obj\Debug\SimpleServings.csproj.CoreCompileInputs.cache
+F:\DFTA coding\SimpleServings\SimpleServings_networkVersion_I_do\SimpleServing_Latest\NewSimple\SimpleServings\SimpleServings\obj\Debug\SimpleServings.csproj.CopyComplete
+F:\DFTA coding\SimpleServings\SimpleServings_networkVersion_I_do\SimpleServing_Latest\NewSimple\SimpleServings\SimpleServings\obj\Debug\SimpleServings.dll
+F:\DFTA coding\SimpleServings\SimpleServings_networkVersion_I_do\SimpleServing_Latest\NewSimple\SimpleServings\SimpleServings\obj\Debug\SimpleServings.pdb
+F:\DFTA coding\SimpleServings\SimpleServings_networkVersion_I_do\SimpleServing_Latest\NewSimple\SimpleServings\SimpleServings\bin\Microsoft.Practices.EnterpriseLibrary.Data.dll

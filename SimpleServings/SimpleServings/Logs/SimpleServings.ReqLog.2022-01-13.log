@@ -1,0 +1,11 @@
+2022-01-13 15:53:22,370 [  1] INFO  AppManager [(null)] SimpleServings started.
+2022-01-13 15:54:15,655 [ 18] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: my1yaurpvyjbfasbpxom5wbh
+2022-01-13 16:01:06,296 [ 29] INFO  AppManager [(null)] (landingPage.aspx) - Request from http://localhost:1945/SimpleServings/UI/Page/SimpleServings/Recipe/ViewRecipe.aspx?RecipeID=852 
+Request Type: LogInOut 
+SessionId: jquvbwsrmdje2cjmqijdgktk
+2022-01-13 16:01:06,298 [ 29] INFO  AppManager [(null)] (landingPage.aspx) - Redirecting to Login.aspx 
+Request Type: LogInOut 
+SessionId: jquvbwsrmdje2cjmqijdgktk
+2022-01-13 16:01:06,308 [ 17] INFO  AppManager [(null)] (login.aspx) - Request from http://localhost:1945/SimpleServings/UI/Page/SimpleServings/Recipe/ViewRecipe.aspx?RecipeID=852 
+SessionId: 5wkgvqz5cj31vs3wpy01g1b2

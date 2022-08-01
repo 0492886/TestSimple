@@ -1,0 +1,19 @@
+2021-03-09 15:53:18,915 [  1] INFO  AppManager [(null)] SimpleServings started.
+2021-03-09 15:55:28,723 [ 12] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: n0w2hrdzeafajw5zvmqztqs5
+2021-03-09 15:58:22,994 [ 16] INFO  AppManager [(null)] SimpleServings started.
+2021-03-09 15:58:46,075 [ 15] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: pqhhwcrscxjuaalxl3t0h35j
+2021-03-09 16:04:30,254 [ 72] INFO  AppManager [(null)] SimpleServings started.
+2021-03-09 16:04:56,840 [ 71] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: dd314vvgywms2omsu4biydm4
+2021-03-09 16:06:11,006 [ 70] INFO  AppManager [(null)] (landingPage.aspx) - Clearing Session 
+Request Type:  
+SessionId: txxerofo52h1ep2p1gn10pqg
+2021-03-09 16:06:11,013 [ 66] INFO  AppManager [(null)] (landingPage.aspx) - New Session 
+Request Type:  
+SessionId: zz4tqiwsefjwifyaa2dr5ddk
+2021-03-09 16:06:11,202 [ 62] INFO  AppManager [(null)] (login.aspx) - (Mli) - Login successful 
+SessionId: gjsf0lw2rod5l2mhd3zj35k4
+2021-03-09 16:06:11,406 [ 71] INFO  AppManager [(null)] (Home.aspx) - Page Load 
+SessionId: zz4tqiwsefjwifyaa2dr5ddk
